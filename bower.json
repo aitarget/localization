@@ -9,6 +9,13 @@
     "en.po",
     "ru.po"
   ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "license": "MIT",
   "private": true
 }
