@@ -19,16 +19,19 @@ msgid "[[({true: \"Hide\", false: \"Add\", undefined: \"Add\"}[MainObj.showDescr
 msgstr "[[({Верно: \"Скрыть\", ложь: \"Добавить\", не определено: \"Добавить\"} [MainObj.showDescription])]] Описание"
 
 #: index.html:3654
+#, fuzzy
 msgctxt "Custom Audiences"
 msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
 msgstr "[[MainObj.source_file [0] .name || 'Файл падения Здесь или \"]] & NBSP;"
 
 #: index.html:138
+#, fuzzy
 msgid "+ Create Audience<span class=\"caret\"></span>"
 msgstr "+ Создать аудиторию <SPAN класс = \"каретка\"> </ SPAN>"
 
 #: scripts.components.js:4764
 #: scripts.js:13012
+#, fuzzy
 msgid "<p class=\"\">Add headlines that grabs people's attention and tells them what your ad(s) is about.</p>\n"
 "<p class=\"no-margin\">Maximum length is 40 characters. Will be automatically cut.</p>"
 msgstr "<Р класс = \"\"> Добавьте заголовки, которые привлекает внимание людей и говорит им, что ваше объявление (ы) о. </ P>\n"
@@ -36,6 +39,7 @@ msgstr "<Р класс = \"\"> Добавьте заголовки, которы
 
 #: scripts.components.js:4750
 #: scripts.js:12998
+#, fuzzy
 msgid "<p class=\"\">Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file.</p>\n"
 "<p class=\"no-margin\">You can copy columns from a spreadsheet with one record per row or a list of records separated by commas.</p>"
 msgstr "<Р класс = \"\"> Скопируйте и вставьте список сообщений электронной почты, номера телефонов, идентификаторы пользователей Facebook или идентификаторов мобильных рекламодателей из таблицы или текстового файла. </ P>\n"
@@ -43,6 +47,7 @@ msgstr "<Р класс = \"\"> Скопируйте и вставьте спис
 
 #: scripts.components.js:4828
 #: scripts.js:13076
+#, fuzzy
 msgid "<p class=\"\">If you choose a <b>daily budget</b>, the amount you enter is the maximum you'll spend each day.</p>\n"
 "<p class=\"no-margin\">If you choose a <b>lifetime budget</b>, the amount you enter is the maximum you'll spend during the lifetime of your adset.</p>"
 msgstr "<Р класс = \"\"> Если вы выбираете <B> ежедневный бюджет </ b>, сумма, которую вы ввести это максимум, который вы будете тратить каждый день. </ P>\n"
@@ -50,6 +55,7 @@ msgstr "<Р класс = \"\"> Если вы выбираете <B> ежедне
 
 #: scripts.components.js:4765
 #: scripts.js:13013
+#, fuzzy
 msgid "<p class=\"\">Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting.</p>\n"
 "<p class=\"no-margin\">Maximum length is 300 characters. Will be automatically cut.</p>"
 msgstr "<Р класс = \"\"> Скажите людям немного больше о вашем объявлении (ы). Убедитесь в том, чтобы четко объяснить, что вы рекламируете. </ P>\n"
@@ -57,6 +63,7 @@ msgstr "<Р класс = \"\"> Скажите людям немного боль
 
 #: scripts.components.js:4751
 #: scripts.js:12999
+#, fuzzy
 msgid "<p class=\"\">The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again.</p>\n"
 "<p class=\"no-margin\">Maximum time: 180 days</p>"
 msgstr "<Р класс = \"\"> Число дней люди останутся в вашей аудитории после того, как они посещают ваш сайт. Люди будут удалены из вашей аудитории по истечении заданного периода времени, если они снова не посещают ваш сайт. </ P>\n"
@@ -64,6 +71,7 @@ msgstr "<Р класс = \"\"> Число дней люди останутся �
 
 #: scripts.components.js:4749
 #: scripts.js:12997
+#, fuzzy
 msgid "<p class=\"\">You can upload files in .csv or .txt format.</p>\n"
 "<p class=\"no-margin\">Text files (.txt and .csv) can include records on separate lines or in a list separated by commas.</p>"
 msgstr "<Р класс = \"\"> Вы можете загружать файлы в формате CSV или .txt формате. </ P>\n"
@@ -71,84 +79,86 @@ msgstr "<Р класс = \"\"> Вы можете загружать файлы �
 
 #: scripts.components.js:4826
 #: scripts.js:13074
+#, fuzzy
 msgid "<p class=\"no-margin\">A conversion pixel is a small piece of code that lets you keep track of conversions, such as purchases and sign-ups, on your website.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Пиксель преобразование не является небольшой фрагмент кода, который позволяет отслеживать конверсий, таких как покупки и подписок, на своем сайте. </ P>"
 
 #: scripts.components.js:4822
 #: scripts.js:13070
+#, fuzzy
 msgid "<p class=\"no-margin\">Add a headline that grabs people's attention and tells them what your ad is about.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Добавить заголовок, который захватывает внимание людей и говорит им, что ваше объявление о. </ p>"
 
 #: scripts.components.js:4845
 #: scripts.js:13094
+#, fuzzy
 msgid "<p class=\"no-margin\">Check it if you want your ad bid to be optimized depending on your ad performance.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Проверьте, если вы хотите, чтобы ваше объявление ставка должна быть оптимизирована в зависимости от эффективности рекламы. </ p>"
 
 #: scripts.components.js:4790
 #: scripts.js:13038
+#, fuzzy
 msgid "<p class=\"no-margin\">Choose \"All\" unless you only want your ads to be shown to either men or women.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите \"Все\", если вы не хотите, только ваши объявления будут показаны на мужчин или женщин. </ p>"
 
 #: scripts.components.js:4809
 #: scripts.js:13057
+#, fuzzy
 msgid "<p class=\"no-margin\">Choose \"All\" unless you want your ad to be shown to people who are parents. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All\".</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите \"Все\", если вы не хотите, чтобы ваше объявление было показано, что люди, которые родители. Некоторые люди не уточняют эту информацию на Facebook, так что вы можете достичь только всех, выбрав \"Все\". </ P>"
 
 #: scripts.components.js:4810
 #: scripts.js:13058
+#, fuzzy
 msgid "<p class=\"no-margin\">Choose \"All\" unless you want your ad to be shown to people who have certain political affiliations. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All\".</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите \"Все\", если вы не хотите, чтобы ваше объявление было показано, что люди, которые имеют определенные политические принадлежности. Некоторые люди не уточняют эту информацию на Facebook, так что вы можете достичь только всех, выбрав \"Все\". </ P>"
 
 #: scripts.components.js:4819
 #: scripts.js:13067
+#, fuzzy
 msgid "<p class=\"no-margin\">Choose \"Wi-Fi only\" to show your ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите \"Wi-Fi только\", чтобы показать рекламу пользователям, когда они используют беспроводное подключение к Интернету для просмотра Facebook. Это может быть важно, если ваше приложение является слишком большим, чтобы загрузить с помощью сотовой связи. </ P>"
 
 #: scripts.js:12990
+#, fuzzy
 msgid "<p class=\"no-margin\">Choose a Facebook Page containing promoted post.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите страницу Facebook, не содержащий способствовало пост. </ P>"
 
 #: scripts.js:12991
+#, fuzzy
 msgid "<p class=\"no-margin\">Choose a Facebook Page so you can run ads on Facebook.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не Выберите страницу Facebook, так что вы можете запустить рекламу на Facebook. </ P>"
 
 #: scripts.js:12989
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose a Facebook Page that you want to be promoted.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не Выберите Facebook страницу, которую вы хотите продвигать. </ P>"
 
 #: scripts.js:12988
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose a Facebook Page to represent your business in News Feed. Your ad will link to your site, but it will show as coming from your Facebook Page.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите страницу Facebook, чтобы представить свой бизнес в ленте новостей. Ваше объявление будет ссылка на ваш сайт, но он будет показывать, как исходящее от Facebook страницу. </ P>"
 
 #: scripts.components.js:4821
 #: scripts.js:13069
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose a name of your ad.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите название вашего объявления. </ P>"
 
 #: scripts.components.js:4786
 #: scripts.js:13034
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите конкретный вид или приложение на странице, где люди будут землю, когда они нажимают на ваше объявление. Этот параметр применяется только для настольных размещений. </ P>"
 
 #: scripts.components.js:4755
 #: scripts.js:13003
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose a post that you want to promote.</p>"
 msgstr "<p класс = \"нет рентабельностью\"> Выбирать пост, который вы хотите продвигать. </ p>"
 
 #: scripts.components.js:4820
 #: scripts.js:13068
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose available account or campaign that will contain currently created or edited objects.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите доступную учетную запись или кампанию, которая будет содержать в настоящее время созданные или отредактированные объекты. </ P>"
 
 #: scripts.components.js:4818
 #: scripts.js:13066
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose device models you would like to target these ads to.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите модели устройств вы хотели бы настроить таргетинг объявлений на эти. </ P>"
 
@@ -156,43 +166,36 @@ msgstr "<Р класс = \"нет рентабельностью\"> Выбери
 #: scripts.components.js:4814
 #: scripts.js:12995
 #: scripts.js:13062
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website.</p>"
 msgstr "<Р не класс = \"нет рентабельностью\"> Выберите, как вы хотите, чтобы добавить людей к вашей аудитории. Включите все посетители вашего сайта, или создавать правила, которые только добавить людей, которые посещают определенные части вашего сайта. </ P>"
 
 #: scripts.components.js:4817
 #: scripts.js:13065
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose minimum selected operating system version you want to target your ads to.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите минимальную выбранную версию операционной системы, которую вы хотите настроить таргетинг объявлений на. </ P>"
 
 #: scripts.components.js:4782
 #: scripts.js:13030
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose mixing mode if you want to combine every image, headline and message altogether.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выбирать режим смешивания, если вы хотите, чтобы объединить каждое изображение, заголовок и сообщение в целом. </ P>"
 
 #: scripts.components.js:4783
 #: scripts.js:13031
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose optimizing mode if you want automatically select and order images and links.</p>"
 msgstr "<p класс = \"нет рентабельностью\"> Выбирать режим оптимизации, если вы хотите автоматически выбрать и заказ изображений и ссылок. </ p>"
 
 #: scripts.components.js:4785
 #: scripts.js:13033
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose split by reach if you want to split budget according to audience reach.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите расщепляется досягаемости, если вы хотите разделить бюджет в соответствии с охват аудитории. </ p>"
 
 #: scripts.components.js:4784
 #: scripts.js:13032
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите режим разделения, если вы хотите, чтобы автоматически разделит таргетинг аудитории по возрасту, полу, стране или устройства. </ p>"
 
 #: scripts.components.js:4781
 #: scripts.js:13029
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose the action you want people to take when they see your ad.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите действие, которое вы хотите, чтобы люди принимают, когда они видят ваше объявление. </ P>"
 
@@ -200,25 +203,21 @@ msgstr "<Р класс = \"нет рентабельностью\"> Выбери
 #: scripts.components.js:4754
 #: scripts.js:13001
 #: scripts.js:13002
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store или Play URL магазина. Вы можете рекламировать любое приложение, которое вы зарегистрировались на сайте разработчика Facebook. </ P>"
 
 #: scripts.components.js:4773
 #: scripts.js:13021
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите окно атрибуции наиболее важным для автоматизации. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции использовать поля с пользовательским таймфрейма. </ P>"
 
 #: scripts.components.js:4772
 #: scripts.js:13020
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите окно атрибуции наиболее важным для вашей отчетности. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настраиваемым сроки. </ P>"
 
 #: scripts.components.js:4774
 #: scripts.js:13022
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите окно атрибуции, что является наиболее важным для вашей отчетности. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашей рекламы в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настраиваемым сроки. </ P>"
 
@@ -226,169 +225,141 @@ msgstr "<Р класс = \"нет рентабельностью\"> Выбери
 #: scripts.components.js:4824
 #: scripts.js:13064
 #: scripts.js:13072
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите тип мобильного устройства вы хотите настроить таргетинг объявлений на эти. Вы можете настроить таргетинг на мобильной операционной системы и модели устройства. </ P>"
 
 #: scripts.components.js:4823
 #: scripts.js:13071
-#, fuzzy
 msgid "<p class=\"no-margin\">Choose where you want your ads to show on Facebook and the placements that are most important to you.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите, где вы хотите, чтобы ваши объявления, чтобы показать на Facebook и мест размещения, которые наиболее важны для вас. </ p>"
 
 #: scripts.components.js:4779
 #: scripts.js:13027
-#, fuzzy
 msgid "<p class=\"no-margin\">Describe why people should visit your website.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Опишите, почему люди должны посетить ваш сайт. </ P>"
 
 #: scripts.components.js:4775
 #: scripts.js:13023
-#, fuzzy
 msgid "<p class=\"no-margin\">Editing and creating is only available for user's presets. For shared presets you can only create a new one.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Создание и редактирование доступно только для предварительных настроек пользователя. Для общих предварительных настроек вы можете только создать новый. </ P>"
 
 #: scripts.components.js:4853
 #: scripts.js:13102
-#, fuzzy
 msgid "<p class=\"no-margin\">Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Введите, как часто мы должны обновлять свои объявления, используя данные из предоставленных продуктов кормить файл XML. Значение должно быть введено в течение нескольких минут. </ P>"
 
 #: scripts.components.js:4788
 #: scripts.js:13036
-#, fuzzy
 msgid "<p class=\"no-margin\">Enter locations you want to exclude.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Введите местоположения вы хотите исключить. </ P>"
 
 #: scripts.components.js:4813
 #: scripts.js:13061
-#, fuzzy
 msgid "<p class=\"no-margin\">Exclude your ads from targeting to people from some custom audience.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не Исключить объявления от ориентации на людей с некоторой пользовательской аудитории. </ P>"
 
 #: scripts.components.js:4761
 #: scripts.js:13009
-#, fuzzy
 msgid "<p class=\"no-margin\">Give your adset a name that describes the audience, scheduling or ads inside it.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Дайте adset имя, которое описывает аудитории, планирование или объявления внутри него. </ P>"
 
 #: scripts.components.js:4760
 #: scripts.js:13008
-#, fuzzy
 msgid "<p class=\"no-margin\">Give your campaign a name that describes the audience, scheduling or adsets inside it.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Дайте название кампании, которая описывает аудитории, планирование или adsets внутри него. </ P>"
 
 #: scripts.components.js:4843
 #: scripts.js:13092
-#, fuzzy
 msgid "<p class=\"no-margin\">Here you can see a status of creating new reach and frequency object that will be used for your ads.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Здесь вы можете увидеть статус создания нового объекта охвата и частоты, которые будут использоваться для объявлений. </ P>"
 
 #: scripts.components.js:4827
 #: scripts.js:13075
-#, fuzzy
 msgid "<p class=\"no-margin\">If you want to optimize your ad for mobile app installs, please choose facebook app associated with your app.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Если вы хотите оптимизировать ваше объявление для мобильного приложения, пожалуйста, выберите facebook приложение, связанные с вашим приложением. </ p>"
 
 #: scripts.components.js:4791
 #: scripts.js:13039
-#, fuzzy
 msgid "<p class=\"no-margin\">Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Оставьте это поле пустым, если аудитория вы ориентируетесь использует язык, который не является общим для расположения выбранного вами выше. </ P>"
 
 #: scripts.components.js:4799
 #: scripts.js:13047
-#, fuzzy
 msgid "<p class=\"no-margin\">Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\"</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Оставьте это поле пустым, если только вы не хотите, чтобы ваше объявление было показано, что люди, которые заинтересованы в определенного пола для дружбы, знакомства, отношения или сетей. Некоторые люди не уточняют эту информацию на Facebook, так что вы можете достичь только всех, выбрав \"Все\". </ P>"
 
 #: scripts.components.js:4811
 #: scripts.js:13059
-#, fuzzy
 msgid "<p class=\"no-margin\">Leave this blank unless you want your ad to be shown to people who had certain life events.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Оставьте это поле пустым, если вы не хотите, чтобы ваше объявление было показано, что люди, которые имели определенные жизненные события. </ P>"
 
 #: scripts.components.js:4795
 #: scripts.js:13043
-#, fuzzy
 msgid "<p class=\"no-margin\">Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Оставьте это поле пустым, если вы не хотите, чтобы сузить свою аудиторию только людей, связанных с вашей страницы, приложения или события. </ P>"
 
 #: scripts.components.js:4797
 #: scripts.js:13045
-#, fuzzy
 msgid "<p class=\"no-margin\">Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Оставьте это поле пустым, если вы не хотите, чтобы сузить свою аудиторию только людей, чьи друзья связаны с вашей страницы, приложения или события. </ P>"
 
 #: scripts.components.js:4796
 #: scripts.js:13044
-#, fuzzy
 msgid "<p class=\"no-margin\">Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Оставьте это поле пустым, если вы не хотите, чтобы сузить аудиторию вниз только людей, не подключенных к вашей странице, приложение или событие. </ P>"
 
 #: scripts.components.js:4842
 #: scripts.js:13091
-#, fuzzy
 msgid "<p class=\"no-margin\">Maximum number of times your ad will be shown to tha same user.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Максимальное количество раз ваше объявление не будет показываться тха же пользователя. </ P>"
 
 #: scripts.components.js:4770
 #: scripts.js:13018
-#, fuzzy
 msgid "<p class=\"no-margin\">Please, select images that you want to use in your new ads.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Пожалуйста, выберите изображения, которые вы хотите использовать в новых объявлениях. </ P>"
 
 #: scripts.components.js:4793
 #: scripts.js:13041
-#, fuzzy
 msgid "<p class=\"no-margin\">Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Привлечение пользователей на основании поведения или покупку, фактически использование устройства и многое другое. Некоторые данные о поведении доступна только для аудитории США. </ P>"
 
 #: scripts.components.js:4794
 #: scripts.js:13042
-#, fuzzy
 msgid "<p class=\"no-margin\">Reach people who have a specific kind of connection to your Page, app or event. This will narrow your audience to include only people with that specific connection who also meet the other targeting categories you've selected.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Reach людей, которые имеют определенный вид подключения к вашей страницы, приложения или события. Это позволит сузить свою аудиторию, чтобы включать только людей с этой конкретной связи, которые также отвечают другие категории таргетинга, которые вы выбрали. </ P>"
 
 #: scripts.components.js:4758
 #: scripts.js:13006
-#, fuzzy
 msgid "<p class=\"no-margin\">Select 'No' if you want to copy Adset without Ad Groups.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите 'Нет', если вы хотите скопировать Adset без групп объявлений. </ p>"
 
 #: scripts.components.js:4847
 #: scripts.js:13096
-#, fuzzy
 msgid "<p class=\"no-margin\">Select a campaign where you want to copy your adgroups.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите кампанию, в которую хотите скопировать группы объявлений. </ P>"
 
 #: scripts.components.js:4846
 #: scripts.js:13095
-#, fuzzy
 msgid "<p class=\"no-margin\">Select a campaign where you want to copy your adsets.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите кампанию, в которой вы хотите скопировать ваши adsets. </ P>"
 
 #: scripts.components.js:4777
 #: scripts.js:13025
-#, fuzzy
 msgid "<p class=\"no-margin\">Select actions that you want to apply to selected adsets when all rules match.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите действия, которые необходимо применить к выбранным adsets, когда все правила матча. </ P>"
 
 #: scripts.components.js:4776
 #: scripts.js:13024
-#, fuzzy
 msgid "<p class=\"no-margin\">Select adsets that you want to use automation for.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите adsets, которые вы хотите использовать для автоматизации. </ p>"
 
 #: scripts.components.js:4848
 #: scripts.js:13097
-#, fuzzy
 msgid "<p class=\"no-margin\">Select an adset where you want to copy your adgroups.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите adset, где вы хотите скопировать группы объявлений. </ P>"
 
 #: scripts.components.js:4854
 #: scripts.js:13103
-#, fuzzy
 msgid "<p class=\"no-margin\">Select how your ads should be created and updated.</p>\n"
 "<p class=\"no-margin\">Auto mode – ads will be created automatically using data from provided products feed xml file. Also, they will be automatically updated with selected period of time.</p>\n"
 "<p class=\"no-margin\">Manual mode – you can edit ads constructed with data from your products feed xml file or/and add more custom ads. No later updates are supported.</p>"
@@ -398,217 +369,181 @@ msgstr "<Р класс = \"нет рентабельностью\"> Выбери
 
 #: scripts.components.js:4763
 #: scripts.js:13011
-#, fuzzy
 msgid "<p class=\"no-margin\">Select the images.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Выберите изображения. </ p>"
 
 #: scripts.components.js:4789
 #: scripts.js:13037
-#, fuzzy
 msgid "<p class=\"no-margin\">Select the minimum and maximum age of the people who will find your ad relevant.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите минимальный и максимальный возраст людей, которые найдут ваше объявление актуально. </ P>"
 
 #: scripts.components.js:4757
 #: scripts.js:13005
-#, fuzzy
 msgid "<p class=\"no-margin\">Select to create new adset or use an existing adset.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите, чтобы создать новую adset или использовать существующий adset. </ P>"
 
 #: scripts.components.js:4756
 #: scripts.js:13004
-#, fuzzy
 msgid "<p class=\"no-margin\">Select to create new campaign or use an existing campaign.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Выберите, чтобы создать новую кампанию или использовать существующую кампанию. </ P>"
 
 #: scripts.components.js:4841
 #: scripts.js:13090
-#, fuzzy
 msgid "<p class=\"no-margin\">Set activity status for your campaign.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Установить статус активности для вашей кампании. </ P>"
 
 #: scripts.components.js:4746
 #: scripts.js:12994
-#, fuzzy
 msgid "<p class=\"no-margin\">Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Установить общий лимит расходов для вашей рекламной кампании. Это означает, что ваши наборы объявлений в кампании остановится, как только вы достигли своего предела расходов. </ P>"
 
 #: scripts.components.js:4825
 #: scripts.js:13073
-#, fuzzy
 msgid "<p class=\"no-margin\">Short caption of the url that people will reach after clicking on your ad.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Короткий заголовок из URL, что люди будут достигать после нажатия на объявление. </ p>"
 
 #: scripts.components.js:4850
 #: scripts.js:13099
-#, fuzzy
 msgid "<p class=\"no-margin\">Site name, that will be seen in creative.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> имя сайта, который будет замечен в творческой. </ p>"
 
 #: scripts.components.js:4800
 #: scripts.js:13048
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on the highest education level they reached.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не таргетинг объявлений на людей, основанных на самом высоком уровне образования, когда они достигли. </ P>"
 
 #: scripts.components.js:4806
 #: scripts.js:13054
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on the industry they likely work in. Leave this field blank unless you want your ad to be shown only to people who work in specific industries.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не таргетинг объявлений на людей на основе промышленности они, вероятно, работают в. Оставьте это поле пустым, если вы не хотите, чтобы ваше объявление будет показываться только тем людям, которые работают в конкретных отраслях. </ P>"
 
 #: scripts.components.js:4805
 #: scripts.js:13053
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on the job title listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific title or titles.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> таргетинг объявлений на людей на основе название работы, перечисленные в их профиле Facebook. Оставьте это поле пустым, если вы не хотите, чтобы ваше объявление будет показываться только тем людям, которые имеют конкретное название или названия. </ P>"
 
 #: scripts.components.js:4798
 #: scripts.js:13046
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> таргетинг объявлений на людей на основе статуса отношений, перечисленных в своем профиле Facebook. Оставьте это поле пустым, если вы не хотите, чтобы ваше объявление будет показываться только тем людям, которые имеют особый статус отношений. </ P>"
 
 #: scripts.components.js:4802
 #: scripts.js:13050
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on the schools listed in their Facebook profiles.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не таргетинг объявлений на людей, основанных на школах, перечисленных в их профиле Facebook. </ P>"
 
 #: scripts.components.js:4803
 #: scripts.js:13051
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on the year they graduated from college.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не таргетинг объявлений на людей на основе года они закончила колледж. </ P>"
 
 #: scripts.components.js:4801
 #: scripts.js:13049
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on their major or field of study.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не таргетинг объявлений на людей в зависимости от их основного или области исследования. </ P>"
 
 #: scripts.components.js:4804
 #: scripts.js:13052
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people based on where they work. Leave this field blank unless you only want your ad to be shown to people who work for a specific employer or employers.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> таргетинг объявлений на людей, основанных на том, где они работают. Оставьте это поле пустым, если только вы не хотите, чтобы ваше объявление было показано, что люди, которые работают на конкретного работодателя или работодателей. </ P>"
 
 #: scripts.components.js:4812
 #: scripts.js:13060
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people from your custom audience.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> не таргетинг объявлений на людей из вашей пользовательской аудитории. </ P>"
 
 #: scripts.components.js:4807
 #: scripts.js:13055
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people who are likely to have an affinity or interest in a specific ethnicity. Leave this blank unless you only want your ad to be shown to people in those specific categories.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Таргетинг для людей, которые, вероятно, имеют сродство или интерес к определенной этнической принадлежности. Оставьте это поле пустым, если только вы не хотите, чтобы ваше объявление будет показываться пользователям в этих конкретных категорий. </ P>"
 
 #: scripts.components.js:4808
 #: scripts.js:13056
-#, fuzzy
 msgid "<p class=\"no-margin\">Target your ads to people who are likely to identify with a specific generation. Leave this blank unless you only want your ad to be shown to people in those specific categories.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Таргетинг для людей, которые могут идентифицировать себя с конкретной генерации. Оставьте это поле пустым, если только вы не хотите, чтобы ваше объявление будет показываться пользователям в этих конкретных категорий. </ P>"
 
 #: scripts.components.js:4766
 #: scripts.js:13014
-#, fuzzy
 msgid "<p class=\"no-margin\">Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Скажите людям немного больше о вашем объявлении (ы). Убедитесь в том, чтобы четко объяснить, что вы рекламируете. </ P>"
 
 #: scripts.components.js:4852
 #: scripts.js:13101
-#, fuzzy
 msgid "<p class=\"no-margin\">Text of advertising, that will be seen in creative.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Текст рекламы, которая будет рассматриваться в творческой. </ p>"
 
 #: scripts.components.js:4778
 #: scripts.js:13026
-#, fuzzy
 msgid "<p class=\"no-margin\">The caption of a link in the post (appears beneath the name).</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Надпись звена в посте (не появится под именем). </ P>"
 
 #: scripts.components.js:4745
 #: scripts.js:12993
-#, fuzzy
 msgid "<p class=\"no-margin\">The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Максимальное количество раз вы хотите, чтобы ваше объявление, чтобы показать людям. Мы предлагаем ограничение частоты 2 на основе вашей продолжительности и размещения кампании. </ P>"
 
 #: scripts.components.js:4771
 #: scripts.js:13019
-#, fuzzy
 msgid "<p class=\"no-margin\">The name of the link.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Название ссылки. </ p>"
 
 #: scripts.components.js:4744
 #: scripts.js:12992
-#, fuzzy
 msgid "<p class=\"no-margin\">Url of a website that you want to promote.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> URL веб-сайта, который вы хотите рекламировать. </ P>"
 
 #: scripts.components.js:4851
 #: scripts.js:13100
-#, fuzzy
 msgid "<p class=\"no-margin\">URL to main page or products category on the website.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> URL на главную страницу или продукции категории на сайте. </ p>"
 
 #: scripts.components.js:4849
 #: scripts.js:13098
-#, fuzzy
 msgid "<p class=\"no-margin\">URL to products xml feed in Google Merchant or YML (Yandex Market Language) formats.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> URL для продуктов XML корма в Google Merchant или YML форматах (Яндекс Market Language). </ P>"
 
 #: scripts.components.js:4767
 #: scripts.js:13015
-#, fuzzy
 msgid "<p class=\"no-margin\">You can choose different ad formats and see how your ads looks like.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Вы можете выбрать разные форматы объявлений и посмотреть, как ваши объявления выглядит следующим образом. </ p>"
 
 #: scripts.components.js:4769
 #: scripts.js:13017
-#, fuzzy
 msgid "<p class=\"no-margin\">You can choose different ad formats and see how your ads will like after creation.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Вы можете выбрать разные форматы объявлений и посмотреть, как ваши объявления понравятся после создания. </ p>"
 
 #: scripts.components.js:4838
 #: scripts.js:13087
-#, fuzzy
 msgid "<p class=\"no-margin\">You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Вы можете предложить цену для вашей цели, кликов или конверсий (требуют выбранный пиксель) в зависимости от типа вашего объявления. Ваш выбор определяет то, как вы платите, и кто ваше объявление служил. </ P>"
 
 #: scripts.components.js:4837
 #: scripts.js:13086
-#, fuzzy
 msgid "<p class=\"no-margin\">You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Вы можете выбрать то, что вы хотите оптимизировать. Ваш выбор определяет то, как вы платите, и кто ваше объявление служил. </ P>"
 
 #: scripts.components.js:4768
 #: scripts.js:13016
-#, fuzzy
 msgid "<p class=\"no-margin\">You can delete comments to your ad.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Вы не можете удалять комментарии к вашему объявлению. </ P>"
 
 #: scripts.components.js:4748
 #: scripts.js:12996
-#, fuzzy
 msgid "<p class=\"no-margin\">You can only upload IDs for people that download or use your Facebook app.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Вы можете загрузить только идентификаторы для людей, которые скачать или использовать приложение Facebook. </ P>"
 
 #: scripts.components.js:4840
 #: scripts.js:13089
-#, fuzzy
 msgid "<p class=\"no-margin\">Your ads will have status that you choose.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Ваша реклама будет иметь статус, который вы выбираете. </ P>"
 
 #: scripts.components.js:4839
 #: scripts.js:13088
-#, fuzzy
 msgid "<p class=\"no-margin\">Your adset will either run continuously starting today or within a date range you select.</p>"
 msgstr "нет <р класс = \"нет рентабельностью\"> Ваш adset будет либо работать непрерывно начиная с сегодняшнего дня или в пределах диапазона дат вы выбираете. </ p>"
 
 #: scripts.components.js:4836
 #: scripts.js:13085
-#, fuzzy
 msgid "<p class=\"no-margin\">Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads.</p>\n"
 "<p class=\"no-margin\">This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads.</p>"
 msgstr "<Р класс = \"нет рентабельностью\"> Ваша ставка максимальная сумма, вы указали, что вы готовы платить за клик (если ставка на основе цены за клик) или тысячу показов (если ставка на основе CPM) на ваш Facebook объявления. </ p>\n"
@@ -634,7 +569,6 @@ msgstr "<p><b>Выберите кампанию</b></p>\n"
 
 #: scripts.components.js:4780
 #: scripts.js:13028
-#, fuzzy
 msgid "<p><b>Using a Deep Link</b></p>\n"
 "<p>When launching an app with a deep link Facebook will be able to open your app in a specific state.</p>\n"
 "<p>A deep link is a URL that points to a specific place in your app, like a product page.</p>\n"
@@ -646,7 +580,6 @@ msgstr "<P> <B> Использование Deep Link </ b> </ p>\n"
 
 #: scripts.components.js:4844
 #: scripts.js:13093
-#, fuzzy
 msgid "<p>Enabling this option will set your bid so that it's optimized to help you reach your objective.</p>\n"
 "<p class=\"no-margin\">Get the most conversions at the best price - You'll be charged for impressions.</p>"
 msgstr "<Р> Включение этой опции будет установить ставку так, что она оптимизирована, чтобы помочь вам достичь вашей цели. </ P>\n"
@@ -654,7 +587,6 @@ msgstr "<Р> Включение этой опции будет установи�
 
 #: scripts.components.js:4787
 #: scripts.js:13035
-#, fuzzy
 msgid "<p>Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations.</p>\n"
 "<p>Targeting your ad by city isn't available in all countries.</p>\n"
 "<p class=\"no-margin\">Targeting your ad by ZIP code is only available in the United States.</p>"
@@ -664,7 +596,6 @@ msgstr "<Р> Введите одну или несколько стран, шт�
 
 #: scripts.components.js:4792
 #: scripts.js:13040
-#, fuzzy
 msgid "<p>Facebook can help you reach specific audiences by looking at their interests, activities, the Pages they have liked and closely related topics.</p>\n"
 "<p class=\"no-margin\">Combine interests to expand your ad's reach.</p>"
 msgstr "<Р> Facebook может помочь вам достичь определенной аудитории, глядя на их интересы, деятельность, страницы они любили и тесно связаны темы. </ P>\n"
@@ -672,43 +603,36 @@ msgstr "<Р> Facebook может помочь вам достичь опреде
 
 #: scripts.components.js:4832
 #: scripts.js:13081
-#, fuzzy
 msgid "<p>List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here.</p>"
 msgstr "<Р> Список таргетинга аудитории. Отдельный AdSet будет создан для каждой аудитории. Если выбран существующий AdSet, то только одна аудитория будет здесь. </ P>"
 
 #: scripts.components.js:4831
 #: scripts.js:13080
-#, fuzzy
 msgid "<p>Select emails to send notifications to.</p>"
 msgstr "<Р> Выберите сообщения электронной почты для отправки уведомлений. </ P>"
 
 #: scripts.components.js:4829
 #: scripts.js:13078
-#, fuzzy
 msgid "<p>Select the advertisement period for your ads.</p>"
 msgstr "<Р> Выберите рекламный период для ваших объявлений. </ P>"
 
 #: scripts.components.js:4830
 #: scripts.js:13079
-#, fuzzy
 msgid "<p>Select the period for your automation.</p>"
 msgstr "<Р> Выберите период для автоматизации. </ P>"
 
 #: scripts.components.js:4834
 #: scripts.js:13083
-#, fuzzy
 msgid "<p>Select when you want <b>start</b> showing your ads.</p>"
 msgstr "<Р> Выберите, если вы хотите <B> старт </ b> показ ваших объявлений. </ P>"
 
 #: scripts.components.js:4835
 #: scripts.js:13084
-#, fuzzy
 msgid "<p>Select when you want <b>stop</b> showing your ads.</p>"
 msgstr "<Р> Выберите, если вы хотите <б> остановки </ b> показывать свои объявления. </ P>"
 
 #: scripts.components.js:4815
 #: scripts.js:13063
-#, fuzzy
 msgid "<p>The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again.</p>\n"
 "<p class=\"no-margin\">Maximum time: 180 days</p>"
 msgstr "<Р> количество дней, люди останутся в вашей аудитории после того, как они посещают ваш сайт. Люди будут удалены из вашей аудитории по истечении заданного периода времени, если они снова не посещают ваш сайт. </ P>\n"
@@ -716,7 +640,6 @@ msgstr "<Р> количество дней, люди останутся в ва�
 
 #: scripts.components.js:4752
 #: scripts.js:13000
-#, fuzzy
 msgid "<p>URL tags you specify here will be appended to or will replace existing tags in the URLs.</p>\n"
 "<p class=\"no-margin\">For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2.</p>"
 msgstr "<P> URL теги вы указываете здесь будут добавляться или заменит существующие теги в URL. </ P>\n"
@@ -724,12 +647,10 @@ msgstr "<P> URL теги вы указываете здесь будут доб�
 
 #: scripts.components.js:4833
 #: scripts.js:13082
-#, fuzzy
 msgid "<p>You can schedule your ads for specific hours and days of the week.</p>"
 msgstr "<P> Вы можете запланировать показ объявлений на определенные часы и дни недели. </ P>"
 
 #: scripts.js:13077
-#, fuzzy
 msgid "<p>Your adset budget value is the maximum amount you want to spend.</p>"
 msgstr "<Р> Собственное значение бюджета adset это сумма, максимум, который вы хотите потратить. </ P>"
 
@@ -772,7 +693,6 @@ msgstr "Действие"
 
 #: index.html:2801
 #: index.html:3149
-#, fuzzy
 msgctxt "Status"
 msgid "Active"
 msgstr "активный"
@@ -847,7 +767,6 @@ msgid "Bid"
 msgstr "Ставка"
 
 #: index.html:184
-#, fuzzy
 msgid "Breakdown"
 msgstr "Сломать"
 
@@ -862,7 +781,6 @@ msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
 msgstr "Настройки бюджета для \"[[$root.MainObj.adset.name]]\""
 
 #: index.html:167
-#, fuzzy
 msgid "Bulk edit"
 msgstr "Массовое изменение"
 
@@ -899,12 +817,10 @@ msgid "Choose another ad type."
 msgstr "Выбрать другой тип."
 
 #: index.html:104
-#, fuzzy
 msgid "Choose parameter:"
 msgstr "Выберите параметр:"
 
 #: index.html:186
-#, fuzzy
 msgid "Clear all breakdowns"
 msgstr "Очистить все срывы"
 
@@ -930,7 +846,6 @@ msgid "Click to preview this ad"
 msgstr "Просмотреть объявления"
 
 #: index.html:115
-#, fuzzy
 msgid "Compare to parameter:"
 msgstr "По сравнению с параметром:"
 
@@ -948,7 +863,6 @@ msgid "Country"
 msgstr "Страна"
 
 #: index.html:148
-#, fuzzy
 msgid "Create Automation"
 msgstr "Создание автоматизации"
 
@@ -961,12 +875,10 @@ msgid "Custom Audiences"
 msgstr "Пользовательские Аудитории"
 
 #: index.html:3609
-#, fuzzy
 msgid "Customer List"
 msgstr "Список клиентов"
 
 #: index.html:179
-#, fuzzy
 msgid "Customize columns"
 msgstr "Настроить столбцы"
 
@@ -978,13 +890,11 @@ msgid "Daily"
 msgstr "Дневной"
 
 #: index.html:3613
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "Data Type:"
 msgstr "Тип данных:"
 
 #: index.html:3517
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "days"
 msgstr "дней"
@@ -1001,7 +911,6 @@ msgstr "По устройствам"
 
 #: index.html:1177
 #: index.html:3073
-#, fuzzy
 msgctxt "Images drag and drop"
 msgid "Drop Files Here"
 msgstr "Перетащите сюда файлы"
@@ -1020,12 +929,10 @@ msgstr "Переместите сюда"
 #: index.html:3565
 #: index.html:3712
 #: index.html:3860
-#, fuzzy
 msgid "Enter a name for your audience"
 msgstr "Введите имя для вашей аудитории"
 
 #: index.html:3517
-#, fuzzy
 msgid "Enter a number"
 msgstr "Введите номер"
 
@@ -1036,7 +943,6 @@ msgstr "Введите название"
 #: index.html:3586
 #: index.html:3733
 #: index.html:3881
-#, fuzzy
 msgid "Enter an optional description of your audience"
 msgstr "Введите дополнительное описание вашей аудитории"
 
@@ -1076,7 +982,6 @@ msgid "Existing"
 msgstr "Из списка"
 
 #: index.html:5
-#, fuzzy
 msgid "Facebook-Aitarget cabinet"
 msgstr "Facebook-Aitarget кабинет"
 
@@ -1111,7 +1016,6 @@ msgstr "По интересам"
 
 #: index.html:1161
 #: index.html:3057
-#, fuzzy
 msgctxt "Images library"
 msgid "Library"
 msgstr "Библиотека"
@@ -1206,7 +1110,6 @@ msgid "Next Step"
 msgstr "Дальше"
 
 #: index.html:3541
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "No"
 msgstr "Нет"
@@ -1249,7 +1152,6 @@ msgstr "Оптимизировать"
 
 #: index.html:2802
 #: index.html:3150
-#, fuzzy
 msgctxt "Status"
 msgid "Paused"
 msgstr "Приостановлена"
@@ -1278,7 +1180,6 @@ msgid "Preview Your Ad"
 msgstr "Смотреть объявления"
 
 #: index.html:2555
-#, fuzzy
 msgid "Pricing"
 msgstr "ценообразование"
 
@@ -1312,12 +1213,10 @@ msgstr "Ограничивать по дням"
 
 #: index.html:1165
 #: index.html:3067
-#, fuzzy
 msgid "Search Free Stock Images"
 msgstr "Поиск Фотобанк"
 
 #: index.html:3659
-#, fuzzy
 msgid "Select"
 msgstr "Выбрать"
 
@@ -1350,7 +1249,6 @@ msgstr "Необходимо выбрать бюджет за день, если
 #: index.html:1287
 #: index.html:3063
 #: index.html:3101
-#, fuzzy
 msgid "Select Files"
 msgstr "Выбрать файлы"
 
@@ -1370,7 +1268,6 @@ msgid "Select or search an adset in the list"
 msgstr "Выберите из списка"
 
 #: index.html:62
-#, fuzzy
 msgid "Select Period:"
 msgstr "Выберите период:"
 
@@ -1379,7 +1276,6 @@ msgid "Selected Ad Type"
 msgstr "Выбранный тип объявления"
 
 #: index.html:178
-#, fuzzy
 msgid "Set as Default"
 msgstr "Установить по умолчанию"
 
@@ -1428,7 +1324,6 @@ msgstr "Тексты"
 
 #: index.html:3605
 #: index.html:3750
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "the Facebook Custom Audiences Terms"
 msgstr "в Facebook пользовательских аудиторий Условия"
@@ -1440,7 +1335,6 @@ msgstr "Введите текст"
 
 #: index.html:1160
 #: index.html:3056
-#, fuzzy
 msgctxt "Images upload"
 msgid "Upload"
 msgstr "Загрузить"
@@ -1464,24 +1358,20 @@ msgstr "Смотреть код"
 
 #: index.html:3665
 #: index.html:3690
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "View format examples"
 msgstr "Примеры Просмотр формата"
 
 #: index.html:3602
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "View Pixel Code"
 msgstr "Просмотр Pixel Code"
 
 #: index.html:3481
-#, fuzzy
 msgid "Website Traffic"
 msgstr "Веб-сайт трафик"
 
 #: index.html:3540
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "Yes"
 msgstr "да"
@@ -1492,7 +1382,6 @@ msgstr "У вас нет существующих кампаний для это
 
 #: index.html:3605
 #: index.html:3750
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "You have to accept &nbsp;"
 msgstr "Вы должны принять & NBSP;"
@@ -1508,182 +1397,152 @@ msgid "Your data has been automatically saved.&nbsp;"
 msgstr "Ваши данные были автоматически сохранены.&nbsp;"
 
 #: index.html:3860
-#, fuzzy
 msgctxt "Lookalike Audiences"
 msgid "[[({true: \"Hide\", false: \"Add\", undefined: \"Add\"}[MainObj.showDescription])]] description"
 msgstr "[[({Верно: \"Скрыть\", ложь: \"Добавить\", не определено: \"Добавить\"} [MainObj.showDescription])]] Описание"
 
 #: index.html:2538
 #: index.html:4194
-#, fuzzy
 msgctxt "Attribution"
 msgid "1 day after viewing advert and 28 days after clicking on advert are set if nothing is selected"
 msgstr "1 день после просмотра и 28 ADVERT дней после нажатия на объявление устанавливается, если ничего не выбрано"
 
 #: index.html:3332
-#, fuzzy
 msgctxt "Copy"
 msgid "Active"
 msgstr "активный"
 
 #: index.html:3208
-#, fuzzy
 msgctxt "Preview"
 msgid "Ad Comments"
 msgstr "Объявление Комментарии"
 
 #: index.html:4169
-#, fuzzy
 msgctxt "Automations"
 msgid "Add Task"
 msgstr "Добавить задачу"
 
 #: index.html:2531
 #: index.html:4075
-#, fuzzy
 msgctxt "Attribution"
 msgid "after clicking on ad"
 msgstr "после нажатия на объявление"
 
 #: index.html:2523
 #: index.html:4067
-#, fuzzy
 msgctxt "Attribution"
 msgid "after viewing ad"
 msgstr "после просмотра объявления"
 
 #: index.html:2466
-#, fuzzy
 msgctxt "Presets"
 msgid "columns selected"
 msgstr "столбцы выбраны"
 
 #: index.html:2486
-#, fuzzy
 msgctxt "Presets"
 msgid "Current Preset"
 msgstr "Текущая Предустановленная"
 
 #: index.html:3946
-#, fuzzy
 msgctxt "Automations"
 msgid "Enter emails to subscribe"
 msgstr "Введите электронную почту, чтобы подписаться"
 
 #: index.html:2491
-#, fuzzy
 msgid "Enter name of the preset"
 msgstr "Введите имя предустановки"
 
 #: index.html:3290
-#, fuzzy
 msgctxt "Copy"
 msgid "Existing"
 msgstr "Существующий"
 
 #: index.html:2380
-#, fuzzy
 msgctxt "Crop"
 msgid "Height"
 msgstr "Высота"
 
 #: index.html:2374
-#, fuzzy
 msgctxt "Crop"
 msgid "Image information"
 msgstr "видеоинформация"
 
 #: index.html:1276
 #: index.html:3090
-#, fuzzy
 msgctxt "Videos library"
 msgid "Library"
 msgstr "Библиотека"
 
 #: index.html:2392
-#, fuzzy
 msgctxt "Crop"
 msgid "Minimum size: <span class=\"media_text__bold\">[[requirements.minSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.minSize.height]]</span> pixels"
 msgstr "Минимальный размер: <SPAN класс = \"media_text__bold\"> [[requirements.minSize.width]] </ SPAN> х <пролет класс = \"media_text__bold\"> [[requirements.minSize.height]] </ SPAN> пикселей"
 
 #: index.html:3291
-#, fuzzy
 msgctxt "Copy"
 msgid "New"
 msgstr "новый"
 
 #: index.html:2487
-#, fuzzy
 msgctxt "Presets"
 msgid "New Preset"
 msgstr "Новая Предустановленная"
 
 #: index.html:3363
-#, fuzzy
 msgid "No"
 msgstr "Нет"
 
 #: index.html:3333
-#, fuzzy
 msgctxt "Copy"
 msgid "Paused"
 msgstr "Приостановлена"
 
 #: index.html:3189
-#, fuzzy
 msgctxt "Preview"
 msgid "Preview Your Ad"
 msgstr "Предварительный просмотр объявления"
 
 #: index.html:2384
-#, fuzzy
 msgctxt "Crop"
 msgid "Ratios"
 msgstr "коэффициенты"
 
 #: index.html:3828
-#, fuzzy
 msgctxt "Lookalike Audiences"
 msgid "Reach ([[MainObj.country.users * 0.01 / 1000 | number_format]]K)"
 msgstr "Reach ([[MainObj.country.users * 0,01 / 1000 | number_format]] K)"
 
 #: index.html:3774
-#, fuzzy
 msgctxt "Lookalike Audiences"
 msgid "Reach new people who are similar to an audience you care about. Select a source and a country below, then choose an optimization."
 msgstr "Привлекайте новых людей, которые похожи на аудитории, вы заботитесь о. Выберите источник и страну ниже, затем выбрать оптимизацию."
 
 #: index.html:2393
-#, fuzzy
 msgctxt "Crop"
 msgid "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
 msgstr "Рекомендуемый размер: <SPAN класс = \"media_text__bold\"> [[requirements.recommendedSize.width]] </ SPAN> х <пролет класс = \"media_text__bold\"> [[requirements.recommendedSize.height]] </ SPAN> пикселей"
 
 #: index.html:4181
-#, fuzzy
 msgctxt "Automations"
 msgid "Saved Tasks"
 msgstr "Сохраненные задачи"
 
 #: index.html:2441
-#, fuzzy
 msgid "Search"
 msgstr "Поиск"
 
 #: index.html:2453
-#, fuzzy
 msgctxt "Presets"
 msgid "Select All Columns"
 msgstr "Выбрать все столбцы"
 
 #: index.html:3832
-#, fuzzy
 msgctxt "Lookalike Audiences"
 msgid "Similarity ([[MainObj.country.users * 0.2 / 1000 | number_format]]K)"
 msgstr "Подобие ([[MainObj.country.users * 0,2 / 1000 | number_format]] K)"
 
 #: index.html:3835
-#, fuzzy
 msgctxt "Lookalike Audiences"
 msgid "Size range is based on the total audience in the country you choose. Smaller audiences most closely match your source audience.\n"
 "                          Creating a larger audience increases your potential reach, but reduces the level of similarity to your source."
@@ -1691,43 +1550,36 @@ msgstr "Диапазон размеров основан на общей ауд�
 "                          Создание широкой аудитории увеличивает потенциальный охват, но снижает уровень сходства с источником."
 
 #: index.html:2821
-#, fuzzy
 msgid "Targeting"
 msgstr "нацеливание"
 
 #: index.html:4173
-#, fuzzy
 msgctxt "Automations"
 msgid "Templates"
 msgstr "Шаблоны"
 
 #: index.html:2511
 #: index.html:4055
-#, fuzzy
 msgctxt "Attribution"
 msgid "The attribution window"
 msgstr "Окно атрибуции"
 
 #: index.html:1275
 #: index.html:3089
-#, fuzzy
 msgctxt "Videos upload"
 msgid "Upload"
 msgstr "Загрузить"
 
 #: index.html:2376
-#, fuzzy
 msgctxt "Crop"
 msgid "Width"
 msgstr "Ширина"
 
 #: index.html:3362
-#, fuzzy
 msgid "Yes"
 msgstr "да"
 
 #: index.html:2394
-#, fuzzy
 msgctxt "Crop"
 msgid "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
 msgstr "Ваше изображение может не включать в себя больше, чем <SPAN класс = \"media_text__bold\"> 20% </ SPAN> текст"
