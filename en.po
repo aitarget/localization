@@ -1,15 +1,4160 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2016-03-24 17:40+0300\n"
-"PO-Revision-Date: 2016-03-25 10:43+0300\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
-"X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Aitarget\n"
 "Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: index.html:3040
+msgid "[[ MainObj.video_id ? 'Video' : 'Image' ]]"
+msgstr "[[ MainObj.video_id ? 'Video' : 'Image' ]]"
+
+#: index.html:3565
+#: index.html:3712
+msgctxt "Custom Audiences"
+msgid "[[({true: \"Hide\", false: \"Add\", undefined: \"Add\"}[MainObj.showDescription])]] description"
+msgstr "[[({true: \"Hide\", false: \"Add\", undefined: \"Add\"}[MainObj.showDescription])]] description"
+
+#: index.html:3651
+msgctxt "Custom Audiences"
+msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
+msgstr "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
+
+#: index.html:135
+msgid "+ Create Audience<span class=\"caret\"></span>"
+msgstr "+ Create Audience<span class=\"caret\"></span>"
+
+#: scripts.components.js:4764
+#: scripts.js:13012
+msgid "<p class=\"\">Add headlines that grabs people's attention and tells them what your ad(s) is about.</p>\n"
+"<p class=\"no-margin\">Maximum length is 40 characters. Will be automatically cut.</p>"
+msgstr "<p class=\"\">Add headlines that grabs people's attention and tells them what your ad(s) is about.</p>\n"
+"<p class=\"no-margin\">Maximum length is 40 characters. Will be automatically cut.</p>"
+
+#: scripts.components.js:4750
+#: scripts.js:12998
+msgid "<p class=\"\">Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file.</p>\n"
+"<p class=\"no-margin\">You can copy columns from a spreadsheet with one record per row or a list of records separated by commas.</p>"
+msgstr "<p class=\"\">Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file.</p>\n"
+"<p class=\"no-margin\">You can copy columns from a spreadsheet with one record per row or a list of records separated by commas.</p>"
+
+#: scripts.components.js:4828
+#: scripts.js:13076
+msgid "<p class=\"\">If you choose a <b>daily budget</b>, the amount you enter is the maximum you'll spend each day.</p>\n"
+"<p class=\"no-margin\">If you choose a <b>lifetime budget</b>, the amount you enter is the maximum you'll spend during the lifetime of your adset.</p>"
+msgstr "<p class=\"\">If you choose a <b>daily budget</b>, the amount you enter is the maximum you'll spend each day.</p>\n"
+"<p class=\"no-margin\">If you choose a <b>lifetime budget</b>, the amount you enter is the maximum you'll spend during the lifetime of your adset.</p>"
+
+#: scripts.components.js:4765
+#: scripts.js:13013
+msgid "<p class=\"\">Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting.</p>\n"
+"<p class=\"no-margin\">Maximum length is 300 characters. Will be automatically cut.</p>"
+msgstr "<p class=\"\">Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting.</p>\n"
+"<p class=\"no-margin\">Maximum length is 300 characters. Will be automatically cut.</p>"
+
+#: scripts.components.js:4751
+#: scripts.js:12999
+msgid "<p class=\"\">The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again.</p>\n"
+"<p class=\"no-margin\">Maximum time: 180 days</p>"
+msgstr "<p class=\"\">The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again.</p>\n"
+"<p class=\"no-margin\">Maximum time: 180 days</p>"
+
+#: scripts.components.js:4749
+#: scripts.js:12997
+msgid "<p class=\"\">You can upload files in .csv or .txt format.</p>\n"
+"<p class=\"no-margin\">Text files (.txt and .csv) can include records on separate lines or in a list separated by commas.</p>"
+msgstr "<p class=\"\">You can upload files in .csv or .txt format.</p>\n"
+"<p class=\"no-margin\">Text files (.txt and .csv) can include records on separate lines or in a list separated by commas.</p>"
+
+#: scripts.components.js:4826
+#: scripts.js:13074
+msgid "<p class=\"no-margin\">A conversion pixel is a small piece of code that lets you keep track of conversions, such as purchases and sign-ups, on your website.</p>"
+msgstr "<p class=\"no-margin\">A conversion pixel is a small piece of code that lets you keep track of conversions, such as purchases and sign-ups, on your website.</p>"
+
+#: scripts.components.js:4822
+#: scripts.js:13070
+msgid "<p class=\"no-margin\">Add a headline that grabs people's attention and tells them what your ad is about.</p>"
+msgstr "<p class=\"no-margin\">Add a headline that grabs people's attention and tells them what your ad is about.</p>"
+
+#: scripts.components.js:4845
+#: scripts.js:13094
+msgid "<p class=\"no-margin\">Check it if you want your ad bid to be optimized depending on your ad performance.</p>"
+msgstr "<p class=\"no-margin\">Check it if you want your ad bid to be optimized depending on your ad performance.</p>"
+
+#: scripts.components.js:4790
+#: scripts.js:13038
+msgid "<p class=\"no-margin\">Choose \"All\" unless you only want your ads to be shown to either men or women.</p>"
+msgstr "<p class=\"no-margin\">Choose \"All\" unless you only want your ads to be shown to either men or women.</p>"
+
+#: scripts.components.js:4809
+#: scripts.js:13057
+msgid "<p class=\"no-margin\">Choose \"All\" unless you want your ad to be shown to people who are parents. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All\".</p>"
+msgstr "<p class=\"no-margin\">Choose \"All\" unless you want your ad to be shown to people who are parents. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All\".</p>"
+
+#: scripts.components.js:4810
+#: scripts.js:13058
+msgid "<p class=\"no-margin\">Choose \"All\" unless you want your ad to be shown to people who have certain political affiliations. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All\".</p>"
+msgstr "<p class=\"no-margin\">Choose \"All\" unless you want your ad to be shown to people who have certain political affiliations. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All\".</p>"
+
+#: scripts.components.js:4819
+#: scripts.js:13067
+msgid "<p class=\"no-margin\">Choose \"Wi-Fi only\" to show your ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection.</p>"
+msgstr "<p class=\"no-margin\">Choose \"Wi-Fi only\" to show your ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection.</p>"
+
+#: scripts.js:12990
+msgid "<p class=\"no-margin\">Choose a Facebook Page containing promoted post.</p>"
+msgstr "<p class=\"no-margin\">Choose a Facebook Page containing promoted post.</p>"
+
+#: scripts.js:12991
+msgid "<p class=\"no-margin\">Choose a Facebook Page so you can run ads on Facebook.</p>"
+msgstr "<p class=\"no-margin\">Choose a Facebook Page so you can run ads on Facebook.</p>"
+
+#: scripts.js:12989
+msgid "<p class=\"no-margin\">Choose a Facebook Page that you want to be promoted.</p>"
+msgstr "<p class=\"no-margin\">Choose a Facebook Page that you want to be promoted.</p>"
+
+#: scripts.js:12988
+msgid "<p class=\"no-margin\">Choose a Facebook Page to represent your business in News Feed. Your ad will link to your site, but it will show as coming from your Facebook Page.</p>"
+msgstr "<p class=\"no-margin\">Choose a Facebook Page to represent your business in News Feed. Your ad will link to your site, but it will show as coming from your Facebook Page.</p>"
+
+#: scripts.components.js:4821
+#: scripts.js:13069
+msgid "<p class=\"no-margin\">Choose a name of your ad.</p>"
+msgstr "<p class=\"no-margin\">Choose a name of your ad.</p>"
+
+#: scripts.components.js:4786
+#: scripts.js:13034
+msgid "<p class=\"no-margin\">Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements.</p>"
+msgstr "<p class=\"no-margin\">Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements.</p>"
+
+#: scripts.components.js:4755
+#: scripts.js:13003
+msgid "<p class=\"no-margin\">Choose a post that you want to promote.</p>"
+msgstr "<p class=\"no-margin\">Choose a post that you want to promote.</p>"
+
+#: scripts.components.js:4820
+#: scripts.js:13068
+msgid "<p class=\"no-margin\">Choose available account or campaign that will contain currently created or edited objects.</p>"
+msgstr "<p class=\"no-margin\">Choose available account or campaign that will contain currently created or edited objects.</p>"
+
+#: scripts.components.js:4818
+#: scripts.js:13066
+msgid "<p class=\"no-margin\">Choose device models you would like to target these ads to.</p>"
+msgstr "<p class=\"no-margin\">Choose device models you would like to target these ads to.</p>"
+
+#: scripts.components.js:4747
+#: scripts.components.js:4814
+#: scripts.js:12995
+#: scripts.js:13062
+msgid "<p class=\"no-margin\">Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website.</p>"
+msgstr "<p class=\"no-margin\">Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website.</p>"
+
+#: scripts.components.js:4817
+#: scripts.js:13065
+msgid "<p class=\"no-margin\">Choose minimum selected operating system version you want to target your ads to.</p>"
+msgstr "<p class=\"no-margin\">Choose minimum selected operating system version you want to target your ads to.</p>"
+
+#: scripts.components.js:4782
+#: scripts.js:13030
+msgid "<p class=\"no-margin\">Choose mixing mode if you want to combine every image, headline and message altogether.</p>"
+msgstr "<p class=\"no-margin\">Choose mixing mode if you want to combine every image, headline and message altogether.</p>"
+
+#: scripts.components.js:4783
+#: scripts.js:13031
+msgid "<p class=\"no-margin\">Choose optimizing mode if you want automatically select and order images and links.</p>"
+msgstr "<p class=\"no-margin\">Choose optimizing mode if you want automatically select and order images and links.</p>"
+
+#: scripts.components.js:4785
+#: scripts.js:13033
+msgid "<p class=\"no-margin\">Choose split by reach if you want to split budget according to audience reach.</p>"
+msgstr "<p class=\"no-margin\">Choose split by reach if you want to split budget according to audience reach.</p>"
+
+#: scripts.components.js:4784
+#: scripts.js:13032
+msgid "<p class=\"no-margin\">Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device.</p>"
+msgstr "<p class=\"no-margin\">Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device.</p>"
+
+#: scripts.components.js:4781
+#: scripts.js:13029
+msgid "<p class=\"no-margin\">Choose the action you want people to take when they see your ad.</p>"
+msgstr "<p class=\"no-margin\">Choose the action you want people to take when they see your ad.</p>"
+
+#: scripts.components.js:4753
+#: scripts.components.js:4754
+#: scripts.js:13001
+#: scripts.js:13002
+msgid "<p class=\"no-margin\">Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site.</p>"
+msgstr "<p class=\"no-margin\">Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site.</p>"
+
+#: scripts.components.js:4773
+#: scripts.js:13021
+msgid "<p class=\"no-margin\">Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe.</p>"
+msgstr "<p class=\"no-margin\">Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe.</p>"
+
+#: scripts.components.js:4772
+#: scripts.js:13020
+msgid "<p class=\"no-margin\">Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe.</p>"
+msgstr "<p class=\"no-margin\">Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe.</p>"
+
+#: scripts.components.js:4774
+#: scripts.js:13022
+msgid "<p class=\"no-margin\">Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe.</p>"
+msgstr "<p class=\"no-margin\">Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe.</p>"
+
+#: scripts.components.js:4816
+#: scripts.components.js:4824
+#: scripts.js:13064
+#: scripts.js:13072
+msgid "<p class=\"no-margin\">Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model.</p>"
+msgstr "<p class=\"no-margin\">Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model.</p>"
+
+#: scripts.components.js:4823
+#: scripts.js:13071
+msgid "<p class=\"no-margin\">Choose where you want your ads to show on Facebook and the placements that are most important to you.</p>"
+msgstr "<p class=\"no-margin\">Choose where you want your ads to show on Facebook and the placements that are most important to you.</p>"
+
+#: scripts.components.js:4779
+#: scripts.js:13027
+msgid "<p class=\"no-margin\">Describe why people should visit your website.</p>"
+msgstr "<p class=\"no-margin\">Describe why people should visit your website.</p>"
+
+#: scripts.components.js:4775
+#: scripts.js:13023
+msgid "<p class=\"no-margin\">Editing and creating is only available for user's presets. For shared presets you can only create a new one.</p>"
+msgstr "<p class=\"no-margin\">Editing and creating is only available for user's presets. For shared presets you can only create a new one.</p>"
+
+#: scripts.components.js:4853
+#: scripts.js:13102
+msgid "<p class=\"no-margin\">Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes.</p>"
+msgstr "<p class=\"no-margin\">Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes.</p>"
+
+#: scripts.components.js:4788
+#: scripts.js:13036
+msgid "<p class=\"no-margin\">Enter locations you want to exclude.</p>"
+msgstr "<p class=\"no-margin\">Enter locations you want to exclude.</p>"
+
+#: scripts.components.js:4813
+#: scripts.js:13061
+msgid "<p class=\"no-margin\">Exclude your ads from targeting to people from some custom audience.</p>"
+msgstr "<p class=\"no-margin\">Exclude your ads from targeting to people from some custom audience.</p>"
+
+#: scripts.components.js:4761
+#: scripts.js:13009
+msgid "<p class=\"no-margin\">Give your adset a name that describes the audience, scheduling or ads inside it.</p>"
+msgstr "<p class=\"no-margin\">Give your adset a name that describes the audience, scheduling or ads inside it.</p>"
+
+#: scripts.components.js:4760
+#: scripts.js:13008
+msgid "<p class=\"no-margin\">Give your campaign a name that describes the audience, scheduling or adsets inside it.</p>"
+msgstr "<p class=\"no-margin\">Give your campaign a name that describes the audience, scheduling or adsets inside it.</p>"
+
+#: scripts.components.js:4843
+#: scripts.js:13092
+msgid "<p class=\"no-margin\">Here you can see a status of creating new reach and frequency object that will be used for your ads.</p>"
+msgstr "<p class=\"no-margin\">Here you can see a status of creating new reach and frequency object that will be used for your ads.</p>"
+
+#: scripts.components.js:4827
+#: scripts.js:13075
+msgid "<p class=\"no-margin\">If you want to optimize your ad for mobile app installs, please choose facebook app associated with your app.</p>"
+msgstr "<p class=\"no-margin\">If you want to optimize your ad for mobile app installs, please choose facebook app associated with your app.</p>"
+
+#: scripts.components.js:4791
+#: scripts.js:13039
+msgid "<p class=\"no-margin\">Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above.</p>"
+msgstr "<p class=\"no-margin\">Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above.</p>"
+
+#: scripts.components.js:4799
+#: scripts.js:13047
+msgid "<p class=\"no-margin\">Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\"</p>"
+msgstr "<p class=\"no-margin\">Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\"</p>"
+
+#: scripts.components.js:4811
+#: scripts.js:13059
+msgid "<p class=\"no-margin\">Leave this blank unless you want your ad to be shown to people who had certain life events.</p>"
+msgstr "<p class=\"no-margin\">Leave this blank unless you want your ad to be shown to people who had certain life events.</p>"
+
+#: scripts.components.js:4795
+#: scripts.js:13043
+msgid "<p class=\"no-margin\">Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event.</p>"
+msgstr "<p class=\"no-margin\">Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event.</p>"
+
+#: scripts.components.js:4797
+#: scripts.js:13045
+msgid "<p class=\"no-margin\">Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event.</p>"
+msgstr "<p class=\"no-margin\">Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event.</p>"
+
+#: scripts.components.js:4796
+#: scripts.js:13044
+msgid "<p class=\"no-margin\">Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event.</p>"
+msgstr "<p class=\"no-margin\">Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event.</p>"
+
+#: scripts.components.js:4842
+#: scripts.js:13091
+msgid "<p class=\"no-margin\">Maximum number of times your ad will be shown to tha same user.</p>"
+msgstr "<p class=\"no-margin\">Maximum number of times your ad will be shown to tha same user.</p>"
+
+#: scripts.components.js:4770
+#: scripts.js:13018
+msgid "<p class=\"no-margin\">Please, select images that you want to use in your new ads.</p>"
+msgstr "<p class=\"no-margin\">Please, select images that you want to use in your new ads.</p>"
+
+#: scripts.components.js:4793
+#: scripts.js:13041
+msgid "<p class=\"no-margin\">Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only.</p>"
+msgstr "<p class=\"no-margin\">Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only.</p>"
+
+#: scripts.components.js:4794
+#: scripts.js:13042
+msgid "<p class=\"no-margin\">Reach people who have a specific kind of connection to your Page, app or event. This will narrow your audience to include only people with that specific connection who also meet the other targeting categories you've selected.</p>"
+msgstr "<p class=\"no-margin\">Reach people who have a specific kind of connection to your Page, app or event. This will narrow your audience to include only people with that specific connection who also meet the other targeting categories you've selected.</p>"
+
+#: scripts.components.js:4758
+#: scripts.js:13006
+msgid "<p class=\"no-margin\">Select 'No' if you want to copy Adset without Ad Groups.</p>"
+msgstr "<p class=\"no-margin\">Select 'No' if you want to copy Adset without Ad Groups.</p>"
+
+#: scripts.components.js:4847
+#: scripts.js:13096
+msgid "<p class=\"no-margin\">Select a campaign where you want to copy your adgroups.</p>"
+msgstr "<p class=\"no-margin\">Select a campaign where you want to copy your adgroups.</p>"
+
+#: scripts.components.js:4846
+#: scripts.js:13095
+msgid "<p class=\"no-margin\">Select a campaign where you want to copy your adsets.</p>"
+msgstr "<p class=\"no-margin\">Select a campaign where you want to copy your adsets.</p>"
+
+#: scripts.components.js:4777
+#: scripts.js:13025
+msgid "<p class=\"no-margin\">Select actions that you want to apply to selected adsets when all rules match.</p>"
+msgstr "<p class=\"no-margin\">Select actions that you want to apply to selected adsets when all rules match.</p>"
+
+#: scripts.components.js:4776
+#: scripts.js:13024
+msgid "<p class=\"no-margin\">Select adsets that you want to use automation for.</p>"
+msgstr "<p class=\"no-margin\">Select adsets that you want to use automation for.</p>"
+
+#: scripts.components.js:4848
+#: scripts.js:13097
+msgid "<p class=\"no-margin\">Select an adset where you want to copy your adgroups.</p>"
+msgstr "<p class=\"no-margin\">Select an adset where you want to copy your adgroups.</p>"
+
+#: scripts.components.js:4854
+#: scripts.js:13103
+msgid "<p class=\"no-margin\">Select how your ads should be created and updated.</p>\n"
+"<p class=\"no-margin\">Auto mode – ads will be created automatically using data from provided products feed xml file. Also, they will be automatically updated with selected period of time.</p>\n"
+"<p class=\"no-margin\">Manual mode – you can edit ads constructed with data from your products feed xml file or/and add more custom ads. No later updates are supported.</p>"
+msgstr "<p class=\"no-margin\">Select how your ads should be created and updated.</p>\n"
+"<p class=\"no-margin\">Auto mode – ads will be created automatically using data from provided products feed xml file. Also, they will be automatically updated with selected period of time.</p>\n"
+"<p class=\"no-margin\">Manual mode – you can edit ads constructed with data from your products feed xml file or/and add more custom ads. No later updates are supported.</p>"
+
+#: scripts.components.js:4763
+#: scripts.js:13011
+msgid "<p class=\"no-margin\">Select the images.</p>"
+msgstr "<p class=\"no-margin\">Select the images.</p>"
+
+#: scripts.components.js:4789
+#: scripts.js:13037
+msgid "<p class=\"no-margin\">Select the minimum and maximum age of the people who will find your ad relevant.</p>"
+msgstr "<p class=\"no-margin\">Select the minimum and maximum age of the people who will find your ad relevant.</p>"
+
+#: scripts.components.js:4757
+#: scripts.js:13005
+msgid "<p class=\"no-margin\">Select to create new adset or use an existing adset.</p>"
+msgstr "<p class=\"no-margin\">Select to create new adset or use an existing adset.</p>"
+
+#: scripts.components.js:4756
+#: scripts.js:13004
+msgid "<p class=\"no-margin\">Select to create new campaign or use an existing campaign.</p>"
+msgstr "<p class=\"no-margin\">Select to create new campaign or use an existing campaign.</p>"
+
+#: scripts.components.js:4841
+#: scripts.js:13090
+msgid "<p class=\"no-margin\">Set activity status for your campaign.</p>"
+msgstr "<p class=\"no-margin\">Set activity status for your campaign.</p>"
+
+#: scripts.components.js:4746
+#: scripts.js:12994
+msgid "<p class=\"no-margin\">Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit.</p>"
+msgstr "<p class=\"no-margin\">Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit.</p>"
+
+#: scripts.components.js:4825
+#: scripts.js:13073
+msgid "<p class=\"no-margin\">Short caption of the url that people will reach after clicking on your ad.</p>"
+msgstr "<p class=\"no-margin\">Short caption of the url that people will reach after clicking on your ad.</p>"
+
+#: scripts.components.js:4850
+#: scripts.js:13099
+msgid "<p class=\"no-margin\">Site name, that will be seen in creative.</p>"
+msgstr "<p class=\"no-margin\">Site name, that will be seen in creative.</p>"
+
+#: scripts.components.js:4800
+#: scripts.js:13048
+msgid "<p class=\"no-margin\">Target your ads to people based on the highest education level they reached.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on the highest education level they reached.</p>"
+
+#: scripts.components.js:4806
+#: scripts.js:13054
+msgid "<p class=\"no-margin\">Target your ads to people based on the industry they likely work in. Leave this field blank unless you want your ad to be shown only to people who work in specific industries.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on the industry they likely work in. Leave this field blank unless you want your ad to be shown only to people who work in specific industries.</p>"
+
+#: scripts.components.js:4805
+#: scripts.js:13053
+msgid "<p class=\"no-margin\">Target your ads to people based on the job title listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific title or titles.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on the job title listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific title or titles.</p>"
+
+#: scripts.components.js:4798
+#: scripts.js:13046
+msgid "<p class=\"no-margin\">Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status.</p>"
+
+#: scripts.components.js:4802
+#: scripts.js:13050
+msgid "<p class=\"no-margin\">Target your ads to people based on the schools listed in their Facebook profiles.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on the schools listed in their Facebook profiles.</p>"
+
+#: scripts.components.js:4803
+#: scripts.js:13051
+msgid "<p class=\"no-margin\">Target your ads to people based on the year they graduated from college.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on the year they graduated from college.</p>"
+
+#: scripts.components.js:4801
+#: scripts.js:13049
+msgid "<p class=\"no-margin\">Target your ads to people based on their major or field of study.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on their major or field of study.</p>"
+
+#: scripts.components.js:4804
+#: scripts.js:13052
+msgid "<p class=\"no-margin\">Target your ads to people based on where they work. Leave this field blank unless you only want your ad to be shown to people who work for a specific employer or employers.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people based on where they work. Leave this field blank unless you only want your ad to be shown to people who work for a specific employer or employers.</p>"
+
+#: scripts.components.js:4812
+#: scripts.js:13060
+msgid "<p class=\"no-margin\">Target your ads to people from your custom audience.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people from your custom audience.</p>"
+
+#: scripts.components.js:4807
+#: scripts.js:13055
+msgid "<p class=\"no-margin\">Target your ads to people who are likely to have an affinity or interest in a specific ethnicity. Leave this blank unless you only want your ad to be shown to people in those specific categories.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people who are likely to have an affinity or interest in a specific ethnicity. Leave this blank unless you only want your ad to be shown to people in those specific categories.</p>"
+
+#: scripts.components.js:4808
+#: scripts.js:13056
+msgid "<p class=\"no-margin\">Target your ads to people who are likely to identify with a specific generation. Leave this blank unless you only want your ad to be shown to people in those specific categories.</p>"
+msgstr "<p class=\"no-margin\">Target your ads to people who are likely to identify with a specific generation. Leave this blank unless you only want your ad to be shown to people in those specific categories.</p>"
+
+#: scripts.components.js:4766
+#: scripts.js:13014
+msgid "<p class=\"no-margin\">Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting.</p>"
+msgstr "<p class=\"no-margin\">Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting.</p>"
+
+#: scripts.components.js:4852
+#: scripts.js:13101
+msgid "<p class=\"no-margin\">Text of advertising, that will be seen in creative.</p>"
+msgstr "<p class=\"no-margin\">Text of advertising, that will be seen in creative.</p>"
+
+#: scripts.components.js:4778
+#: scripts.js:13026
+msgid "<p class=\"no-margin\">The caption of a link in the post (appears beneath the name).</p>"
+msgstr "<p class=\"no-margin\">The caption of a link in the post (appears beneath the name).</p>"
+
+#: scripts.components.js:4745
+#: scripts.js:12993
+msgid "<p class=\"no-margin\">The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement.</p>"
+msgstr "<p class=\"no-margin\">The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement.</p>"
+
+#: scripts.components.js:4771
+#: scripts.js:13019
+msgid "<p class=\"no-margin\">The name of the link.</p>"
+msgstr "<p class=\"no-margin\">The name of the link.</p>"
+
+#: scripts.components.js:4744
+#: scripts.js:12992
+msgid "<p class=\"no-margin\">Url of a website that you want to promote.</p>"
+msgstr "<p class=\"no-margin\">Url of a website that you want to promote.</p>"
+
+#: scripts.components.js:4851
+#: scripts.js:13100
+msgid "<p class=\"no-margin\">URL to main page or products category on the website.</p>"
+msgstr "<p class=\"no-margin\">URL to main page or products category on the website.</p>"
+
+#: scripts.components.js:4849
+#: scripts.js:13098
+msgid "<p class=\"no-margin\">URL to products xml feed in Google Merchant or YML (Yandex Market Language) formats.</p>"
+msgstr "<p class=\"no-margin\">URL to products xml feed in Google Merchant or YML (Yandex Market Language) formats.</p>"
+
+#: scripts.components.js:4767
+#: scripts.js:13015
+msgid "<p class=\"no-margin\">You can choose different ad formats and see how your ads looks like.</p>"
+msgstr "<p class=\"no-margin\">You can choose different ad formats and see how your ads looks like.</p>"
+
+#: scripts.components.js:4769
+#: scripts.js:13017
+msgid "<p class=\"no-margin\">You can choose different ad formats and see how your ads will like after creation.</p>"
+msgstr "<p class=\"no-margin\">You can choose different ad formats and see how your ads will like after creation.</p>"
+
+#: scripts.components.js:4838
+#: scripts.js:13087
+msgid "<p class=\"no-margin\">You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to.</p>"
+msgstr "<p class=\"no-margin\">You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to.</p>"
+
+#: scripts.components.js:4837
+#: scripts.js:13086
+msgid "<p class=\"no-margin\">You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to.</p>"
+msgstr "<p class=\"no-margin\">You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to.</p>"
+
+#: scripts.components.js:4768
+#: scripts.js:13016
+msgid "<p class=\"no-margin\">You can delete comments to your ad.</p>"
+msgstr "<p class=\"no-margin\">You can delete comments to your ad.</p>"
+
+#: scripts.components.js:4748
+#: scripts.js:12996
+msgid "<p class=\"no-margin\">You can only upload IDs for people that download or use your Facebook app.</p>"
+msgstr "<p class=\"no-margin\">You can only upload IDs for people that download or use your Facebook app.</p>"
+
+#: scripts.components.js:4840
+#: scripts.js:13089
+msgid "<p class=\"no-margin\">Your ads will have status that you choose.</p>"
+msgstr "<p class=\"no-margin\">Your ads will have status that you choose.</p>"
+
+#: scripts.components.js:4839
+#: scripts.js:13088
+msgid "<p class=\"no-margin\">Your adset will either run continuously starting today or within a date range you select.</p>"
+msgstr "<p class=\"no-margin\">Your adset will either run continuously starting today or within a date range you select.</p>"
+
+#: scripts.components.js:4836
+#: scripts.js:13085
+msgid "<p class=\"no-margin\">Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads.</p>\n"
+"<p class=\"no-margin\">This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads.</p>"
+msgstr "<p class=\"no-margin\">Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads.</p>\n"
+"<p class=\"no-margin\">This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads.</p>"
+
+#: scripts.components.js:4762
+#: scripts.js:13010
+msgid "<p><b>Choose Adset</b></p>\n"
+"<p>If <b>'New'</b>, then you have to enter new adset name. One adset will be created.</p>\n"
+"<p>If <b>'Existing'</b>, then you have to choose existing adset in the list. You have to choose campaign to get adset list.</p>"
+msgstr "<p><b>Choose Adset</b></p>\n"
+"<p>If <b>'New'</b>, then you have to enter new adset name. One adset will be created.</p>\n"
+"<p>If <b>'Existing'</b>, then you have to choose existing adset in the list. You have to choose campaign to get adset list.</p>"
+
+#: scripts.components.js:4759
+#: scripts.js:13007
+msgid "<p><b>Choose Campaign</b></p>\n"
+"<p>If <b>'New'</b>, then you have to enter new campaign name.</p>\n"
+"<p>If <b>'Existing'</b>, then you have to choose existing campaign in the list.</p>"
+msgstr "<p><b>Choose Campaign</b></p>\n"
+"<p>If <b>'New'</b>, then you have to enter new campaign name.</p>\n"
+"<p>If <b>'Existing'</b>, then you have to choose existing campaign in the list.</p>"
+
+#: scripts.components.js:4780
+#: scripts.js:13028
+msgid "<p><b>Using a Deep Link</b></p>\n"
+"<p>When launching an app with a deep link Facebook will be able to open your app in a specific state.</p>\n"
+"<p>A deep link is a URL that points to a specific place in your app, like a product page.</p>\n"
+"<p>You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled.</p>"
+msgstr "<p><b>Using a Deep Link</b></p>\n"
+"<p>When launching an app with a deep link Facebook will be able to open your app in a specific state.</p>\n"
+"<p>A deep link is a URL that points to a specific place in your app, like a product page.</p>\n"
+"<p>You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled.</p>"
+
+#: scripts.components.js:4844
+#: scripts.js:13093
+msgid "<p>Enabling this option will set your bid so that it's optimized to help you reach your objective.</p>\n"
+"<p class=\"no-margin\">Get the most conversions at the best price - You'll be charged for impressions.</p>"
+msgstr "<p>Enabling this option will set your bid so that it's optimized to help you reach your objective.</p>\n"
+"<p class=\"no-margin\">Get the most conversions at the best price - You'll be charged for impressions.</p>"
+
+#: scripts.components.js:4787
+#: scripts.js:13035
+msgid "<p>Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations.</p>\n"
+"<p>Targeting your ad by city isn't available in all countries.</p>\n"
+"<p class=\"no-margin\">Targeting your ad by ZIP code is only available in the United States.</p>"
+msgstr "<p>Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations.</p>\n"
+"<p>Targeting your ad by city isn't available in all countries.</p>\n"
+"<p class=\"no-margin\">Targeting your ad by ZIP code is only available in the United States.</p>"
+
+#: scripts.components.js:4792
+#: scripts.js:13040
+msgid "<p>Facebook can help you reach specific audiences by looking at their interests, activities, the Pages they have liked and closely related topics.</p>\n"
+"<p class=\"no-margin\">Combine interests to expand your ad's reach.</p>"
+msgstr "<p>Facebook can help you reach specific audiences by looking at their interests, activities, the Pages they have liked and closely related topics.</p>\n"
+"<p class=\"no-margin\">Combine interests to expand your ad's reach.</p>"
+
+#: scripts.components.js:4832
+#: scripts.js:13081
+msgid "<p>List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here.</p>"
+msgstr "<p>List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here.</p>"
+
+#: scripts.components.js:4831
+#: scripts.js:13080
+msgid "<p>Select emails to send notifications to.</p>"
+msgstr "<p>Select emails to send notifications to.</p>"
+
+#: scripts.components.js:4829
+#: scripts.js:13078
+msgid "<p>Select the advertisement period for your ads.</p>"
+msgstr "<p>Select the advertisement period for your ads.</p>"
+
+#: scripts.components.js:4830
+#: scripts.js:13079
+msgid "<p>Select the period for your automation.</p>"
+msgstr "<p>Select the period for your automation.</p>"
+
+#: scripts.components.js:4834
+#: scripts.js:13083
+msgid "<p>Select when you want <b>start</b> showing your ads.</p>"
+msgstr "<p>Select when you want <b>start</b> showing your ads.</p>"
+
+#: scripts.components.js:4835
+#: scripts.js:13084
+msgid "<p>Select when you want <b>stop</b> showing your ads.</p>"
+msgstr "<p>Select when you want <b>stop</b> showing your ads.</p>"
+
+#: scripts.components.js:4815
+#: scripts.js:13063
+msgid "<p>The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again.</p>\n"
+"<p class=\"no-margin\">Maximum time: 180 days</p>"
+msgstr "<p>The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again.</p>\n"
+"<p class=\"no-margin\">Maximum time: 180 days</p>"
+
+#: scripts.components.js:4752
+#: scripts.js:13000
+msgid "<p>URL tags you specify here will be appended to or will replace existing tags in the URLs.</p>\n"
+"<p class=\"no-margin\">For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2.</p>"
+msgstr "<p>URL tags you specify here will be appended to or will replace existing tags in the URLs.</p>\n"
+"<p class=\"no-margin\">For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2.</p>"
+
+#: scripts.components.js:4833
+#: scripts.js:13082
+msgid "<p>You can schedule your ads for specific hours and days of the week.</p>"
+msgstr "<p>You can schedule your ads for specific hours and days of the week.</p>"
+
+#: scripts.js:13077
+msgid "<p>Your adset budget value is the maximum amount you want to spend.</p>"
+msgstr "<p>Your adset budget value is the maximum amount you want to spend.</p>"
+
+#: index.html:545
+msgid "1. Main"
+msgstr "1. Main"
+
+#: index.html:346
+msgid "1. Settings"
+msgstr "1. Settings"
+
+#: index.html:1891
+msgid "2. Budget"
+msgstr "2. Budget"
+
+#: index.html:394
+msgid "2. Targeting"
+msgstr "2. Targeting"
+
+#: index.html:413
+msgid "3. Charts"
+msgstr "3. Charts"
+
+#: index.html:558
+msgid "3. Targeting"
+msgstr "3. Targeting"
+
+#: index.html:1737
+#: index.html:641
+msgid "4. Creative"
+msgstr "4. Creative"
+
+#: index.html:469
+msgid "4. Table"
+msgstr "4. Table"
+
+#: index.html:4104
+msgid "Action"
+msgstr "Action"
+
+#: index.html:2798
+#: index.html:3146
+msgctxt "Status"
+msgid "Active"
+msgstr "Active"
+
+#: index.html:2134
+msgid "Active"
+msgstr "Active"
+
+#: index.html:1838
+#: index.html:2846
+msgid "Ad Name"
+msgstr "Ad Name"
+
+#: index.html:2009
+#: index.html:2695
+msgid "Ad Scheduling"
+msgstr "Ad Scheduling"
+
+#: index.html:630
+msgid "Add Audience"
+msgstr "Add Audience"
+
+#: index.html:1130
+msgid "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
+msgstr "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
+
+#: index.html:1054
+msgid "Add New Ad"
+msgstr "Add New Ad"
+
+#: index.html:900
+msgid "Add New Row"
+msgstr "Add New Row"
+
+#: index.html:299
+msgid "Adset"
+msgstr "Adset"
+
+#: index.html:3960
+msgid "Adsets"
+msgstr "Adsets"
+
+#: audience-form/audienceForm.html:6
+#: index.html:604
+msgid "Age"
+msgstr "Age"
+
+#: index.html:3558
+#: index.html:3705
+#: index.html:3853
+msgid "Audience Name"
+msgstr "Audience Name"
+
+#: index.html:625
+#: main/main.html:4
+msgid "Audiences"
+msgstr "Audiences"
+
+#: index.html:1945
+#: index.html:2285
+#: index.html:2631
+#: scripts.components.js:5857
+msgctxt "Bid"
+msgid "Auto"
+msgstr "Auto"
+
+#: index.html:869
+msgid "Auto Mixing"
+msgstr "Auto Mixing"
+
+#: index.html:1935
+#: index.html:2275
+#: index.html:2621
+msgid "Bid"
+msgstr "Bid"
+
+#: index.html:181
+msgid "Breakdown"
+msgstr "Breakdown"
+
+#: control/control_budget/control_budget_budget/controlBudgetBudget.html:2
+#: index.html:1897
+#: index.html:2236
+#: index.html:2583
+msgid "Budget"
+msgstr "Budget"
+
+#: index.html:2104
+msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
+msgstr "Budget Settings for \"[[$root.MainObj.adset.name]]\""
+
+#: index.html:164
+msgid "Bulk edit"
+msgstr "Bulk edit"
+
+#: index.html:574
+msgid "By Reach"
+msgstr "By Reach"
+
+#: index.html:1982
+#: index.html:2322
+#: index.html:2668
+#: index.html:3998
+msgctxt "Schedule"
+msgid "Calendar"
+msgstr "Calendar"
+
+#: index.html:1063
+#: index.html:2874
+#: index.html:750
+#: index.html:913
+msgid "Call To Action"
+msgstr "Call To Action"
+
+#: control/control_campaign/control_campaign_main/controlCampaignMain.html:2
+#: index.html:258
+#: index.html:3277
+msgid "Campaign"
+msgstr "Campaign"
+
+#: index.html:906
+msgid "Carousel"
+msgstr "Carousel"
+
+#: crud/crud__step/crud__step_selected/crudStepSelected.html:7
+#: index.html:535
+msgid "Choose another ad type."
+msgstr "Choose another ad type."
+
+#: index.html:101
+msgid "Choose parameter:"
+msgstr "Choose parameter:"
+
+#: index.html:183
+msgid "Clear all breakdowns"
+msgstr "Clear all breakdowns"
+
+#: index.html:1056
+#: index.html:1132
+#: index.html:1860
+#: index.html:2112
+#: index.html:341
+#: index.html:631
+#: index.html:903
+msgid "Clear this step."
+msgstr "Clear this step."
+
+#: index.html:1383
+#: index.html:1428
+#: index.html:1472
+#: index.html:1516
+#: index.html:1564
+#: index.html:1609
+#: index.html:1653
+#: index.html:1698
+msgid "Click to preview this ad"
+msgstr "Click to preview this ad"
+
+#: index.html:112
+msgid "Compare to parameter:"
+msgstr "Compare to parameter:"
+
+#: index.html:1981
+#: index.html:2321
+#: index.html:2667
+#: index.html:3997
+msgctxt "Schedule"
+msgid "Continuously"
+msgstr "Continuously"
+
+#: index.html:3798
+#: index.html:605
+msgid "Country"
+msgstr "Country"
+
+#: index.html:145
+msgid "Create Automation"
+msgstr "Create Automation"
+
+#: index.html:858
+msgid "Creating Mode"
+msgstr "Creating Mode"
+
+#: audience-form/audienceForm.html:10
+#: index.html:608
+msgid "Custom Audiences"
+msgstr "Custom Audiences"
+
+#: index.html:3606
+msgid "Customer List"
+msgstr "Customer List"
+
+#: index.html:176
+msgid "Customize columns"
+msgstr "Customize columns"
+
+#: index.html:1908
+#: index.html:2247
+#: index.html:2594
+#: scripts.components.js:6004
+#: scripts.js:10525
+#: scripts.js:10528
+#: scripts.js:10599
+#: scripts.js:10602
+#: scripts.js:10723
+#: scripts.js:10726
+msgctxt "Budget"
+msgid "Daily"
+msgstr "Daily"
+
+#: index.html:3610
+msgctxt "Custom Audiences"
+msgid "Data Type:"
+msgstr "Data Type:"
+
+#: index.html:3514
+msgctxt "Custom Audiences"
+msgid "days"
+msgstr "days"
+
+#: index.html:3579
+#: index.html:3726
+#: index.html:3874
+msgid "Description"
+msgstr "Description"
+
+#: audience-form/audienceForm.html:16
+#: index.html:606
+msgid "Device"
+msgstr "Device"
+
+#: index.html:1174
+#: index.html:3070
+msgctxt "Images drag and drop"
+msgid "Drop Files Here"
+msgstr "Drop Files Here"
+
+#: index.html:1387
+#: index.html:1432
+#: index.html:1476
+#: index.html:1520
+#: index.html:1568
+#: index.html:1613
+#: index.html:1657
+#: index.html:1702
+msgid "Drop Items Here"
+msgstr "Drop Items Here"
+
+#: index.html:3562
+#: index.html:3709
+#: index.html:3857
+msgid "Enter a name for your audience"
+msgstr "Enter a name for your audience"
+
+#: index.html:3514
+msgid "Enter a number"
+msgstr "Enter a number"
+
+#: control/control_adset/controlAdset.html:8
+#: index.html:314
+msgid "Enter adset name"
+msgstr "Enter adset name"
+
+#: index.html:3583
+#: index.html:3730
+#: index.html:3878
+msgid "Enter an optional description of your audience"
+msgstr "Enter an optional description of your audience"
+
+#: control/control_campaign/controlCampaign.html:8
+#: index.html:273
+#: index.html:3292
+msgid "Enter campaign name"
+msgstr "Enter campaign name"
+
+#: control/control_budget/controlBudget.html:10
+#: control/control_budget/controlBudget.html:8
+#: index.html:1913
+#: index.html:1914
+#: index.html:2252
+#: index.html:2253
+#: index.html:2599
+#: index.html:2600
+msgid "Enter maximum amount you want to spend"
+msgstr "Enter maximum amount you want to spend"
+
+#: index.html:1090
+msgid "Enter url for your call to action button"
+msgstr "Enter url for your call to action button"
+
+#: header/header_crud/headerCrud.html:17
+msgid "Errors&nbsp;<span class=\"caret\"></span>"
+msgstr "Errors&nbsp;<span class=\"caret\"></span>"
+
+#: index.html:573
+msgid "Evenly"
+msgstr "Evenly"
+
+#: index.html:310
+#: scripts.components.js:5310
+msgctxt "Adset"
+msgid "Existing"
+msgstr "Existing"
+
+#: index.html:269
+#: scripts.components.js:6317
+msgctxt "Campaign"
+msgid "Existing"
+msgstr "Existing"
+
+#: index.html:5
+msgid "Facebook-Aitarget cabinet"
+msgstr "Facebook-Aitarget cabinet"
+
+#: audience-form/audienceForm.html:7
+#: index.html:603
+msgid "Gender"
+msgstr "Gender"
+
+#: index.html:2989
+msgid "Headline"
+msgstr "Headline"
+
+#: index.html:1188
+#: index.html:1308
+msgid "Headlines"
+msgstr "Headlines"
+
+#: index.html:1146
+msgid "Images"
+msgstr "Images"
+
+#: index.html:3506
+msgid "In the Last"
+msgstr "In the Last"
+
+#: index.html:3531
+msgid "Include past website traffic"
+msgstr "Include past website traffic"
+
+#: audience-form/audienceForm.html:8
+#: index.html:607
+msgid "Interests"
+msgstr "Interests"
+
+#: index.html:1158
+#: index.html:3054
+msgctxt "Images library"
+msgid "Library"
+msgstr "Library"
+
+#: index.html:1907
+#: index.html:2246
+#: index.html:2593
+#: scripts.components.js:6001
+#: scripts.js:10525
+#: scripts.js:10528
+#: scripts.js:10599
+#: scripts.js:10602
+#: scripts.js:10723
+#: scripts.js:10726
+msgctxt "Budget"
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: index.html:1022
+#: index.html:1094
+#: index.html:832
+msgid "Link Caption (optional)"
+msgstr "Link Caption (optional)"
+
+#: index.html:2963
+#: index.html:780
+msgid "Link Description"
+msgstr "Link Description"
+
+#: index.html:806
+#: index.html:997
+msgid "Link Name"
+msgstr "Link Name"
+
+#: index.html:1747
+#: index.html:2932
+#: index.html:651
+msgid "Link URL"
+msgstr "Link URL"
+
+#: index.html:3679
+msgid "List of customers"
+msgstr "List of customers"
+
+#: index.html:868
+msgid "Manual"
+msgstr "Manual"
+
+#: index.html:1946
+#: index.html:2286
+#: index.html:2632
+#: scripts.components.js:5860
+msgctxt "Bid"
+msgid "Manual"
+msgstr "Manual"
+
+#: index.html:3014
+msgid "Message"
+msgstr "Message"
+
+#: index.html:1342
+msgid "Messages"
+msgstr "Messages"
+
+#: index.html:339
+msgid "Mobile App"
+msgstr "Mobile App"
+
+#: index.html:2473
+#: index.html:2556
+#: index.html:3252
+#: index.html:3398
+#: index.html:3914
+#: modal/modal__adcampaigns/modal__adcampaigns.html:7
+msgid "Name"
+msgstr "Name"
+
+#: index.html:268
+#: scripts.components.js:6314
+msgctxt "Campaign"
+msgid "New"
+msgstr "New"
+
+#: index.html:309
+#: scripts.components.js:5307
+msgctxt "Adset"
+msgid "New"
+msgstr "New"
+
+#: index.html:1138
+#: index.html:1863
+#: index.html:2115
+#: index.html:2157
+#: index.html:251
+#: index.html:387
+#: index.html:406
+#: index.html:462
+#: index.html:512
+#: index.html:538
+#: index.html:551
+#: index.html:634
+msgid "Next Step"
+msgstr "Next Step"
+
+#: index.html:3538
+msgctxt "Custom Audiences"
+msgid "No"
+msgstr "No"
+
+#: header/header_crud/headerCrud.html:14
+msgid "No Ad To Create"
+msgid_plural "Create [[$count]] New Ads"
+msgstr[0] "No Ad To Create"
+msgstr[1] ""
+
+#: index.html:3935
+msgid "Notifications"
+msgstr "Notifications"
+
+#: index.html:1236
+#: index.html:1356
+msgctxt "Action in input control"
+msgid "OK"
+msgstr "OK"
+
+#: index.html:1322
+msgid "OK"
+msgstr "OK"
+
+#: index.html:741
+msgid "One Image"
+msgstr "One Image"
+
+#: index.html:2902
+#: index.html:967
+msgid "Optimize Carousel"
+msgstr "Optimize Carousel"
+
+#: control/control_optimize/control_optimize_budget/controlOptimizeBudget.html:2
+#: index.html:2042
+#: index.html:2728
+msgid "Optimize for"
+msgstr "Optimize for"
+
+#: index.html:2799
+#: index.html:3147
+msgctxt "Status"
+msgid "Paused"
+msgstr "Paused"
+
+#: index.html:2135
+msgid "Paused"
+msgstr "Paused"
+
+#: control/control_pay/control_pay_budget/controlPayBudget.html:2
+#: index.html:2071
+#: index.html:2757
+msgid "Pay for"
+msgstr "Pay for"
+
+#: index.html:1775
+#: index.html:679
+msgid "Pixels"
+msgstr "Pixels"
+
+#: index.html:1808
+#: index.html:712
+msgid "Posts"
+msgstr "Posts"
+
+#: index.html:1871
+msgid "Preview Your Ad"
+msgstr "Preview Your Ad"
+
+#: index.html:2552
+msgid "Pricing"
+msgstr "Pricing"
+
+#: index.html:4083
+msgid "Rule Set"
+msgstr "Rule Set"
+
+#: index.html:3482
+msgid "Rules"
+msgstr "Rules"
+
+#: index.html:2019
+#: index.html:2705
+#: scripts.components.js:7231
+msgctxt "Ad Scheduling"
+msgid "Run ads all the time"
+msgstr "Run ads all the time"
+
+#: index.html:2020
+#: index.html:2706
+#: scripts.components.js:7234
+msgctxt "Ad Scheduling"
+msgid "Run ads on a schedule"
+msgstr "Run ads on a schedule"
+
+#: index.html:1971
+#: index.html:2311
+#: index.html:2657
+#: index.html:353
+#: index.html:3987
+msgid "Schedule"
+msgstr "Schedule"
+
+#: index.html:1165
+#: index.html:3067
+msgid "Search Free Stock Images"
+msgstr "Search Free Stock Images"
+
+#: index.html:3656
+msgid "Select"
+msgstr "Select"
+
+#: index.html:1784
+#: index.html:688
+msgid "Select a pixel in the list"
+msgstr "Select a pixel in the list"
+
+#: index.html:1817
+#: index.html:721
+msgid "Select a post in the list"
+msgstr "Select a post in the list"
+
+#: index.html:1756
+#: index.html:2941
+#: index.html:660
+msgid "Select a tab in the list"
+msgstr "Select a tab in the list"
+
+#: index.html:339
+msgid "Select an app or enter its URL"
+msgstr "Select an app or enter its URL"
+
+#: index.html:1981
+#: index.html:2667
+msgid "Select daily budget if you want to use this option."
+msgstr "Select daily budget if you want to use this option."
+
+#: index.html:1164
+#: index.html:1284
+#: index.html:3060
+#: index.html:3098
+msgid "Select Files"
+msgstr "Select Files"
+
+#: index.html:277
+#: index.html:3296
+msgid "Select or search a campaign in the list"
+msgstr "Select or search a campaign in the list"
+
+#: index.html:1072
+#: index.html:2883
+#: index.html:759
+#: index.html:922
+msgid "Select or search an action in the list"
+msgstr "Select or search an action in the list"
+
+#: index.html:318
+msgid "Select or search an adset in the list"
+msgstr "Select or search an adset in the list"
+
+#: index.html:59
+msgid "Select Period:"
+msgstr "Select Period:"
+
+#: crud/crud__step/crud__step_selected/crudStepSelected.html:3
+#: index.html:519
+msgid "Selected Ad Type"
+msgstr "Selected Ad Type"
+
+#: index.html:175
+msgid "Set as Default"
+msgstr "Set as Default"
+
+#: index.html:3349
+msgid "Should we copy Ad Groups?"
+msgstr "Should we copy Ad Groups?"
+
+#: index.html:3819
+msgid "Size"
+msgstr "Size"
+
+#: index.html:3615
+msgid "Source Mobile Apps"
+msgstr "Source Mobile Apps"
+
+#: index.html:3777
+msgid "Sources"
+msgstr "Sources"
+
+#: index.html:563
+msgid "Split Budget"
+msgstr "Split Budget"
+
+#: index.html:593
+msgid "Split By"
+msgstr "Split By"
+
+#: index.html:2124
+#: index.html:2788
+#: index.html:3136
+#: index.html:3319
+msgid "Status"
+msgstr "Status"
+
+#: index.html:4025
+msgid "Sync Period (minutes)"
+msgstr "Sync Period (minutes)"
+
+#: index.html:942
+msgid "Text"
+msgstr "Text"
+
+#: index.html:1222
+msgid "Texts"
+msgstr "Texts"
+
+#: index.html:3602
+#: index.html:3747
+msgctxt "Custom Audiences"
+msgid "the Facebook Custom Audiences Terms"
+msgstr "the Facebook Custom Audiences Terms"
+
+#: index.html:1232
+#: index.html:1352
+msgid "Type and press return"
+msgstr "Type and press return"
+
+#: index.html:1157
+#: index.html:3053
+msgctxt "Images upload"
+msgid "Upload"
+msgstr "Upload"
+
+#: index.html:3641
+msgid "Upload a File"
+msgstr "Upload a File"
+
+#: index.html:1059
+msgid "Video"
+msgstr "Video"
+
+#: index.html:1261
+msgid "Videos"
+msgstr "Videos"
+
+#: index.html:1790
+#: index.html:694
+msgid "View Code"
+msgstr "View Code"
+
+#: index.html:3662
+#: index.html:3687
+msgctxt "Custom Audiences"
+msgid "View format examples"
+msgstr "View format examples"
+
+#: index.html:3599
+msgctxt "Custom Audiences"
+msgid "View Pixel Code"
+msgstr "View Pixel Code"
+
+#: index.html:3478
+msgid "Website Traffic"
+msgstr "Website Traffic"
+
+#: index.html:3537
+msgctxt "Custom Audiences"
+msgid "Yes"
+msgstr "Yes"
+
+#: index.html:269
+msgid "You have no existing campaigns to choose with selected ad type."
+msgstr "You have no existing campaigns to choose with selected ad type."
+
+#: index.html:3602
+#: index.html:3747
+msgctxt "Custom Audiences"
+msgid "You have to accept &nbsp;"
+msgstr "You have to accept &nbsp;"
+
+#: index.html:1056
+#: index.html:1132
+#: index.html:1860
+#: index.html:2112
+#: index.html:341
+#: index.html:631
+#: index.html:903
+msgid "Your data has been automatically saved.&nbsp;"
+msgstr "Your data has been automatically saved.&nbsp;"
+
+#: index.html:3860
+msgctxt "Lookalike Audiences"
+msgid "[[({true: \"Hide\", false: \"Add\", undefined: \"Add\"}[MainObj.showDescription])]] description"
+msgstr ""
+
+#: index.html:2535
+#: index.html:4191
+msgctxt "Attribution"
+msgid "1 day after viewing advert and 28 days after clicking on advert are set if nothing is selected"
+msgstr ""
+
+#: index.html:3329
+msgctxt "Copy"
+msgid "Active"
+msgstr ""
+
+#: index.html:3205
+msgctxt "Preview"
+msgid "Ad Comments"
+msgstr ""
+
+#: index.html:4166
+msgctxt "Automations"
+msgid "Add Task"
+msgstr ""
+
+#: index.html:2528
+#: index.html:4072
+msgctxt "Attribution"
+msgid "after clicking on ad"
+msgstr ""
+
+#: index.html:2520
+#: index.html:4064
+msgctxt "Attribution"
+msgid "after viewing ad"
+msgstr ""
+
+#: index.html:2463
+msgctxt "Presets"
+msgid "columns selected"
+msgstr ""
+
+#: index.html:2483
+msgctxt "Presets"
+msgid "Current Preset"
+msgstr ""
+
+#: index.html:3943
+msgctxt "Automations"
+msgid "Enter emails to subscribe"
+msgstr ""
+
+#: index.html:2488
+msgid "Enter name of the preset"
+msgstr ""
+
+#: index.html:3287
+msgctxt "Copy"
+msgid "Existing"
+msgstr ""
+
+#: index.html:2377
+msgctxt "Crop"
+msgid "Height"
+msgstr ""
+
+#: index.html:2371
+msgctxt "Crop"
+msgid "Image information"
+msgstr ""
+
+#: index.html:1273
+#: index.html:3087
+msgctxt "Videos library"
+msgid "Library"
+msgstr ""
+
+#: index.html:2389
+msgctxt "Crop"
+msgid "Minimum size: <span class=\"media_text__bold\">[[requirements.minSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.minSize.height]]</span> pixels"
+msgstr ""
+
+#: index.html:3288
+msgctxt "Copy"
+msgid "New"
+msgstr ""
+
+#: index.html:2484
+msgctxt "Presets"
+msgid "New Preset"
+msgstr ""
+
+#: index.html:3360
+msgid "No"
+msgstr ""
+
+#: index.html:3330
+msgctxt "Copy"
+msgid "Paused"
+msgstr ""
+
+#: index.html:3186
+msgctxt "Preview"
+msgid "Preview Your Ad"
+msgstr ""
+
+#: index.html:2381
+msgctxt "Crop"
+msgid "Ratios"
+msgstr ""
+
+#: index.html:3825
+msgctxt "Lookalike Audiences"
+msgid "Reach ([[MainObj.country.users * 0.01 / 1000 | number_format]]K)"
+msgstr ""
+
+#: index.html:3771
+msgctxt "Lookalike Audiences"
+msgid "Reach new people who are similar to an audience you care about. Select a source and a country below, then choose an optimization."
+msgstr ""
+
+#: index.html:2390
+msgctxt "Crop"
+msgid "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
+msgstr ""
+
+#: index.html:4178
+msgctxt "Automations"
+msgid "Saved Tasks"
+msgstr ""
+
+#: index.html:2438
+msgid "Search"
+msgstr ""
+
+#: index.html:2450
+msgctxt "Presets"
+msgid "Select All Columns"
+msgstr ""
+
+#: index.html:3829
+msgctxt "Lookalike Audiences"
+msgid "Similarity ([[MainObj.country.users * 0.2 / 1000 | number_format]]K)"
+msgstr ""
+
+#: index.html:3832
+msgctxt "Lookalike Audiences"
+msgid "Size range is based on the total audience in the country you choose. Smaller audiences most closely match your source audience.\n"
+"                          Creating a larger audience increases your potential reach, but reduces the level of similarity to your source."
+msgstr ""
+
+#: index.html:2818
+msgid "Targeting"
+msgstr ""
+
+#: index.html:4170
+msgctxt "Automations"
+msgid "Templates"
+msgstr ""
+
+#: index.html:2508
+#: index.html:4052
+msgctxt "Attribution"
+msgid "The attribution window"
+msgstr ""
+
+#: index.html:1272
+#: index.html:3086
+msgctxt "Videos upload"
+msgid "Upload"
+msgstr ""
+
+#: index.html:2373
+msgctxt "Crop"
+msgid "Width"
+msgstr ""
+
+#: index.html:3359
+msgid "Yes"
+msgstr ""
+
+#: index.html:2391
+msgctxt "Crop"
+msgid "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
+msgstr ""
+
+#: scripts.js:13010
+#: scripts.js:14785
+#: scripts.js:14864
+msgctxt "Call To Action"
+msgid "– Not Selected –"
+msgstr ""
+
+#: scripts.components.js:5056
+msgctxt "Info : Budget"
+msgid ", the amount you enter is the maximum you'll spend during the lifetime of your adset."
+msgstr ""
+
+#: scripts.components.js:5006
+msgctxt "Info : Adset"
+msgid ", then you have to choose existing adset in the list. You have to choose campaign to get adset list."
+msgstr ""
+
+#: scripts.components.js:5003
+msgctxt "Info : Campaign"
+msgid ", then you have to choose existing campaign in the list."
+msgstr ""
+
+#: scripts.components.js:5006
+msgctxt "Info : Adset"
+msgid ", then you have to enter new adset name. One adset will be created."
+msgstr ""
+
+#: scripts.components.js:5003
+msgctxt "Info : Campaign"
+msgid ", then you have to enter new campaign name."
+msgstr ""
+
+#: scripts.components.js:5003
+msgctxt "Info : Campaign"
+msgid "'Existing'"
+msgstr ""
+
+#: scripts.components.js:5006
+msgctxt "Info : Adset"
+msgid "'Existing'"
+msgstr ""
+
+#: scripts.components.js:5003
+msgctxt "Info : Campaign"
+msgid "'New'"
+msgstr ""
+
+#: scripts.components.js:5006
+msgctxt "Info : Adset"
+msgid "'New'"
+msgstr ""
+
+#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
+msgctxt "Info : Targeting : Locations"
+msgid "[[audienceFormControlTypeGeoController.namesToReplaceStr]] to [[audienceFormControlTypeGeoController.itemName]].&nbsp;"
+msgstr ""
+
+#: footer/footer.html:4
+msgid "© 2012-2016 Aitarget"
+msgstr ""
+
+#: scripts.components.js:3294
+msgctxt "Pricing Table"
+msgid "$. Please subscribe to premium plan."
+msgstr ""
+
+#: scripts.components.js:3394
+msgctxt "Pricing Table"
+msgid "1 automation"
+msgstr ""
+
+#: scripts.js:12205
+msgctxt "Attribution"
+msgid "1 day"
+msgstr ""
+
+#: scripts.js:14255
+msgctxt "Create : Step"
+msgid "1. Main"
+msgstr ""
+
+#: scripts.js:14255
+msgctxt "Create : Step"
+msgid "1. Settings"
+msgstr ""
+
+#: scripts.js:14258
+msgctxt "Create : Step"
+msgid "2. Budget"
+msgstr ""
+
+#: scripts.js:14258
+msgctxt "Create : Step"
+msgid "2. Targeting"
+msgstr ""
+
+#: scripts.js:12211
+msgctxt "Attribution"
+msgid "28 day"
+msgstr ""
+
+#: scripts.js:14261
+msgctxt "Create : Step"
+msgid "3. Charts"
+msgstr ""
+
+#: scripts.js:14261
+msgctxt "Create : Step"
+msgid "3. Targeting"
+msgstr ""
+
+#: scripts.js:14264
+#: scripts.js:14360
+msgctxt "Create : Step"
+msgid "4. Creative"
+msgstr ""
+
+#: scripts.js:14264
+msgctxt "Create : Step"
+msgid "4. Table"
+msgstr ""
+
+#: scripts.js:12208
+msgctxt "Attribution"
+msgid "7 day"
+msgstr ""
+
+#: scripts.components.js:5054
+msgctxt "Info : Pixel"
+msgid "A conversion pixel is a small piece of code that lets you keep track of conversions, such as purchases and sign-ups, on your website."
+msgstr ""
+
+#: scripts.components.js:11171
+#: scripts.components.js:5024
+msgctxt "Info : Deep Link"
+msgid "A deep link is a URL that points to a specific place in your app, like a product page."
+msgstr ""
+
+#: scripts.components.js:3415
+msgctxt "Pricing Table"
+msgid "A/B  tests"
+msgstr ""
+
+#: scripts.js:11991
+msgctxt "Column : Adaccount"
+msgid "Account Status"
+msgstr ""
+
+#: scripts.js:12828
+msgctxt "Informer"
+msgid "actions"
+msgstr ""
+
+#: scripts.components.js:9013
+msgctxt "Campaign : Status"
+msgid "Active"
+msgstr ""
+
+#: scripts.js:10481
+msgctxt "Column : Status : Campaign"
+msgid "Active"
+msgstr ""
+
+#: scripts.js:10558
+msgctxt "Column : Status : Adset"
+msgid "Active"
+msgstr ""
+
+#: control/control_schedule/control_schedule_budget/controlScheduleBudget.html:2
+msgid "Ad Schedule"
+msgstr ""
+
+#: scripts.js:10661
+msgctxt "Column : Status : Adgroup"
+msgid "Ad Set is Off"
+msgstr ""
+
+#: scripts.components.js:5050
+msgctxt "Info : Headline"
+msgid "Add a headline that grabs people's attention and tells them what your ad is about."
+msgstr ""
+
+#: scripts.components.js:5008
+msgctxt "Info : Headline"
+msgid "Add headlines that grabs people's attention and tells them what your ad(s) is about."
+msgstr ""
+
+#: scripts.components.js:3362
+msgctxt "Pricing Table"
+msgid "Add payment method"
+msgstr ""
+
+#: scripts.js:12100
+msgctxt "Column : Automation"
+msgid "Adgroups"
+msgstr ""
+
+#: scripts.components.js:9395
+msgctxt "Switcher"
+msgid "Ads"
+msgstr ""
+
+#: scripts.js:14677
+msgctxt "Error : Text"
+msgid "Ads message is required and cannot be empty."
+msgstr ""
+
+#: scripts.js:14682
+msgctxt "Error : Text"
+msgid "Ads message must be more than 1 and less than 300 characters long."
+msgstr ""
+
+#: scripts.components.js:4866
+msgctxt "URL Macros"
+msgid "AdSet ID"
+msgstr ""
+
+#: scripts.components.js:5319
+msgctxt "Validation : Adset"
+msgid "Adset is required"
+msgstr ""
+
+#: scripts.js:14604
+#: scripts.js:14618
+msgctxt "Error : Adset"
+msgid "Adset is required if you want to use existing adset."
+msgstr ""
+
+#: scripts.components.js:4863
+msgctxt "URL Macros"
+msgid "AdSet name"
+msgstr ""
+
+#: scripts.components.js:5318
+msgctxt "Validation : Adset"
+msgid "Adset name is required"
+msgstr ""
+
+#: scripts.js:14625
+msgctxt "Error : Adset"
+msgid "Adset name is required if new adset is selected."
+msgstr ""
+
+#: scripts.js:14630
+msgctxt "Error : Adset"
+msgid "Adset name must be less than 100 characters long."
+msgstr ""
+
+#: scripts.js:12088
+msgctxt "Column : Automation"
+msgid "Adsets"
+msgstr ""
+
+#: scripts.components.js:9392
+msgctxt "Switcher"
+msgid "AdSets"
+msgstr ""
+
+#: scripts.components.js:3417
+msgctxt "Pricing Table"
+msgid "AiTarget learning"
+msgstr ""
+
+#: scripts.components.js:9975
+msgid "All"
+msgstr ""
+
+#: scripts.components.js:10683
+msgctxt "Platforms"
+msgid "All"
+msgstr ""
+
+#: scripts.components.js:10932
+#: scripts.components.js:10985
+msgctxt "Targeting OS Version"
+msgid "All"
+msgstr ""
+
+#: scripts.js:12300
+#: scripts.js:12316
+#: scripts.js:244
+msgctxt "Breadcrumb"
+msgid "All accounts"
+msgstr ""
+
+#: scripts.components.js:10887
+msgid "All mobile users"
+msgstr ""
+
+#: scripts.components.js:10687
+msgctxt "Platforms"
+msgid "Android only"
+msgstr ""
+
+#: scripts.components.js:9555
+msgctxt "Audience Opt Groups"
+msgid "App"
+msgstr ""
+
+#: scripts.components.js:9567
+msgctxt "Audience Opt Groups"
+msgid "App Combination"
+msgstr ""
+
+#: scripts.components.js:9770
+msgctxt "Connections Opt Groups"
+msgid "Applications"
+msgstr ""
+
+#: scripts.js:10671
+msgctxt "Column : Status : Adgroup"
+msgid "Approved"
+msgstr ""
+
+#: scripts.js:14611
+msgctxt "Error : Adset"
+msgid "At least one Adset is required."
+msgstr ""
+
+#: scripts.js:14485
+msgctxt "Error : Email"
+msgid "At least one email address is required."
+msgstr ""
+
+#: scripts.js:14570
+msgctxt "Error : App"
+msgid "At least one facebook app is required if you want to upload people IDs."
+msgstr ""
+
+#: scripts.js:14577
+msgctxt "Error : Audience"
+msgid "At least one source is required."
+msgstr ""
+
+#: scripts.js:11530
+#: scripts.js:13002
+msgctxt "Placement"
+msgid "Audience Network - Banner"
+msgstr ""
+
+#: scripts.js:11533
+#: scripts.js:13005
+msgctxt "Placement"
+msgid "Audience Network - Interstitial"
+msgstr ""
+
+#: scripts.components.js:3349
+msgctxt "Pricing Table"
+msgid "Automatic payment failed. We will try to retry the payment."
+msgstr ""
+
+#: main/main.html:5
+msgid "Automations"
+msgstr ""
+
+#: scripts.js:12050
+msgctxt "Column : Audience"
+msgid "Availability"
+msgstr ""
+
+#: scripts.js:12820
+msgctxt "Informer"
+msgid "Avg daily spend"
+msgstr ""
+
+#: scripts.js:11961
+msgctxt "Column : Adaccount"
+msgid "Balance"
+msgstr ""
+
+#: audience-form/audienceForm.html:9
+msgid "Behaviours"
+msgstr ""
+
+#: scripts.components.js:4875
+msgctxt "URL Macros"
+msgid "Bid amount (value or AUTOBID)"
+msgstr ""
+
+#: scripts.components.js:5869
+msgctxt "Validation : Bid"
+msgid "Bid bid is required"
+msgstr ""
+
+#: scripts.components.js:5868
+msgctxt "Validation : Bid"
+msgid "Bid is required"
+msgstr ""
+
+#: scripts.components.js:4872
+msgctxt "URL Macros"
+msgid "Bid type"
+msgstr ""
+
+#: scripts.components.js:4878
+msgctxt "URL Macros"
+msgid "Billing event"
+msgstr ""
+
+#: scripts.js:13025
+#: scripts.js:14800
+#: scripts.js:14870
+msgctxt "Call To Action"
+msgid "Book Now"
+msgstr ""
+
+#: scripts.components.js:3396
+msgctxt "Pricing Table"
+msgid "Budget < $2000"
+msgstr ""
+
+#: scripts.components.js:3409
+msgctxt "Pricing Table"
+msgid "Budget < $4000"
+msgstr ""
+
+#: scripts.js:14459
+msgctxt "Error : Budget"
+msgid "Budget value is required."
+msgstr ""
+
+#: scripts.js:14468
+msgctxt "Error : Budget"
+msgid "Budget value should be greater or equal to 1."
+msgstr ""
+
+#: scripts.js:14470
+msgctxt "Error : Budget"
+msgid "Budget value should be less or equal to 1 000 000."
+msgstr ""
+
+#: scripts.js:11894
+msgctxt "Column : Adaccount"
+msgid "Business Name"
+msgstr ""
+
+#: scripts.js:14824
+msgid "Buy Now"
+msgstr ""
+
+#: scripts.js:13049
+msgctxt "Call To Action"
+msgid "Buy Now"
+msgstr ""
+
+#: scripts.js:12217
+msgctxt "Automation : Adset : Action Param"
+msgid "By Reach"
+msgstr ""
+
+#: scripts.components.js:6144
+msgctxt "Calendar"
+msgid "Calendar"
+msgstr ""
+
+#: scripts.components.js:6152
+#: scripts.components.js:6153
+msgctxt "Validation : Calendar"
+msgid "Calendar is required"
+msgstr ""
+
+#: scripts.components.js:4860
+msgctxt "URL Macros"
+msgid "Campaign ID"
+msgstr ""
+
+#: scripts.js:10567
+msgctxt "Column : Status : Adset"
+msgid "Campaign is Off"
+msgstr ""
+
+#: scripts.js:10664
+msgctxt "Column : Status : Adgroup"
+msgid "Campaign is Off"
+msgstr ""
+
+#: scripts.components.js:6326
+msgctxt "Validation : Campaign"
+msgid "Campaign is required"
+msgstr ""
+
+#: scripts.js:14563
+msgctxt "Error : Campaign"
+msgid "Campaign is required if you want to use existing campaign."
+msgstr ""
+
+#: scripts.components.js:4857
+msgctxt "URL Macros"
+msgid "Campaign name"
+msgstr ""
+
+#: scripts.components.js:6325
+#: scripts.components.js:9011
+msgctxt "Validation : Campaign"
+msgid "Campaign name is required"
+msgstr ""
+
+#: scripts.js:14584
+msgctxt "Error : Campaign"
+msgid "Campaign name is required if new campaign is selected."
+msgstr ""
+
+#: scripts.js:14589
+msgctxt "Error : Campaign"
+msgid "Campaign name must be less than 128 characters long."
+msgstr ""
+
+#: modal/modal__adcampaigns/modal__adcampaigns.html:10
+msgid "Campaign Spending Limit"
+msgstr ""
+
+#: scripts.components.js:9389
+msgctxt "Switcher"
+msgid "Campaigns"
+msgstr ""
+
+#: crop/crop__modal/cropModal.html:15
+#: scripts.components.js:9056
+msgid "Cancel"
+msgstr ""
+
+#: scripts.js:12175
+msgctxt "Automation : Adset : Action"
+msgid "Change Bid"
+msgstr ""
+
+#: scripts.js:12178
+msgctxt "Automation : Adset : Action"
+msgid "Change Budget"
+msgstr ""
+
+#: scripts.components.js:5034
+msgctxt "Info : Targeting : Gender"
+msgid "Choose \"All\" unless you only want your ads to be shown to either men or women."
+msgstr ""
+
+#: scripts.components.js:5048
+msgctxt "Info : Targeting : Wireless Connection"
+msgid "Choose \"Wi-Fi only\" to show your ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection."
+msgstr ""
+
+#: scripts.components.js:11550
+#: scripts.components.js:11598
+msgctxt "Info: Page : Post"
+msgid "Choose a Facebook Page containing promoted post."
+msgstr ""
+
+#: scripts.components.js:11551
+#: scripts.components.js:11599
+msgctxt "Info: Page : Mobile"
+msgid "Choose a Facebook Page so you can run ads on Facebook."
+msgstr ""
+
+#: scripts.components.js:11549
+#: scripts.components.js:11597
+msgctxt "Info: Page : Page"
+msgid "Choose a Facebook Page that you want to be promoted."
+msgstr ""
+
+#: scripts.components.js:11548
+msgctxt "Info: Page : Website"
+msgid "Choose a Facebook Page to represent your business in News Feed.\n"
+"                                      Your ad will link to your site, but it will show as coming from your Facebook Page."
+msgstr ""
+
+#: scripts.components.js:11596
+msgctxt "Info: Page : Website"
+msgid "Choose a Facebook Page to represent your business in News Feed.\n"
+"                              Your ad will link to your site, but it will show as coming from your Facebook Page."
+msgstr ""
+
+#: scripts.components.js:5049
+msgctxt "Info : Adgroup : Name"
+msgid "Choose a name of your ad."
+msgstr ""
+
+#: scripts.components.js:5030
+msgctxt "Info : URL : Link"
+msgid "Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements."
+msgstr ""
+
+#: scripts.components.js:4999
+msgctxt "Info : Post"
+msgid "Choose a post that you want to promote."
+msgstr ""
+
+#: scripts.components.js:5006
+msgctxt "Info : Adset"
+msgid "Choose Adset"
+msgstr ""
+
+#: scripts.components.js:5003
+msgctxt "Info : Campaign"
+msgid "Choose Campaign"
+msgstr ""
+
+#: scripts.components.js:5047
+msgctxt "Info : Targeting : Device"
+msgid "Choose device models you would like to target these ads to."
+msgstr ""
+
+#: scripts.components.js:4991
+msgctxt "Info : Web Traffic"
+msgid "Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website."
+msgstr ""
+
+#: scripts.components.js:5046
+msgctxt "Info : Targeting : Min. OS"
+msgid "Choose minimum selected operating system version you want to target your ads to."
+msgstr ""
+
+#: scripts.components.js:5026
+msgctxt "Info : Creating Mode"
+msgid "Choose mixing mode if you want to combine every image, headline and message altogether."
+msgstr ""
+
+#: scripts.components.js:5027
+msgctxt "Info : Optimize Carousel"
+msgid "Choose optimizing mode if you want automatically select and order images and links."
+msgstr ""
+
+#: scripts.components.js:5029
+msgctxt "Info : Split Budget"
+msgid "Choose split by reach if you want to split budget according to audience reach."
+msgstr ""
+
+#: scripts.components.js:5028
+msgctxt "Info : Split By"
+msgid "Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device."
+msgstr ""
+
+#: scripts.components.js:5025
+msgctxt "Info : Call To Action"
+msgid "Choose the action you want people to take when they see your ad."
+msgstr ""
+
+#: scripts.components.js:4998
+msgctxt "Info : App"
+msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
+msgstr ""
+
+#: scripts.components.js:4997
+msgctxt "Info : URL : Mobile"
+msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
+msgstr ""
+
+#: scripts.components.js:5017
+msgctxt "Info : Attribution"
+msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
+msgstr ""
+
+#: scripts.components.js:5016
+msgctxt "Info : Attribution"
+msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
+msgstr ""
+
+#: scripts.components.js:5018
+msgctxt "Info : Attribution"
+msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
+msgstr ""
+
+#: scripts.js:13239
+msgctxt "Objective"
+msgid "Choose the objective for your campaign"
+msgstr ""
+
+#: scripts.components.js:5045
+#: scripts.components.js:5052
+msgctxt "Info : Targeting : Platform"
+msgid "Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model."
+msgstr ""
+
+#: scripts.js:13106
+msgctxt "Objective"
+msgid "Choose the type of your ads campaign:"
+msgstr "Choose the type of your ads campaign123: "
+
+#: scripts.components.js:5051
+msgctxt "Info : Targeting : Placements"
+msgid "Choose where you want your ads to show on Facebook and the placements that are most important to you."
+msgstr ""
+
+#: scripts.components.js:10190
+msgctxt "Geo Opt Groups"
+msgid "Cities"
+msgstr ""
+
+#: scripts.js:13155
+msgctxt "Objective"
+msgid "Clicks"
+msgstr ""
+
+#: scripts.components.js:3175
+msgctxt "Plan : Dialog"
+msgid "Close"
+msgstr ""
+
+#: scripts.components.js:3978
+msgid "Close Advanced Settings"
+msgstr ""
+
+#: scripts.components.js:5036
+msgctxt "Info : Targeting : Interests"
+msgid "Combine interests to expand your ad's reach."
+msgstr ""
+
+#: scripts.components.js:11366
+msgctxt "Info : Instagram Account"
+msgid "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
+msgstr ""
+
+#: scripts.js:13455
+msgctxt "Modal : Create : Ok Button"
+msgid "Continue"
+msgstr ""
+
+#: scripts.components.js:3333
+msgctxt "Pricing Table"
+msgid "Continue to use"
+msgstr ""
+
+#: scripts.components.js:6141
+msgctxt "Calendar"
+msgid "Continuously"
+msgstr ""
+
+#: scripts.js:14496
+msgctxt "Error : Pixel"
+msgid "Conversion Pixel is required."
+msgstr ""
+
+#: scripts.js:13168
+msgctxt "Objective"
+msgid "Conversions"
+msgstr ""
+
+#: scripts.components.js:4994
+msgctxt "Info : Audiences: Copy And Paste"
+msgid "Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file."
+msgstr ""
+
+#: scripts.components.js:10187
+msgctxt "Geo Opt Groups"
+msgid "Countries"
+msgstr ""
+
+#: scripts.js:12838
+msgctxt "Informer"
+msgid "cpc"
+msgstr ""
+
+#: scripts.components.js:6997
+msgctxt "Validation : Page"
+msgid "create public page."
+msgstr ""
+
+#: scripts.js:13456
+msgctxt "Modal : Create : Cancel Button"
+msgid "Create Similar Ads"
+msgstr ""
+
+#: scripts.components.js:4869
+msgctxt "URL Macros"
+msgid "Creative (Ads) name"
+msgstr ""
+
+#: scripts.js:10682
+msgctxt "Column : Status : Adgroup"
+msgid "Credit Card Needed"
+msgstr ""
+
+#: crop/crop__dialog/cropDialog.html:12
+msgid "Crop"
+msgstr ""
+
+#: crop/crop__modal/cropModal.html:5
+msgid "Crop Image"
+msgstr ""
+
+#: crop/crop__dialog/cropDialog.html:4
+msgid "Crop Image For Instagram"
+msgstr ""
+
+#: scripts.js:12833
+msgctxt "Informer"
+msgid "ctr"
+msgstr ""
+
+#: scripts.components.js:9546
+msgctxt "Audience Opt Groups"
+msgid "Custom"
+msgstr ""
+
+#: scripts.components.js:6013
+msgctxt "Validation : Budget"
+msgid "Daily budget is required"
+msgstr ""
+
+#: scripts.components.js:5056
+msgctxt "Info : Budget"
+msgid "daily budget</b>, the amount you enter is the maximum you'll spend each day."
+msgstr ""
+
+#: scripts.js:12058
+msgctxt "Column : Audience"
+msgid "Date Created"
+msgstr ""
+
+#: scripts.components.js:3344
+#: scripts.components.js:3353
+msgctxt "Pricing Table"
+msgid "days"
+msgstr ""
+
+#: scripts.components.js:3340
+msgctxt "Pricing Table"
+msgid "Days left:"
+msgstr ""
+
+#: scripts.js:10652
+msgctxt "Column : Status : Adgroup"
+msgid "Delivering"
+msgstr ""
+
+#: scripts.components.js:5023
+msgctxt "Info : Link Description"
+msgid "Describe why people should visit your website."
+msgstr ""
+
+#: scripts.js:11511
+#: scripts.js:13334
+#: scripts.js:13513
+#: scripts.js:13537
+#: scripts.js:14777
+#: scripts.js:14853
+msgctxt "Placement"
+msgid "Desktop Feed"
+msgstr ""
+
+#: scripts.js:12001
+msgctxt "Column : Adaccount"
+msgid "Disable Reason"
+msgstr ""
+
+#: scripts.js:10685
+msgctxt "Column : Status : Adgroup"
+msgid "Disabled"
+msgstr ""
+
+#: scripts.js:10754
+msgctxt "Column : Status : Automation"
+msgid "Disabled"
+msgstr ""
+
+#: scripts.js:10675
+msgctxt "Column : Status : Adgroup"
+msgid "Disapproved"
+msgstr ""
+
+#: scripts.components.js:9416
+msgctxt "Switcher"
+msgid "Display"
+msgstr ""
+
+#: scripts.components.js:10832
+msgctxt "RelationshipStatuses"
+msgid "Divorced"
+msgstr ""
+
+#: scripts.js:13454
+msgctxt "Modal : Create : Body"
+msgid "Do you want to leave this page and go to dashboard?"
+msgstr ""
+
+#: scripts.js:12227
+#: scripts.js:12234
+msgctxt "Automation : Adset : Param"
+msgid "Down"
+msgstr ""
+
+#: scripts.js:13037
+#: scripts.js:14812
+#: scripts.js:14879
+msgctxt "Call To Action"
+msgid "Download"
+msgstr ""
+
+#: scripts.js:13295
+msgctxt "Objective"
+msgid "Dynamic Product Ad"
+msgstr ""
+
+#: scripts.components.js:5019
+msgctxt "Info : Preset"
+msgid "Editing and creating is only available for user's presets. For shared presets you can only create a new one."
+msgstr ""
+
+#: scripts.js:10759
+msgctxt "Column : Status : Automation"
+msgid "Enabled"
+msgstr ""
+
+#: scripts.components.js:5068
+msgctxt "Info : Bid"
+msgid "Enabling this option will set your bid so that it's optimized to help you reach your objective."
+msgstr ""
+
+#: scripts.components.js:10811
+msgctxt "RelationshipStatuses"
+msgid "Engaged"
+msgstr ""
+
+#: modal/modal__adcampaigns/modal__adcampaigns.html:7
+msgid "Enter Ad Campaign Name"
+msgstr ""
+
+#: scripts.components.js:5069
+msgctxt "Info : Sync"
+msgid "Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes."
+msgstr ""
+
+#: scripts.components.js:5032
+msgctxt "Info : Targeting : Exclude Locations"
+msgid "Enter locations you want to exclude."
+msgstr ""
+
+#: modal/modal__adcampaigns/modal__adcampaigns.html:10
+msgid "Enter maximum amount your campaign can spend"
+msgstr ""
+
+#: scripts.components.js:5031
+msgctxt "Info : Targeting : Locations"
+msgid "Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations."
+msgstr ""
+
+#: scripts.components.js:11198
+msgctxt "URL Placeholder"
+msgid "Enter url to your website"
+msgstr ""
+
+#: scripts.js:12122
+msgctxt "Column : Automation"
+msgid "Error"
+msgstr ""
+
+#: scripts.components.js:3175
+msgctxt "Plan : Dialog"
+msgid "Error"
+msgstr ""
+
+#: scripts.js:13472
+msgctxt "Error : Create"
+msgid "Error occurred when creating your ads! Message:"
+msgstr ""
+
+#: scripts.js:12773
+msgctxt "Error : Image"
+msgid "Error occurred when requesting for library images."
+msgstr ""
+
+#: scripts.js:12794
+msgctxt "Error : Video"
+msgid "Error occurred when requesting for library videos."
+msgstr ""
+
+#: scripts.js:15734
+msgctxt "R&F"
+msgid "Error occurred when requesting R&F prediction! Please, check all fields and try again."
+msgstr ""
+
+#: scripts.components.js:6699
+msgctxt "Instagram Account"
+msgid "Error occurred! Couldn't create instagram account for the selected page."
+msgstr ""
+
+#: scripts.components.js:5564
+#: scripts.components.js:7545
+msgctxt "Error : App"
+msgid "Error occurred! Please, check your App URL."
+msgstr ""
+
+#: scripts.js:12220
+msgctxt "Automation : Adset : Param"
+msgid "Evenly"
+msgstr ""
+
+#: pacing/pacing.html:56
+msgctxt "Pacing"
+msgid "Every day"
+msgstr ""
+
+#: audience-form/audienceForm.html:11
+msgid "Exclude Custom Audiences"
+msgstr ""
+
+#: audience-form/audienceForm.html:22
+msgid "Exclude people who are connected to"
+msgstr ""
+
+#: scripts.components.js:5044
+msgctxt "Info : Targeting : Exclude Custom Audiences"
+msgid "Exclude your ads from targeting to people from some custom audience."
+msgstr ""
+
+#: calendar/calendar.html:15
+msgctxt "Calendar Day Name"
+msgid "F"
+msgstr ""
+
+#: scripts.components.js:10483
+msgctxt "Placement"
+msgid "Facebook – Audience Network"
+msgstr ""
+
+#: scripts.components.js:10474
+msgctxt "Placement"
+msgid "Facebook – Desktop News Feed"
+msgstr ""
+
+#: scripts.components.js:10480
+msgctxt "Placement"
+msgid "Facebook – Mobile News Feed"
+msgstr ""
+
+#: scripts.components.js:10477
+msgctxt "Placement"
+msgid "Facebook – Right Hand Side"
+msgstr ""
+
+#: scripts.components.js:5036
+msgctxt "Info : Targeting : Interests"
+msgid "Facebook can help you reach specific audiences by looking at their interests, activities, the Pages they have liked and closely related topics."
+msgstr ""
+
+#: scripts.components.js:3392
+msgctxt "Pricing Table"
+msgid "FAQ"
+msgstr ""
+
+#: scripts.components.js:4996
+msgctxt "Info : URL : Post"
+msgid "For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2."
+msgstr ""
+
+#: scripts.js:12851
+msgctxt "Informer"
+msgid "frequency"
+msgstr ""
+
+#: scripts.js:14732
+msgctxt "Error : Frequency Cap"
+msgid "Frequency cap value is required."
+msgstr ""
+
+#: scripts.js:14737
+msgctxt "Error : Frequency Cap"
+msgid "Frequency cap value should be greater or equal to 1."
+msgstr ""
+
+#: scripts.js:14738
+msgctxt "Error : Frequency Cap"
+msgid "Frequency cap value should be numeric."
+msgstr ""
+
+#: scripts.components.js:2524
+msgctxt "Pacing"
+msgid "Friday"
+msgstr ""
+
+#: scripts.components.js:10196
+msgctxt "Geo Opt Groups"
+msgid "Geo Market"
+msgstr ""
+
+#: scripts.js:13118
+msgctxt "Objective"
+msgid "Get new installs"
+msgstr ""
+
+#: scripts.js:13052
+msgctxt "Call To Action"
+msgid "Get Offer"
+msgstr ""
+
+#: scripts.js:14827
+msgid "Get Offer"
+msgstr ""
+
+#: scripts.components.js:5068
+msgctxt "Info : Bid"
+msgid "Get the most conversions at the best price - You'll be charged for impressions."
+msgstr ""
+
+#: scripts.components.js:5005
+msgctxt "Info : Adset : Name"
+msgid "Give your adset a name that describes the audience, scheduling or ads inside it."
+msgstr ""
+
+#: scripts.components.js:5004
+msgctxt "Info : Campaign : Name"
+msgid "Give your campaign a name that describes the audience, scheduling or adsets inside it."
+msgstr ""
+
+#: scripts.components.js:6696
+msgctxt "Instagram Account"
+msgid "grant manage page permissions"
+msgstr ""
+
+#: main/main.html:6
+msgid "Help"
+msgstr ""
+
+#: calendar/calendar.html:28
+msgctxt "Calendar Time"
+msgid "Hours:"
+msgstr ""
+
+#: scripts.components.js:6598
+msgctxt "Validation : Instagram Account"
+msgid "How to link your Instagram Account and AdAccount you can"
+msgstr ""
+
+#: scripts.js:12012
+msgctxt "Column : Audience"
+msgid "ID"
+msgstr ""
+
+#: scripts.js:11883
+msgctxt "Column : Adaccount"
+msgid "ID"
+msgstr ""
+
+#: scripts.js:12067
+msgctxt "Column : Automation"
+msgid "ID"
+msgstr ""
+
+#: scripts.components.js:5006
+msgctxt "Info : Adset"
+msgid "If"
+msgstr ""
+
+#: scripts.components.js:5003
+msgctxt "Info : Campaign"
+msgid "If"
+msgstr ""
+
+#: scripts.components.js:5056
+msgctxt "Info : Budget"
+msgid "If you choose a"
+msgstr ""
+
+#: scripts.components.js:5055
+msgctxt "Info : App"
+msgid "If you want to optimize your ad for mobile app installs, please choose facebook app associated with your app."
+msgstr ""
+
+#: scripts.js:12846
+msgctxt "Informer"
+msgid "impressions"
+msgstr ""
+
+#: scripts.components.js:10817
+msgctxt "RelationshipStatuses"
+msgid "In a civil union"
+msgstr ""
+
+#: scripts.components.js:10820
+msgctxt "RelationshipStatuses"
+msgid "In a domestic partnership"
+msgstr ""
+
+#: scripts.components.js:10823
+msgctxt "RelationshipStatuses"
+msgid "In an open relationship"
+msgstr ""
+
+#: scripts.components.js:10805
+msgctxt "RelationshipStatuses"
+msgid "In relationship"
+msgstr ""
+
+#: scripts.js:10667
+msgctxt "Column : Status : Adgroup"
+msgid "In Review"
+msgstr ""
+
+#: scripts.js:10466
+msgctxt "Column : Status : Campaign"
+msgid "Inactive"
+msgstr ""
+
+#: scripts.js:10562
+msgctxt "Column : Status : Adset"
+msgid "Inactive"
+msgstr ""
+
+#: scripts.js:10656
+msgctxt "Column : Status : Adgroup"
+msgid "Inactive"
+msgstr ""
+
+#: audience-form/audienceForm.html:21
+msgid "Include people who are connected to"
+msgstr ""
+
+#: audience-form/audienceForm.html:23
+msgid "Include people whose friends are connected to"
+msgstr ""
+
+#: scripts.components.js:10486
+#: scripts.js:11523
+msgctxt "Placement"
+msgid "Instagram"
+msgstr ""
+
+#: scripts.js:13229
+msgctxt "Objective"
+msgid "Instagram"
+msgstr ""
+
+#: control/control_instagram/control_instagram_creative/controlInstagramCreative.html:2
+msgid "Instagram Account"
+msgstr ""
+
+#: scripts.components.js:6594
+msgctxt "Validation : Instagram Account"
+msgid "Instagram account is required."
+msgstr ""
+
+#: scripts.js:13022
+#: scripts.js:14797
+msgctxt "Call To Action"
+msgid "Install Mobile App"
+msgstr ""
+
+#: scripts.components.js:3411
+msgctxt "Pricing Table"
+msgid "Integration of external data"
+msgstr ""
+
+#: audience-form/audienceForm.html:19
+msgid "Interested In"
+msgstr ""
+
+#: scripts.js:14745
+msgctxt "Error : Frequency Cap"
+msgid "Interval period is required."
+msgstr ""
+
+#: scripts.js:14750
+msgctxt "Error : Frequency Cap"
+msgid "Interval period should be more than 1 day."
+msgstr ""
+
+#: scripts.js:14751
+msgctxt "Error : Frequency Cap"
+msgid "Interval period value should be numeric."
+msgstr ""
+
+#: scripts.components.js:10691
+msgctxt "Platforms"
+msgid "iOS only"
+msgstr ""
+
+#: scripts.js:14464
+#: scripts.js:14648
+msgctxt "Error : Number"
+msgid "It can't have less than 1 or more than 2 decimal places."
+msgstr ""
+
+#: scripts.components.js:10826
+msgctxt "RelationshipStatuses"
+msgid "It's complicated"
+msgstr ""
+
+#: audience-form/audienceForm.html:18
+msgid "Languages"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last 14 Days"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last 28 Days"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last 3 Months"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last 30 Days"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last 7 Days"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last 90 Days"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last Hour"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last Month"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Last Week"
+msgstr ""
+
+#: scripts.js:13031
+#: scripts.js:14806
+#: scripts.js:14873
+msgctxt "Call To Action"
+msgid "Learn More"
+msgstr ""
+
+#: scripts.components.js:5035
+msgctxt "Info : Targeting : Languages"
+msgid "Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above."
+msgstr ""
+
+#: scripts.components.js:5042
+msgctxt "Info : Targeting : Interested In"
+msgid "Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\""
+msgstr ""
+
+#: scripts.components.js:5038
+msgctxt "Info : Targeting : Connections"
+msgid "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
+msgstr ""
+
+#: scripts.components.js:5040
+msgctxt "Info : Targeting : Friends Of Connections"
+msgid "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event."
+msgstr ""
+
+#: scripts.components.js:5039
+msgctxt "Info : Targeting : Excluded Connections"
+msgid "Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event."
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Lifetime"
+msgstr ""
+
+#: scripts.components.js:5056
+msgctxt "Info : Budget"
+msgid "lifetime budget"
+msgstr ""
+
+#: scripts.components.js:6012
+msgctxt "Validation : Budget"
+msgid "Lifetime budget is required"
+msgstr ""
+
+#: scripts.js:11976
+msgctxt "Column : Adaccount"
+msgid "Limit"
+msgstr ""
+
+#: scripts.components.js:5060
+msgctxt "Info : Targeting : Audiences"
+msgid "List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here."
+msgstr ""
+
+#: scripts.components.js:9549
+msgctxt "Audience Opt Groups"
+msgid "Lookalike"
+msgstr ""
+
+#: calendar/calendar.html:11
+msgctxt "Calendar Day Name"
+msgid "M"
+msgstr ""
+
+#: scripts.components.js:9561
+msgctxt "Audience Opt Groups"
+msgid "Managed"
+msgstr ""
+
+#: scripts.components.js:10808
+msgctxt "RelationshipStatuses"
+msgid "Married"
+msgstr ""
+
+#: scripts.js:13061
+#: scripts.js:14838
+msgctxt "Placeholder : Bid"
+msgid "Maximum CPC"
+msgstr ""
+
+#: scripts.js:13064
+#: scripts.js:14841
+msgctxt "Placeholder : Bid"
+msgid "Maximum CPI"
+msgstr ""
+
+#: control/control_bid/controlBid.html:8
+msgid "Maximum CPI"
+msgstr ""
+
+#: scripts.components.js:5009
+msgctxt "Info : Message"
+msgid "Maximum length is 300 characters. Will be automatically cut."
+msgstr ""
+
+#: scripts.components.js:5008
+msgctxt "Info : Headline"
+msgid "Maximum length is 40 characters. Will be automatically cut."
+msgstr ""
+
+#: scripts.components.js:5067
+msgctxt "Info : Frequency Cap"
+msgid "Maximum number of times your ad will be shown to tha same user."
+msgstr ""
+
+#: scripts.components.js:4995
+msgctxt "Info : Audiences : In The Last"
+msgid "Maximum time: 180 days"
+msgstr ""
+
+#: scripts.components.js:10038
+#: scripts.components.js:9978
+msgid "Men"
+msgstr ""
+
+#: scripts.components.js:10044
+msgid "Men and Women"
+msgstr ""
+
+#: audience-form/audienceForm.html:15
+msgid "Min. Operating System"
+msgstr ""
+
+#: calendar/calendar.html:33
+msgctxt "Calendar Time"
+msgid "Minutes:"
+msgstr ""
+
+#: scripts.js:13108
+msgctxt "Objective"
+msgid "Mobile"
+msgstr ""
+
+#: scripts.js:11519
+#: scripts.js:11527
+#: scripts.js:12999
+#: scripts.js:13337
+#: scripts.js:13516
+#: scripts.js:13540
+#: scripts.js:14780
+#: scripts.js:14856
+msgctxt "Placement"
+msgid "Mobile Feed"
+msgstr ""
+
+#: scripts.js:13254
+msgctxt "Objective"
+msgid "Mobile installs"
+msgstr ""
+
+#: scripts.components.js:2504
+msgctxt "Pacing"
+msgid "Monday"
+msgstr ""
+
+#: scripts.js:12078
+msgctxt "Column : Automation"
+msgid "Name"
+msgstr ""
+
+#: scripts.js:12023
+msgctxt "Column : Audience"
+msgid "Name"
+msgstr ""
+
+#: scripts.js:11903
+msgctxt "Column : Adaccount"
+msgid "Name"
+msgstr ""
+
+#: crud/crud__step/crud__step_action/crudStepAction.html:14
+#: fba-form/fba-form_budget/fbaFormBudget.html:15
+#: fba-form/fba-form_creative/fbaFormCreative.html:25
+#: fba-form/fba-form_main/fbaFormMain.html:13
+#: fba-form/fba-form_targeting/fbaFormTargeting.html:15
+msgid "Next step"
+msgstr ""
+
+#: scripts.js:10546
+msgctxt "Column : Status : Adset"
+msgid "Not Delivering"
+msgstr ""
+
+#: scripts.js:10637
+msgctxt "Column : Status : Adgroup"
+msgid "Not Delivering"
+msgstr ""
+
+#: scripts.components.js:10047
+msgid "Not specified"
+msgstr ""
+
+#: scripts.components.js:10814
+msgctxt "RelationshipStatuses"
+msgid "Not specified"
+msgstr ""
+
+#: scripts.js:12190
+msgctxt "Automation : Adset : Action"
+msgid "Notify By Email"
+msgstr ""
+
+#: scripts.components.js:3405
+msgctxt "Pricing Table"
+msgid "Online chat support"
+msgstr ""
+
+#: scripts.components.js:3972
+#: scripts.components.js:3983
+msgid "Open Advanced Settings"
+msgstr ""
+
+#: scripts.js:13046
+#: scripts.js:14821
+msgctxt "Call To Action"
+msgid "Open Link"
+msgstr ""
+
+#: scripts.components.js:4881
+msgctxt "URL Macros"
+msgid "Optimization goal"
+msgstr ""
+
+#: scripts.components.js:3413
+msgctxt "Pricing Table"
+msgid "Optimization of mobile events"
+msgstr ""
+
+#: crop/crop__dialog/cropDialog.html:13
+msgid "Original"
+msgstr ""
+
+#: control/control_page/control_page_adgroup/controlPageAdgroup.html:2
+msgid "Page"
+msgstr ""
+
+#: scripts.js:13470
+#: scripts.js:13472
+#: scripts.js:7963
+msgctxt "Error : Group"
+msgid "Page"
+msgstr ""
+
+#: scripts.js:13182
+msgctxt "Objective"
+msgid "Page"
+msgstr ""
+
+#: scripts.js:14725
+msgctxt "Error : Page"
+msgid "Page is required."
+msgstr ""
+
+#: scripts.components.js:6996
+msgctxt "Validation : Page"
+msgid "Page is required."
+msgstr ""
+
+#: scripts.js:13192
+msgctxt "Objective"
+msgid "Page Likes"
+msgstr ""
+
+#: control/control_page/control_page_creative/controlPageCreative.html:2
+msgid "Pages"
+msgstr ""
+
+#: scripts.components.js:9767
+msgctxt "Connections Opt Groups"
+msgid "Pages"
+msgstr ""
+
+#: scripts.components.js:9558
+msgctxt "Audience Opt Groups"
+msgid "Partner"
+msgstr ""
+
+#: index.html:3687
+msgid "Paste your customer list here."
+msgstr ""
+
+#: scripts.components.js:9013
+msgctxt "Campaign : Status"
+msgid "Paused"
+msgstr ""
+
+#: scripts.js:10679
+msgctxt "Column : Status : Adgroup"
+msgid "Pending Billing Info"
+msgstr ""
+
+#: scripts.components.js:10377
+#: scripts.components.js:10621
+#: scripts.components.js:9579
+#: scripts.components.js:9669
+#: scripts.components.js:9759
+msgctxt "Audience Size"
+msgid "people"
+msgstr ""
+
+#: scripts.js:7882
+#: scripts.js:7889
+msgctxt "Tooltip : Slider : Audiences"
+msgid "people"
+msgstr ""
+
+#: audience-form/audienceForm.html:13
+msgid "Placements"
+msgstr ""
+
+#: scripts.components.js:9773
+msgctxt "Connections Opt Groups"
+msgid "Places"
+msgstr ""
+
+#: audience-form/audienceForm.html:14
+msgid "Platform"
+msgstr ""
+
+#: scripts.js:13016
+#: scripts.js:14791
+msgctxt "Call To Action"
+msgid "Play Game"
+msgstr ""
+
+#: scripts.js:7792
+msgctxt "Error : Connection"
+msgid "Please, check that your computer is connected to the Internet."
+msgstr ""
+
+#: scripts.components.js:1423
+msgctxt "Error : Replace"
+msgid "Please, select application by direct link to play.google.com or itunes.apple.com if you\n"
+"               want to promote App Installs. No redirect links are supported."
+msgstr ""
+
+#: scripts.components.js:5175
+msgctxt "Automation: Ads"
+msgid "Please, select at least one ad to be used in automations"
+msgstr ""
+
+#: scripts.components.js:5014
+msgctxt "Info : Image : Library"
+msgid "Please, select images that you want to use in your new ads."
+msgstr ""
+
+#: scripts.components.js:1418
+msgctxt "Error : Replace"
+msgid "Please, select page or change targeting placement."
+msgstr ""
+
+#: scripts.js:836
+msgctxt "Error : Page"
+msgid "Please, try to"
+msgstr ""
+
+#: scripts.js:13205
+msgctxt "Objective"
+msgid "Post Engagement"
+msgstr ""
+
+#: scripts.js:14512
+msgctxt "Error : Post"
+msgid "Post is required for post engagement ad type."
+msgstr ""
+
+#: scripts.components.js:3130
+msgctxt "Plan"
+msgid "Premiun plan"
+msgstr ""
+
+#: scripts.js:14597
+msgctxt "Error : Preset"
+msgid "Preset name is required."
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Previous Hour"
+msgstr ""
+
+#: scripts.js:13131
+msgctxt "Objective"
+msgid "Re-engage existing users"
+msgstr ""
+
+#: scripts.js:12856
+msgctxt "Informer"
+msgid "reach"
+msgstr ""
+
+#: scripts.js:13219
+msgctxt "Objective"
+msgid "Reach & Frequency"
+msgstr ""
+
+#: scripts.components.js:5037
+msgctxt "Info : Targeting : Behaviours"
+msgid "Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only."
+msgstr ""
+
+#: scripts.components.js:6598
+msgctxt "Validation : Instagram Account"
+msgid "read in our blog."
+msgstr ""
+
+#: scripts.components.js:10193
+msgctxt "Geo Opt Groups"
+msgid "Regions"
+msgstr ""
+
+#: audience-form/audienceForm.html:20
+msgid "Relationship Statuses"
+msgstr ""
+
+#: scripts.js:836
+msgctxt "Error : Page"
+msgid "reload"
+msgstr ""
+
+#: scripts.js:12181
+msgctxt "Automation : Adset : Action"
+msgid "Relocate Budget"
+msgstr ""
+
+#: scripts.js:11515
+#: scripts.js:11537
+#: scripts.js:13331
+#: scripts.js:13519
+#: scripts.js:13543
+#: scripts.js:14859
+msgctxt "Placement"
+msgid "Right Column"
+msgstr ""
+
+#: scripts.js:12200
+msgctxt "Automation : Adgroup : Action"
+msgid "Rotate"
+msgstr ""
+
+#: calendar/calendar.html:16
+#: calendar/calendar.html:17
+msgctxt "Calendar Day Name"
+msgid "S"
+msgstr ""
+
+#: scripts.components.js:2529
+msgctxt "Pacing"
+msgid "Saturday"
+msgstr ""
+
+#: crop/crop__modal/cropModal.html:16
+#: scripts.components.js:9009
+msgid "Save"
+msgstr ""
+
+#: scripts.components.js:7241
+#: scripts.components.js:7242
+msgctxt "Validation : Ad Scheduling"
+msgid "Schedule is required"
+msgstr ""
+
+#: pacing/pacing.html:58
+msgctxt "Pacing"
+msgid "Scheduled hours are shaded blue"
+msgstr ""
+
+#: scripts.components.js:5002
+msgctxt "Info : Copy : Adgroups"
+msgid "Select 'No' if you want to copy Adset without Ad Groups."
+msgstr ""
+
+#: control/control_page/control_page_adgroup/controlPageAdgroup.html:2
+#: control/control_page/control_page_creative/controlPageCreative.html:2
+msgid "Select a page in the list"
+msgstr ""
+
+#: scripts.components.js:5021
+msgctxt "Info : Automation : Adset"
+msgid "Select actions that you want to apply to selected adsets when all rules match."
+msgstr ""
+
+#: scripts.components.js:5138
+msgctxt "Automation: Ads"
+msgid "Select ad that you want to use automation for."
+msgstr ""
+
+#: scripts.components.js:5020
+msgctxt "Info : Automation : Adset"
+msgid "Select adsets that you want to use automation for."
+msgstr ""
+
+#: audience-form/audienceForm.html:6
+msgid "Select Age"
+msgstr ""
+
+#: scripts.components.js:5059
+msgctxt "Info : Automation : Notifications"
+msgid "Select emails to send notifications to."
+msgstr ""
+
+#: control/control_adset/controlAdset.html:6
+msgid "Select manual targeting mode if you want to use existing adset."
+msgstr ""
+
+#: audience-form/audienceForm.html:15
+msgid "Select min. Operating System"
+msgstr ""
+
+#: audience-form/audience-form__control/audience-form__control_type_placements/audienceFormControlTypePlacements.html:4
+msgid "Select or search a placement in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:19
+#: audience-form/audienceForm.html:20
+msgid "Select or search a values in the list"
+msgstr ""
+
+#: control/control_adset/controlAdset.html:10
+msgid "Select or search adset in the list"
+msgstr ""
+
+#: control/control_ad/controlAd.html:5
+#: control/control_adset/control_adset_automation/controlAdsetAutomation.html:5
+msgid "Select or search adsets in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:9
+msgid "Select or search behaviors in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:10
+#: audience-form/audienceForm.html:11
+msgid "Select or search custom audiences in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:16
+msgid "Select or search device name in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:4
+#: audience-form/audienceForm.html:5
+msgid "Select or search geo locations in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:8
+msgid "Select or search interests in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:18
+msgid "Select or search languages in the list"
+msgstr ""
+
+#: audience-form/audienceForm.html:21
+#: audience-form/audienceForm.html:22
+#: audience-form/audienceForm.html:23
+msgid "Select or search pages, apps or events in the list"
+msgstr ""
+
+#: scripts.components.js:5057
+msgctxt "Info : Calendar"
+msgid "Select the advertisement period for your ads."
+msgstr ""
+
+#: scripts.components.js:5007
+msgctxt "Info : Image"
+msgid "Select the images."
+msgstr ""
+
+#: scripts.components.js:5033
+msgctxt "Info : Targeting : Age"
+msgid "Select the minimum and maximum age of the people who will find your ad relevant."
+msgstr ""
+
+#: scripts.components.js:5058
+msgctxt "Info : Automation : Calendar"
+msgid "Select the period for your automation."
+msgstr ""
+
+#: scripts.components.js:5001
+msgctxt "Info : Adset"
+msgid "Select to create new adset or use an existing adset."
+msgstr ""
+
+#: scripts.components.js:5000
+msgctxt "Info : Campaign"
+msgid "Select to create new campaign or use an existing campaign."
+msgstr ""
+
+#: scripts.components.js:10829
+msgctxt "RelationshipStatuses"
+msgid "Separated"
+msgstr ""
+
+#: scripts.components.js:5066
+msgctxt "Info : Status"
+msgid "Set activity status for your campaign."
+msgstr ""
+
+#: scripts.components.js:4990
+msgctxt "Info : Spend Cap"
+msgid "Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit."
+msgstr ""
+
+#: scripts.js:13013
+#: scripts.js:14788
+#: scripts.js:14867
+msgctxt "Call To Action"
+msgid "Shop Now"
+msgstr ""
+
+#: scripts.components.js:5053
+msgctxt "Info : Caption"
+msgid "Short caption of the url that people will reach after clicking on your ad."
+msgstr ""
+
+#: scripts.js:13034
+#: scripts.js:14809
+#: scripts.js:14876
+msgctxt "Call To Action"
+msgid "Sign Up"
+msgstr ""
+
+#: scripts.components.js:10802
+msgctxt "RelationshipStatuses"
+msgid "Single"
+msgstr ""
+
+#: scripts.js:12041
+msgctxt "Column : Audience"
+msgid "Size"
+msgstr ""
+
+#: scripts.js:12810
+msgctxt "Informer"
+msgid "spend"
+msgstr ""
+
+#: scripts.components.js:9012
+msgctxt "Validation : Campaign"
+msgid "Spend Cap is required"
+msgstr ""
+
+#: scripts.components.js:9012
+msgctxt "Validation : Campaign"
+msgid "Spend Cap must be numeric"
+msgstr ""
+
+#: scripts.js:11937
+msgctxt "Column : Adaccount"
+msgid "Spent Last Week"
+msgstr ""
+
+#: scripts.js:11949
+msgctxt "Column : Adaccount"
+msgid "Spent This Month"
+msgstr ""
+
+#: scripts.js:11913
+msgctxt "Column : Adaccount"
+msgid "Spent Today"
+msgstr ""
+
+#: scripts.js:11925
+msgctxt "Column : Adaccount"
+msgid "Spent Yesterday"
+msgstr ""
+
+#: scripts.js:12187
+msgctxt "Automation : Adset : Action"
+msgid "Start"
+msgstr ""
+
+#: scripts.js:12197
+msgctxt "Automation : Adgroup : Action"
+msgid "Start"
+msgstr ""
+
+#: scripts.js:12184
+msgctxt "Automation : Adset : Action"
+msgid "Stop"
+msgstr ""
+
+#: scripts.js:12194
+msgctxt "Automation : Adgroup : Action"
+msgid "Stop"
+msgstr ""
+
+#: scripts.components.js:3144
+msgctxt "Plan"
+msgid "Stripe Checkout closed without making a sale."
+msgstr ""
+
+#: scripts.components.js:3322
+#: scripts.components.js:3343
+#: scripts.components.js:3352
+#: scripts.components.js:3426
+msgctxt "Pricing Table"
+msgid "Subscribe"
+msgstr ""
+
+#: scripts.components.js:3364
+msgctxt "Pricing Table"
+msgid "Subscription period has ended. Please update your plan"
+msgstr ""
+
+#: scripts.components.js:2534
+msgctxt "Pacing"
+msgid "Sunday"
+msgstr ""
+
+#: scripts.components.js:3392
+msgctxt "Pricing Table"
+msgid "support"
+msgstr ""
+
+#: scripts.js:14758
+msgctxt "Error : Sync"
+msgid "Sync period value is required."
+msgstr ""
+
+#: scripts.js:14763
+msgctxt "Error : Sync"
+msgid "Sync period value should be greater or equal to 15 minutes."
+msgstr ""
+
+#: calendar/calendar.html:12
+#: calendar/calendar.html:14
+msgctxt "Calendar Day Name"
+msgid "T"
+msgstr ""
+
+#: scripts.components.js:5041
+msgctxt "Info : Targeting : Relationship Statuses"
+msgid "Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status."
+msgstr ""
+
+#: scripts.components.js:5043
+msgctxt "Info : Targeting : Custom Audiences"
+msgid "Target your ads to people from your custom audience."
+msgstr ""
+
+#: scripts.components.js:5031
+msgctxt "Info : Targeting : Locations"
+msgid "Targeting your ad by city isn't available in all countries."
+msgstr ""
+
+#: scripts.components.js:5031
+msgctxt "Info : Targeting : Locations"
+msgid "Targeting your ad by ZIP code is only available in the United States."
+msgstr ""
+
+#: scripts.components.js:5009
+msgctxt "Info : Message"
+msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
+msgstr ""
+
+#: scripts.components.js:5010
+msgctxt "Info : Text : Carousel"
+msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
+msgstr ""
+
+#: scripts.components.js:4993
+msgctxt "Info : Audiences : Upload File"
+msgid "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
+msgstr ""
+
+#: scripts.js:14713
+msgctxt "Error : Text"
+msgid "The body text is required and cannot be empty."
+msgstr ""
+
+#: scripts.js:14718
+msgctxt "Error : Text"
+msgid "The body text must be more than 1 and less than 300 characters long."
+msgstr ""
+
+#: scripts.js:14544
+msgctxt "Error : Link Description"
+msgid "The caption must be more than 1 and less than 60 characters long."
+msgstr ""
+
+#: scripts.js:14535
+msgctxt "Error : Link Caption"
+msgid "The caption must be more than 1 and less than 90 characters long."
+msgstr ""
+
+#: scripts.components.js:5022
+msgctxt "Info : Link Caption"
+msgid "The caption of a link in the post (appears beneath the name)."
+msgstr ""
+
+#: scripts.components.js:3291
+msgctxt "Pricing Table"
+msgid "The functionality you're trying to access is only available for premium users"
+msgstr ""
+
+#: scripts.js:14701
+msgctxt "Error : Headline"
+msgid "The headline is required and cannot be empty."
+msgstr ""
+
+#: scripts.js:14706
+msgctxt "Error : Headline"
+msgid "The headline must be more than 1 and less than 40 characters long."
+msgstr ""
+
+#: scripts.js:14526
+msgctxt "Error : Link Name"
+msgid "The link name must be more than 1 and less than 50 characters long."
+msgstr ""
+
+#: scripts.js:14478
+msgctxt "Error : Link URL"
+msgid "The Link URl is required."
+msgstr ""
+
+#: scripts.components.js:4989
+msgctxt "Info : Frequency Cap"
+msgid "The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement."
+msgstr ""
+
+#: control/control_app/controlApp.html:5
+#: control/control_type_app/controlTypeApp.html:5
+msgctxt "Validation : App"
+msgid "The Mobile App is required"
+msgstr ""
+
+#: scripts.js:14665
+msgctxt "Error : Name"
+msgid "The name is required and cannot be empty."
+msgstr ""
+
+#: scripts.js:14670
+msgctxt "Error : Name"
+msgid "The name must be more than 1 and less than 100 characters long."
+msgstr ""
+
+#: scripts.components.js:5015
+msgctxt "Info : Link Name"
+msgid "The name of the link."
+msgstr ""
+
+#: scripts.components.js:4995
+msgctxt "Info : Audiences : In The Last"
+msgid "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
+msgstr ""
+
+#: scripts.js:14689
+msgctxt "Error : Pixel"
+msgid "The pixel name is required and cannot be empty."
+msgstr ""
+
+#: scripts.js:14694
+msgctxt "Error : Pixel"
+msgid "The pixel name must be more than 1 and less than 100 characters long."
+msgstr ""
+
+#: scripts.js:14551
+msgctxt "Error : Text"
+msgid "The text message for carousel ad is required."
+msgstr ""
+
+#: scripts.js:14556
+msgctxt "Error : Text"
+msgid "The text message must be more than 1 and less than 300 characters long."
+msgstr ""
+
+#: scripts.js:14652
+msgctxt "Error : Bid"
+msgid "The value should be greater or equal to 0.01."
+msgstr ""
+
+#: scripts.js:14764
+msgctxt "Error : Sync"
+msgid "The value should be numeric."
+msgstr ""
+
+#: control/control-url/controlUrl.html:21
+msgctxt "URL Validation"
+msgid "The website address is not valid."
+msgstr ""
+
+#: scripts.components.js:3164
+msgctxt "Plan"
+msgid "There was a mistake when updating plan"
+msgstr ""
+
+#: scripts.components.js:5062
+msgctxt "Info : Bid"
+msgid "This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads."
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "This Month"
+msgstr ""
+
+#: scripts.js:836
+msgctxt "Error : Page"
+msgid "this page."
+msgstr ""
+
+#: scripts.js:14643
+msgctxt "Error : Bid"
+msgid "This value is required."
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "This Week"
+msgstr ""
+
+#: scripts.components.js:2519
+msgctxt "Pacing"
+msgid "Thursday"
+msgstr ""
+
+#: scripts.components.js:6696
+msgctxt "Instagram Account"
+msgid "to 'Aitarget' application in order to create instagram account for the selected page."
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Today"
+msgstr ""
+
+#: scripts.js:12815
+msgctxt "Informer"
+msgid "total spend"
+msgstr ""
+
+#: scripts.components.js:3328
+msgctxt "Pricing Table"
+msgid "Trial days left:"
+msgstr ""
+
+#: scripts.components.js:3361
+msgctxt "Pricing Table"
+msgid "Trial period has ended. Please update your plan"
+msgstr ""
+
+#: scripts.components.js:3344
+#: scripts.components.js:3353
+msgctxt "Pricing Table"
+msgid "Trial Period:"
+msgstr ""
+
+#: scripts.components.js:3368
+msgctxt "Pricing Table"
+msgid "Trial period: 30 days"
+msgstr ""
+
+#: scripts.components.js:2509
+msgctxt "Pacing"
+msgid "Tuesday"
+msgstr ""
+
+#: scripts.js:12033
+msgctxt "Column : Audience"
+msgid "Type"
+msgstr ""
+
+#: scripts.js:7793
+msgctxt "Error : Connection"
+msgid "Unable to connect to the Internet!"
+msgstr ""
+
+#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
+msgctxt "Info : Targeting : Locations"
+msgid "Undo Change"
+msgstr ""
+
+#: scripts.js:835
+msgctxt "Error : Page"
+msgid "Unknown error occurred on this page."
+msgstr ""
+
+#: scripts.components.js:9041
+msgctxt "Error : Campaign : Edit"
+msgid "Unknown error occurred when updating selected Ad Campaigns."
+msgstr ""
+
+#: scripts.js:13598
+msgctxt "Error : Preview"
+msgid "Unknown error occurred, when requesting for Ad preview."
+msgstr ""
+
+#: scripts.components.js:3407
+msgctxt "Pricing Table"
+msgid "Unlimited amount of automations"
+msgstr ""
+
+#: scripts.js:12224
+#: scripts.js:12231
+msgctxt "Automation : Adset : Param"
+msgid "Up"
+msgstr ""
+
+#: scripts.components.js:4988
+msgctxt "Info : URL"
+msgid "Url of a website that you want to promote."
+msgstr ""
+
+#: scripts.components.js:4996
+msgctxt "Info : URL : Post"
+msgid "URL tags you specify here will be appended to or will replace existing tags in the URLs."
+msgstr ""
+
+#: scripts.components.js:11220
+msgctxt "Info : URL"
+msgid "URL to main page or products category on the website."
+msgstr ""
+
+#: scripts.js:13019
+#: scripts.js:13043
+#: scripts.js:14794
+#: scripts.js:14818
+msgctxt "Call To Action"
+msgid "Use Mobile App"
+msgstr ""
+
+#: scripts.components.js:6670
+msgctxt "Instagram Account"
+msgid "Use page only"
+msgstr ""
+
+#: scripts.components.js:11171
+#: scripts.components.js:5024
+msgctxt "Info : Deep Link"
+msgid "Using a Deep Link"
+msgstr ""
+
+#: scripts.components.js:9564
+msgctxt "Audience Opt Groups"
+msgid "Video"
+msgstr ""
+
+#: scripts.js:13267
+#: scripts.js:13282
+msgctxt "Objective"
+msgid "Video Views"
+msgstr ""
+
+#: calendar/calendar.html:13
+msgctxt "Calendar Day Name"
+msgid "W"
+msgstr ""
+
+#: scripts.js:13040
+#: scripts.js:14815
+msgctxt "Call To Action"
+msgid "Watch More"
+msgstr ""
+
+#: scripts.js:13028
+#: scripts.js:14803
+msgctxt "Call To Action"
+msgid "Watch Video"
+msgstr ""
+
+#: scripts.js:13145
+msgctxt "Objective"
+msgid "Website"
+msgstr ""
+
+#: scripts.components.js:9552
+msgctxt "Audience Opt Groups"
+msgid "Website"
+msgstr ""
+
+#: scripts.js:13241
+msgctxt "Objective"
+msgid "Website Clicks"
+msgstr ""
+
+#: scripts.components.js:11197
+msgctxt "URL Label"
+msgid "Website Url"
+msgstr ""
+
+#: scripts.components.js:2514
+msgctxt "Pacing"
+msgid "Wednesday"
+msgstr ""
+
+#: scripts.js:13116
+#: scripts.js:13153
+#: scripts.js:13190
+msgctxt "Objective"
+msgid "What kind of actions do you want to get?"
+msgstr ""
+
+#: scripts.components.js:11171
+#: scripts.components.js:5024
+msgctxt "Info : Deep Link"
+msgid "When launching an app with a deep link Facebook will be able to open your app in a specific state."
+msgstr ""
+
+#: scripts.components.js:10890
+msgid "Wi-Fi only"
+msgstr ""
+
+#: scripts.components.js:10835
+msgctxt "RelationshipStatuses"
+msgid "Widowed"
+msgstr ""
+
+#: audience-form/audienceForm.html:17
+msgid "Wireless Connection"
+msgstr ""
+
+#: scripts.components.js:10041
+#: scripts.components.js:9981
+msgid "Women"
+msgstr ""
+
+#: scripts.js:8236
+msgctxt "Automation : Analyze Window"
+msgid "Yesterday"
+msgstr ""
+
+#: scripts.components.js:5543
+#: scripts.components.js:7522
+msgctxt "Validation : App"
+msgid "You App is not registered in Facebook."
+msgstr ""
+
+#: scripts.components.js:5011
+msgctxt "Info : Preview"
+msgid "You can choose different ad formats and see how your ads looks like."
+msgstr ""
+
+#: scripts.components.js:5013
+msgctxt "Info : Preview"
+msgid "You can choose different ad formats and see how your ads will like after creation."
+msgstr ""
+
+#: scripts.components.js:5064
+msgctxt "Info : Pay For"
+msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to."
+msgstr ""
+
+#: scripts.components.js:5063
+msgctxt "Info : Optimize For"
+msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to."
+msgstr ""
+
+#: scripts.components.js:4994
+msgctxt "Info : Audiences : Copy And Paste"
+msgid "You can copy columns from a spreadsheet with one record per row or a list of records separated by commas"
+msgstr ""
+
+#: scripts.components.js:5012
+msgctxt "Info : Preview"
+msgid "You can delete comments to your ad."
+msgstr ""
+
+#: scripts.components.js:4992
+msgctxt "Info : Audiences : Apps For"
+msgid "You can only upload IDs for people that download or use your Facebook app."
+msgstr ""
+
+#: scripts.components.js:5061
+msgctxt "Info : Schedule"
+msgid "You can schedule your ads for specific hours and days of the week."
+msgstr ""
+
+#: scripts.components.js:4993
+msgctxt "Info : Upload File Audiences"
+msgid "You can upload files in .csv or .txt format."
+msgstr ""
+
+#: scripts.components.js:11171
+#: scripts.components.js:5024
+msgctxt "Info : Deep Link"
+msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
+msgstr ""
+
+#: scripts.components.js:6997
+msgctxt "Validation : Page"
+msgid "You don’t have any pages. You can’t use your profile page. You should"
+msgstr ""
+
+#: scripts.js:13096
+msgctxt "Tooltip : Access"
+msgid "You have limited rights to create Ads"
+msgstr ""
+
+#: scripts.js:13453
+msgctxt "Modal : Create : Title"
+msgid "You have successfully created"
+msgstr ""
+
+#: scripts.components.js:6696
+msgctxt "Instagram Account"
+msgid "You should"
+msgstr ""
+
+#: scripts.js:14360
+msgctxt "Error : Create"
+msgid "You should have at least one ad to create."
+msgstr ""
+
+#: scripts.components.js:5065
+msgctxt "Info : Status"
+msgid "Your ads will have status that you choose."
+msgstr ""
+
+#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
+msgctxt "Info : Targeting : Locations"
+msgid "Your audience location has been changed from&nbsp;"
+msgstr ""
+
+#: scripts.components.js:5062
+msgctxt "Info : Bid"
+msgid "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
+msgstr ""
+
+#: scripts.components.js:3294
+msgctxt "Pricing Table"
+msgid "Your budget is over"
+msgstr ""
+
