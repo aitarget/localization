@@ -17,11 +17,6 @@ msgctxt "Custom Audiences"
 msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
 msgstr "[[MainObj.source_file[0].name || 'Файл падения Здесь или \"]]&nbsp;"
 
-#: index.html:135
-#, fuzzy
-msgid "+ Create Audience<span class=\"caret\"></span>"
-msgstr "+ Создать аудиторию <SPAN класс = \"каретка\"> </ SPAN>"
-
 #: index.html:551
 msgid "1. Main"
 msgstr "1. Основной"
@@ -59,13 +54,6 @@ msgstr "4. Таблица"
 msgid "Action"
 msgstr "Действие"
 
-#: index.html:2804
-#: index.html:3152
-#, fuzzy
-msgctxt "Status"
-msgid "Active"
-msgstr "активный"
-
 #: index.html:2140
 msgid "Active"
 msgstr "Активный"
@@ -84,11 +72,6 @@ msgstr "Ограничивать по времени"
 #: index.html:636
 msgid "Add Audience"
 msgstr "Добавить аудиторию"
-
-#: index.html:1136
-#, fuzzy
-msgid "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
-msgstr "Добавить [[({ 'карусельного': 'Ad', 'нормальный': 'Строка'}. [$ Корень $ state.params.creative_type])]]"
 
 #: index.html:1060
 msgid "Add New Ad"
@@ -141,11 +124,6 @@ msgstr "Включить перемешивание"
 msgid "Bid"
 msgstr "Ставка"
 
-#: index.html:187
-#, fuzzy
-msgid "Breakdown"
-msgstr "Сломать"
-
 #: control/control_budget/control_budget_budget/controlBudgetBudget.html:2
 #: index.html:1903
 #: index.html:2242
@@ -157,11 +135,6 @@ msgstr "Бюджет"
 #: index.html:2110
 msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
 msgstr "Настройки бюджета для \"[[$root.MainObj.adset.name]]\""
-
-#: index.html:170
-#, fuzzy
-msgid "Bulk edit"
-msgstr "Массовое изменение"
 
 #: index.html:580
 msgid "By Reach"
@@ -197,16 +170,6 @@ msgstr "Карусель"
 msgid "Choose another ad type."
 msgstr "Выбрать другой тип."
 
-#: index.html:101
-#, fuzzy
-msgid "Choose parameter:"
-msgstr "Выберите параметр:"
-
-#: index.html:189
-#, fuzzy
-msgid "Clear all breakdowns"
-msgstr "Очистить все срывы"
-
 #: index.html:1062
 #: index.html:1138
 #: index.html:1866
@@ -230,11 +193,6 @@ msgstr "Очистить этот шаг."
 msgid "Click to preview this ad"
 msgstr "Просмотреть объявления"
 
-#: index.html:112
-#, fuzzy
-msgid "Compare to parameter:"
-msgstr "По сравнению с параметром:"
-
 #: index.html:1987
 #: index.html:2327
 #: index.html:2673
@@ -248,11 +206,6 @@ msgstr "Нет"
 msgid "Country"
 msgstr "Страна"
 
-#: index.html:145
-#, fuzzy
-msgid "Create Automation"
-msgstr "Создание автоматизации"
-
 #: index.html:864
 msgid "Creating Mode"
 msgstr "Режим создания"
@@ -261,16 +214,6 @@ msgstr "Режим создания"
 #: index.html:614
 msgid "Custom Audiences"
 msgstr "Пользовательские Аудитории"
-
-#: index.html:3612
-#, fuzzy
-msgid "Customer List"
-msgstr "Список клиентов"
-
-#: index.html:182
-#, fuzzy
-msgid "Customize columns"
-msgstr "Настроить столбцы"
 
 #: index.html:1914
 #: index.html:2253
@@ -286,18 +229,6 @@ msgctxt "Budget"
 msgid "Daily"
 msgstr "Дневной"
 
-#: index.html:3616
-#, fuzzy
-msgctxt "Custom Audiences"
-msgid "Data Type:"
-msgstr "Тип данных:"
-
-#: index.html:3520
-#, fuzzy
-msgctxt "Custom Audiences"
-msgid "days"
-msgstr "дней"
-
 #: index.html:3585
 #: index.html:3732
 #: index.html:3880
@@ -308,13 +239,6 @@ msgstr "Описание"
 #: index.html:612
 msgid "Device"
 msgstr "По устройствам"
-
-#: index.html:1180
-#: index.html:3076
-#, fuzzy
-msgctxt "Images drag and drop"
-msgid "Drop Files Here"
-msgstr "Перетащите сюда файлы"
 
 #: index.html:1393
 #: index.html:1438
@@ -327,29 +251,10 @@ msgstr "Перетащите сюда файлы"
 msgid "Drop Items Here"
 msgstr "Переместите сюда"
 
-#: index.html:3568
-#: index.html:3715
-#: index.html:3863
-#, fuzzy
-msgid "Enter a name for your audience"
-msgstr "Введите имя для вашей аудитории"
-
-#: index.html:3520
-#, fuzzy
-msgid "Enter a number"
-msgstr "Введите номер"
-
 #: control/control_adset/controlAdset.html:8
 #: index.html:320
 msgid "Enter adset name"
 msgstr "Введите название"
-
-#: index.html:3589
-#: index.html:3736
-#: index.html:3884
-#, fuzzy
-msgid "Enter an optional description of your audience"
-msgstr "Введите дополнительное описание вашей аудитории"
 
 #: control/control_campaign/controlCampaign.html:8
 #: index.html:279
@@ -392,11 +297,6 @@ msgctxt "Campaign"
 msgid "Existing"
 msgstr "Из списка"
 
-#: index.html:5
-#, fuzzy
-msgid "Facebook-Aitarget cabinet"
-msgstr "Facebook-Aitarget кабинет"
-
 #: audience-form/audienceForm.html:7
 #: index.html:609
 msgid "Gender"
@@ -427,13 +327,6 @@ msgstr "Включать предыдущий траффик на сайт"
 #: index.html:613
 msgid "Interests"
 msgstr "По интересам"
-
-#: index.html:1164
-#: index.html:3060
-#, fuzzy
-msgctxt "Images library"
-msgid "Library"
-msgstr "Библиотека"
 
 #: index.html:1913
 #: index.html:2252
@@ -534,12 +427,6 @@ msgstr "Новый"
 #: index.html:640
 msgid "Next Step"
 msgstr "Дальше"
-
-#: index.html:3544
-#, fuzzy
-msgctxt "Custom Audiences"
-msgid "No"
-msgstr "Нет"
 
 #: header/header_crud/headerCrud.html:14
 msgid "No Ad To Create"
