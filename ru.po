@@ -10,17 +10,17 @@ msgstr ""
 
 #: index.html:3046
 msgid "[[ MainObj.video_id ? 'Video' : 'Image' ]]"
-msgstr "[[MainObj.video_id? ‘Видео’: ‘Изображение’]]"
+msgstr "[[ MainObj.video_id? 'Видео': 'Изображение' ]]"
 
 #: index.html:3657
 msgctxt "Custom Audiences"
 msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
-msgstr "[[MainObj.source_file[0].name || 'Файл падения Здесь или \"]]&nbsp;"
+msgstr "[[MainObj.source_file[0].name || 'Бросьте файл сюда или ']]&nbsp;"
 
 #: index.html:135
 #, fuzzy
-msgid "+ Create Audience<span class=\"caret\"></span>"
-msgstr "+ Создать аудиторию <SPAN класс = \"каретка\"> </ SPAN>"
+msgid "+ Create Audience <span class=\"caret\"></span>"
+msgstr "+ Создать аудиторию <span class=\"caret\"></span>"
 
 #: index.html:551
 msgid "1. Main"
@@ -88,7 +88,7 @@ msgstr "Добавить аудиторию"
 #: index.html:1136
 #, fuzzy
 msgid "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
-msgstr "Добавить [[({ 'карусельного': 'Ad', 'нормальный': 'Строка'}. [$ Корень $ state.params.creative_type])]]"
+msgstr "Добавить [[({ 'карусельного': 'Ad', 'нормальный': 'Строка'}. [$root.$state.params.creative_type])]]"
 
 #: index.html:1060
 msgid "Add New Ad"
@@ -888,7 +888,7 @@ msgstr "столбцы выбраны"
 #, fuzzy
 msgctxt "Presets"
 msgid "Current Preset"
-msgstr "Текущая Предустановленная"
+msgstr "Текущий Пресет"
 
 #: index.html:3949
 #, fuzzy
@@ -930,7 +930,7 @@ msgstr "Библиотека"
 #, fuzzy
 msgctxt "Crop"
 msgid "Minimum size: <span class=\"media_text__bold\">[[requirements.minSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.minSize.height]]</span> pixels"
-msgstr "Минимальный размер: <SPAN класс = \"media_text__bold\"> [[requirements.minSize.width]] </ SPAN> х <пролет класс = \"media_text__bold\"> [[requirements.minSize.height]] </ SPAN> пикселей"
+msgstr "Минимальный размер: <span class=\"media_text__bold\">[[requirements.minSize.width]]</span> х <span class=\"media_text__bold\">[[requirements.minSize.height]]</span> пикселей"
 
 #: index.html:3294
 #, fuzzy
@@ -942,7 +942,7 @@ msgstr "новый"
 #, fuzzy
 msgctxt "Presets"
 msgid "New Preset"
-msgstr "Новая Предустановленная"
+msgstr "Новый Пресет"
 
 #: index.html:3366
 #, fuzzy
@@ -971,7 +971,7 @@ msgstr "коэффициенты"
 #, fuzzy
 msgctxt "Crop"
 msgid "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
-msgstr "Рекомендуемый размер: <SPAN класс = \"media_text__bold\"> [[requirements.recommendedSize.width]] </ SPAN> х <пролет класс = \"media_text__bold\"> [[requirements.recommendedSize.height]] </ SPAN> пикселей"
+msgstr "Рекомендуемый размер: <span class=\"media_text__bold\"> [[requirements.recommendedSize.width]] </span> х <span class=\"media_text__bold\"> [[requirements.recommendedSize.height]] </span> пикселей"
 
 #: index.html:4184
 #, fuzzy
@@ -993,7 +993,7 @@ msgstr "Выбрать все столбцы"
 #: index.html:2824
 #, fuzzy
 msgid "Targeting"
-msgstr "нацеливание"
+msgstr "Таргетинг"
 
 #: index.html:4176
 #, fuzzy
@@ -1024,13 +1024,13 @@ msgstr "Ширина"
 #: index.html:3365
 #, fuzzy
 msgid "Yes"
-msgstr "да"
+msgstr "Да"
 
 #: index.html:2397
 #, fuzzy
 msgctxt "Crop"
 msgid "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
-msgstr "Ваше изображение может не включать в себя больше, чем <SPAN класс = \"media_text__bold\"> 20% </ SPAN> текст"
+msgstr "Ваше изображение может не включать в себя больше, чем <span class=\"media_text__bold\">20%</span> текст"
 
 #: scripts.js:13024
 #: scripts.js:14799
@@ -1171,7 +1171,7 @@ msgstr "3. Графики"
 #, fuzzy
 msgctxt "Create : Step"
 msgid "3. Targeting"
-msgstr "3. нацеливание"
+msgstr "3. Таргетинг"
 
 #: scripts.js:14278
 #: scripts.js:14374
@@ -1186,7 +1186,7 @@ msgstr "3. нацеливание"
 #, fuzzy
 msgctxt "Create : Step"
 msgid "4. Creative"
-msgstr "4. Творческий"
+msgstr "4. Креатив"
 
 #: scripts.js:14278
 #, fuzzy
@@ -1198,7 +1198,7 @@ msgstr "4. Таблица"
 #, fuzzy
 msgctxt "Attribution"
 msgid "7 day"
-msgstr "7 день"
+msgstr "7 дней"
 
 #: scripts.components.js:5040
 #, fuzzy
@@ -1217,7 +1217,7 @@ msgstr "Глубокая ссылка является URL, который ук�
 #, fuzzy
 msgctxt "Pricing Table"
 msgid "A/B  tests"
-msgstr "Тесты A / B"
+msgstr "A/B тесты"
 
 #: scripts.js:11979
 #, fuzzy
@@ -1235,19 +1235,19 @@ msgstr "действия"
 #, fuzzy
 msgctxt "Campaign : Status"
 msgid "Active"
-msgstr "активный"
+msgstr "Активная"
 
 #: scripts.js:3745
 #, fuzzy
 msgctxt "Column : Status : Campaign"
 msgid "Active"
-msgstr "активный"
+msgstr "Активная"
 
 #: scripts.js:3822
 #, fuzzy
 msgctxt "Column : Status : Adset"
 msgid "Active"
-msgstr "активный"
+msgstr "Активный"
 
 #: control/control_schedule/control_schedule_budget/controlScheduleBudget.html:2
 #, fuzzy
@@ -1258,7 +1258,7 @@ msgstr "Расписание показов объявлений"
 #, fuzzy
 msgctxt "Column : Status : Adgroup"
 msgid "Ad Set is Off"
-msgstr "Ad Установить Выкл"
+msgstr "Адсет Выключен"
 
 #: scripts.components.js:5036
 #, fuzzy
@@ -1387,7 +1387,7 @@ msgstr "Все"
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "All accounts"
-msgstr "Все счета"
+msgstr "Все Аккаунты"
 
 #: scripts.components.js:11091
 #, fuzzy
@@ -1540,13 +1540,13 @@ msgstr "Забронируйте сейчас"
 #, fuzzy
 msgctxt "Pricing Table"
 msgid "Budget < $2000"
-msgstr "Бюджет <$ 2000"
+msgstr "Бюджет < $ 2000"
 
 #: scripts.components.js:3409
 #, fuzzy
 msgctxt "Pricing Table"
 msgid "Budget < $4000"
-msgstr "Бюджет <$ 4000"
+msgstr "Бюджет  $ 4000"
 
 #: scripts.js:14473
 #, fuzzy
@@ -2012,8 +2012,8 @@ msgstr "Ежедневный бюджет требуется"
 #: scripts.components.js:5042
 #, fuzzy
 msgctxt "Info : Budget"
-msgid "daily budget</b>, the amount you enter is the maximum you'll spend each day."
-msgstr "Ежедневный бюджет </ b>, сумма, которую вы ввести максимальный вы будете проводить каждый день."
+msgid "daily budget </b>, the amount you enter is the maximum you'll spend each day."
+msgstr "Ежедневный бюджет </b>, сумма, которую вы ввести максимальный вы будете проводить каждый день."
 
 #: scripts.js:12046
 #, fuzzy
@@ -2527,13 +2527,13 @@ msgstr "Instagram"
 #: control/control_instagram/control_instagram_creative/controlInstagramCreative.html:2
 #, fuzzy
 msgid "Instagram Account"
-msgstr "Счет Instagram"
+msgstr "Instagram Аккаунт"
 
 #: scripts.components.js:6595
 #, fuzzy
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
-msgstr "Instagram счет."
+msgstr "Необходимо выбрать Instagram аккаунт."
 
 #: scripts.js:13036
 #: scripts.js:14811
@@ -4195,14 +4195,14 @@ msgstr "Минимальный охват 200 000"
 #, fuzzy
 msgctxt "gettextCatalog"
 msgid "Account"
-msgstr "Счет"
+msgstr "аккаунт"
 
 #: scripts.js:4735
 #: scripts.js:5401
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Account"
-msgstr "Счет"
+msgstr "аккаунт"
 
 #: scripts.js:5292
 #: scripts.js:5680
