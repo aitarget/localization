@@ -20,7 +20,7 @@ msgstr "[[MainObj.source_file[0].name || 'Бросьте файл сюда ил�
 #: index.html:135
 #, fuzzy
 msgid "+ Create Audience<span class=\"caret\"></span>"
-msgstr "+ Создать аудиторию<span class=\"caret\"></span>"
+msgstr "+ Создать Аудиторию<span class=\"caret\"></span>"
 
 #: index.html:551
 msgid "1. Main"
@@ -150,7 +150,7 @@ msgstr "Сломать"
 #: index.html:1903
 #: index.html:2242
 #: index.html:2589
-#: scripts.js:15044
+#: scripts.js:15216
 msgid "Budget"
 msgstr "Бюджет"
 
@@ -624,14 +624,14 @@ msgstr "Правила"
 
 #: index.html:2025
 #: index.html:2711
-#: scripts.components.js:7135
+#: scripts.components.js:7232
 msgctxt "Ad Scheduling"
 msgid "Run ads all the time"
 msgstr "Нет"
 
 #: index.html:2026
 #: index.html:2712
-#: scripts.components.js:7138
+#: scripts.components.js:7235
 msgctxt "Ad Scheduling"
 msgid "Run ads on a schedule"
 msgstr "По расписанию"
@@ -1032,65 +1032,65 @@ msgctxt "Crop"
 msgid "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
 msgstr "Ваше изображение может не включать в себя больше, чем <span class=\"media_text__bold\">20%</span> текст"
 
-#: scripts.js:13024
-#: scripts.js:14799
-#: scripts.js:14878
-#: scripts.js:5557
-#: scripts.js:6011
+#: scripts.js:6300
+#: scripts.js:8075
+#: scripts.js:8154
+#: scripts.js:9002
+#: scripts.js:9456
 #, fuzzy
 msgctxt "Call To Action"
 msgid "– Not Selected –"
 msgstr "- Не выбран -"
 
-#: scripts.components.js:5042
+#: scripts.components.js:5029
 #, fuzzy
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend during the lifetime of your adset."
 msgstr ", Сумма, которую вы ввести это максимум, который вы будете тратить в течение всего срока службы вашего adset."
 
-#: scripts.components.js:4992
+#: scripts.components.js:4979
 #, fuzzy
 msgctxt "Info : Adset"
 msgid ", then you have to choose existing adset in the list. You have to choose campaign to get adset list."
 msgstr ", То вы должны выбрать существующий adset в списке. Вы должны выбрать кампанию, чтобы получить adset список."
 
-#: scripts.components.js:4989
+#: scripts.components.js:4976
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid ", then you have to choose existing campaign in the list."
 msgstr ", То вы должны выбрать существующую кампанию в списке."
 
-#: scripts.components.js:4992
+#: scripts.components.js:4979
 #, fuzzy
 msgctxt "Info : Adset"
 msgid ", then you have to enter new adset name. One adset will be created."
 msgstr ", То вы должны ввести новое имя adset. Один adset будет создан."
 
-#: scripts.components.js:4989
+#: scripts.components.js:4976
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid ", then you have to enter new campaign name."
 msgstr ", То вы должны ввести новое название кампании."
 
-#: scripts.components.js:4989
+#: scripts.components.js:4976
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid "'Existing'"
 msgstr "'Существующий'"
 
-#: scripts.components.js:4992
+#: scripts.components.js:4979
 #, fuzzy
 msgctxt "Info : Adset"
 msgid "'Existing'"
 msgstr "'Существующий'"
 
-#: scripts.components.js:4989
+#: scripts.components.js:4976
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid "'New'"
 msgstr "\"Новый\""
 
-#: scripts.components.js:4992
+#: scripts.components.js:4979
 #, fuzzy
 msgctxt "Info : Adset"
 msgid "'New'"
@@ -1119,95 +1119,95 @@ msgctxt "Pricing Table"
 msgid "1 automation"
 msgstr "1 автоматизации"
 
-#: scripts.js:12193
+#: scripts.js:5469
 #, fuzzy
 msgctxt "Attribution"
 msgid "1 day"
 msgstr "1 день"
 
-#: scripts.js:11446
-#: scripts.js:14269
+#: scripts.js:12932
+#: scripts.js:14891
 #: scripts.js:3070
 #: scripts.js:3094
 #: scripts.js:3105
 #: scripts.js:3108
-#: scripts.js:9487
+#: scripts.js:7545
 #, fuzzy
 msgctxt "Create : Step"
 msgid "1. Main"
 msgstr "1. Главный"
 
-#: scripts.js:14269
+#: scripts.js:7545
 #, fuzzy
 msgctxt "Create : Step"
 msgid "1. Settings"
 msgstr "1. Настройки"
 
-#: scripts.js:14272
+#: scripts.js:7548
 #, fuzzy
 msgctxt "Create : Step"
 msgid "2. Budget"
 msgstr "2. Бюджет"
 
-#: scripts.js:14272
+#: scripts.js:7548
 #, fuzzy
 msgctxt "Create : Step"
 msgid "2. Targeting"
 msgstr "2. Таргетирование"
 
-#: scripts.js:12199
+#: scripts.js:5475
 #, fuzzy
 msgctxt "Attribution"
 msgid "28 day"
 msgstr "28 день"
 
-#: scripts.js:14275
+#: scripts.js:7551
 #, fuzzy
 msgctxt "Create : Step"
 msgid "3. Charts"
 msgstr "3. Графики"
 
-#: scripts.js:14275
+#: scripts.js:7551
 #, fuzzy
 msgctxt "Create : Step"
 msgid "3. Targeting"
 msgstr "3. Таргетинг"
 
-#: scripts.js:14278
-#: scripts.js:14374
+#: scripts.js:12833
 #: scripts.js:3086
 #: scripts.js:3158
 #: scripts.js:3163
 #: scripts.js:3178
 #: scripts.js:3182
-#: scripts.js:5359
-#: scripts.js:5361
-#: scripts.js:9388
+#: scripts.js:7554
+#: scripts.js:7650
+#: scripts.js:8804
+#: scripts.js:8806
 #, fuzzy
 msgctxt "Create : Step"
 msgid "4. Creative"
 msgstr "4. Креатив"
 
-#: scripts.js:14278
+#: scripts.js:7554
 #, fuzzy
 msgctxt "Create : Step"
 msgid "4. Table"
 msgstr "4. Таблица"
 
-#: scripts.js:12196
+#: scripts.js:5472
 #, fuzzy
 msgctxt "Attribution"
 msgid "7 day"
 msgstr "7 дней"
 
-#: scripts.components.js:5040
+#: scripts.components.js:5027
 #, fuzzy
 msgctxt "Info : Pixel"
 msgid "A conversion pixel is a small piece of code that lets you keep track of conversions, such as purchases and sign-ups, on your website."
 msgstr "Пиксель преобразование представляет собой небольшой фрагмент кода, который позволяет отслеживать конверсий, таких как покупки и подписок, на своем сайте."
 
-#: scripts.components.js:11185
-#: scripts.components.js:5010
+#: scripts.components.js:11172
+#: scripts.components.js:4997
 #, fuzzy
 msgctxt "Info : Deep Link"
 msgid "A deep link is a URL that points to a specific place in your app, like a product page."
@@ -1219,19 +1219,19 @@ msgctxt "Pricing Table"
 msgid "A/B  tests"
 msgstr "A/B тесты"
 
-#: scripts.js:11979
+#: scripts.js:5255
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Account Status"
 msgstr "Статус аккаунта"
 
-#: scripts.js:12842
+#: scripts.js:6118
 #, fuzzy
 msgctxt "Informer"
 msgid "actions"
 msgstr "действия"
 
-#: scripts.components.js:9014
+#: scripts.components.js:9105
 #, fuzzy
 msgctxt "Campaign : Status"
 msgid "Active"
@@ -1260,13 +1260,13 @@ msgctxt "Column : Status : Adgroup"
 msgid "Ad Set is Off"
 msgstr "Адсет Выключен"
 
-#: scripts.components.js:5036
+#: scripts.components.js:5023
 #, fuzzy
 msgctxt "Info : Headline"
 msgid "Add a headline that grabs people's attention and tells them what your ad is about."
 msgstr "Добавить заголовок, который захватывает внимание людей и говорит им, что ваше объявление о."
 
-#: scripts.components.js:4994
+#: scripts.components.js:4981
 #, fuzzy
 msgctxt "Info : Headline"
 msgid "Add headlines that grabs people's attention and tells them what your ad(s) is about."
@@ -1278,7 +1278,7 @@ msgctxt "Pricing Table"
 msgid "Add payment method"
 msgstr "Добавить способ оплаты"
 
-#: scripts.js:12088
+#: scripts.js:5364
 #, fuzzy
 msgctxt "Column : Automation"
 msgid "Adgroups"
@@ -1290,19 +1290,19 @@ msgctxt "Switcher"
 msgid "Ads"
 msgstr "Объявления"
 
-#: scripts.js:14691
+#: scripts.js:7967
 #, fuzzy
 msgctxt "Error : Text"
 msgid "Ads message is required and cannot be empty."
 msgstr "Объявления сообщение является обязательным и не может быть пустым."
 
-#: scripts.js:14696
+#: scripts.js:7972
 #, fuzzy
 msgctxt "Error : Text"
 msgid "Ads message must be more than 1 and less than 300 characters long."
 msgstr "Объявления сообщение должно быть более 1 и менее 300 символов."
 
-#: scripts.components.js:4880
+#: scripts.components.js:4831
 #, fuzzy
 msgctxt "URL Macros"
 msgid "AdSet ID"
@@ -1314,14 +1314,14 @@ msgctxt "Validation : Adset"
 msgid "Adset is required"
 msgstr "Adset требуется"
 
-#: scripts.js:14618
-#: scripts.js:14632
+#: scripts.js:7894
+#: scripts.js:7908
 #, fuzzy
 msgctxt "Error : Adset"
 msgid "Adset is required if you want to use existing adset."
 msgstr "Adset требуется, если вы хотите использовать существующую adset."
 
-#: scripts.components.js:4877
+#: scripts.components.js:4828
 #, fuzzy
 msgctxt "URL Macros"
 msgid "AdSet name"
@@ -1333,19 +1333,19 @@ msgctxt "Validation : Adset"
 msgid "Adset name is required"
 msgstr "Adset имя требуется"
 
-#: scripts.js:14639
+#: scripts.js:7915
 #, fuzzy
 msgctxt "Error : Adset"
 msgid "Adset name is required if new adset is selected."
 msgstr "Adset имя требуется, если выбран новый adset."
 
-#: scripts.js:14644
+#: scripts.js:7920
 #, fuzzy
 msgctxt "Error : Adset"
 msgid "Adset name must be less than 100 characters long."
 msgstr "Adset имя должно быть длиной менее 100 символов."
 
-#: scripts.js:12076
+#: scripts.js:5352
 #, fuzzy
 msgctxt "Column : Automation"
 msgid "Adsets"
@@ -1381,9 +1381,9 @@ msgctxt "Targeting OS Version"
 msgid "All"
 msgstr "Все"
 
-#: scripts.js:12303
-#: scripts.js:12319
 #: scripts.js:244
+#: scripts.js:5579
+#: scripts.js:5595
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "All accounts"
@@ -1412,7 +1412,7 @@ msgctxt "Audience Opt Groups"
 msgid "App Combination"
 msgstr "App Комбинация"
 
-#: scripts.components.js:9771
+#: scripts.components.js:9898
 #, fuzzy
 msgctxt "Connections Opt Groups"
 msgid "Applications"
@@ -1424,39 +1424,39 @@ msgctxt "Column : Status : Adgroup"
 msgid "Approved"
 msgstr "утвержденный"
 
-#: scripts.js:14625
+#: scripts.js:7901
 #, fuzzy
 msgctxt "Error : Adset"
 msgid "At least one Adset is required."
 msgstr "По крайней мере один Adset требуется."
 
-#: scripts.js:14499
+#: scripts.js:7775
 #, fuzzy
 msgctxt "Error : Email"
 msgid "At least one email address is required."
 msgstr "По крайней мере, один адрес электронной почты необходим."
 
-#: scripts.js:14584
+#: scripts.js:7860
 #, fuzzy
 msgctxt "Error : App"
 msgid "At least one facebook app is required if you want to upload people IDs."
 msgstr "По крайней мере один facebook приложение является обязательным, если вы хотите, чтобы загрузить идентификаторы людей."
 
-#: scripts.js:14591
+#: scripts.js:7867
 #, fuzzy
 msgctxt "Error : Audience"
 msgid "At least one source is required."
 msgstr "По крайней мере, один источник требуется."
 
-#: scripts.js:11518
-#: scripts.js:13016
+#: scripts.js:4794
+#: scripts.js:6292
 #, fuzzy
 msgctxt "Placement"
 msgid "Audience Network - Banner"
 msgstr "Аудитория сети - Баннер"
 
-#: scripts.js:11521
-#: scripts.js:13019
+#: scripts.js:4797
+#: scripts.js:6295
 #, fuzzy
 msgctxt "Placement"
 msgid "Audience Network - Interstitial"
@@ -1473,19 +1473,19 @@ msgstr "Автоматический платеж не прошел. Мы буд
 msgid "Automations"
 msgstr "Automations"
 
-#: scripts.js:12038
+#: scripts.js:5314
 #, fuzzy
 msgctxt "Column : Audience"
 msgid "Availability"
 msgstr "Доступность"
 
-#: scripts.js:12834
+#: scripts.js:6110
 #, fuzzy
 msgctxt "Informer"
 msgid "Avg daily spend"
 msgstr "Avg ежедневные расходы"
 
-#: scripts.js:11949
+#: scripts.js:5225
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Balance"
@@ -1496,7 +1496,7 @@ msgstr "Баланс"
 msgid "Behaviours"
 msgstr "Поведения"
 
-#: scripts.components.js:4889
+#: scripts.components.js:4840
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Bid amount (value or AUTOBID)"
@@ -1514,23 +1514,23 @@ msgctxt "Validation : Bid"
 msgid "Bid is required"
 msgstr "Организатор торгов требуется"
 
-#: scripts.components.js:4886
+#: scripts.components.js:4837
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Bid type"
 msgstr "Тип ставки"
 
-#: scripts.components.js:4892
+#: scripts.components.js:4843
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Billing event"
 msgstr "Платежное событие"
 
-#: scripts.js:13039
-#: scripts.js:14814
-#: scripts.js:14884
-#: scripts.js:5566
-#: scripts.js:6026
+#: scripts.js:6315
+#: scripts.js:8090
+#: scripts.js:8160
+#: scripts.js:9011
+#: scripts.js:9471
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Book Now"
@@ -1548,44 +1548,44 @@ msgctxt "Pricing Table"
 msgid "Budget < $4000"
 msgstr "Бюджет  $ 4000"
 
-#: scripts.js:14473
+#: scripts.js:7749
 #, fuzzy
 msgctxt "Error : Budget"
 msgid "Budget value is required."
 msgstr "Необходимо указать значение бюджета."
 
-#: scripts.js:14482
+#: scripts.js:7758
 #, fuzzy
 msgctxt "Error : Budget"
 msgid "Budget value should be greater or equal to 1."
 msgstr "Значение бюджета должно быть больше или равно 1."
 
-#: scripts.js:14484
+#: scripts.js:7760
 #, fuzzy
 msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "Значение бюджета должна быть меньше или равна 1 000 000."
 
-#: scripts.js:11882
+#: scripts.js:5158
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Business Name"
 msgstr "Наименование фирмы"
 
-#: scripts.js:14838
+#: scripts.js:8114
 #, fuzzy
 msgid "Buy Now"
 msgstr "купить сейчас"
 
-#: scripts.js:13063
-#: scripts.js:5596
-#: scripts.js:6050
+#: scripts.js:6339
+#: scripts.js:9041
+#: scripts.js:9495
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Buy Now"
 msgstr "купить сейчас"
 
-#: scripts.js:12214
+#: scripts.js:5490
 #, fuzzy
 msgctxt "Automation : Adset : Action Param"
 msgid "By Reach"
@@ -1604,7 +1604,7 @@ msgctxt "Validation : Calendar"
 msgid "Calendar is required"
 msgstr "Календарь требуется"
 
-#: scripts.components.js:4874
+#: scripts.components.js:4825
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Campaign ID"
@@ -1628,32 +1628,32 @@ msgctxt "Validation : Campaign"
 msgid "Campaign is required"
 msgstr "Кампания требуется"
 
-#: scripts.js:14577
+#: scripts.js:7853
 #, fuzzy
 msgctxt "Error : Campaign"
 msgid "Campaign is required if you want to use existing campaign."
 msgstr "Кампания требуется, если вы хотите использовать существующую кампанию."
 
-#: scripts.components.js:4871
+#: scripts.components.js:4822
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Campaign name"
 msgstr "Название кампании"
 
 #: scripts.components.js:6326
-#: scripts.components.js:9012
+#: scripts.components.js:9103
 #, fuzzy
 msgctxt "Validation : Campaign"
 msgid "Campaign name is required"
 msgstr "Название кампании требуется"
 
-#: scripts.js:14598
+#: scripts.js:7874
 #, fuzzy
 msgctxt "Error : Campaign"
 msgid "Campaign name is required if new campaign is selected."
 msgstr "Название кампании требуется, если выбрана новая кампания."
 
-#: scripts.js:14603
+#: scripts.js:7879
 #, fuzzy
 msgctxt "Error : Campaign"
 msgid "Campaign name must be less than 128 characters long."
@@ -1671,30 +1671,30 @@ msgid "Campaigns"
 msgstr "Кампании"
 
 #: crop/crop__modal/cropModal.html:15
-#: scripts.components.js:9057
+#: scripts.components.js:9148
 #, fuzzy
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:12163
+#: scripts.js:5439
 #, fuzzy
 msgctxt "Automation : Adset : Action"
 msgid "Change Bid"
 msgstr "Изменение ставок"
 
-#: scripts.js:12166
+#: scripts.js:5442
 #, fuzzy
 msgctxt "Automation : Adset : Action"
 msgid "Change Budget"
 msgstr "Изменение бюджета"
 
-#: scripts.components.js:5020
+#: scripts.components.js:5007
 #, fuzzy
 msgctxt "Info : Targeting : Gender"
 msgid "Choose \"All\" unless you only want your ads to be shown to either men or women."
 msgstr "Выберите \"Все\", если только вы не хотите, чтобы ваши объявления будут показаны на мужчин или женщин."
 
-#: scripts.components.js:5034
+#: scripts.components.js:5021
 #, fuzzy
 msgctxt "Info : Targeting : Wireless Connection"
 msgid "Choose \"Wi-Fi only\" to show your ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection."
@@ -1721,7 +1721,7 @@ msgctxt "Info: Page : Page"
 msgid "Choose a Facebook Page that you want to be promoted."
 msgstr "Выберите страницу Facebook, которую вы хотите продвигать."
 
-#: scripts.components.js:11549
+#: scripts.components.js:11597
 #, fuzzy
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
@@ -1729,7 +1729,7 @@ msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 msgstr "Выберите страницу Facebook, чтобы представить свой бизнес в Ленте новостей.\n"
 "                                      Ваше объявление будет ссылка на ваш сайт, но он будет показывать, как исходящее от Facebook страницу."
 
-#: scripts.components.js:11597
+#: scripts.components.js:11549
 #, fuzzy
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
@@ -1737,133 +1737,133 @@ msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 msgstr "Выберите страницу Facebook, чтобы представить свой бизнес в Ленте новостей.\n"
 "                              Ваше объявление будет ссылка на ваш сайт, но он будет показывать, как исходящее от Facebook страницу."
 
-#: scripts.components.js:5035
+#: scripts.components.js:5022
 #, fuzzy
 msgctxt "Info : Adgroup : Name"
 msgid "Choose a name of your ad."
 msgstr "Выберите имя Вашего объявления."
 
-#: scripts.components.js:5016
+#: scripts.components.js:5003
 #, fuzzy
 msgctxt "Info : URL : Link"
 msgid "Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements."
 msgstr "Выберите конкретный вид или приложение на странице, где люди будут землю, когда они нажимают на ваше объявление. Этот параметр применяется только для настольных размещений."
 
-#: scripts.components.js:4985
+#: scripts.components.js:4972
 #, fuzzy
 msgctxt "Info : Post"
 msgid "Choose a post that you want to promote."
 msgstr "Выберите сообщение, которое вы хотите продвигать."
 
-#: scripts.components.js:4992
+#: scripts.components.js:4979
 #, fuzzy
 msgctxt "Info : Adset"
 msgid "Choose Adset"
 msgstr "Выберите Adset"
 
-#: scripts.components.js:4989
+#: scripts.components.js:4976
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid "Choose Campaign"
 msgstr "Выберите кампанию"
 
-#: scripts.components.js:5033
+#: scripts.components.js:5020
 #, fuzzy
 msgctxt "Info : Targeting : Device"
 msgid "Choose device models you would like to target these ads to."
 msgstr "Выберите модели устройств вы хотели бы настроить таргетинг этих объявлений."
 
-#: scripts.components.js:4977
+#: scripts.components.js:4964
 #, fuzzy
 msgctxt "Info : Web Traffic"
 msgid "Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website."
 msgstr "Выберите, как вы хотите, чтобы добавить людей к вашей аудитории. Включите все посетители вашего сайта, или создавать правила, которые только добавить людей, которые посещают определенные части вашего сайта."
 
-#: scripts.components.js:5032
+#: scripts.components.js:5019
 #, fuzzy
 msgctxt "Info : Targeting : Min. OS"
 msgid "Choose minimum selected operating system version you want to target your ads to."
 msgstr "Выберите минимальную выбранную версию операционной системы, которую вы хотите настроить таргетинг объявлений на."
 
-#: scripts.components.js:5012
+#: scripts.components.js:4999
 #, fuzzy
 msgctxt "Info : Creating Mode"
 msgid "Choose mixing mode if you want to combine every image, headline and message altogether."
 msgstr "Выберите режим смешивания, если вы хотите, чтобы объединить каждое изображение, заголовок и сообщение в целом."
 
-#: scripts.components.js:5013
+#: scripts.components.js:5000
 #, fuzzy
 msgctxt "Info : Optimize Carousel"
 msgid "Choose optimizing mode if you want automatically select and order images and links."
 msgstr "Выберите режим оптимизации, если вы хотите автоматически выбрать и заказать изображения и ссылки."
 
-#: scripts.components.js:5015
+#: scripts.components.js:5002
 #, fuzzy
 msgctxt "Info : Split Budget"
 msgid "Choose split by reach if you want to split budget according to audience reach."
 msgstr "Выберите расщепляется досягаемости, если вы хотите разделить бюджет в соответствии с охват аудитории."
 
-#: scripts.components.js:5014
+#: scripts.components.js:5001
 #, fuzzy
 msgctxt "Info : Split By"
 msgid "Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device."
 msgstr "Выберите режим разделения, если вы хотите, чтобы автоматически разделит таргетинг аудитории по возрасту, полу, стране или устройства."
 
-#: scripts.components.js:5011
+#: scripts.components.js:4998
 #, fuzzy
 msgctxt "Info : Call To Action"
 msgid "Choose the action you want people to take when they see your ad."
 msgstr "Выберите действие, которое вы хотите, чтобы люди принимают, когда они видят свое объявление."
 
-#: scripts.components.js:4984
+#: scripts.components.js:4971
 #, fuzzy
 msgctxt "Info : App"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store или Play URL магазина. Вы можете рекламировать любое приложение, которое вы зарегистрировались на сайте разработчика Facebook."
 
-#: scripts.components.js:4983
+#: scripts.components.js:4970
 #, fuzzy
 msgctxt "Info : URL : Mobile"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store или Play URL магазина. Вы можете рекламировать любое приложение, которое вы зарегистрировались на сайте разработчика Facebook."
 
-#: scripts.components.js:5003
+#: scripts.components.js:4990
 #, fuzzy
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
 msgstr "Выберите окно атрибуции наиболее важным для автоматизации. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции использовать поля с пользовательским сроки."
 
-#: scripts.components.js:5002
+#: scripts.components.js:4989
 #, fuzzy
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "Выберите окно атрибуции наиболее важным для вашей отчетности. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настраиваемым сроки."
 
-#: scripts.components.js:5004
+#: scripts.components.js:4991
 #, fuzzy
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "Выберите окно атрибуции, что является наиболее важным для вашей отчетности. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашей рекламы в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настраиваемым сроки."
 
-#: scripts.js:13253
+#: scripts.js:6529
 #, fuzzy
 msgctxt "Objective"
 msgid "Choose the objective for your campaign"
 msgstr "Выберите цель вашей кампании"
 
-#: scripts.components.js:5031
-#: scripts.components.js:5038
+#: scripts.components.js:5018
+#: scripts.components.js:5025
 #, fuzzy
 msgctxt "Info : Targeting : Platform"
 msgid "Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model."
 msgstr "Выберите тип мобильного устройства вы хотели бы настроить таргетинг этих объявлений. Вы можете настроить таргетинг на мобильной операционной системы и модели устройства."
 
-#: scripts.js:13120
+#: scripts.js:6396
 msgctxt "Objective"
 msgid "Choose the type of your ads campaign:"
 msgstr "Выберите тип создаваемой кампании"
 
-#: scripts.components.js:5037
+#: scripts.components.js:5024
 #, fuzzy
 msgctxt "Info : Targeting : Placements"
 msgid "Choose where you want your ads to show on Facebook and the placements that are most important to you."
@@ -1875,7 +1875,7 @@ msgctxt "Geo Opt Groups"
 msgid "Cities"
 msgstr "Города"
 
-#: scripts.js:13169
+#: scripts.js:6445
 #, fuzzy
 msgctxt "Objective"
 msgid "Clicks"
@@ -1892,7 +1892,7 @@ msgstr "Закрыть"
 msgid "Close Advanced Settings"
 msgstr "Закрыть Дополнительные настройки"
 
-#: scripts.components.js:5022
+#: scripts.components.js:5009
 #, fuzzy
 msgctxt "Info : Targeting : Interests"
 msgid "Combine interests to expand your ad's reach."
@@ -1904,7 +1904,7 @@ msgctxt "Info : Instagram Account"
 msgid "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
 msgstr "Подключите Instagram аккаунты в Бизнес-менеджере или удалить Instagram в качестве места размещения."
 
-#: scripts.js:13469
+#: scripts.js:6745
 #, fuzzy
 msgctxt "Modal : Create : Ok Button"
 msgid "Continue"
@@ -1922,19 +1922,19 @@ msgctxt "Calendar"
 msgid "Continuously"
 msgstr "непрерывно"
 
-#: scripts.js:14510
+#: scripts.js:7786
 #, fuzzy
 msgctxt "Error : Pixel"
 msgid "Conversion Pixel is required."
 msgstr "Преобразование Pixel требуется."
 
-#: scripts.js:13182
+#: scripts.js:6458
 #, fuzzy
 msgctxt "Objective"
 msgid "Conversions"
 msgstr "Конверсии"
 
-#: scripts.components.js:4980
+#: scripts.components.js:4967
 #, fuzzy
 msgctxt "Info : Audiences: Copy And Paste"
 msgid "Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file."
@@ -1946,7 +1946,7 @@ msgctxt "Geo Opt Groups"
 msgid "Countries"
 msgstr "страны"
 
-#: scripts.js:12852
+#: scripts.js:6128
 #, fuzzy
 msgctxt "Informer"
 msgid "cpc"
@@ -1958,13 +1958,13 @@ msgctxt "Validation : Page"
 msgid "create public page."
 msgstr "создание публичной страницы."
 
-#: scripts.js:13470
+#: scripts.js:6746
 #, fuzzy
 msgctxt "Modal : Create : Cancel Button"
 msgid "Create Similar Ads"
 msgstr "Создать Похожие объявления"
 
-#: scripts.components.js:4883
+#: scripts.components.js:4834
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Creative (Ads) name"
@@ -1991,7 +1991,7 @@ msgstr "Обрезать изображение"
 msgid "Crop Image For Instagram"
 msgstr "Обрезать изображение для Instagram"
 
-#: scripts.js:12847
+#: scripts.js:6123
 #, fuzzy
 msgctxt "Informer"
 msgid "ctr"
@@ -2009,13 +2009,7 @@ msgctxt "Validation : Budget"
 msgid "Daily budget is required"
 msgstr "Ежедневный бюджет требуется"
 
-#: scripts.components.js:5042
-#, fuzzy
-msgctxt "Info : Budget"
-msgid "daily budget</b>, the amount you enter is the maximum you'll spend each day."
-msgstr "Ежедневный бюджет</b>, сумма, которую вы ввести максимальный вы будете проводить каждый день."
-
-#: scripts.js:12046
+#: scripts.js:5322
 #, fuzzy
 msgctxt "Column : Audience"
 msgid "Date Created"
@@ -2040,24 +2034,24 @@ msgctxt "Column : Status : Adgroup"
 msgid "Delivering"
 msgstr "Доставка"
 
-#: scripts.components.js:5009
+#: scripts.components.js:4996
 #, fuzzy
 msgctxt "Info : Link Description"
 msgid "Describe why people should visit your website."
 msgstr "Опишите, почему люди должны посетить ваш сайт."
 
-#: scripts.js:11499
-#: scripts.js:13348
-#: scripts.js:13527
-#: scripts.js:13551
-#: scripts.js:14791
-#: scripts.js:14867
+#: scripts.js:4775
+#: scripts.js:6624
+#: scripts.js:6803
+#: scripts.js:6827
+#: scripts.js:8067
+#: scripts.js:8143
 #, fuzzy
 msgctxt "Placement"
 msgid "Desktop Feed"
 msgstr "Обои для рабочего поток"
 
-#: scripts.js:11989
+#: scripts.js:5265
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Disable Reason"
@@ -2093,36 +2087,36 @@ msgctxt "RelationshipStatuses"
 msgid "Divorced"
 msgstr "разведенный"
 
-#: scripts.js:13468
+#: scripts.js:6744
 #, fuzzy
 msgctxt "Modal : Create : Body"
 msgid "Do you want to leave this page and go to dashboard?"
 msgstr "Вы хотите, чтобы покинуть эту страницу и перейти на приборной панели ли?"
 
-#: scripts.js:12227
-#: scripts.js:12236
+#: scripts.js:5503
+#: scripts.js:5512
 #, fuzzy
 msgctxt "Automation : Adset : Param"
 msgid "Down"
 msgstr "вниз"
 
-#: scripts.js:13051
-#: scripts.js:14826
-#: scripts.js:14893
-#: scripts.js:5569
-#: scripts.js:6038
+#: scripts.js:6327
+#: scripts.js:8102
+#: scripts.js:8169
+#: scripts.js:9014
+#: scripts.js:9483
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Download"
 msgstr "Скачать"
 
-#: scripts.js:13309
+#: scripts.js:6585
 #, fuzzy
 msgctxt "Objective"
 msgid "Dynamic Product Ad"
 msgstr "Динамическая реклама товара"
 
-#: scripts.components.js:5005
+#: scripts.components.js:4992
 #, fuzzy
 msgctxt "Info : Preset"
 msgid "Editing and creating is only available for user's presets. For shared presets you can only create a new one."
@@ -2134,7 +2128,7 @@ msgctxt "Column : Status : Automation"
 msgid "Enabled"
 msgstr "Включено"
 
-#: scripts.components.js:5054
+#: scripts.components.js:5041
 #, fuzzy
 msgctxt "Info : Bid"
 msgid "Enabling this option will set your bid so that it's optimized to help you reach your objective."
@@ -2151,13 +2145,13 @@ msgstr "занято"
 msgid "Enter Ad Campaign Name"
 msgstr "Введите название кампании объявлений"
 
-#: scripts.components.js:5055
+#: scripts.components.js:5042
 #, fuzzy
 msgctxt "Info : Sync"
 msgid "Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes."
 msgstr "Введите, как часто мы должны обновлять свои объявления, используя данные из предоставляемых продуктов питания XML-файла. Значение должно быть введено в течение нескольких минут."
 
-#: scripts.components.js:5018
+#: scripts.components.js:5005
 #, fuzzy
 msgctxt "Info : Targeting : Exclude Locations"
 msgid "Enter locations you want to exclude."
@@ -2168,19 +2162,19 @@ msgstr "Введите места, которые вы хотите исключ
 msgid "Enter maximum amount your campaign can spend"
 msgstr "Введите максимальное количество вашей кампании может потратить"
 
-#: scripts.components.js:5017
+#: scripts.components.js:5004
 #, fuzzy
 msgctxt "Info : Targeting : Locations"
 msgid "Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations."
 msgstr "Введите один или несколько стран, штатов, городов или Почтовые индексы, чтобы сузить потенциальную аудиторию к людям в этих местах."
 
-#: scripts.components.js:11212
+#: scripts.components.js:11199
 #, fuzzy
 msgctxt "URL Placeholder"
 msgid "Enter url to your website"
 msgstr "Введите URL на свой веб-сайт"
 
-#: scripts.js:12110
+#: scripts.js:5386
 #, fuzzy
 msgctxt "Column : Automation"
 msgid "Error"
@@ -2192,25 +2186,25 @@ msgctxt "Plan : Dialog"
 msgid "Error"
 msgstr "ошибка"
 
-#: scripts.js:13486
+#: scripts.js:6762
 #, fuzzy
 msgctxt "Error : Create"
 msgid "Error occurred when creating your ads! Message:"
 msgstr "Произошла ошибка при создании объявлений! Сообщение:"
 
-#: scripts.js:12787
+#: scripts.js:6063
 #, fuzzy
 msgctxt "Error : Image"
 msgid "Error occurred when requesting for library images."
 msgstr "Произошла ошибка при запросе для библиотеки изображений."
 
-#: scripts.js:12808
+#: scripts.js:6084
 #, fuzzy
 msgctxt "Error : Video"
 msgid "Error occurred when requesting for library videos."
 msgstr "Произошла ошибка при запросе для библиотеки видео."
 
-#: scripts.js:15744
+#: scripts.js:15035
 #, fuzzy
 msgctxt "R&F"
 msgid "Error occurred when requesting R&F prediction! Please, check all fields and try again."
@@ -2229,7 +2223,7 @@ msgctxt "Error : App"
 msgid "Error occurred! Please, check your App URL."
 msgstr "Произошла ошибка! Пожалуйста, проверьте URL App."
 
-#: scripts.js:12218
+#: scripts.js:5494
 #, fuzzy
 msgctxt "Automation : Adset : Param"
 msgid "Evenly"
@@ -2251,7 +2245,7 @@ msgstr "Исключение пользовательских аудиторий
 msgid "Exclude people who are connected to"
 msgstr "Исключение людей, которые связаны с"
 
-#: scripts.components.js:5030
+#: scripts.components.js:5017
 #, fuzzy
 msgctxt "Info : Targeting : Exclude Custom Audiences"
 msgid "Exclude your ads from targeting to people from some custom audience."
@@ -2287,7 +2281,7 @@ msgctxt "Placement"
 msgid "Facebook – Right Hand Side"
 msgstr "Facebook - правая"
 
-#: scripts.components.js:5022
+#: scripts.components.js:5009
 #, fuzzy
 msgctxt "Info : Targeting : Interests"
 msgid "Facebook can help you reach specific audiences by looking at their interests, activities, the Pages they have liked and closely related topics."
@@ -2299,31 +2293,31 @@ msgctxt "Pricing Table"
 msgid "FAQ"
 msgstr "Вопросы-Ответы"
 
-#: scripts.components.js:4982
+#: scripts.components.js:4969
 #, fuzzy
 msgctxt "Info : URL : Post"
 msgid "For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2."
 msgstr "Например, если теги URL определяются как ключом1 = val1 & ключ2 = знач2 и история поток включает в себя URL www.example.com?key1=test~~dobj, то URL будет обновлен до www.example.com?key1=val1&key2=val2~~pobj ,"
 
-#: scripts.js:12865
+#: scripts.js:6141
 #, fuzzy
 msgctxt "Informer"
 msgid "frequency"
 msgstr "частота"
 
-#: scripts.js:14746
+#: scripts.js:8022
 #, fuzzy
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value is required."
 msgstr "Необходимо указать значение ограничения частоты показов."
 
-#: scripts.js:14751
+#: scripts.js:8027
 #, fuzzy
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value should be greater or equal to 1."
 msgstr "Значение частоты крышка должна быть больше или равна 1."
 
-#: scripts.js:14752
+#: scripts.js:8028
 #, fuzzy
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value should be numeric."
@@ -2341,38 +2335,38 @@ msgctxt "Geo Opt Groups"
 msgid "Geo Market"
 msgstr "Рынок Geo"
 
-#: scripts.js:13132
+#: scripts.js:6408
 #, fuzzy
 msgctxt "Objective"
 msgid "Get new installs"
 msgstr "Получить новые установку расширений"
 
-#: scripts.js:13066
-#: scripts.js:5599
-#: scripts.js:6053
+#: scripts.js:6342
+#: scripts.js:9044
+#: scripts.js:9498
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Get Offer"
 msgstr "Получить предложение"
 
-#: scripts.js:14841
+#: scripts.js:8117
 #, fuzzy
 msgid "Get Offer"
 msgstr "Получить предложение"
 
-#: scripts.components.js:5054
+#: scripts.components.js:5041
 #, fuzzy
 msgctxt "Info : Bid"
 msgid "Get the most conversions at the best price - You'll be charged for impressions."
 msgstr "Получить наибольшее количество переходов по лучшей цене - Вы будете платить за показы."
 
-#: scripts.components.js:4991
+#: scripts.components.js:4978
 #, fuzzy
 msgctxt "Info : Adset : Name"
 msgid "Give your adset a name that describes the audience, scheduling or ads inside it."
 msgstr "Дайте adset имя, которое описывает аудитории, планирование или объявления внутри него."
 
-#: scripts.components.js:4990
+#: scripts.components.js:4977
 #, fuzzy
 msgctxt "Info : Campaign : Name"
 msgid "Give your campaign a name that describes the audience, scheduling or adsets inside it."
@@ -2401,49 +2395,49 @@ msgctxt "Validation : Instagram Account"
 msgid "How to link your Instagram Account and AdAccount you can"
 msgstr "Как связать свой аккаунт Instagram и AdAccount вы можете"
 
-#: scripts.js:12000
+#: scripts.js:5276
 #, fuzzy
 msgctxt "Column : Audience"
 msgid "ID"
 msgstr "Я БЫ"
 
-#: scripts.js:11871
+#: scripts.js:5147
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "ID"
 msgstr "Я БЫ"
 
-#: scripts.js:12055
+#: scripts.js:5331
 #, fuzzy
 msgctxt "Column : Automation"
 msgid "ID"
 msgstr "Я БЫ"
 
-#: scripts.components.js:4992
+#: scripts.components.js:4979
 #, fuzzy
 msgctxt "Info : Adset"
 msgid "If"
 msgstr "Если"
 
-#: scripts.components.js:4989
+#: scripts.components.js:4976
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid "If"
 msgstr "Если"
 
-#: scripts.components.js:5042
+#: scripts.components.js:5029
 #, fuzzy
 msgctxt "Info : Budget"
 msgid "If you choose a"
 msgstr "Если вы выбираете"
 
-#: scripts.components.js:5041
+#: scripts.components.js:5028
 #, fuzzy
 msgctxt "Info : App"
 msgid "If you want to optimize your ad for mobile app installs, please choose facebook app associated with your app."
 msgstr "Если вы хотите, чтобы оптимизировать ваше объявление для мобильного приложения, пожалуйста, выберите приложение facebook, связанный с вашим приложением."
 
-#: scripts.js:12860
+#: scripts.js:6136
 #, fuzzy
 msgctxt "Informer"
 msgid "impressions"
@@ -2509,16 +2503,16 @@ msgstr "Включите людей, чьи друзья связаны с"
 
 #: index.html:430
 #: scripts.components.js:10571
-#: scripts.js:11511
-#: scripts.js:14980
-#: scripts.js:15528
-#: scripts.js:5530
+#: scripts.js:15152
+#: scripts.js:15700
+#: scripts.js:4787
+#: scripts.js:8975
 #, fuzzy
 msgctxt "Placement"
 msgid "Instagram"
 msgstr "Instagram"
 
-#: scripts.js:13243
+#: scripts.js:6519
 #, fuzzy
 msgctxt "Objective"
 msgid "Instagram"
@@ -2535,10 +2529,10 @@ msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "Необходимо выбрать Instagram аккаунт."
 
-#: scripts.js:13036
-#: scripts.js:14811
-#: scripts.js:5560
-#: scripts.js:6023
+#: scripts.js:6312
+#: scripts.js:8087
+#: scripts.js:9005
+#: scripts.js:9468
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Install Mobile App"
@@ -2555,19 +2549,19 @@ msgstr "Интеграция внешних данных"
 msgid "Interested In"
 msgstr "Увлекающийся"
 
-#: scripts.js:14759
+#: scripts.js:8035
 #, fuzzy
 msgctxt "Error : Frequency Cap"
 msgid "Interval period is required."
 msgstr "Интервал период требуется."
 
-#: scripts.js:14764
+#: scripts.js:8040
 #, fuzzy
 msgctxt "Error : Frequency Cap"
 msgid "Interval period should be more than 1 day."
 msgstr "Интервал период должен быть больше, чем 1 день."
 
-#: scripts.js:14765
+#: scripts.js:8041
 #, fuzzy
 msgctxt "Error : Frequency Cap"
 msgid "Interval period value should be numeric."
@@ -2579,8 +2573,8 @@ msgctxt "Platforms"
 msgid "iOS only"
 msgstr "только ОС IOS"
 
-#: scripts.js:14478
-#: scripts.js:14662
+#: scripts.js:7754
+#: scripts.js:7938
 #, fuzzy
 msgctxt "Error : Number"
 msgid "It can't have less than 1 or more than 2 decimal places."
@@ -2651,41 +2645,41 @@ msgctxt "Automation : Analyze Window"
 msgid "Last Week"
 msgstr "На прошлой неделе"
 
-#: scripts.js:13045
-#: scripts.js:14820
-#: scripts.js:14887
-#: scripts.js:5572
-#: scripts.js:6032
+#: scripts.js:6321
+#: scripts.js:8096
+#: scripts.js:8163
+#: scripts.js:9017
+#: scripts.js:9477
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Learn More"
 msgstr "Выучить больше"
 
-#: scripts.components.js:5021
+#: scripts.components.js:5008
 #, fuzzy
 msgctxt "Info : Targeting : Languages"
 msgid "Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above."
 msgstr "Оставьте это поле пустым, если зритель вы ориентируетесь использует язык, который не является общим для местоположения вы выбрали выше."
 
-#: scripts.components.js:5028
+#: scripts.components.js:5015
 #, fuzzy
 msgctxt "Info : Targeting : Interested In"
 msgid "Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\""
 msgstr "Оставьте это поле пустым, если только вы не хотите, чтобы ваше объявление было показано, что люди, которые заинтересованы в определенного пола для дружбы, знакомства, отношения или сетей. Некоторые люди не уточняют эту информацию на Facebook, так что вы можете достичь только всех, выбрав \"Все\"."
 
-#: scripts.components.js:5024
+#: scripts.components.js:5011
 #, fuzzy
 msgctxt "Info : Targeting : Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите, чтобы сузить свою аудиторию только людей, связанных с вашей страницы, приложения или события."
 
-#: scripts.components.js:5026
+#: scripts.components.js:5013
 #, fuzzy
 msgctxt "Info : Targeting : Friends Of Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите, чтобы сузить свою аудиторию только людей, чьи друзья связаны с вашей страницы, приложения или события."
 
-#: scripts.components.js:5025
+#: scripts.components.js:5012
 #, fuzzy
 msgctxt "Info : Targeting : Excluded Connections"
 msgid "Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event."
@@ -2697,7 +2691,7 @@ msgctxt "Automation : Analyze Window"
 msgid "Lifetime"
 msgstr "Продолжительность жизни"
 
-#: scripts.components.js:5042
+#: scripts.components.js:5029
 #, fuzzy
 msgctxt "Info : Budget"
 msgid "lifetime budget"
@@ -2709,13 +2703,13 @@ msgctxt "Validation : Budget"
 msgid "Lifetime budget is required"
 msgstr "Бюджет Срок службы требуется"
 
-#: scripts.js:11964
+#: scripts.js:5240
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Limit"
 msgstr "предел"
 
-#: scripts.components.js:5046
+#: scripts.components.js:5033
 #, fuzzy
 msgctxt "Info : Targeting : Audiences"
 msgid "List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here."
@@ -2745,15 +2739,15 @@ msgctxt "RelationshipStatuses"
 msgid "Married"
 msgstr "замужем"
 
-#: scripts.js:13075
-#: scripts.js:14852
+#: scripts.js:6351
+#: scripts.js:8128
 #, fuzzy
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPC"
 msgstr "Максимальная цена за клик"
 
-#: scripts.js:13078
-#: scripts.js:14855
+#: scripts.js:6354
+#: scripts.js:8131
 #, fuzzy
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPI"
@@ -2764,25 +2758,25 @@ msgstr "Максимальный индекс потребительских ц�
 msgid "Maximum CPI"
 msgstr "Максимальный индекс потребительских цен"
 
-#: scripts.components.js:4995
+#: scripts.components.js:4982
 #, fuzzy
 msgctxt "Info : Message"
 msgid "Maximum length is 300 characters. Will be automatically cut."
 msgstr "Максимальная длина составляет 300 символов. Будет автоматически отключается."
 
-#: scripts.components.js:4994
+#: scripts.components.js:4981
 #, fuzzy
 msgctxt "Info : Headline"
 msgid "Maximum length is 40 characters. Will be automatically cut."
 msgstr "Максимальная длина составляет 40 символов. Будет автоматически отключается."
 
-#: scripts.components.js:5053
+#: scripts.components.js:5040
 #, fuzzy
 msgctxt "Info : Frequency Cap"
 msgid "Maximum number of times your ad will be shown to tha same user."
 msgstr "Максимальное количество раз ваше объявление будет показываться тха же пользователя."
 
-#: scripts.components.js:4981
+#: scripts.components.js:4968
 #, fuzzy
 msgctxt "Info : Audiences : In The Last"
 msgid "Maximum time: 180 days"
@@ -2810,26 +2804,26 @@ msgctxt "Calendar Time"
 msgid "Minutes:"
 msgstr "Протокол:"
 
-#: scripts.js:13122
+#: scripts.js:6398
 #, fuzzy
 msgctxt "Objective"
 msgid "Mobile"
 msgstr "мобильный"
 
-#: scripts.js:11507
-#: scripts.js:11515
-#: scripts.js:13013
-#: scripts.js:13351
-#: scripts.js:13530
-#: scripts.js:13554
-#: scripts.js:14794
-#: scripts.js:14870
+#: scripts.js:4783
+#: scripts.js:4791
+#: scripts.js:6289
+#: scripts.js:6627
+#: scripts.js:6806
+#: scripts.js:6830
+#: scripts.js:8070
+#: scripts.js:8146
 #, fuzzy
 msgctxt "Placement"
 msgid "Mobile Feed"
 msgstr "Мобильный поток"
 
-#: scripts.js:13268
+#: scripts.js:6544
 #, fuzzy
 msgctxt "Objective"
 msgid "Mobile installs"
@@ -2841,19 +2835,19 @@ msgctxt "Pacing"
 msgid "Monday"
 msgstr "понедельник"
 
-#: scripts.js:12066
+#: scripts.js:5342
 #, fuzzy
 msgctxt "Column : Automation"
 msgid "Name"
 msgstr "имя"
 
-#: scripts.js:12011
+#: scripts.js:5287
 #, fuzzy
 msgctxt "Column : Audience"
 msgid "Name"
 msgstr "имя"
 
-#: scripts.js:11891
+#: scripts.js:5167
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Name"
@@ -2891,7 +2885,7 @@ msgctxt "RelationshipStatuses"
 msgid "Not specified"
 msgstr "Не определен"
 
-#: scripts.js:12178
+#: scripts.js:5454
 #, fuzzy
 msgctxt "Automation : Adset : Action"
 msgid "Notify By Email"
@@ -2909,16 +2903,16 @@ msgstr "Поддержка онлайн чат"
 msgid "Open Advanced Settings"
 msgstr "Открыть дополнительные настройки"
 
-#: scripts.js:13060
-#: scripts.js:14835
-#: scripts.js:5593
-#: scripts.js:6047
+#: scripts.js:6336
+#: scripts.js:8111
+#: scripts.js:9038
+#: scripts.js:9492
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Open Link"
 msgstr "Открыть ссылку"
 
-#: scripts.components.js:4895
+#: scripts.components.js:4846
 #, fuzzy
 msgctxt "URL Macros"
 msgid "Optimization goal"
@@ -2941,20 +2935,20 @@ msgid "Page"
 msgstr "страница"
 
 #: scripts.js:1229
-#: scripts.js:13484
-#: scripts.js:13486
+#: scripts.js:6760
+#: scripts.js:6762
 #, fuzzy
 msgctxt "Error : Group"
 msgid "Page"
 msgstr "страница"
 
-#: scripts.js:13196
+#: scripts.js:6472
 #, fuzzy
 msgctxt "Objective"
 msgid "Page"
 msgstr "страница"
 
-#: scripts.js:14739
+#: scripts.js:8015
 #, fuzzy
 msgctxt "Error : Page"
 msgid "Page is required."
@@ -2966,7 +2960,7 @@ msgctxt "Validation : Page"
 msgid "Page is required."
 msgstr "Страница требуется."
 
-#: scripts.js:13206
+#: scripts.js:6482
 #, fuzzy
 msgctxt "Objective"
 msgid "Page Likes"
@@ -2977,7 +2971,7 @@ msgstr "Симпатии Страница"
 msgid "Pages"
 msgstr "страницы"
 
-#: scripts.components.js:9768
+#: scripts.components.js:9895
 #, fuzzy
 msgctxt "Connections Opt Groups"
 msgid "Pages"
@@ -2994,7 +2988,7 @@ msgstr "партнер"
 msgid "Paste your customer list here."
 msgstr "Вставить список клиентов здесь."
 
-#: scripts.components.js:9014
+#: scripts.components.js:9105
 #, fuzzy
 msgctxt "Campaign : Status"
 msgid "Paused"
@@ -3010,7 +3004,7 @@ msgstr "В ожидании информация Billing"
 #: scripts.components.js:10497
 #: scripts.components.js:9580
 #: scripts.components.js:9670
-#: scripts.components.js:9760
+#: scripts.components.js:9887
 #, fuzzy
 msgctxt "Audience Size"
 msgid "people"
@@ -3028,7 +3022,7 @@ msgstr "люди"
 msgid "Placements"
 msgstr "Места размещения"
 
-#: scripts.components.js:9774
+#: scripts.components.js:9901
 #, fuzzy
 msgctxt "Connections Opt Groups"
 msgid "Places"
@@ -3039,9 +3033,9 @@ msgstr "места"
 msgid "Platform"
 msgstr "Платформа"
 
-#: scripts.js:13030
-#: scripts.js:14805
-#: scripts.js:6017
+#: scripts.js:6306
+#: scripts.js:8081
+#: scripts.js:9462
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Play Game"
@@ -3053,7 +3047,7 @@ msgctxt "Error : Connection"
 msgid "Please, check that your computer is connected to the Internet."
 msgstr "Пожалуйста, убедитесь, что ваш компьютер подключен к Интернету."
 
-#: scripts.components.js:1576
+#: scripts.components.js:1423
 #, fuzzy
 msgctxt "Error : Replace"
 msgid "Please, select application by direct link to play.google.com or itunes.apple.com if you\n"
@@ -3067,13 +3061,13 @@ msgctxt "Automation: Ads"
 msgid "Please, select at least one ad to be used in automations"
 msgstr "Пожалуйста, выберите хотя бы одно объявление для использования в автоматикой"
 
-#: scripts.components.js:5000
+#: scripts.components.js:4987
 #, fuzzy
 msgctxt "Info : Image : Library"
 msgid "Please, select images that you want to use in your new ads."
 msgstr "Пожалуйста, выберите изображения, которые вы хотите использовать в новых объявлениях."
 
-#: scripts.components.js:1571
+#: scripts.components.js:1418
 #, fuzzy
 msgctxt "Error : Replace"
 msgid "Please, select page or change targeting placement."
@@ -3085,13 +3079,13 @@ msgctxt "Error : Page"
 msgid "Please, try to"
 msgstr "Пожалуйста, попытайтесь"
 
-#: scripts.js:13219
+#: scripts.js:6495
 #, fuzzy
 msgctxt "Objective"
 msgid "Post Engagement"
 msgstr "сообщение Обручальное"
 
-#: scripts.js:14526
+#: scripts.js:7802
 #, fuzzy
 msgctxt "Error : Post"
 msgid "Post is required for post engagement ad type."
@@ -3103,7 +3097,7 @@ msgctxt "Plan"
 msgid "Premiun plan"
 msgstr "план Premiun"
 
-#: scripts.js:14611
+#: scripts.js:7887
 #, fuzzy
 msgctxt "Error : Preset"
 msgid "Preset name is required."
@@ -3115,25 +3109,25 @@ msgctxt "Automation : Analyze Window"
 msgid "Previous Hour"
 msgstr "Предыдущий час"
 
-#: scripts.js:13145
+#: scripts.js:6421
 #, fuzzy
 msgctxt "Objective"
 msgid "Re-engage existing users"
 msgstr "Повторное привлечение существующих пользователей"
 
-#: scripts.js:12870
+#: scripts.js:6146
 #, fuzzy
 msgctxt "Informer"
 msgid "reach"
 msgstr "достичь"
 
-#: scripts.js:13233
+#: scripts.js:6509
 #, fuzzy
 msgctxt "Objective"
 msgid "Reach & Frequency"
 msgstr "Reach & Frequency"
 
-#: scripts.components.js:5023
+#: scripts.components.js:5010
 #, fuzzy
 msgctxt "Info : Targeting : Behaviours"
 msgid "Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only."
@@ -3162,25 +3156,25 @@ msgctxt "Error : Page"
 msgid "reload"
 msgstr "перезагружать"
 
-#: scripts.js:12169
+#: scripts.js:5445
 #, fuzzy
 msgctxt "Automation : Adset : Action"
 msgid "Relocate Budget"
 msgstr "Relocate бюджет"
 
-#: scripts.js:11503
-#: scripts.js:11525
-#: scripts.js:13345
-#: scripts.js:13533
-#: scripts.js:13557
-#: scripts.js:14873
-#: scripts.js:6144
+#: scripts.js:4779
+#: scripts.js:4801
+#: scripts.js:6621
+#: scripts.js:6809
+#: scripts.js:6833
+#: scripts.js:8149
+#: scripts.js:9589
 #, fuzzy
 msgctxt "Placement"
 msgid "Right Column"
 msgstr "Правая колонка"
 
-#: scripts.js:12188
+#: scripts.js:5464
 #, fuzzy
 msgctxt "Automation : Adgroup : Action"
 msgid "Rotate"
@@ -3200,13 +3194,13 @@ msgid "Saturday"
 msgstr "суббота"
 
 #: crop/crop__modal/cropModal.html:16
-#: scripts.components.js:9010
+#: scripts.components.js:9101
 #, fuzzy
 msgid "Save"
 msgstr "Сохранить"
 
-#: scripts.components.js:7145
-#: scripts.components.js:7146
+#: scripts.components.js:7242
+#: scripts.components.js:7243
 #, fuzzy
 msgctxt "Validation : Ad Scheduling"
 msgid "Schedule is required"
@@ -3218,7 +3212,7 @@ msgctxt "Pacing"
 msgid "Scheduled hours are shaded blue"
 msgstr "Запланированные часы заштрихованы синий"
 
-#: scripts.components.js:4988
+#: scripts.components.js:4975
 #, fuzzy
 msgctxt "Info : Copy : Adgroups"
 msgid "Select 'No' if you want to copy Adset without Ad Groups."
@@ -3230,7 +3224,7 @@ msgstr "Выберите \"Нет\", если вы хотите скопиров
 msgid "Select a page in the list"
 msgstr "Выберите страницу в списке"
 
-#: scripts.components.js:5007
+#: scripts.components.js:4994
 #, fuzzy
 msgctxt "Info : Automation : Adset"
 msgid "Select actions that you want to apply to selected adsets when all rules match."
@@ -3242,7 +3236,7 @@ msgctxt "Automation: Ads"
 msgid "Select ad that you want to use automation for."
 msgstr "Выберите объявление, которое вы хотите использовать автоматизацию."
 
-#: scripts.components.js:5006
+#: scripts.components.js:4993
 #, fuzzy
 msgctxt "Info : Automation : Adset"
 msgid "Select adsets that you want to use automation for."
@@ -3253,7 +3247,7 @@ msgstr "Выберите adsets, которые вы хотите использ
 msgid "Select Age"
 msgstr "Выберите Возраст"
 
-#: scripts.components.js:5045
+#: scripts.components.js:5032
 #, fuzzy
 msgctxt "Info : Automation : Notifications"
 msgid "Select emails to send notifications to."
@@ -3330,37 +3324,37 @@ msgstr "Выберите или поиска языков в списке"
 msgid "Select or search pages, apps or events in the list"
 msgstr "Выберите или поисковые страницы, приложения или события в списке"
 
-#: scripts.components.js:5043
+#: scripts.components.js:5030
 #, fuzzy
 msgctxt "Info : Calendar"
 msgid "Select the advertisement period for your ads."
 msgstr "Выберите рекламный период для ваших объявлений."
 
-#: scripts.components.js:4993
+#: scripts.components.js:4980
 #, fuzzy
 msgctxt "Info : Image"
 msgid "Select the images."
 msgstr "Выберите изображения."
 
-#: scripts.components.js:5019
+#: scripts.components.js:5006
 #, fuzzy
 msgctxt "Info : Targeting : Age"
 msgid "Select the minimum and maximum age of the people who will find your ad relevant."
 msgstr "Выберите минимальный и максимальный возраст людей, которые найдут ваше объявление уместным."
 
-#: scripts.components.js:5044
+#: scripts.components.js:5031
 #, fuzzy
 msgctxt "Info : Automation : Calendar"
 msgid "Select the period for your automation."
 msgstr "Выберите период для вашей автоматизации."
 
-#: scripts.components.js:4987
+#: scripts.components.js:4974
 #, fuzzy
 msgctxt "Info : Adset"
 msgid "Select to create new adset or use an existing adset."
 msgstr "Выберите, чтобы создать новую adset или использовать существующий adset."
 
-#: scripts.components.js:4986
+#: scripts.components.js:4973
 #, fuzzy
 msgctxt "Info : Campaign"
 msgid "Select to create new campaign or use an existing campaign."
@@ -3372,39 +3366,39 @@ msgctxt "RelationshipStatuses"
 msgid "Separated"
 msgstr "отделенный"
 
-#: scripts.components.js:5052
+#: scripts.components.js:5039
 #, fuzzy
 msgctxt "Info : Status"
 msgid "Set activity status for your campaign."
 msgstr "Статус Набор активности для вашей кампании."
 
-#: scripts.components.js:4976
+#: scripts.components.js:4963
 #, fuzzy
 msgctxt "Info : Spend Cap"
 msgid "Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit."
 msgstr "Установить общий лимит расходов для вашей рекламной кампании. Это означает, что ваши наборы объявлений в кампании остановится, как только вы достигли своего предела расходов."
 
-#: scripts.js:13027
-#: scripts.js:14802
-#: scripts.js:14881
-#: scripts.js:5578
-#: scripts.js:6014
+#: scripts.js:6303
+#: scripts.js:8078
+#: scripts.js:8157
+#: scripts.js:9023
+#: scripts.js:9459
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Shop Now"
 msgstr "Магазин сейчас"
 
-#: scripts.components.js:5039
+#: scripts.components.js:5026
 #, fuzzy
 msgctxt "Info : Caption"
 msgid "Short caption of the url that people will reach after clicking on your ad."
 msgstr "Короткий заголовок из URL, что люди будут достигать после нажатия на объявление."
 
-#: scripts.js:13048
-#: scripts.js:14823
-#: scripts.js:14890
-#: scripts.js:5581
-#: scripts.js:6035
+#: scripts.js:6324
+#: scripts.js:8099
+#: scripts.js:8166
+#: scripts.js:9026
+#: scripts.js:9480
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Sign Up"
@@ -3416,73 +3410,73 @@ msgctxt "RelationshipStatuses"
 msgid "Single"
 msgstr "Один"
 
-#: scripts.js:12029
+#: scripts.js:5305
 #, fuzzy
 msgctxt "Column : Audience"
 msgid "Size"
 msgstr "Размер"
 
-#: scripts.js:12824
+#: scripts.js:6100
 #, fuzzy
 msgctxt "Informer"
 msgid "spend"
 msgstr "проводить"
 
-#: scripts.components.js:9013
+#: scripts.components.js:9104
 #, fuzzy
 msgctxt "Validation : Campaign"
 msgid "Spend Cap is required"
 msgstr "Тратьте Cap требуется"
 
-#: scripts.components.js:9013
+#: scripts.components.js:9104
 #, fuzzy
 msgctxt "Validation : Campaign"
 msgid "Spend Cap must be numeric"
 msgstr "Потратьте Cap должен быть числовым"
 
-#: scripts.js:11925
+#: scripts.js:5201
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Spent Last Week"
 msgstr "Последняя неделя, проведенное"
 
-#: scripts.js:11937
+#: scripts.js:5213
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Spent This Month"
 msgstr "Проведенное в этом месяце"
 
-#: scripts.js:11901
+#: scripts.js:5177
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Spent Today"
 msgstr "Сегодня, проведенное"
 
-#: scripts.js:11913
+#: scripts.js:5189
 #, fuzzy
 msgctxt "Column : Adaccount"
 msgid "Spent Yesterday"
 msgstr "Вчера, проведенное"
 
-#: scripts.js:12175
+#: scripts.js:5451
 #, fuzzy
 msgctxt "Automation : Adset : Action"
 msgid "Start"
 msgstr "Начало"
 
-#: scripts.js:12185
+#: scripts.js:5461
 #, fuzzy
 msgctxt "Automation : Adgroup : Action"
 msgid "Start"
 msgstr "Начало"
 
-#: scripts.js:12172
+#: scripts.js:5448
 #, fuzzy
 msgctxt "Automation : Adset : Action"
 msgid "Stop"
 msgstr "Стоп"
 
-#: scripts.js:12182
+#: scripts.js:5458
 #, fuzzy
 msgctxt "Automation : Adgroup : Action"
 msgid "Stop"
@@ -3521,13 +3515,13 @@ msgctxt "Pricing Table"
 msgid "support"
 msgstr "поддержка"
 
-#: scripts.js:14772
+#: scripts.js:8048
 #, fuzzy
 msgctxt "Error : Sync"
 msgid "Sync period value is required."
 msgstr "требуется синхронизация значение периода."
 
-#: scripts.js:14777
+#: scripts.js:8053
 #, fuzzy
 msgctxt "Error : Sync"
 msgid "Sync period value should be greater or equal to 15 minutes."
@@ -3540,73 +3534,73 @@ msgctxt "Calendar Day Name"
 msgid "T"
 msgstr "T"
 
-#: scripts.components.js:5027
+#: scripts.components.js:5014
 #, fuzzy
 msgctxt "Info : Targeting : Relationship Statuses"
 msgid "Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status."
 msgstr "Таргетинг объявлений на людей на основе статуса отношений, перечисленных в своем профиле Facebook. Оставьте это поле пустым, если вы не хотите, чтобы ваше объявление будет показываться только тем людям, которые имеют особый статус отношений."
 
-#: scripts.components.js:5029
+#: scripts.components.js:5016
 #, fuzzy
 msgctxt "Info : Targeting : Custom Audiences"
 msgid "Target your ads to people from your custom audience."
 msgstr "Таргетинг объявлений на людей из вашей пользовательской аудитории."
 
-#: scripts.components.js:5017
+#: scripts.components.js:5004
 #, fuzzy
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your ad by city isn't available in all countries."
 msgstr "Ориентация на ваше объявление по городу не доступен во всех странах."
 
-#: scripts.components.js:5017
+#: scripts.components.js:5004
 #, fuzzy
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your ad by ZIP code is only available in the United States."
 msgstr "Ориентация на объявление по почтовому коду доступен только в Соединенных Штатах."
 
-#: scripts.components.js:4995
+#: scripts.components.js:4982
 #, fuzzy
 msgctxt "Info : Message"
 msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
 msgstr "Скажите людям немного больше о вашем объявлении (ы). Убедитесь в том, чтобы четко объяснить, что вы рекламируете."
 
-#: scripts.components.js:4996
+#: scripts.components.js:4983
 #, fuzzy
 msgctxt "Info : Text : Carousel"
 msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
 msgstr "Скажите людям немного больше о вашем объявлении (ы). Убедитесь в том, чтобы четко объяснить, что вы рекламируете."
 
-#: scripts.components.js:4979
+#: scripts.components.js:4966
 #, fuzzy
 msgctxt "Info : Audiences : Upload File"
 msgid "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
 msgstr "Текстовые файлы (.txt и .csv) могут включать в себя записи на отдельных строках или в списке через запятую."
 
-#: scripts.js:14727
+#: scripts.js:8003
 #, fuzzy
 msgctxt "Error : Text"
 msgid "The body text is required and cannot be empty."
 msgstr "Текст тела является обязательным и не может быть пустым."
 
-#: scripts.js:14732
+#: scripts.js:8008
 #, fuzzy
 msgctxt "Error : Text"
 msgid "The body text must be more than 1 and less than 300 characters long."
 msgstr "Текст тело должно быть более 1 и менее 300 символов."
 
-#: scripts.js:14558
+#: scripts.js:7834
 #, fuzzy
 msgctxt "Error : Link Description"
 msgid "The caption must be more than 1 and less than 60 characters long."
 msgstr "Надпись должна быть более 1 и менее 60 символов."
 
-#: scripts.js:14549
+#: scripts.js:7825
 #, fuzzy
 msgctxt "Error : Link Caption"
 msgid "The caption must be more than 1 and less than 90 characters long."
 msgstr "Надпись должна быть более 1 и менее 90 символов."
 
-#: scripts.components.js:5008
+#: scripts.components.js:4995
 #, fuzzy
 msgctxt "Info : Link Caption"
 msgid "The caption of a link in the post (appears beneath the name)."
@@ -3618,31 +3612,31 @@ msgctxt "Pricing Table"
 msgid "The functionality you're trying to access is only available for premium users"
 msgstr "Функциональность вы пытаетесь получить доступ доступна только для премиум-пользователей"
 
-#: scripts.js:14715
+#: scripts.js:7991
 #, fuzzy
 msgctxt "Error : Headline"
 msgid "The headline is required and cannot be empty."
 msgstr "Заголовок является обязательным и не может быть пустым."
 
-#: scripts.js:14720
+#: scripts.js:7996
 #, fuzzy
 msgctxt "Error : Headline"
 msgid "The headline must be more than 1 and less than 40 characters long."
 msgstr "Заголовок должен быть более 1 и менее 40 символов."
 
-#: scripts.js:14540
+#: scripts.js:7816
 #, fuzzy
 msgctxt "Error : Link Name"
 msgid "The link name must be more than 1 and less than 50 characters long."
 msgstr "Имя ссылка должна быть более 1 и менее 50 символов."
 
-#: scripts.js:14492
+#: scripts.js:7768
 #, fuzzy
 msgctxt "Error : Link URL"
 msgid "The Link URl is required."
 msgstr "URL Ссылка обязательна."
 
-#: scripts.components.js:4975
+#: scripts.components.js:4962
 #, fuzzy
 msgctxt "Info : Frequency Cap"
 msgid "The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement."
@@ -3655,61 +3649,61 @@ msgctxt "Validation : App"
 msgid "The Mobile App is required"
 msgstr "Mobile App требуется"
 
-#: scripts.js:14679
+#: scripts.js:7955
 #, fuzzy
 msgctxt "Error : Name"
 msgid "The name is required and cannot be empty."
 msgstr "Имя является обязательным и не может быть пустым."
 
-#: scripts.js:14684
+#: scripts.js:7960
 #, fuzzy
 msgctxt "Error : Name"
 msgid "The name must be more than 1 and less than 100 characters long."
 msgstr "Имя должно быть больше 1 и меньше, чем 100 символов."
 
-#: scripts.components.js:5001
+#: scripts.components.js:4988
 #, fuzzy
 msgctxt "Info : Link Name"
 msgid "The name of the link."
 msgstr "Название ссылки."
 
-#: scripts.components.js:4981
+#: scripts.components.js:4968
 #, fuzzy
 msgctxt "Info : Audiences : In The Last"
 msgid "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
 msgstr "Число дней люди останутся в вашей аудитории после того, как они посещают ваш сайт. Люди будут удалены из вашей аудитории по истечении установленного периода времени, если они снова не посещают ваш сайт."
 
-#: scripts.js:14703
+#: scripts.js:7979
 #, fuzzy
 msgctxt "Error : Pixel"
 msgid "The pixel name is required and cannot be empty."
 msgstr "Имя пикселя является обязательным и не может быть пустым."
 
-#: scripts.js:14708
+#: scripts.js:7984
 #, fuzzy
 msgctxt "Error : Pixel"
 msgid "The pixel name must be more than 1 and less than 100 characters long."
 msgstr "Имя пикселя должно быть больше 1 и меньше, чем 100 символов."
 
-#: scripts.js:14565
+#: scripts.js:7841
 #, fuzzy
 msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "требуется Текст сообщения для карусельного объявления."
 
-#: scripts.js:14570
+#: scripts.js:7846
 #, fuzzy
 msgctxt "Error : Text"
 msgid "The text message must be more than 1 and less than 300 characters long."
 msgstr "Текст сообщения должен быть более 1 и менее 300 символов."
 
-#: scripts.js:14666
+#: scripts.js:7942
 #, fuzzy
 msgctxt "Error : Bid"
 msgid "The value should be greater or equal to 0.01."
 msgstr "Значение должно быть больше или равна 0,01."
 
-#: scripts.js:14778
+#: scripts.js:8054
 #, fuzzy
 msgctxt "Error : Sync"
 msgid "The value should be numeric."
@@ -3727,7 +3721,7 @@ msgctxt "Plan"
 msgid "There was a mistake when updating plan"
 msgstr "Был ошибка при обновлении плана"
 
-#: scripts.components.js:5048
+#: scripts.components.js:5035
 #, fuzzy
 msgctxt "Info : Bid"
 msgid "This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads."
@@ -3745,7 +3739,7 @@ msgctxt "Error : Page"
 msgid "this page."
 msgstr "эта страница."
 
-#: scripts.js:14657
+#: scripts.js:7933
 #, fuzzy
 msgctxt "Error : Bid"
 msgid "This value is required."
@@ -3775,7 +3769,7 @@ msgctxt "Automation : Analyze Window"
 msgid "Today"
 msgstr "Cегодня"
 
-#: scripts.js:12829
+#: scripts.js:6105
 #, fuzzy
 msgctxt "Informer"
 msgid "total spend"
@@ -3812,7 +3806,7 @@ msgctxt "Pacing"
 msgid "Tuesday"
 msgstr "вторник"
 
-#: scripts.js:12021
+#: scripts.js:5297
 #, fuzzy
 msgctxt "Column : Audience"
 msgid "Type"
@@ -3836,14 +3830,14 @@ msgctxt "Error : Page"
 msgid "Unknown error occurred on this page."
 msgstr "Произошла неизвестная ошибка на этой странице."
 
-#: scripts.components.js:9042
+#: scripts.components.js:9133
 #, fuzzy
 msgctxt "Error : Campaign : Edit"
 msgid "Unknown error occurred when updating selected Ad Campaigns."
 msgstr "при обновлении выбранных рекламных кампаний произошла неизвестная ошибка."
 
-#: scripts.js:13612
-#: scripts.js:7766
+#: scripts.js:11211
+#: scripts.js:6888
 #, fuzzy
 msgctxt "Error : Preview"
 msgid "Unknown error occurred, when requesting for Ad preview."
@@ -3855,39 +3849,39 @@ msgctxt "Pricing Table"
 msgid "Unlimited amount of automations"
 msgstr "Неограниченное количество автоматикой"
 
-#: scripts.js:12223
-#: scripts.js:12232
+#: scripts.js:5499
+#: scripts.js:5508
 #, fuzzy
 msgctxt "Automation : Adset : Param"
 msgid "Up"
 msgstr "вверх"
 
-#: scripts.components.js:4974
+#: scripts.components.js:4961
 #, fuzzy
 msgctxt "Info : URL"
 msgid "Url of a website that you want to promote."
 msgstr "Адрес веб-сайта, который вы хотите продвигать."
 
-#: scripts.components.js:4982
+#: scripts.components.js:4969
 #, fuzzy
 msgctxt "Info : URL : Post"
 msgid "URL tags you specify here will be appended to or will replace existing tags in the URLs."
 msgstr "URL теги вы указываете здесь будут добавляться или заменит существующие теги в URL."
 
-#: scripts.components.js:11234
+#: scripts.components.js:11221
 #, fuzzy
 msgctxt "Info : URL"
 msgid "URL to main page or products category on the website."
 msgstr "URL на главную страницу или продукции категории на сайте."
 
-#: scripts.js:13033
-#: scripts.js:13057
-#: scripts.js:14808
-#: scripts.js:14832
-#: scripts.js:5563
-#: scripts.js:5590
-#: scripts.js:6020
-#: scripts.js:6044
+#: scripts.js:6309
+#: scripts.js:6333
+#: scripts.js:8084
+#: scripts.js:8108
+#: scripts.js:9008
+#: scripts.js:9035
+#: scripts.js:9465
+#: scripts.js:9489
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Use Mobile App"
@@ -3899,8 +3893,8 @@ msgctxt "Instagram Account"
 msgid "Use page only"
 msgstr "Используйте только страницы"
 
-#: scripts.components.js:11185
-#: scripts.components.js:5010
+#: scripts.components.js:11172
+#: scripts.components.js:4997
 #, fuzzy
 msgctxt "Info : Deep Link"
 msgid "Using a Deep Link"
@@ -3912,8 +3906,8 @@ msgctxt "Audience Opt Groups"
 msgid "Video"
 msgstr "видео"
 
-#: scripts.js:13281
-#: scripts.js:13296
+#: scripts.js:6557
+#: scripts.js:6572
 #, fuzzy
 msgctxt "Objective"
 msgid "Video Views"
@@ -3925,25 +3919,25 @@ msgctxt "Calendar Day Name"
 msgid "W"
 msgstr "W"
 
-#: scripts.js:13054
-#: scripts.js:14829
-#: scripts.js:5587
-#: scripts.js:6041
+#: scripts.js:6330
+#: scripts.js:8105
+#: scripts.js:9032
+#: scripts.js:9486
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "Смотреть больше"
 
-#: scripts.js:13042
-#: scripts.js:14817
-#: scripts.js:5584
-#: scripts.js:6029
+#: scripts.js:6318
+#: scripts.js:8093
+#: scripts.js:9029
+#: scripts.js:9474
 #, fuzzy
 msgctxt "Call To Action"
 msgid "Watch Video"
 msgstr "Смотреть видео"
 
-#: scripts.js:13159
+#: scripts.js:6435
 #, fuzzy
 msgctxt "Objective"
 msgid "Website"
@@ -3955,13 +3949,13 @@ msgctxt "Audience Opt Groups"
 msgid "Website"
 msgstr "Веб-сайт"
 
-#: scripts.js:13255
+#: scripts.js:6531
 #, fuzzy
 msgctxt "Objective"
 msgid "Website Clicks"
 msgstr "Щелчки сайта"
 
-#: scripts.components.js:11211
+#: scripts.components.js:11198
 #, fuzzy
 msgctxt "URL Label"
 msgid "Website Url"
@@ -3973,16 +3967,16 @@ msgctxt "Pacing"
 msgid "Wednesday"
 msgstr "среда"
 
-#: scripts.js:13130
-#: scripts.js:13167
-#: scripts.js:13204
+#: scripts.js:6406
+#: scripts.js:6443
+#: scripts.js:6480
 #, fuzzy
 msgctxt "Objective"
 msgid "What kind of actions do you want to get?"
 msgstr "Каких действий вы хотите получить?"
 
-#: scripts.components.js:11185
-#: scripts.components.js:5010
+#: scripts.components.js:11172
+#: scripts.components.js:4997
 #, fuzzy
 msgctxt "Info : Deep Link"
 msgid "When launching an app with a deep link Facebook will be able to open your app in a specific state."
@@ -4023,62 +4017,62 @@ msgctxt "Validation : App"
 msgid "You App is not registered in Facebook."
 msgstr "Вы App не зарегистрирован в Facebook."
 
-#: scripts.components.js:4997
+#: scripts.components.js:4984
 #, fuzzy
 msgctxt "Info : Preview"
 msgid "You can choose different ad formats and see how your ads looks like."
 msgstr "Вы можете выбрать разные форматы объявлений и посмотреть, как ваши объявления выглядит."
 
-#: scripts.components.js:4999
+#: scripts.components.js:4986
 #, fuzzy
 msgctxt "Info : Preview"
 msgid "You can choose different ad formats and see how your ads will like after creation."
 msgstr "Вы можете выбрать разные форматы объявлений и посмотреть, как ваши объявления понравятся после создания."
 
-#: scripts.components.js:5050
+#: scripts.components.js:5037
 #, fuzzy
 msgctxt "Info : Pay For"
 msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to."
 msgstr "Вы можете предложить цену для вашей цели, кликов или конверсий (требуют выбранного пикселя) в зависимости от типа вашего объявления. Ваш выбор определяет то, как вы платите, и кто ваше объявление служил."
 
-#: scripts.components.js:5049
+#: scripts.components.js:5036
 #, fuzzy
 msgctxt "Info : Optimize For"
 msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to."
 msgstr "Вы можете выбрать то, что вы хотите оптимизировать. Ваш выбор определяет то, как вы платите, и кто ваше объявление служил."
 
-#: scripts.components.js:4980
+#: scripts.components.js:4967
 #, fuzzy
 msgctxt "Info : Audiences : Copy And Paste"
 msgid "You can copy columns from a spreadsheet with one record per row or a list of records separated by commas"
 msgstr "Вы можете копировать столбцы из таблицы с одной записью в строке или списка записей, разделенных запятыми"
 
-#: scripts.components.js:4998
+#: scripts.components.js:4985
 #, fuzzy
 msgctxt "Info : Preview"
 msgid "You can delete comments to your ad."
 msgstr "Вы можете удалить комментарии к вашему объявлению."
 
-#: scripts.components.js:4978
+#: scripts.components.js:4965
 #, fuzzy
 msgctxt "Info : Audiences : Apps For"
 msgid "You can only upload IDs for people that download or use your Facebook app."
 msgstr "Вы можете загрузить только идентификаторы для людей, которые скачать или использовать приложение Facebook."
 
-#: scripts.components.js:5047
+#: scripts.components.js:5034
 #, fuzzy
 msgctxt "Info : Schedule"
 msgid "You can schedule your ads for specific hours and days of the week."
 msgstr "Вы можете запланировать показ объявлений на определенные часы и дни недели."
 
-#: scripts.components.js:4979
+#: scripts.components.js:4966
 #, fuzzy
 msgctxt "Info : Upload File Audiences"
 msgid "You can upload files in .csv or .txt format."
 msgstr "Вы можете загружать файлы в формате CSV или .txt формате."
 
-#: scripts.components.js:11185
-#: scripts.components.js:5010
+#: scripts.components.js:11172
+#: scripts.components.js:4997
 #, fuzzy
 msgctxt "Info : Deep Link"
 msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
@@ -4090,14 +4084,14 @@ msgctxt "Validation : Page"
 msgid "You don’t have any pages. You can’t use your profile page. You should"
 msgstr "У вас нет каких-либо страниц. Вы не можете использовать свою страницу профиля. Вам следует"
 
-#: scripts.js:11137
-#: scripts.js:13110
+#: scripts.js:14582
+#: scripts.js:6386
 #, fuzzy
 msgctxt "Tooltip : Access"
 msgid "You have limited rights to create Ads"
 msgstr "Вы ограничены права создавать объявления"
 
-#: scripts.js:13467
+#: scripts.js:6743
 #, fuzzy
 msgctxt "Modal : Create : Title"
 msgid "You have successfully created"
@@ -4109,13 +4103,13 @@ msgctxt "Instagram Account"
 msgid "You should"
 msgstr "Вам следует"
 
-#: scripts.js:14374
+#: scripts.js:7650
 #, fuzzy
 msgctxt "Error : Create"
 msgid "You should have at least one ad to create."
 msgstr "Вы должны иметь по крайней мере одно объявление, чтобы создать."
 
-#: scripts.components.js:5051
+#: scripts.components.js:5038
 #, fuzzy
 msgctxt "Info : Status"
 msgid "Your ads will have status that you choose."
@@ -4127,7 +4121,7 @@ msgctxt "Info : Targeting : Locations"
 msgid "Your audience location has been changed from&nbsp;"
 msgstr "Ваше местоположение аудитории было изменено с & NBSP;"
 
-#: scripts.components.js:5048
+#: scripts.components.js:5035
 #, fuzzy
 msgctxt "Info : Bid"
 msgid "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
@@ -4139,7 +4133,7 @@ msgctxt "Pricing Table"
 msgid "Your budget is over"
 msgstr "Ваш бюджет составляет более"
 
-#: scripts.js:6569
+#: scripts.js:10014
 #, fuzzy
 msgctxt "Audiences : Custom : Example"
 msgid "– Country code + Area Code + Number\n"
@@ -4155,7 +4149,7 @@ msgstr "- Код страны + код города + номер\n"
 "                                       16505551234\n"
 "                                       16505551235"
 
-#: scripts.js:6568
+#: scripts.js:10013
 #, fuzzy
 msgctxt "Audiences : Custom : Example"
 msgid "– Numeric characters only\n"
@@ -4167,58 +4161,58 @@ msgstr "только цифровые символы -\n"
 "                                      1234567890\n"
 "                                      1443637309"
 
-#: scripts.js:5361
+#: scripts.js:8806
 #, fuzzy
 msgctxt "Error : Creative : Remove"
 msgid "! Message:"
 msgstr "! Сообщение:"
 
-#: scripts.js:10531
+#: scripts.js:13976
 #, fuzzy
 msgctxt "Breakdown"
 msgid "2 Weeks"
 msgstr "2 недели"
 
-#: scripts.js:6758
+#: scripts.js:10203
 #, fuzzy
 msgctxt "Modal : Audiences : Lookalike : Title"
 msgid "a Lookalike Audience"
 msgstr "аудитории двойник"
 
-#: scripts.js:15067
+#: scripts.js:15239
 #, fuzzy
 msgctxt "R&F"
 msgid "A minimum reach of 200 000"
 msgstr "Минимальный охват 200 000"
 
-#: scripts.js:5095
+#: scripts.js:8540
 #, fuzzy
 msgctxt "gettextCatalog"
 msgid "Account"
 msgstr "аккаунт"
 
-#: scripts.js:4735
-#: scripts.js:5401
+#: scripts.js:8180
+#: scripts.js:8846
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Account"
 msgstr "аккаунт"
 
-#: scripts.js:5292
-#: scripts.js:5680
+#: scripts.js:8737
+#: scripts.js:9125
 #, fuzzy
 msgctxt "Creative"
 msgid "Ad"
 msgstr "Объявление"
 
-#: scripts.js:5098
+#: scripts.js:8543
 #, fuzzy
 msgctxt "gettextCatalog"
 msgid "Ad"
 msgstr "Объявление"
 
-#: scripts.js:4739
-#: scripts.js:5404
+#: scripts.js:8184
+#: scripts.js:8849
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Ad"
@@ -4238,27 +4232,27 @@ msgctxt "Error : Preview"
 msgid "Ad PAGE is missing! Can't generate ad preview!"
 msgstr "PAGE объявления отсутствуют! Невозможно создать рекламный предварительный просмотр!"
 
-#: scripts.js:5097
+#: scripts.js:8542
 #, fuzzy
 msgctxt "gettextCatalog"
 msgid "Ad set"
 msgstr "набор объявлений"
 
-#: scripts.js:5403
+#: scripts.js:8848
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Ad set"
 msgstr "набор объявлений"
 
-#: scripts.js:4738
+#: scripts.js:8183
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Ad Set"
 msgstr "Набор объявлений"
 
-#: scripts.js:7912
-#: scripts.js:7967
-#: scripts.js:7971
+#: scripts.js:11357
+#: scripts.js:11412
+#: scripts.js:11416
 #, fuzzy
 msgctxt "Modal : Copy : Title"
 msgid "Ad Set"
@@ -4282,43 +4276,43 @@ msgstr "Добавьте значение"
 msgid "Add a value"
 msgstr "Добавьте значение"
 
-#: scripts.js:7628
+#: scripts.js:11073
 #, fuzzy
 msgctxt "Error : Group"
 msgid "Adgroup Edit Modal"
 msgstr "Adgroup Edit режимное"
 
-#: scripts.js:8473
+#: scripts.js:11918
 #, fuzzy
 msgctxt "Modal : Bulk Edit"
 msgid "Adset"
 msgstr "Adset"
 
-#: scripts.js:7571
+#: scripts.js:11016
 #, fuzzy
 msgctxt "Error : Group"
 msgid "Adsets Edit Modal"
 msgstr "Adsets Edit режимное"
 
-#: scripts.js:10450
+#: scripts.js:13895
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Age"
 msgstr "Возраст"
 
-#: scripts.js:10466
+#: scripts.js:13911
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Age and Gender"
 msgstr "Пол и возраст"
 
-#: scripts.js:6894
+#: scripts.js:10339
 #, fuzzy
 msgctxt "Modal : Automation : Title"
 msgid "an automation"
 msgstr "автоматизация"
 
-#: scripts.js:15002
+#: scripts.js:15174
 #, fuzzy
 msgctxt "R&F : Chart : Title"
 msgid "and"
@@ -4336,13 +4330,13 @@ msgctxt "Automation : Condition"
 msgid "AND"
 msgstr "А ТАКЖЕ"
 
-#: scripts.js:8670
+#: scripts.js:12115
 #, fuzzy
 msgctxt "Modal : Preset : Ok Button"
 msgid "Apply"
 msgstr "Подать заявление"
 
-#: scripts.js:8270
+#: scripts.js:11715
 #, fuzzy
 msgctxt "Modal : Bulk Edit : Ok Button"
 msgid "Apply"
@@ -4354,43 +4348,43 @@ msgctxt "Audience : Sources : Opt Group"
 msgid "Audiences"
 msgstr "Аудитории"
 
-#: scripts.js:7391
+#: scripts.js:10836
 #, fuzzy
 msgctxt "Modal : Automation : Success : Title"
 msgid "automation"
 msgstr "автоматизация"
 
-#: scripts.js:4736
+#: scripts.js:8181
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Automation"
 msgstr "автоматизация"
 
-#: scripts.js:7454
+#: scripts.js:10899
 #, fuzzy
 msgctxt "Error : Automation"
 msgid "automation."
 msgstr "автоматизации."
 
-#: scripts.js:9172
+#: scripts.js:12617
 #, fuzzy
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Be careful, because deleted comments can't be restored!"
 msgstr "Будьте осторожны, так как удаленные комментарии не могут быть восстановлены!"
 
-#: scripts.js:5370
+#: scripts.js:8815
 #, fuzzy
 msgctxt "Modal : Creative : Title"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "Будьте осторожны, так как удаленные элементы не могут быть восстановлены!"
 
-#: scripts.js:11286
+#: scripts.js:14731
 #, fuzzy
 msgctxt "Modal : Delete : Body"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "Будьте осторожны, так как удаленные элементы не могут быть восстановлены!"
 
-#: scripts.js:9505
+#: scripts.js:12950
 #, fuzzy
 msgctxt "Adset : Description"
 msgid "Bid for"
@@ -4408,51 +4402,51 @@ msgctxt "R&amp;F : Table : Column"
 msgid "Budget"
 msgstr "бюджет"
 
-#: scripts.js:8276
+#: scripts.js:11721
 #, fuzzy
 msgctxt "Modal : Bulk Edit : Title"
 msgid "Bulk Editing"
 msgstr "Массовое редактирование"
 
-#: scripts.js:10452
-#: scripts.js:10460
-#: scripts.js:10468
-#: scripts.js:10476
-#: scripts.js:10484
-#: scripts.js:10558
-#: scripts.js:10670
-#: scripts.js:10835
+#: scripts.js:13897
+#: scripts.js:13905
+#: scripts.js:13913
+#: scripts.js:13921
+#: scripts.js:13929
+#: scripts.js:14003
+#: scripts.js:14115
+#: scripts.js:14280
 #, fuzzy
 msgctxt "Breakdown"
 msgid "By Action"
 msgstr "действием"
 
-#: scripts.js:10443
-#: scripts.js:10554
-#: scripts.js:10662
-#: scripts.js:10832
+#: scripts.js:13888
+#: scripts.js:13999
+#: scripts.js:14107
+#: scripts.js:14277
 #, fuzzy
 msgctxt "Breakdown"
 msgid "By Delivery"
 msgstr "При поставке"
 
-#: scripts.js:10516
-#: scripts.js:10562
-#: scripts.js:10668
-#: scripts.js:10838
+#: scripts.js:13961
+#: scripts.js:14007
+#: scripts.js:14113
+#: scripts.js:14283
 #, fuzzy
 msgctxt "Breakdown"
 msgid "By Time"
 msgstr "По времени"
 
-#: scripts.js:4737
-#: scripts.js:5402
+#: scripts.js:8182
+#: scripts.js:8847
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Campaign"
 msgstr "кампания"
 
-#: scripts.js:5096
+#: scripts.js:8541
 #, fuzzy
 msgctxt "gettextCatalog"
 msgid "Campaign"
@@ -4464,68 +4458,68 @@ msgctxt "Error : Preview"
 msgid "Can't show preview because of some error. Please modify the ad."
 msgstr "Невозможно показать предварительный просмотр из-за какой-то ошибки. Пожалуйста, измените объявление."
 
-#: scripts.js:8673
+#: scripts.js:12118
 #, fuzzy
 msgctxt "Modal : Preset : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:8575
+#: scripts.js:12020
 #, fuzzy
 msgctxt "Modal : Pixel : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:6756
+#: scripts.js:10201
 #, fuzzy
 msgctxt "Modal : Ok Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:8059
+#: scripts.js:11504
 #, fuzzy
 msgctxt "Modal : Crop : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:7910
+#: scripts.js:11355
 #, fuzzy
 msgctxt "Modal : Copy : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:6002
-#: scripts.js:6257
+#: scripts.js:9447
+#: scripts.js:9702
 #, fuzzy
 msgctxt "Modal : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:8273
+#: scripts.js:11718
 #, fuzzy
 msgctxt "Modal : Bulk Edit : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:6891
+#: scripts.js:10336
 #, fuzzy
 msgctxt "Modal : Automation : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:10249
+#: scripts.js:13694
 #, fuzzy
 msgctxt "Error : Group"
 msgid "Change Status"
 msgstr "Изменить статус"
 
-#: scripts.js:9129
+#: scripts.js:12574
 #, fuzzy
 msgctxt "Modal : Preview : Cancel Button"
 msgid "Close"
 msgstr "Закрыть"
 
-#: scripts.js:9297
+#: scripts.js:12742
 #, fuzzy
 msgctxt "Modal : Video : Ok Button"
 msgid "Close"
@@ -4537,27 +4531,27 @@ msgctxt "Audience : Operator"
 msgid "Contains"
 msgstr "Содержит"
 
-#: scripts.js:8577
+#: scripts.js:12022
 #, fuzzy
 msgctxt "Modal : Pixel : Title"
 msgid "Conversion Pixel"
 msgstr "Pixel Conversion"
 
-#: scripts.js:7907
+#: scripts.js:11352
 #, fuzzy
 msgctxt "Modal : Copy : Ok Button"
 msgid "Copy"
 msgstr "копия"
 
-#: scripts.js:7914
-#: scripts.js:7968
-#: scripts.js:7972
+#: scripts.js:11359
+#: scripts.js:11413
+#: scripts.js:11417
 #, fuzzy
 msgctxt "Modal : Copy : Title"
 msgid "Copy"
 msgstr "копия"
 
-#: scripts.js:10474
+#: scripts.js:13919
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Country"
@@ -4587,63 +4581,63 @@ msgctxt "R&amp;F : Table : Column"
 msgid "CPT"
 msgstr "CPT"
 
-#: scripts.js:6753
+#: scripts.js:10198
 #, fuzzy
 msgctxt "Modal : Ok Button"
 msgid "Create"
 msgstr "Создайте"
 
-#: scripts.js:8572
+#: scripts.js:12017
 #, fuzzy
 msgctxt "Modal : Pixel : Ok Button"
 msgid "Create"
 msgstr "Создайте"
 
-#: scripts.js:6888
+#: scripts.js:10333
 #, fuzzy
 msgctxt "Modal : Automation : Ok Button"
 msgid "Create"
 msgstr "Создайте"
 
-#: scripts.js:8579
+#: scripts.js:12024
 #, fuzzy
 msgctxt "Modal : Pixel : Title"
 msgid "Create"
 msgstr "Создайте"
 
-#: scripts.js:6884
+#: scripts.js:10329
 #, fuzzy
 msgctxt "Modal : Automation : Title"
 msgid "Create"
 msgstr "Создайте"
 
-#: scripts.js:11131
+#: scripts.js:14576
 #, fuzzy
 msgctxt "Tooltip : Access"
 msgid "Creation of Ads in this"
 msgstr "Создание объявления в этой"
 
-#: scripts.js:8744
+#: scripts.js:12189
 #, fuzzy
 msgctxt "Modal : Preset : Name"
 msgid "Custom"
 msgstr "изготовленный на заказ"
 
-#: scripts.js:8676
+#: scripts.js:12121
 #, fuzzy
 msgctxt "Modal : Preset : Title"
 msgid "Customize Columns"
 msgstr "Настроить столбцы"
 
-#: scripts.js:4734
-#: scripts.js:5094
-#: scripts.js:5400
+#: scripts.js:8179
+#: scripts.js:8539
+#: scripts.js:8845
 #, fuzzy
 msgctxt "Breadcrumb"
 msgid "Dashboard"
 msgstr "Панель приборов"
 
-#: scripts.js:10523
+#: scripts.js:13968
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Day"
@@ -4656,52 +4650,52 @@ msgid "days"
 msgstr "дней"
 
 #: index.html:428
-#: scripts.js:14977
-#: scripts.js:15525
+#: scripts.js:15149
+#: scripts.js:15697
 #, fuzzy
 msgctxt "Placement"
 msgid "Desktop News Feed"
 msgstr "Обои для рабочего Лента новостей"
 
-#: scripts.js:15524
+#: scripts.js:15696
 #, fuzzy
 msgctxt "Placement"
 msgid "Desktop News Feed and Mobile News Feed"
 msgstr "Обои для рабочего Лента новостей и мобильных Лента новостей"
 
 #: index.html:427
-#: scripts.js:14979
-#: scripts.js:15527
+#: scripts.js:15151
+#: scripts.js:15699
 #, fuzzy
 msgctxt "Placement"
 msgid "Desktop Right Column"
 msgstr "Обои для рабочего правой колонки"
 
-#: scripts.js:9511
+#: scripts.js:12956
 #, fuzzy
 msgctxt "Adset : Description"
 msgid "Disabled"
 msgstr "Отключено"
 
-#: scripts.js:9164
+#: scripts.js:12609
 #, fuzzy
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Do you really want to delete"
 msgstr "Вы действительно хотите удалить"
 
-#: scripts.js:11285
+#: scripts.js:14730
 #, fuzzy
 msgctxt "Modal : Delete : Title"
 msgid "Do you really want to delete selected rows?"
 msgstr "Вы действительно хотите удалить выбранные строки?"
 
-#: scripts.js:5369
+#: scripts.js:8814
 #, fuzzy
 msgctxt "Modal : Creative : Title"
 msgid "Do you really want to delete this"
 msgstr "Вы действительно хотите удалить этот"
 
-#: scripts.js:7392
+#: scripts.js:10837
 #, fuzzy
 msgctxt "Modal : Automation : Success : Body"
 msgid "Do you want to leave this page and go to automations list?"
@@ -4719,49 +4713,49 @@ msgctxt "Audience : Source"
 msgid "Domain"
 msgstr "Домен"
 
-#: scripts.js:8018
+#: scripts.js:11463
 #, fuzzy
 msgctxt "Modal : Copy : Body"
 msgid "edit"
 msgstr "редактировать"
 
-#: scripts.js:6883
+#: scripts.js:10328
 #, fuzzy
 msgctxt "Modal : Automation : Title"
 msgid "Edit"
 msgstr "редактировать"
 
-#: scripts.js:6261
+#: scripts.js:9706
 #, fuzzy
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad Set:"
 msgstr "Edit Set объявления:"
 
-#: scripts.js:6006
+#: scripts.js:9451
 #, fuzzy
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad:"
 msgstr "Редактирование объявления:"
 
-#: scripts.js:7628
+#: scripts.js:11073
 #, fuzzy
 msgctxt "Error : Adgroup : Edit"
 msgid "Editing of this Ad isn't supported yet."
 msgstr "Редактирование этого объявления пока не поддерживается."
 
-#: scripts.js:7571
+#: scripts.js:11016
 #, fuzzy
 msgctxt "Error : Adset : Edit"
 msgid "Editing of this Ad Set isn't supported yet."
 msgstr "Редактирование этого множества объявлений пока не поддерживается."
 
-#: scripts.js:6561
+#: scripts.js:10006
 #, fuzzy
 msgctxt "Audiences : Custom"
 msgid "Emails"
 msgstr "Сообщения электронной почты"
 
-#: scripts.js:9509
+#: scripts.js:12954
 #, fuzzy
 msgctxt "Adset : Description"
 msgid "Enabled"
@@ -4843,43 +4837,43 @@ msgctxt "Error : Upload"
 msgid "Error occured when uploading images."
 msgstr "Произошла ошибка при загрузке изображений."
 
-#: scripts.js:9382
+#: scripts.js:12827
 #, fuzzy
 msgctxt "Error : Video"
 msgid "Error occured when uploading videos."
 msgstr "Произошла ошибка при загрузке видео."
 
-#: scripts.js:5361
+#: scripts.js:8806
 #, fuzzy
 msgctxt "Error : Creative : Remove"
 msgid "Error occurred when removing your"
 msgstr "Произошла ошибка при удалении вашего"
 
-#: scripts.js:9483
+#: scripts.js:12928
 #, fuzzy
 msgctxt "Error : Adset"
 msgid "Error occurred when requesting Adsets. Error:"
 msgstr "Произошла ошибка при запросе Adsets. Ошибка:"
 
-#: scripts.js:7899
+#: scripts.js:11344
 #, fuzzy
 msgctxt "Error : Campaign"
 msgid "Error occurred when requesting existing campaigns. Error:"
 msgstr "Произошла ошибка при запросе существующих кампаний. Ошибка:"
 
-#: scripts.js:6903
+#: scripts.js:10348
 #, fuzzy
 msgctxt "Error : Automation"
 msgid "Error occurred when requesting existing rules presets. Error:"
 msgstr "Произошла ошибка при запросе существующие наборы правил. Ошибка:"
 
-#: scripts.js:5936
+#: scripts.js:9381
 #, fuzzy
 msgctxt "Error : Pages"
 msgid "Error occurred when requesting Pages. Error:"
 msgstr "Произошла ошибка при запросе страницы. Ошибка:"
 
-#: scripts.js:11442
+#: scripts.js:14887
 #, fuzzy
 msgctxt "Error : Pixel"
 msgid "Error occurred when requesting Pixels. Error:"
@@ -4897,7 +4891,7 @@ msgctxt "Audience : Source"
 msgid "Event"
 msgstr "Мероприятие"
 
-#: scripts.js:6567
+#: scripts.js:10012
 #, fuzzy
 msgctxt "Audiences : Custom : Example"
 msgid "Ex.\n"
@@ -4913,13 +4907,13 @@ msgstr "Ex.\n"
 "                                                                   name1 @ example.com, имя2 @ example.com\n"
 "                                                                   name1@example.com; name2@example.com"
 
-#: scripts.js:11117
+#: scripts.js:14562
 #, fuzzy
 msgctxt "Tooltip : Export Data"
 msgid "Export visible data to CSV"
 msgstr "Экспорт видимых данных в CSV"
 
-#: scripts.js:11118
+#: scripts.js:14563
 #, fuzzy
 msgctxt "Tooltip : Export Data"
 msgid "Export visible data to PDF"
@@ -4937,19 +4931,19 @@ msgctxt "R&amp;F"
 msgid "Frequency Cap:"
 msgstr "Частота Цоколь:"
 
-#: scripts.js:5369
+#: scripts.js:8814
 #, fuzzy
 msgctxt "Modal : Creative : Title"
 msgid "from library?"
 msgstr "из библиотеки?"
 
-#: scripts.js:10458
+#: scripts.js:13903
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Gender"
 msgstr "Пол"
 
-#: scripts.js:8018
+#: scripts.js:11463
 #, fuzzy
 msgctxt "Modal : Copy : Body"
 msgid "go"
@@ -4985,19 +4979,19 @@ msgctxt "Automation : Group"
 msgid "GROUP"
 msgstr "GROUP"
 
-#: scripts.js:10502
+#: scripts.js:13947
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Hourly stats by advertiser time zone"
 msgstr "Часовые статистика по часовой пояс рекламодателя"
 
-#: scripts.js:10506
+#: scripts.js:13951
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Hourly stats by audience time zone"
 msgstr "Часовые статистика по часовой пояс аудитории"
 
-#: scripts.js:10504
+#: scripts.js:13949
 #, fuzzy
 msgctxt "Breakdown"
 msgid "hourly_stats_aggregated_by_advertiser_time_zone"
@@ -5021,62 +5015,62 @@ msgctxt "Error : Preview"
 msgid "Instagram Account is missing! Can't generate ad preview!"
 msgstr "Instagram учетной записи не хватает! Невозможно создать рекламный предварительный просмотр!"
 
-#: scripts.js:6609
+#: scripts.js:10054
 #, fuzzy
 msgctxt "Modal : Audiences : Custom : Title"
 msgid "Install your pixel code!"
 msgstr "Установите код пикселя!"
 
-#: scripts.js:9733
+#: scripts.js:13178
 #, fuzzy
 msgctxt "Modal : Pixel : Title"
 msgid "Install your pixel code!"
 msgstr "Установите код пикселя!"
 
-#: scripts.js:6196
-#: scripts.js:6459
+#: scripts.js:9641
+#: scripts.js:9904
 #, fuzzy
 msgctxt "Modal : Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "Произошла внутренняя ошибка. Пожалуйста, расскажите об этой проблеме, чтобы Aitarget команду поддержки."
 
-#: scripts.js:10722
+#: scripts.js:14167
 #, fuzzy
 msgctxt "Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "Произошла внутренняя ошибка. Пожалуйста, расскажите об этой проблеме, чтобы Aitarget команду поддержки."
 
-#: scripts.js:15067
+#: scripts.js:15239
 #, fuzzy
 msgctxt "R&F"
 msgid "is required."
 msgstr "необходимо."
 
-#: scripts.js:11131
+#: scripts.js:14576
 #, fuzzy
 msgctxt "Tooltip : Access"
 msgid "isn't supported yet."
 msgstr "пока не поддерживается."
 
-#: scripts.js:9790
+#: scripts.js:13235
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "Last 14 days"
 msgstr "Последние 14 дней"
 
-#: scripts.js:9787
+#: scripts.js:13232
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "Last 7 days"
 msgstr "Последние 7 дней"
 
-#: scripts.js:9793
+#: scripts.js:13238
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "Last 90 days"
 msgstr "За последние 90 дней"
 
-#: scripts.js:6570
+#: scripts.js:10015
 #, fuzzy
 msgctxt "Audiences : Custom : Example"
 msgid "Learn more"
@@ -5106,7 +5100,7 @@ msgctxt "Audience : Operator"
 msgid "Less than or equal to"
 msgstr "Меньше или равно"
 
-#: scripts.js:6810
+#: scripts.js:10255
 #, fuzzy
 msgctxt "Audiences : Lookalike"
 msgid "Lookalike"
@@ -5118,68 +5112,68 @@ msgctxt "Audience : Operator"
 msgid "Matches a regular expression"
 msgstr "Соответствует регулярному выражению"
 
-#: scripts.js:11427
-#: scripts.js:5876
+#: scripts.js:14872
+#: scripts.js:9321
 #, fuzzy
 msgctxt "Placeholder"
 msgid "Maximum CPA"
 msgstr "Максимальная цена за конверсию"
 
-#: scripts.js:11407
-#: scripts.js:9767
-#: scripts.js:9863
+#: scripts.js:13212
+#: scripts.js:13308
+#: scripts.js:14852
 #, fuzzy
 msgctxt "Placeholder"
 msgid "Maximum CPC"
 msgstr "Максимальная цена за клик"
 
-#: scripts.js:11389
-#: scripts.js:5894
+#: scripts.js:14834
+#: scripts.js:9339
 #, fuzzy
 msgctxt "Placeholder"
 msgid "Maximum CPI"
 msgstr "Максимальный индекс потребительских цен"
 
-#: scripts.js:6564
+#: scripts.js:10009
 #, fuzzy
 msgctxt "Audiences : Custom"
 msgid "Mobile Advertiser IDs"
 msgstr "Идентификаторы мобильных рекламодателей"
 
 #: index.html:429
-#: scripts.js:14978
-#: scripts.js:15526
+#: scripts.js:15150
+#: scripts.js:15698
 #, fuzzy
 msgctxt "Placement"
 msgid "Mobile News Feed"
 msgstr "Мобильный Лента новостей"
 
-#: scripts.js:10535
+#: scripts.js:13980
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Month"
 msgstr "Месяц"
 
-#: scripts.js:9287
+#: scripts.js:12732
 #, fuzzy
 msgctxt "Modal : Video : Cancel Button"
 msgid "No"
 msgstr "Нет"
 
-#: scripts.js:8225
+#: scripts.js:11670
 #, fuzzy
 msgctxt "Modal : Dialog : Cancel Button"
 msgid "No"
 msgstr "Нет"
 
-#: scripts.js:10446
-#: scripts.js:10511
-#: scripts.js:10519
-#: scripts.js:10540
-#: scripts.js:10611
-#: scripts.js:10682
-#: scripts.js:10870
-#: scripts.js:10878
+#: scripts.js:13891
+#: scripts.js:13956
+#: scripts.js:13964
+#: scripts.js:13985
+#: scripts.js:14056
+#: scripts.js:14127
+#: scripts.js:14315
+#: scripts.js:14323
 #, fuzzy
 msgctxt "Breakdown"
 msgid "None"
@@ -5191,7 +5185,7 @@ msgctxt "Audience : Operator"
 msgid "Not equal to"
 msgstr "Не равно"
 
-#: scripts.js:4819
+#: scripts.js:8264
 #, fuzzy
 msgctxt "Chart"
 msgid "Not Selected"
@@ -5203,43 +5197,43 @@ msgctxt "Empty Grid"
 msgid "Nothing to show. Please, try to create new items"
 msgstr "Ничто не показывать. Пожалуйста, попытайтесь создать новые элементы"
 
-#: scripts.js:8018
+#: scripts.js:11463
 #, fuzzy
 msgctxt "Modal : Copy : Body"
 msgid "Now you can"
 msgstr "Теперь вы можете"
 
-#: scripts.js:7830
+#: scripts.js:11275
 #, fuzzy
 msgctxt "Modal : Error : Ok Button"
 msgid "Ok"
 msgstr "ОК"
 
-#: scripts.js:9737
+#: scripts.js:13182
 #, fuzzy
 msgctxt "Modal : Pixel : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: scripts.js:6613
+#: scripts.js:10058
 #, fuzzy
 msgctxt "Modal : Audiences : Custom : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: scripts.js:8020
+#: scripts.js:11465
 #, fuzzy
 msgctxt "Modal : Copy : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: scripts.js:7827
+#: scripts.js:11272
 #, fuzzy
 msgctxt "Error"
 msgid "Oops, something went wrong!"
 msgstr "Упс! Что-то пошло не так!"
 
-#: scripts.js:8018
+#: scripts.js:11463
 #, fuzzy
 msgctxt "Modal : Copy : Body"
 msgid "or"
@@ -5257,7 +5251,7 @@ msgctxt "Automation : Condition"
 msgid "OR"
 msgstr "ИЛИ"
 
-#: scripts.js:8842
+#: scripts.js:12287
 #, fuzzy
 msgctxt "Error : Modal : Preset : Title"
 msgid "Overwrite existing preset?"
@@ -5275,7 +5269,7 @@ msgctxt "Audience : Source"
 msgid "Path"
 msgstr "Дорожка"
 
-#: scripts.js:6563
+#: scripts.js:10008
 #, fuzzy
 msgctxt "Audiences : Custom"
 msgid "Phone Numbers"
@@ -5293,13 +5287,13 @@ msgctxt "R&amp;F : Table : Column"
 msgid "Placement"
 msgstr "размещение"
 
-#: scripts.js:10490
+#: scripts.js:13935
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Placement"
 msgstr "размещение"
 
-#: scripts.js:10494
+#: scripts.js:13939
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Placement and Device"
@@ -5311,7 +5305,7 @@ msgctxt "R&amp;F"
 msgid "Placement:"
 msgstr "Размещение:"
 
-#: scripts.js:5575
+#: scripts.js:9020
 #, fuzzy
 msgid "Play Game"
 msgstr "Играть в игру"
@@ -5340,43 +5334,43 @@ msgctxt "R&amp;F : Table"
 msgid "Please, select points in charts above."
 msgstr "Пожалуйста, выберите пункты в диаграммах выше."
 
-#: scripts.js:9134
+#: scripts.js:12579
 #, fuzzy
 msgctxt "Modal : Preview : Title"
 msgid "Preview Ad"
 msgstr "Предварительный просмотр объявления"
 
-#: scripts.js:7743
+#: scripts.js:11188
 #, fuzzy
 msgctxt "Error : Group"
 msgid "Preview Modal"
 msgstr "Предварительный просмотр режимное"
 
-#: scripts.js:7743
+#: scripts.js:11188
 #, fuzzy
 msgctxt "Error : Preview"
 msgid "Preview of this Ad isn't supported yet."
 msgstr "Предварительный просмотр этого объявления пока не поддерживается."
 
-#: scripts.js:9313
+#: scripts.js:12758
 #, fuzzy
 msgctxt "Modal : Video : Title"
 msgid "Preview your video"
 msgstr "Предварительный просмотр видео"
 
-#: scripts.js:9796
+#: scripts.js:13241
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "Previous month"
 msgstr "Предыдущий месяц"
 
-#: scripts.js:9292
+#: scripts.js:12737
 #, fuzzy
 msgctxt "Modal : Video : Title"
 msgid "Processing your video file"
 msgstr "Обработка видео файлов"
 
-#: scripts.js:10498
+#: scripts.js:13943
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Product ID"
@@ -5388,13 +5382,13 @@ msgctxt "R&amp;F : Table : Column"
 msgid "Reach"
 msgstr "достичь"
 
-#: scripts.js:15044
+#: scripts.js:15216
 #, fuzzy
 msgid "Reach"
 msgstr "достичь"
 
-#: scripts.js:15076
-#: scripts.js:15136
+#: scripts.js:15248
+#: scripts.js:15308
 #, fuzzy
 msgctxt "R&F"
 msgid "REACH"
@@ -5412,7 +5406,7 @@ msgctxt "Audiences : Lookalike"
 msgid "Reach new people who are similar to an audience you care about. Select a source and a country below, then choose an optimization."
 msgstr "Привлекайте новых людей, которые похожи на аудитории, вы заботитесь о. Выберите источник и страну ниже, затем выбрать оптимизацию."
 
-#: scripts.js:10482
+#: scripts.js:13927
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Region"
@@ -5424,8 +5418,8 @@ msgctxt "Automation : Group"
 msgid "RULE"
 msgstr "ПРАВИЛО"
 
-#: scripts.js:5998
-#: scripts.js:6253
+#: scripts.js:9443
+#: scripts.js:9698
 #, fuzzy
 msgctxt "Modal : Ok Button"
 msgid "Save"
@@ -5437,21 +5431,21 @@ msgctxt "Placeholder : Search"
 msgid "Search by name..."
 msgstr "Поиск по имени ..."
 
-#: scripts.js:9899
+#: scripts.js:13344
 #, fuzzy
 msgctxt "Tooltip : Table"
 msgid "Select ad least 2 rows with the same status"
 msgstr "Выберите Объявление не менее 2 строк с тем же статусом"
 
-#: scripts.js:8688
-#: scripts.js:9018
-#: scripts.js:9056
+#: scripts.js:12133
+#: scripts.js:12463
+#: scripts.js:12501
 #, fuzzy
 msgctxt "Modal : Preset"
 msgid "Select All Columns"
 msgstr "Выбрать все столбцы"
 
-#: scripts.js:11116
+#: scripts.js:14561
 #, fuzzy
 msgctxt "Tooltip : Select"
 msgid "Select at least one row from the table below"
@@ -5469,7 +5463,7 @@ msgctxt "Audience : Rule"
 msgid "Select source"
 msgstr "Выбор источника"
 
-#: scripts.js:9168
+#: scripts.js:12613
 #, fuzzy
 msgctxt "Modal : Preview : Delete Comment"
 msgid "selected comments?"
@@ -5489,73 +5483,73 @@ msgid "Size range is based on the total audience in the country you choose. Smal
 msgstr "Диапазон размеров основан на общей аудитории в стране, которую вы выбираете. Меньшие аудитории наиболее близко соответствовать вашему исходному аудитории.\n"
 "                          Создание широкой аудитории увеличивает потенциальный охват, но снижает уровень сходства с источником."
 
-#: scripts.js:9336
+#: scripts.js:12781
 #, fuzzy
 msgctxt "Modal : Video : Body"
 msgid "Step 1 of 3"
 msgstr "Шаг 1 из 3"
 
-#: scripts.js:9374
+#: scripts.js:12819
 #, fuzzy
 msgctxt "Modal : Video : Body"
 msgid "Step 2 of 3"
 msgstr "Шаг 2 из 3"
 
-#: scripts.js:9364
+#: scripts.js:12809
 #, fuzzy
 msgctxt "Modal : Video : Body"
 msgid "Step 3 of 3"
 msgstr "Шаг 3 из 3"
 
-#: scripts.js:8017
+#: scripts.js:11462
 #, fuzzy
 msgctxt "Modal : Copy : Title"
 msgid "Success!"
 msgstr "Успех!"
 
-#: scripts.js:11365
+#: scripts.js:14810
 #, fuzzy
 msgctxt "Targeting"
 msgid "Targeting settings for"
 msgstr "Настройки таргетинга для"
 
-#: scripts.js:8838
+#: scripts.js:12283
 #, fuzzy
 msgctxt "Error : Modal : Preset"
 msgid "There is already another preset with the same name."
 msgstr "Существует уже другая предустановка с тем же именем."
 
-#: scripts.js:9166
+#: scripts.js:12611
 #, fuzzy
 msgctxt "Modal : Preview : Delete Comment"
 msgid "this comment?"
 msgstr "этот комментарий?"
 
-#: scripts.js:9799
+#: scripts.js:13244
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "This month"
 msgstr "Этот месяц"
 
-#: scripts.js:7967
+#: scripts.js:11412
 #, fuzzy
 msgctxt "Modal : Copy : Title"
 msgid "to existing campaign"
 msgstr "к существующей кампании"
 
-#: scripts.js:7971
+#: scripts.js:11416
 #, fuzzy
 msgctxt "Modal : Copy : Title"
 msgid "to new campaign"
 msgstr "к новой кампании"
 
-#: scripts.js:8018
+#: scripts.js:11463
 #, fuzzy
 msgctxt "Modal : Copy : Body"
 msgid "to your newly created Ad Set"
 msgstr "для вновь созданного набора объявлений"
 
-#: scripts.js:9781
+#: scripts.js:13226
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "Today"
@@ -5567,121 +5561,121 @@ msgctxt "R&amp;F : Table : Cell"
 msgid "Total"
 msgstr "Всего"
 
-#: scripts.js:7454
+#: scripts.js:10899
 #, fuzzy
 msgctxt "Error : Automation"
 msgid "Unknown error occurred when"
 msgstr "Произошла неизвестная ошибка, когда"
 
-#: scripts.js:10237
+#: scripts.js:13682
 #, fuzzy
 msgctxt "Error : Status"
 msgid "Unknown error occurred when changing status"
 msgstr "Произошла неизвестная ошибка при изменении статуса"
 
-#: scripts.js:8041
+#: scripts.js:11486
 #, fuzzy
 msgctxt "Error : Copy"
 msgid "Unknown error occurred when copying selected Ad Sets."
 msgstr "при копировании выбранных наборов объявлений произошла неизвестная ошибка."
 
-#: scripts.js:8655
+#: scripts.js:12100
 #, fuzzy
 msgctxt "Error : Pixel"
 msgid "Unknown error occurred when creating Conversion Pixel."
 msgstr "при создании Pixel Conversion произошла неизвестная ошибка."
 
-#: scripts.js:6736
+#: scripts.js:10181
 #, fuzzy
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when creating new Custom Audience."
 msgstr "При создании нового пользовательского аудитории произошла неизвестная ошибка."
 
-#: scripts.js:6863
+#: scripts.js:10308
 #, fuzzy
 msgctxt "Error : Audiences : Lookalike"
 msgid "Unknown error occurred when creating new Lookalike Audience."
 msgstr "При создании нового двойником аудитории произошла неизвестная ошибка."
 
-#: scripts.js:11265
+#: scripts.js:14710
 #, fuzzy
 msgctxt "Error : Delete"
 msgid "Unknown error occurred when deleteing rows."
 msgstr "когда deleteing строки произошла неизвестная ошибка."
 
-#: scripts.js:11079
+#: scripts.js:14524
 #, fuzzy
 msgctxt "Error"
 msgid "Unknown error occurred when getting adgroups ids"
 msgstr "Произошла неизвестная ошибка при получении ADGROUPS иды"
 
-#: scripts.js:11047
+#: scripts.js:14492
 #, fuzzy
 msgctxt "Error"
 msgid "Unknown error occurred when getting adset ids"
 msgstr "Произошла неизвестная ошибка при получении adset иды"
 
-#: scripts.js:9749
+#: scripts.js:13194
 #, fuzzy
 msgctxt "Error : Pixel"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "при получении кода пикселя произошла неизвестная ошибка."
 
-#: scripts.js:6625
+#: scripts.js:10070
 #, fuzzy
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "при получении кода пикселя произошла неизвестная ошибка."
 
-#: scripts.js:6533
+#: scripts.js:9978
 #, fuzzy
 msgctxt "Error : Update : Adset"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "при обновлении выбранных наборов объявлений произошла неизвестная ошибка."
 
-#: scripts.js:8553
+#: scripts.js:11998
 #, fuzzy
 msgctxt "Error : Bulk Edit"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "при обновлении выбранных наборов объявлений произошла неизвестная ошибка."
 
-#: scripts.js:6234
+#: scripts.js:9679
 #, fuzzy
 msgctxt "Error : Update : Adgroup"
 msgid "Unknown error occurred when updating selected Ads."
 msgstr "при обновлении выбранных объявлений произошла неизвестная ошибка."
 
-#: scripts.js:7591
+#: scripts.js:11036
 #, fuzzy
 msgctxt "Error : Adset"
 msgid "Unknown error occurred, when requesting for Ad Set."
 msgstr "Произошла неизвестная ошибка, при запросе для Ad Set."
 
-#: scripts.js:7649
+#: scripts.js:11094
 #, fuzzy
 msgctxt "Error : Adgroup"
 msgid "Unknown error occurred, when requesting for Ad."
 msgstr "Произошла неизвестная ошибка, при запросе на объявление."
 
-#: scripts.js:7723
+#: scripts.js:11168
 #, fuzzy
 msgctxt "Error : Automation"
 msgid "Unknown error occurred, when requesting for Optimization object."
 msgstr "Произошла неизвестная ошибка, при запросе для объекта оптимизации."
 
-#: scripts.js:7816
+#: scripts.js:11261
 #, fuzzy
 msgctxt "Error"
 msgid "Unknown error occurred."
 msgstr "Произошла неизвестная ошибка."
 
-#: scripts.js:9044
+#: scripts.js:12489
 #, fuzzy
 msgctxt "Modal : Preset"
 msgid "Unselect All Columns"
 msgstr "Очистить все столбцы"
 
-#: scripts.js:6888
+#: scripts.js:10333
 #, fuzzy
 msgctxt "Modal : Automation : Ok Button"
 msgid "Update"
@@ -5693,8 +5687,8 @@ msgctxt "R&amp;F"
 msgid "Update Chart"
 msgstr "Диаграмма обновления"
 
-#: scripts.js:8056
-#: scripts.js:8062
+#: scripts.js:11501
+#: scripts.js:11507
 #, fuzzy
 msgctxt "Modal : Crop : Ok Button"
 msgid "Upload images"
@@ -5706,19 +5700,19 @@ msgctxt "Audience : Source"
 msgid "URL"
 msgstr "URL"
 
-#: scripts.js:6562
+#: scripts.js:10007
 #, fuzzy
 msgctxt "Audiences : Custom"
 msgid "User IDs"
 msgstr "идентификаторы пользователей"
 
-#: scripts.js:5975
+#: scripts.js:9420
 #, fuzzy
 msgctxt "Modal : Error"
 msgid "We are sorry, but editing of carousel ads isn't supported yet. Please, try to create new ad instead."
 msgstr "Извините, но редактирование объявлений карусельных пока не поддерживается. Пожалуйста, попробуйте создать новое объявление вместо."
 
-#: scripts.js:6570
+#: scripts.js:10015
 #, fuzzy
 msgctxt "Audiences : Custom : Example"
 msgid "We support:\n"
@@ -5730,43 +5724,43 @@ msgstr "Мы поддерживаем:\n"
 "                                                                - Реклама идентификатора Apple (IDFA), и\n"
 "                                                                - идентификаторы пользователей Facebook App"
 
-#: scripts.js:10527
+#: scripts.js:13972
 #, fuzzy
 msgctxt "Breakdown"
 msgid "Week"
 msgstr "Неделю"
 
-#: scripts.js:8222
+#: scripts.js:11667
 #, fuzzy
 msgctxt "Modal : Dialog : Ok Button"
 msgid "Yes"
 msgstr "да"
 
-#: scripts.js:9283
+#: scripts.js:12728
 #, fuzzy
 msgctxt "Modal : Video : Ok Button"
 msgid "Yes"
 msgstr "да"
 
-#: scripts.js:8844
+#: scripts.js:12289
 #, fuzzy
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "да"
 
-#: scripts.js:9784
+#: scripts.js:13229
 #, fuzzy
 msgctxt "Period : Date Preset"
 msgid "Yesterday"
 msgstr "Вчера"
 
-#: scripts.js:7391
+#: scripts.js:10836
 #, fuzzy
 msgctxt "Modal : Automation : Success : Title"
 msgid "You have successfully"
 msgstr "Вы успешно"
 
-#: scripts.js:8018
+#: scripts.js:11463
 #, fuzzy
 msgctxt "Modal : Copy : Body"
 msgid "You have successfully copied"
@@ -5783,21 +5777,31 @@ msgctxt "Validation : Rule"
 msgid "Your rule is empty."
 msgstr "Ваше правило, пуст."
 
-#: scripts.js:9363
+#: scripts.js:12808
 #, fuzzy
 msgctxt "Modal : Video : Title"
 msgid "Your video is being processed by Facebook..."
 msgstr "Ваше видео обрабатывается Facebook ..."
 
-#: scripts.js:9334
+#: scripts.js:12779
 #, fuzzy
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Aitarget..."
 msgstr "Ваше видео загружается в Aitarget ..."
 
-#: scripts.js:9373
+#: scripts.js:12818
 #, fuzzy
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Facebook..."
 msgstr "Ваше видео загружается на Facebook ..."
+
+#: scripts.components.js:5029
+msgctxt "Info : Budget"
+msgid ", the amount you enter is the maximum you'll spend each day."
+msgstr ", введенное количество – это максимум, который вы готовы потратить в день."
+
+#: scripts.components.js:5029
+msgctxt "Info : Budget"
+msgid "daily budget"
+msgstr "дневной бюджет"
 
