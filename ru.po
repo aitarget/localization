@@ -1598,9 +1598,10 @@ msgid "Choose the type of mobile device you would like to target these ads to. Y
 msgstr "Выберите тип мобильного устройства вы хотели бы настроить таргетинг этих объявлений. Вы можете настроить таргетинг на мобильной операционной системы и модели устройства."
 
 #: scripts.js:13127
+#, fuzzy
 msgctxt "Objective"
 msgid "Choose the type of your ads campaign:"
-msgstr "Выберите тип создаваемой кампании"
+msgstr "Выберите цель создаваемой кампании"
 
 #: scripts.components.js:5024
 msgctxt "Info : Targeting : Placements"
@@ -2341,8 +2342,9 @@ msgstr "Минуты:"
 #: scripts.js:13129
 msgctxt "Objective"
 msgid "Mobile"
-msgstr "Мобильный"
+msgstr "Продвижение мобильного приложения"
 
+#. Mobile Newsfeed
 #: scripts.js:11514
 #: scripts.js:11522
 #: scripts.js:13020
@@ -2353,7 +2355,8 @@ msgstr "Мобильный"
 #: scripts.js:14877
 msgctxt "Placement"
 msgid "Mobile Feed"
-msgstr "Мобильная лента"
+msgstr "Мобильная лента новостей\n"
+""
 
 #: scripts.js:13275
 msgctxt "Objective"
@@ -4115,7 +4118,7 @@ msgstr "Максимальный индекс потребительских ц�
 #: scripts.js:15533
 msgctxt "Placement"
 msgid "Mobile News Feed"
-msgstr "Мобильный Лента новостей"
+msgstr "Мобильная лента новостей"
 
 #: scripts.js:6705
 msgctxt "Breakdown"
