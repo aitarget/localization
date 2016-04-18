@@ -9,20 +9,17 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: index.html:3046
-#, fuzzy
 msgid "[[ MainObj.video_id ? 'Video' : 'Image' ]]"
-msgstr "[[ MainObj.video_id ? 'Видео' : 'Картинка' ]]  "
+msgstr "[[ MainObj.video_id ? 'Видео' : 'Картинка' ]]"
 
 #: index.html:3657
-#, fuzzy
 msgctxt "Custom Audiences"
 msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
-msgstr "[[MainObj.source_file[0].name || 'Перетащить файлы сюда']]&nbsp; "
+msgstr "[[MainObj.source_file[0].name || 'Перетащить файлы сюда']]&nbsp;"
 
 #: index.html:135
-#, fuzzy
 msgid "+ Create Audience<span class=\"caret\"></span>"
-msgstr "Создать аудиторию +"
+msgstr "Создать аудиторию +<span class=\"caret\"></span>"
 
 #: index.html:551
 msgid "1. Main"
@@ -89,9 +86,8 @@ msgid "Add Audience"
 msgstr "Добавить аудиторию"
 
 #: index.html:1136
-#, fuzzy
 msgid "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
-msgstr "Добавить [[({ 'carousel': 'объявление', 'normal': 'строку'}. [$root.$state.params.creative_type])]]"
+msgstr "Добавить [[({ 'carousel': 'объявление', 'normal': 'строку'}[$root.$state.params.creative_type])]]"
 
 #: index.html:1060
 msgid "Add New Ad"
@@ -157,7 +153,6 @@ msgid "Budget"
 msgstr "Бюджет"
 
 #: index.html:2110
-#, fuzzy
 msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
 msgstr "Настройки бюджета для \"[[$root.MainObj.adset.name]]\""
 
@@ -357,7 +352,6 @@ msgid "Enter url for your call to action button"
 msgstr "Введите ссылку для перехода по кнопке действия"
 
 #: header/header_crud/headerCrud.html:17
-#, fuzzy
 msgid "Errors&nbsp;<span class=\"caret\"></span>"
 msgstr "Ошибки&nbsp;<span class=\"caret\"></span>"
 
@@ -400,9 +394,8 @@ msgid "Images"
 msgstr "Изображения"
 
 #: index.html:3512
-#, fuzzy
 msgid "In the Last"
-msgstr " Последние"
+msgstr "Последние"
 
 #: index.html:3537
 msgid "Include past website traffic"
@@ -519,7 +512,6 @@ msgid "No"
 msgstr "Нет"
 
 #: header/header_crud/headerCrud.html:14
-#, fuzzy
 msgid "No Ad To Create"
 msgid_plural "Create [[$count]] New Ads"
 msgstr[0] "Нет объявлений для создания"
@@ -603,7 +595,6 @@ msgstr "Правила"
 #: index.html:2663
 #: index.html:359
 #: index.html:3993
-#, fuzzy
 msgid "Schedule"
 msgstr "Расписание объявления (доступно только при выборе бюджета на весь срок действия)"
 
@@ -624,7 +615,6 @@ msgstr "Выберите пост из списка"
 #: index.html:1762
 #: index.html:2947
 #: index.html:666
-#, fuzzy
 msgid "Select a tab in the list"
 msgstr "Выберите из списка"
 
