@@ -9,21 +9,24 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: index.html:3046
+#, fuzzy
 msgid "[[ MainObj.video_id ? 'Video' : 'Image' ]]"
-msgstr "[[ MainObj.video_id? 'Видео': 'Изображение' ]]"
+msgstr "[[ MainObj.video_id ? 'Видео' : 'Картинка' ]]  "
 
 #: index.html:3657
+#, fuzzy
 msgctxt "Custom Audiences"
 msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
-msgstr "[[MainObj.source_file[0].name || 'Бросьте файл сюда или ']]&nbsp;"
+msgstr "[[MainObj.source_file[0].name || 'Перетащить файлы сюда']]&nbsp; "
 
 #: index.html:135
+#, fuzzy
 msgid "+ Create Audience<span class=\"caret\"></span>"
-msgstr "+ Создать Аудиторию<span class=\"caret\"></span>"
+msgstr "Создать аудиторию +"
 
 #: index.html:551
 msgid "1. Main"
-msgstr "1. Основной"
+msgstr "1. Основные настройки"
 
 #: index.html:352
 msgid "1. Settings"
@@ -35,7 +38,8 @@ msgstr "2. Бюджет"
 
 #: index.html:400
 msgid "2. Targeting"
-msgstr "2. Таргетинг"
+msgstr "2. Аудитория\n"
+""
 
 #: index.html:419
 msgid "3. Charts"
@@ -43,12 +47,13 @@ msgstr "3. Графики"
 
 #: index.html:564
 msgid "3. Targeting"
-msgstr "3. Таргетинг"
+msgstr "3. Аудитория\n"
+""
 
 #: index.html:1743
 #: index.html:647
 msgid "4. Creative"
-msgstr "4. Креатив"
+msgstr "4. Объявления"
 
 #: index.html:475
 msgid "4. Table"
@@ -84,6 +89,7 @@ msgid "Add Audience"
 msgstr "Добавить аудиторию"
 
 #: index.html:1136
+#, fuzzy
 msgid "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
 msgstr "Добавить [[({ 'carousel': 'объявление', 'normal': 'строку'}. [$root.$state.params.creative_type])]]"
 
@@ -126,11 +132,11 @@ msgstr "Аудитории"
 #: scripts.components.js:5858
 msgctxt "Bid"
 msgid "Auto"
-msgstr "Автоматическая"
+msgstr "Авто"
 
 #: index.html:875
 msgid "Auto Mixing"
-msgstr "Включить перемешивание"
+msgstr "Включить комбинирование"
 
 #: index.html:1941
 #: index.html:2281
@@ -140,7 +146,7 @@ msgstr "Ставка"
 
 #: index.html:187
 msgid "Breakdown"
-msgstr "Сломать"
+msgstr "Разбиение"
 
 #: control/control_budget/control_budget_budget/controlBudgetBudget.html:2
 #: index.html:1903
@@ -151,12 +157,13 @@ msgid "Budget"
 msgstr "Бюджет"
 
 #: index.html:2110
+#, fuzzy
 msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
 msgstr "Настройки бюджета для \"[[$root.MainObj.adset.name]]\""
 
 #: index.html:170
 msgid "Bulk edit"
-msgstr "Массовое изменение"
+msgstr "Массовое редактирование"
 
 #: index.html:580
 msgid "By Reach"
@@ -175,7 +182,7 @@ msgstr "Период"
 #: index.html:756
 #: index.html:919
 msgid "Call To Action"
-msgstr "Кнопка действия"
+msgstr "Призыв к действию"
 
 #: control/control_campaign/control_campaign_main/controlCampaignMain.html:2
 #: index.html:264
@@ -190,7 +197,7 @@ msgstr "Карусель"
 #: crud/crud__step/crud__step_selected/crudStepSelected.html:7
 #: index.html:541
 msgid "Choose another ad type."
-msgstr "Выбрать другой тип."
+msgstr "Выбрать другой тип"
 
 #: index.html:101
 msgid "Choose parameter:"
@@ -198,7 +205,7 @@ msgstr "Выберите параметр:"
 
 #: index.html:189
 msgid "Clear all breakdowns"
-msgstr "Очистить все разбиения"
+msgstr "Сбросить настройки разбиения"
 
 #: index.html:1062
 #: index.html:1138
@@ -210,7 +217,7 @@ msgstr "Очистить все разбиения"
 #: index.html:637
 #: index.html:909
 msgid "Clear this step."
-msgstr "Очистить этот шаг."
+msgstr "Очистить этот шаг"
 
 #: index.html:1389
 #: index.html:1434
@@ -221,11 +228,11 @@ msgstr "Очистить этот шаг."
 #: index.html:1659
 #: index.html:1704
 msgid "Click to preview this ad"
-msgstr "Просмотреть объявления"
+msgstr "Просмотреть объявление"
 
 #: index.html:112
 msgid "Compare to parameter:"
-msgstr "По сравнению с параметром:"
+msgstr "Сравнить с:"
 
 #: index.html:1987
 #: index.html:2327
@@ -233,7 +240,7 @@ msgstr "По сравнению с параметром:"
 #: index.html:4003
 msgctxt "Schedule"
 msgid "Continuously"
-msgstr "Нет"
+msgstr "Непрерывная кампания"
 
 #: index.html:3804
 #: index.html:611
@@ -242,7 +249,7 @@ msgstr "Страна"
 
 #: index.html:145
 msgid "Create Automation"
-msgstr "Создание автоматизации"
+msgstr "Создание объекта автоматизации"
 
 #: index.html:864
 msgid "Creating Mode"
@@ -251,7 +258,7 @@ msgstr "Режим создания"
 #: audience-form/audienceForm.html:10
 #: index.html:614
 msgid "Custom Audiences"
-msgstr "Пользовательские Аудитории"
+msgstr "Индивидуализированные аудитории"
 
 #: index.html:3612
 msgid "Customer List"
@@ -332,7 +339,7 @@ msgstr "Введите дополнительное описание вашей 
 #: index.html:279
 #: index.html:3298
 msgid "Enter campaign name"
-msgstr "Введите название"
+msgstr "Введите название кампании"
 
 #: control/control_budget/controlBudget.html:10
 #: control/control_budget/controlBudget.html:8
@@ -343,35 +350,36 @@ msgstr "Введите название"
 #: index.html:2605
 #: index.html:2606
 msgid "Enter maximum amount you want to spend"
-msgstr "Введите максимальное значение, которое вы готовы потратить"
+msgstr "Введите максимальную сумму, которое вы готовы потратить"
 
 #: index.html:1096
 msgid "Enter url for your call to action button"
 msgstr "Введите ссылку для перехода по кнопке действия"
 
 #: header/header_crud/headerCrud.html:17
+#, fuzzy
 msgid "Errors&nbsp;<span class=\"caret\"></span>"
 msgstr "Ошибки&nbsp;<span class=\"caret\"></span>"
 
 #: index.html:579
 msgid "Evenly"
-msgstr "Равномерно"
+msgstr "Равными частями"
 
 #: index.html:316
 #: scripts.components.js:5243
 msgctxt "Adset"
 msgid "Existing"
-msgstr "Из списка"
+msgstr "Из существующего списка"
 
 #: index.html:275
 #: scripts.components.js:6318
 msgctxt "Campaign"
 msgid "Existing"
-msgstr "Из списка"
+msgstr "Из существующего списка"
 
 #: index.html:5
 msgid "Facebook-Aitarget cabinet"
-msgstr "Facebook-Aitarget кабинет"
+msgstr "Facebook AITarget кабинет"
 
 #: audience-form/audienceForm.html:7
 #: index.html:609
@@ -392,12 +400,13 @@ msgid "Images"
 msgstr "Изображения"
 
 #: index.html:3512
+#, fuzzy
 msgid "In the Last"
-msgstr "В последние"
+msgstr " Последние"
 
 #: index.html:3537
 msgid "Include past website traffic"
-msgstr "Включать предыдущий траффик на сайт"
+msgstr "Включать траффик на сайт с прошлых периодов "
 
 #: audience-form/audienceForm.html:8
 #: index.html:613
@@ -416,7 +425,7 @@ msgstr "По интересам"
 #: scripts.js:10721
 msgctxt "Budget"
 msgid "Lifetime"
-msgstr "Весь"
+msgstr "Бюджет на весь срок действия"
 
 #: index.html:1028
 #: index.html:1100
@@ -438,7 +447,7 @@ msgstr "Название ссылки"
 #: index.html:2938
 #: index.html:657
 msgid "Link URL"
-msgstr "Вкладка страницы"
+msgstr "Ссылка на страницу"
 
 #: index.html:3685
 msgid "List of customers"
@@ -454,7 +463,7 @@ msgstr "Вручную"
 #: scripts.components.js:5861
 msgctxt "Bid"
 msgid "Manual"
-msgstr "Пользовательская"
+msgstr "Установленная вручную"
 
 #: index.html:3020
 msgid "Message"
@@ -502,7 +511,7 @@ msgstr "Новый"
 #: index.html:557
 #: index.html:640
 msgid "Next Step"
-msgstr "Дальше"
+msgstr "Следующий шаг"
 
 #: index.html:3544
 msgctxt "Custom Audiences"
@@ -514,9 +523,9 @@ msgstr "Нет"
 msgid "No Ad To Create"
 msgid_plural "Create [[$count]] New Ads"
 msgstr[0] "Нет объявлений для создания"
-msgstr[1] "Создать [[$count]] Новое Объявление"
-msgstr[2] "Создать [[$count]] Новых Объявления"
-msgstr[3] "Создать [[$count]] Новых Объявлений"
+msgstr[1] "Создать [[$count]] новое объявление"
+msgstr[2] "Создать [[$count]] новых объявлений"
+msgstr[3] "Создать [[$count]] новых объявлений"
 
 #: index.html:3941
 msgid "Notifications"
@@ -539,19 +548,19 @@ msgstr "Одно изображение"
 #: index.html:2908
 #: index.html:973
 msgid "Optimize Carousel"
-msgstr "Опитимизировать карусель"
+msgstr "Порядок отображения картинок оптимизирован"
 
 #: control/control_optimize/control_optimize_budget/controlOptimizeBudget.html:2
 #: index.html:2048
 #: index.html:2734
 msgid "Optimize for"
-msgstr "Оптимизировать"
+msgstr "Оптимизировать по"
 
 #: index.html:2805
 #: index.html:3153
 msgctxt "Status"
 msgid "Paused"
-msgstr "Приостановлена"
+msgstr "На паузе"
 
 #: index.html:2141
 msgid "Paused"
@@ -575,7 +584,7 @@ msgstr "Посты"
 
 #: index.html:1877
 msgid "Preview Your Ad"
-msgstr "Смотреть объявления"
+msgstr "Просмотреть ваше объявление"
 
 #: index.html:2558
 msgid "Pricing"
@@ -594,8 +603,9 @@ msgstr "Правила"
 #: index.html:2663
 #: index.html:359
 #: index.html:3993
+#, fuzzy
 msgid "Schedule"
-msgstr "Ограничивать по дням"
+msgstr "Расписание объявления (доступно только при выборе бюджета на весь срок действия)"
 
 #: index.html:3662
 msgid "Select"
@@ -604,16 +614,17 @@ msgstr "Выбрать"
 #: index.html:1790
 #: index.html:694
 msgid "Select a pixel in the list"
-msgstr "Выберите из списка"
+msgstr "Выберите пиксель из списка"
 
 #: index.html:1823
 #: index.html:727
 msgid "Select a post in the list"
-msgstr "Выберите из списка"
+msgstr "Выберите пост из списка"
 
 #: index.html:1762
 #: index.html:2947
 #: index.html:666
+#, fuzzy
 msgid "Select a tab in the list"
 msgstr "Выберите из списка"
 
@@ -624,7 +635,7 @@ msgstr "Выберите приложение или введите ссылку
 #: index.html:1987
 #: index.html:2673
 msgid "Select daily budget if you want to use this option."
-msgstr "Необходимо выбрать бюджет за день, если хотите воспользоваться этой функцией."
+msgstr "Необходимо выбрать дневной бюджет, если хотите воспользоваться этой функцией."
 
 #: index.html:1170
 #: index.html:1290
@@ -636,18 +647,18 @@ msgstr "Выбрать файлы"
 #: index.html:283
 #: index.html:3302
 msgid "Select or search a campaign in the list"
-msgstr "Выберите из списка"
+msgstr "Выберите или найдите кампанию из списка, введя название"
 
 #: index.html:1078
 #: index.html:2889
 #: index.html:765
 #: index.html:928
 msgid "Select or search an action in the list"
-msgstr "Выберите действие из списка"
+msgstr "Выберите или найдите действие из списка, введя название"
 
 #: index.html:324
 msgid "Select or search an adset in the list"
-msgstr "Выберите из списка"
+msgstr "Выберите или найдите адсет из списка, введя название"
 
 #: index.html:59
 msgid "Select Period:"
@@ -3234,7 +3245,7 @@ msgstr "видео"
 #: scripts.js:13303
 msgctxt "Objective"
 msgid "Video Views"
-msgstr "видео просмотров"
+msgstr "Просмотр видео"
 
 #: calendar/calendar.html:13
 msgctxt "Calendar Day Name"
