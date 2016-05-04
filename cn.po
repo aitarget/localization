@@ -10,16 +10,16 @@ msgstr ""
 
 #: index.html:2981
 msgid "[[ MainObj.video_id ? 'Video' : 'Image' ]]"
-msgstr "[MainObj.video_id？ “视频”：“图像”]"
+msgstr "[[ MainObj.video_id ? '视频':  '图像' ]]"
 
 #: index.html:3592
 msgctxt "Custom Audiences"
 msgid "[[MainObj.source_file[0].name || 'Drop File Here or']]&nbsp;"
-msgstr "[MainObj.source_file [0]。名称|| “拖放文件这里还是']]＆NBSP;"
+msgstr "[[MainObj.source_file[0].name || '拖放文件这里还是']]&nbsp;"
 
 #: index.html:130
 msgid "+ Create Audience<span class=\"caret\"></span>"
-msgstr "+创建受众群体的<span class =“插入符号”> </ SPAN>"
+msgstr "+ 创建受众群体的<span class=\"caret\"></span>"
 
 #: index.html:546
 msgid "1. Main"
@@ -85,7 +85,7 @@ msgstr "添加访问群体"
 
 #: index.html:1107
 msgid "Add New [[({'carousel': 'Ad', 'normal': 'Row'}[$root.$state.params.creative_type])]]"
-msgstr "添加新的[[（{'转盘'：'广告'，'正常'：'行'}。[$根$ state.params.creative_type]）]]"
+msgstr "添加新的 [[({'carousel':  '广告'，'normal':  '行'}[$root.$state.params.creative_type])]]"
 
 #: index.html:1031
 msgid "Add New Ad"
@@ -152,7 +152,7 @@ msgstr "预算"
 
 #: index.html:2052
 msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
-msgstr "预算设置“[[$ root.MainObj.adset.name]]”"
+msgstr "预算设置\"[[$root.MainObj.adset.name]]\""
 
 #: index.html:165
 msgid "Bulk edit"
@@ -194,7 +194,7 @@ msgstr "选择其他广告类型。"
 
 #: index.html:96
 msgid "Choose parameter:"
-msgstr "选择参数："
+msgstr "选择参数:  "
 
 #: index.html:186
 msgid "Clear all breakdowns"
@@ -225,7 +225,7 @@ msgstr "点击预览广告"
 
 #: index.html:107
 msgid "Compare to parameter:"
-msgstr "比较参数："
+msgstr "比较参数:  "
 
 #: index.html:1934
 #: index.html:2269
@@ -278,7 +278,7 @@ msgstr "日常"
 #: index.html:3551
 msgctxt "Custom Audiences"
 msgid "Data Type:"
-msgstr "数据类型："
+msgstr "数据类型:  "
 
 #: index.html:3455
 msgctxt "Custom Audiences"
@@ -351,7 +351,7 @@ msgstr "输入网址为您的号召性按钮"
 
 #: header/header_crud/headerCrud.html:17
 msgid "Errors&nbsp;<span class=\"caret\"></span>"
-msgstr "错误＆NBSP;的<span class =“插入符号”> </ SPAN>"
+msgstr "错误&nbsp;的<span class=\"caret\"></span>"
 
 #: index.html:574
 msgid "Evenly"
@@ -638,7 +638,7 @@ msgstr "选择或搜索列表的adset"
 
 #: index.html:59
 msgid "Select Period:"
-msgstr "选择时间："
+msgstr "选择时间:  "
 
 #: crud/crud__step/crud__step_selected/crudStepSelected.html:3
 #: index.html:520
@@ -743,7 +743,7 @@ msgstr "您目前没有任何活动与选定的广告类型来选择。"
 #: index.html:3688
 msgctxt "Custom Audiences"
 msgid "You have to accept &nbsp;"
-msgstr "你必须接受＆NBSP;"
+msgstr "你必须接受&nbsp;"
 
 #: index.html:1033
 #: index.html:1109
@@ -817,7 +817,7 @@ msgstr "图像信息"
 #: index.html:2332
 msgctxt "Crop"
 msgid "Minimum size: <span class=\"media_text__bold\">[[requirements.minSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.minSize.height]]</span> pixels"
-msgstr "最小尺寸：的<span class =“media_text__bold”> [requirements.minSize.width] </ SPAN> X <跨度类=“media_text__bold”> [requirements.minSize.height] </ SPAN>像素"
+msgstr "最小尺寸:  的<span class=\"media_text__bold\">[[requirements.minSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.minSize.height]]</span>像素"
 
 #: index.html:3229
 msgctxt "Copy"
@@ -851,7 +851,7 @@ msgstr "比率"
 #: index.html:2333
 msgctxt "Crop"
 msgid "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
-msgstr "推荐尺寸：的<span class =“media_text__bold”> [requirements.recommendedSize.width] </ SPAN> X <跨度类=“media_text__bold”> [requirements.recommendedSize.height] </ SPAN>像素"
+msgstr "推荐尺寸:  的<span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span>像素"
 
 #: index.html:2381
 msgid "Search"
@@ -880,7 +880,7 @@ msgstr "是"
 #: index.html:2334
 msgctxt "Crop"
 msgid "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
-msgstr "您的图像可能不包括除的<span class =“media_text__bold”> 20％</ SPAN>文本更"
+msgstr "您的图像可能不包括除的<span class=\"media_text__bold\">20％</span>文本更"
 
 #: scripts.js:5765
 #: scripts.js:7543
@@ -939,7 +939,7 @@ msgstr "'新'"
 #: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
 msgctxt "Info : Targeting : Locations"
 msgid "[[audienceFormControlTypeGeoController.namesToReplaceStr]] to [[audienceFormControlTypeGeoController.itemName]].&nbsp;"
-msgstr "[audienceFormControlTypeGeoController.namesToReplaceStr]至[audienceFormControlTypeGeoController.itemName]群组。"
+msgstr "[[audienceFormControlTypeGeoController.namesToReplaceStr]] 至 [[audienceFormControlTypeGeoController.itemName]].&nbsp;"
 
 #: footer/footer.html:4
 msgid "© 2012-2016 Aitarget"
@@ -1549,7 +1549,7 @@ msgstr "选择移动设备的类型，你想这些广告定位到。您可以通
 #: scripts.js:5861
 msgctxt "Objective"
 msgid "Choose the type of your ads campaign:"
-msgstr "选择您的广告系列的类型："
+msgstr "选择您的广告系列的类型:  "
 
 #: scripts.components.js:6187
 msgctxt "Info : Targeting : Placements"
@@ -1681,7 +1681,7 @@ msgstr "天"
 #: scripts.components.js:4022
 msgctxt "Pricing Table"
 msgid "Days left:"
-msgstr "剩余天数："
+msgstr "剩余天数:  "
 
 #: scripts.js:1176
 msgctxt "Column : Status : Adgroup"
@@ -1794,7 +1794,7 @@ msgstr "错误"
 #: scripts.js:6227
 msgctxt "Error : Create"
 msgid "Error occurred when creating your ads! Message:"
-msgstr "在制作广告时出错！信息："
+msgstr "在制作广告时出错！信息:  "
 
 #: scripts.js:5528
 msgctxt "Error : Image"
@@ -2223,7 +2223,7 @@ msgstr "最多次数的广告将显示给塔相同的用户。"
 #: scripts.components.js:6131
 msgctxt "Info : Audiences : In The Last"
 msgid "Maximum time: 180 days"
-msgstr "最大时间：180天"
+msgstr "最大时间:  180天"
 
 #: scripts.components.js:11383
 #: scripts.components.js:11702
@@ -2975,7 +2975,7 @@ msgstr "总支出"
 #: scripts.components.js:4010
 msgctxt "Pricing Table"
 msgid "Trial days left:"
-msgstr "离开审判日："
+msgstr "离开审判日:  "
 
 #: scripts.components.js:4043
 msgctxt "Pricing Table"
@@ -2986,12 +2986,12 @@ msgstr "试用期已经结束。请更新你的计划"
 #: scripts.components.js:4035
 msgctxt "Pricing Table"
 msgid "Trial Period:"
-msgstr "试用期："
+msgstr "试用期:  "
 
 #: scripts.components.js:4050
 msgctxt "Pricing Table"
 msgid "Trial period: 30 days"
-msgstr "试用期：30天"
+msgstr "试用期:  30天"
 
 #: scripts.components.js:3150
 msgctxt "Pacing"
@@ -3211,7 +3211,7 @@ msgstr "您可以上传.csv或.txt格式的文件。"
 #: scripts.components.js:6160
 msgctxt "Info : Deep Link"
 msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
-msgstr "您可以使用深层链接（例如：MyApp的：//百脑汇/ 12345）或应用程序链接的URL启用。"
+msgstr "您可以使用深层链接（例如:  MyApp的:  //百脑汇/ 12345）或应用程序链接的URL启用。"
 
 #: scripts.components.js:8149
 msgctxt "Validation : Page"
@@ -3262,7 +3262,7 @@ msgstr "您的预算超过"
 #: scripts.js:8277
 msgctxt "Error : Creative : Remove"
 msgid "! Message:"
-msgstr "！信息："
+msgstr "！信息:  "
 
 #: scripts.js:13486
 msgctxt "Breakdown"
@@ -3681,12 +3681,12 @@ msgstr "编辑"
 #: scripts.js:9172
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad Set:"
-msgstr "编辑广告设置："
+msgstr "编辑广告设置:  "
 
 #: scripts.js:8922
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad:"
-msgstr "修改广告："
+msgstr "修改广告:  "
 
 #: scripts.js:10564
 msgctxt "Error : Adgroup : Edit"
@@ -3778,27 +3778,27 @@ msgstr "拆卸时出现错误的"
 #: scripts.js:12429
 msgctxt "Error : Adset"
 msgid "Error occurred when requesting Adsets. Error:"
-msgstr "请求Adsets时出错。错误："
+msgstr "请求Adsets时出错。错误:  "
 
 #: scripts.js:10845
 msgctxt "Error : Campaign"
 msgid "Error occurred when requesting existing campaigns. Error:"
-msgstr "要求现有的广告活动时发生错误。错误："
+msgstr "要求现有的广告活动时发生错误。错误:  "
 
 #: scripts.js:9812
 msgctxt "Error : Automation"
 msgid "Error occurred when requesting existing rules presets. Error:"
-msgstr "要求现有的规则预设时出错。错误："
+msgstr "要求现有的规则预设时出错。错误:  "
 
 #: scripts.js:8852
 msgctxt "Error : Pages"
 msgid "Error occurred when requesting Pages. Error:"
-msgstr "请求页面时出现错误。错误："
+msgstr "请求页面时出现错误。错误:  "
 
 #: scripts.js:14405
 msgctxt "Error : Pixel"
 msgid "Error occurred when requesting Pixels. Error:"
-msgstr "请求像​​素时出错。错误："
+msgstr "请求像​​素时出错。错误:  "
 
 #: scripts.js:3955
 msgctxt "Error : Preview"
@@ -4125,7 +4125,7 @@ msgstr "达到"
 #: index.html:3766
 msgctxt "Audiences : Lookalike"
 msgid "Reach ([[MainObj.country.users * 0.01 / 1000 | number_format]]K)"
-msgstr "到达（[MainObj.country.users * 0.01 / 1000 | number_format] K）"
+msgstr "到达 ([[MainObj.country.users * 0.01 / 1000 | number_format]]K)"
 
 #: index.html:3712
 msgctxt "Audiences : Lookalike"
@@ -4188,7 +4188,7 @@ msgstr "选中的评论？"
 #: index.html:3770
 msgctxt "Audiences : Lookalike"
 msgid "Similarity ([[MainObj.country.users * 0.2 / 1000 | number_format]]K)"
-msgstr "相似（[MainObj.country.users * 0.2 / 1000 | number_format] K）"
+msgstr "相似 ([[MainObj.country.users * 0.2 / 1000 | number_format]]K)"
 
 #: index.html:3773
 msgctxt "Audiences : Lookalike"
@@ -4578,7 +4578,7 @@ msgstr "频率"
 #: index.html:434
 msgctxt "RF"
 msgid "Frequency Cap:"
-msgstr "频率上限："
+msgstr "频率上限:  "
 
 #: index.html:480
 msgctxt "RF : Table : Column"
@@ -4679,7 +4679,7 @@ msgstr "放置"
 #: index.html:419
 msgctxt "RF"
 msgid "Placement:"
-msgstr "放置："
+msgstr "放置:  "
 
 #: index.html:474
 msgctxt "RF : Table"
@@ -4785,7 +4785,7 @@ msgid "We support:\n"
 "                                                                – Android's advertising ID,\n"
 "                                                                – Apple's Advertising Identifier(IDFA),and\n"
 "                                                                – Facebook App User IDs"
-msgstr "我们支持：\n"
+msgstr "我们支持:  \n"
 "                                                                 -  Android的广告ID，\n"
 "                                                                 - 苹果公司的广告标识符（IDFA），和\n"
 "                                                                 -  Facebook应用用户ID"
@@ -4803,7 +4803,7 @@ msgstr "寡"
 #: scripts.components.js:10403
 msgctxt "Modal : Campaign : Title"
 msgid "Edit Campaign:"
-msgstr "修改广告系列："
+msgstr "修改广告系列:"
 
 #: scripts.js:12717
 msgctxt "Period : Date Preset"
