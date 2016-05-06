@@ -146,7 +146,7 @@ msgstr "Breakdown"
 #: index.html:1850
 #: index.html:2185
 #: index.html:2527
-#: scripts.js:14619
+#: scripts.js:14620
 msgid "Budget"
 msgstr "Budget"
 
@@ -260,7 +260,7 @@ msgstr "Customer List"
 #: index.html:1861
 #: index.html:2196
 #: index.html:2538
-#: scripts.components.js:7600
+#: scripts.components.js:7458
 #: scripts.js:7832
 #: scripts.js:7835
 #: scripts.js:7913
@@ -354,13 +354,13 @@ msgid "Evenly"
 msgstr "Evenly"
 
 #: index.html:315
-#: scripts.components.js:6764
+#: scripts.components.js:6696
 msgctxt "Adset"
 msgid "Existing"
 msgstr "Existing"
 
 #: index.html:274
-#: scripts.components.js:7771
+#: scripts.components.js:8263
 msgctxt "Campaign"
 msgid "Existing"
 msgstr "Existing"
@@ -403,7 +403,7 @@ msgstr "Interests"
 #: index.html:1860
 #: index.html:2195
 #: index.html:2537
-#: scripts.components.js:7597
+#: scripts.components.js:7455
 #: scripts.js:7832
 #: scripts.js:7835
 #: scripts.js:7913
@@ -474,13 +474,13 @@ msgid "Name"
 msgstr "Name"
 
 #: index.html:273
-#: scripts.components.js:7768
+#: scripts.components.js:8260
 msgctxt "Campaign"
 msgid "New"
 msgstr "New"
 
 #: index.html:314
-#: scripts.components.js:6761
+#: scripts.components.js:6693
 msgctxt "Adset"
 msgid "New"
 msgstr "New"
@@ -842,6 +842,7 @@ msgctxt "Crop"
 msgid "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
 msgstr "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
 
+#: columns/columns__search/columns__search.html:2
 #: index.html:2382
 msgid "Search"
 msgstr "Search"
@@ -872,8 +873,8 @@ msgid "Your image may not include more than <span class=\"media_text__bold\">20%
 msgstr "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
 
 #: scripts.js:12596
-#: scripts.js:14374
-#: scripts.js:14453
+#: scripts.js:14375
+#: scripts.js:14454
 #: scripts.js:1768
 #: scripts.js:2222
 msgctxt "Call To Action"
@@ -1035,7 +1036,7 @@ msgctxt "Informer"
 msgid "actions"
 msgstr "actions"
 
-#: scripts.components.js:10812
+#: scripts.components.js:10721
 msgctxt "Campaign : Status"
 msgid "Active"
 msgstr "Active"
@@ -1079,48 +1080,48 @@ msgctxt "Switcher"
 msgid "Ads"
 msgstr "Ads"
 
-#: scripts.js:14266
+#: scripts.js:14267
 msgctxt "Error : Text"
 msgid "Ads message is required and cannot be empty."
 msgstr "Ads message is required and cannot be empty."
 
-#: scripts.js:14271
+#: scripts.js:14272
 msgctxt "Error : Text"
 msgid "Ads message must be more than 1 and less than 300 characters long."
 msgstr "Ads message must be more than 1 and less than 300 characters long."
 
-#: scripts.components.js:6320
+#: scripts.components.js:6284
 msgctxt "URL Macros"
 msgid "AdSet ID"
 msgstr "Adset ID"
 
-#: scripts.components.js:6773
+#: scripts.components.js:6705
 msgctxt "Validation : Adset"
 msgid "Adset is required"
 msgstr "Adset is required"
 
-#: scripts.js:14193
-#: scripts.js:14207
+#: scripts.js:14194
+#: scripts.js:14208
 msgctxt "Error : Adset"
 msgid "Adset is required if you want to use existing adset."
 msgstr "Adset is required if you want to use existing adset."
 
-#: scripts.components.js:6317
+#: scripts.components.js:6281
 msgctxt "URL Macros"
 msgid "AdSet name"
 msgstr "Adset name"
 
-#: scripts.components.js:6772
+#: scripts.components.js:6704
 msgctxt "Validation : Adset"
 msgid "Adset name is required"
 msgstr "Adset name is required"
 
-#: scripts.js:14214
+#: scripts.js:14215
 msgctxt "Error : Adset"
 msgid "Adset name is required if new adset is selected."
 msgstr "Adset name is required if new adset is selected."
 
-#: scripts.js:14219
+#: scripts.js:14220
 msgctxt "Error : Adset"
 msgid "Adset name must be less than 100 characters long."
 msgstr "Adset name must be less than 100 characters long."
@@ -1166,12 +1167,12 @@ msgctxt "Platforms"
 msgid "Android only"
 msgstr "Android only"
 
-#: scripts.components.js:11263
+#: scripts.components.js:11357
 msgctxt "Audience Opt Groups"
 msgid "App"
 msgstr "App"
 
-#: scripts.components.js:11275
+#: scripts.components.js:11369
 msgctxt "Audience Opt Groups"
 msgid "App Combination"
 msgstr "App Combination"
@@ -1186,22 +1187,22 @@ msgctxt "Column : Status : Adgroup"
 msgid "Approved"
 msgstr "Approved"
 
-#: scripts.js:14200
+#: scripts.js:14201
 msgctxt "Error : Adset"
 msgid "At least one Adset is required."
 msgstr "At least one Adset is required."
 
-#: scripts.js:14090
+#: scripts.js:14091
 msgctxt "Error : Email"
 msgid "At least one email address is required."
 msgstr "At least one email address is required."
 
-#: scripts.js:14159
+#: scripts.js:14160
 msgctxt "Error : App"
 msgid "At least one facebook app is required if you want to upload people IDs."
 msgstr "At least one facebook app is required if you want to upload people IDs."
 
-#: scripts.js:14166
+#: scripts.js:14167
 msgctxt "Error : Audience"
 msgid "At least one source is required."
 msgstr "At least one source is required."
@@ -1236,7 +1237,7 @@ msgstr "Avg daily spend"
 msgid "Behaviours"
 msgstr "Behaviours"
 
-#: scripts.components.js:6329
+#: scripts.components.js:6293
 msgctxt "URL Macros"
 msgid "Bid amount (value or AUTOBID)"
 msgstr "Bid amount (value or AUTOBID)"
@@ -1251,19 +1252,19 @@ msgctxt "Validation : Bid"
 msgid "Bid is required"
 msgstr "Bid is required"
 
-#: scripts.components.js:6326
+#: scripts.components.js:6290
 msgctxt "URL Macros"
 msgid "Bid type"
 msgstr "Bid type"
 
-#: scripts.components.js:6332
+#: scripts.components.js:6296
 msgctxt "URL Macros"
 msgid "Billing event"
 msgstr "Billing event"
 
 #: scripts.js:12611
-#: scripts.js:14389
-#: scripts.js:14459
+#: scripts.js:14390
+#: scripts.js:14460
 #: scripts.js:1777
 #: scripts.js:2237
 msgctxt "Call To Action"
@@ -1295,7 +1296,7 @@ msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "Budget value should be less or equal to 1 000 000."
 
-#: scripts.js:14413
+#: scripts.js:14414
 msgid "Buy Now"
 msgstr "Buy Now"
 
@@ -1311,18 +1312,18 @@ msgctxt "Automation : Adset : Action Param"
 msgid "By Reach"
 msgstr "By Reach"
 
-#: scripts.components.js:7454
+#: scripts.components.js:7695
 msgctxt "Calendar"
 msgid "Calendar"
 msgstr "Calendar"
 
-#: scripts.components.js:7462
-#: scripts.components.js:7463
+#: scripts.components.js:7703
+#: scripts.components.js:7704
 msgctxt "Validation : Calendar"
 msgid "Calendar is required"
 msgstr "Calendar is required"
 
-#: scripts.components.js:6314
+#: scripts.components.js:6278
 msgctxt "URL Macros"
 msgid "Campaign ID"
 msgstr "Campaign ID"
@@ -1337,33 +1338,33 @@ msgctxt "Column : Status : Adgroup"
 msgid "Campaign is Off"
 msgstr "Campaign is Off"
 
-#: scripts.components.js:7780
+#: scripts.components.js:8272
 msgctxt "Validation : Campaign"
 msgid "Campaign is required"
 msgstr "Campaign is required"
 
-#: scripts.js:14152
+#: scripts.js:14153
 msgctxt "Error : Campaign"
 msgid "Campaign is required if you want to use existing campaign."
 msgstr "Campaign is required if you want to use existing campaign."
 
-#: scripts.components.js:6311
+#: scripts.components.js:6275
 msgctxt "URL Macros"
 msgid "Campaign name"
 msgstr "Campaign name"
 
-#: scripts.components.js:10810
-#: scripts.components.js:7779
+#: scripts.components.js:10719
+#: scripts.components.js:8271
 msgctxt "Validation : Campaign"
 msgid "Campaign name is required"
 msgstr "Campaign name is required"
 
-#: scripts.js:14173
+#: scripts.js:14174
 msgctxt "Error : Campaign"
 msgid "Campaign name is required if new campaign is selected."
 msgstr "Campaign name is required if new campaign is selected."
 
-#: scripts.js:14178
+#: scripts.js:14179
 msgctxt "Error : Campaign"
 msgid "Campaign name must be less than 128 characters long."
 msgstr "Campaign name must be less than 128 characters long."
@@ -1378,7 +1379,7 @@ msgid "Campaigns"
 msgstr "Campaigns"
 
 #: crop/crop__modal/cropModal.html:15
-#: scripts.components.js:10855
+#: scripts.components.js:10764
 msgid "Cancel"
 msgstr "Cancel"
 
@@ -1445,7 +1446,7 @@ msgid "Choose a particular view or app on your Page where people will land when 
 msgstr "Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements."
 
 #: scripts.components.js:6438
-#: scripts.components.js:8492
+#: scripts.components.js:8759
 msgctxt "Info : Post"
 msgid "Choose a post that you want to promote."
 msgstr "Choose a post that you want to promote."
@@ -1561,7 +1562,7 @@ msgctxt "Plan : Dialog"
 msgid "Close"
 msgstr "Close"
 
-#: scripts.components.js:5688
+#: scripts.components.js:5076
 msgid "Close Advanced Settings"
 msgstr "Close Advanced Settings"
 
@@ -1570,7 +1571,7 @@ msgctxt "Info : Targeting : Interests"
 msgid "Combine interests to expand your ad's reach."
 msgstr "Combine interests to expand your ad's reach."
 
-#: scripts.components.js:13074
+#: scripts.components.js:13066
 msgctxt "Info : Instagram Account"
 msgid "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
 msgstr "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
@@ -1585,12 +1586,12 @@ msgctxt "Pricing Table"
 msgid "Continue to use"
 msgstr "Continue to use"
 
-#: scripts.components.js:7451
+#: scripts.components.js:7692
 msgctxt "Calendar"
 msgid "Continuously"
 msgstr "Continuously"
 
-#: scripts.js:14101
+#: scripts.js:14102
 msgctxt "Error : Pixel"
 msgid "Conversion Pixel is required."
 msgstr "Conversion Pixel is required."
@@ -1615,7 +1616,7 @@ msgctxt "Informer"
 msgid "cpc"
 msgstr "cpc"
 
-#: scripts.components.js:8694
+#: scripts.components.js:8452
 msgctxt "Validation : Page"
 msgid "create public page."
 msgstr "create public page."
@@ -1625,7 +1626,7 @@ msgctxt "Modal : Create : Cancel Button"
 msgid "Create Similar Ads"
 msgstr "Create Similar Ads"
 
-#: scripts.components.js:6323
+#: scripts.components.js:6287
 msgctxt "URL Macros"
 msgid "Creative (Ads) name"
 msgstr "Creative (Ads) name"
@@ -1652,12 +1653,12 @@ msgctxt "Informer"
 msgid "ctr"
 msgstr "ctr"
 
-#: scripts.components.js:11254
+#: scripts.components.js:11348
 msgctxt "Audience Opt Groups"
 msgid "Custom"
 msgstr "Custom"
 
-#: scripts.components.js:7609
+#: scripts.components.js:7467
 msgctxt "Validation : Budget"
 msgid "Daily budget is required"
 msgstr "Daily budget is required"
@@ -1687,8 +1688,8 @@ msgstr "Describe why people should visit your website."
 #: scripts.js:12920
 #: scripts.js:13099
 #: scripts.js:13124
-#: scripts.js:14366
-#: scripts.js:14442
+#: scripts.js:14367
+#: scripts.js:14443
 msgctxt "Placement"
 msgid "Desktop Feed"
 msgstr "Desktop Feed"
@@ -1725,8 +1726,8 @@ msgid "Down"
 msgstr "Down"
 
 #: scripts.js:12623
-#: scripts.js:14401
-#: scripts.js:14468
+#: scripts.js:14402
+#: scripts.js:14469
 #: scripts.js:1780
 #: scripts.js:2249
 msgctxt "Call To Action"
@@ -1796,12 +1797,12 @@ msgctxt "Error : Video"
 msgid "Error occurred when requesting for library videos."
 msgstr "Error occurred when requesting for library videos."
 
-#: scripts.components.js:8153
+#: scripts.components.js:7954
 msgctxt "Instagram Account"
 msgid "Error occurred! Couldn't create instagram account for the selected page."
 msgstr "Error occurred! Couldn't create instagram account for the selected page."
 
-#: scripts.components.js:7018
+#: scripts.components.js:6950
 #: scripts.components.js:9242
 msgctxt "Error : App"
 msgid "Error occurred! Please, check your App URL."
@@ -1875,17 +1876,17 @@ msgctxt "Informer"
 msgid "frequency"
 msgstr "frequency"
 
-#: scripts.js:14321
+#: scripts.js:14322
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value is required."
 msgstr "Frequency cap value is required."
 
-#: scripts.js:14326
+#: scripts.js:14327
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value should be greater or equal to 1."
 msgstr "Frequency cap value should be greater or equal to 1."
 
-#: scripts.js:14327
+#: scripts.js:14328
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value should be numeric."
 msgstr "Frequency cap value should be numeric."
@@ -1912,7 +1913,7 @@ msgctxt "Call To Action"
 msgid "Get Offer"
 msgstr "Get Offer"
 
-#: scripts.js:14416
+#: scripts.js:14417
 msgid "Get Offer"
 msgstr "Get Offer"
 
@@ -1931,12 +1932,12 @@ msgctxt "Info : Campaign : Name"
 msgid "Give your campaign a name that describes the audience, scheduling or adsets inside it."
 msgstr "Give your campaign a name that describes the audience, scheduling or adsets inside it."
 
-#: scripts.components.js:8150
+#: scripts.components.js:7951
 msgctxt "Instagram Account"
 msgid "grant manage page permissions"
 msgstr "grant manage page permissions"
 
-#: scripts.components.js:8052
+#: scripts.components.js:7853
 msgctxt "Validation : Instagram Account"
 msgid "How to link your Instagram Account and AdAccount you can"
 msgstr "How to link your Instagram Account and AdAccount you can"
@@ -1997,8 +1998,8 @@ msgstr "Include people whose friends are connected to"
 #: index.html:425
 #: scripts.components.js:12278
 #: scripts.js:11299
-#: scripts.js:14555
-#: scripts.js:15103
+#: scripts.js:14556
+#: scripts.js:15104
 #: scripts.js:1741
 msgctxt "Placement"
 msgid "Instagram"
@@ -2013,13 +2014,13 @@ msgstr "Instagram"
 msgid "Instagram Account"
 msgstr "Instagram Account"
 
-#: scripts.components.js:8048
+#: scripts.components.js:7849
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "Instagram account is required."
 
 #: scripts.js:12608
-#: scripts.js:14386
+#: scripts.js:14387
 #: scripts.js:1771
 #: scripts.js:2234
 msgctxt "Call To Action"
@@ -2035,17 +2036,17 @@ msgstr "Integration of external data"
 msgid "Interested In"
 msgstr "Interested In"
 
-#: scripts.js:14334
+#: scripts.js:14335
 msgctxt "Error : Frequency Cap"
 msgid "Interval period is required."
 msgstr "Interval period is required."
 
-#: scripts.js:14339
+#: scripts.js:14340
 msgctxt "Error : Frequency Cap"
 msgid "Interval period should be more than 1 day."
 msgstr "Interval period should be more than 1 day."
 
-#: scripts.js:14340
+#: scripts.js:14341
 msgctxt "Error : Frequency Cap"
 msgid "Interval period value should be numeric."
 msgstr "Interval period value should be numeric."
@@ -2056,7 +2057,7 @@ msgid "iOS only"
 msgstr "iOS only"
 
 #: scripts.js:14069
-#: scripts.js:14237
+#: scripts.js:14238
 msgctxt "Error : Number"
 msgid "It can't have less than 1 or more than 2 decimal places."
 msgstr "It can't have less than 1 or more than 2 decimal places."
@@ -2111,8 +2112,8 @@ msgid "Last Week"
 msgstr "Last Week"
 
 #: scripts.js:12617
-#: scripts.js:14395
-#: scripts.js:14462
+#: scripts.js:14396
+#: scripts.js:14463
 #: scripts.js:1783
 #: scripts.js:2243
 msgctxt "Call To Action"
@@ -2154,7 +2155,7 @@ msgctxt "Info : Budget"
 msgid "lifetime budget"
 msgstr "lifetime budget"
 
-#: scripts.components.js:7608
+#: scripts.components.js:7466
 msgctxt "Validation : Budget"
 msgid "Lifetime budget is required"
 msgstr "Lifetime budget is required"
@@ -2164,7 +2165,7 @@ msgctxt "Info : Targeting : Audiences"
 msgid "List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here."
 msgstr "List of targeting audiences. Separate Adset will be created for each audience. If existing Adset is selected, then only one audience will be here."
 
-#: scripts.components.js:11257
+#: scripts.components.js:11351
 msgctxt "Audience Opt Groups"
 msgid "Lookalike"
 msgstr "Lookalike"
@@ -2174,19 +2175,19 @@ msgctxt "Calendar Day Name"
 msgid "M"
 msgstr "M"
 
-#: scripts.components.js:11269
+#: scripts.components.js:11363
 msgctxt "Audience Opt Groups"
 msgid "Managed"
 msgstr "Managed"
 
 #: scripts.js:12647
-#: scripts.js:14427
+#: scripts.js:14428
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPC"
 msgstr "Maximum CPC"
 
 #: scripts.js:12650
-#: scripts.js:14430
+#: scripts.js:14431
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPI"
 msgstr "Maximum CPI"
@@ -2239,8 +2240,8 @@ msgstr "Mobile"
 #: scripts.js:12923
 #: scripts.js:13102
 #: scripts.js:13127
-#: scripts.js:14369
-#: scripts.js:14445
+#: scripts.js:14370
+#: scripts.js:14446
 msgctxt "Placement"
 msgid "Mobile Feed"
 msgstr "Mobile Feed"
@@ -2287,20 +2288,20 @@ msgctxt "Pricing Table"
 msgid "Online chat support"
 msgstr "Online chat support"
 
-#: scripts.components.js:5682
-#: scripts.components.js:5693
+#: scripts.components.js:5070
+#: scripts.components.js:5081
 msgid "Open Advanced Settings"
 msgstr "Open Advanced Settings"
 
 #: scripts.js:12632
-#: scripts.js:14410
+#: scripts.js:14411
 #: scripts.js:1804
 #: scripts.js:2258
 msgctxt "Call To Action"
 msgid "Open Link"
 msgstr "Open Link"
 
-#: scripts.components.js:6335
+#: scripts.components.js:6299
 msgctxt "URL Macros"
 msgid "Optimization goal"
 msgstr "Optimization goal"
@@ -2330,12 +2331,12 @@ msgctxt "Objective"
 msgid "Page"
 msgstr "Page"
 
-#: scripts.js:14314
+#: scripts.js:14315
 msgctxt "Error : Page"
 msgid "Page is required."
 msgstr "Page is required."
 
-#: scripts.components.js:8693
+#: scripts.components.js:8451
 msgctxt "Validation : Page"
 msgid "Page is required."
 msgstr "Page is required."
@@ -2354,7 +2355,7 @@ msgctxt "Connections Opt Groups"
 msgid "Pages"
 msgstr "Pages"
 
-#: scripts.components.js:11266
+#: scripts.components.js:11360
 msgctxt "Audience Opt Groups"
 msgid "Partner"
 msgstr "Partner"
@@ -2363,7 +2364,7 @@ msgstr "Partner"
 msgid "Paste your customer list here."
 msgstr "Paste your customer list here."
 
-#: scripts.components.js:10812
+#: scripts.components.js:10721
 msgctxt "Campaign : Status"
 msgid "Paused"
 msgstr "Paused"
@@ -2393,7 +2394,7 @@ msgid "Platform"
 msgstr "Platform"
 
 #: scripts.js:12602
-#: scripts.js:14380
+#: scripts.js:14381
 #: scripts.js:2228
 msgctxt "Call To Action"
 msgid "Play Game"
@@ -2411,7 +2412,7 @@ msgid "Please, select application by direct link to play.google.com or itunes.ap
 msgstr "Please, select application by direct link to play.google.com or itunes.apple.com if you\n"
 "               want to promote App Installs. No redirect links are supported."
 
-#: scripts.components.js:6629
+#: scripts.components.js:7232
 msgctxt "Automation: Ads"
 msgid "Please, select at least one ad to be used in automations"
 msgstr "Please, select at least one ad to be used in automations"
@@ -2441,7 +2442,7 @@ msgctxt "Plan"
 msgid "Premiun plan"
 msgstr "Premiun plan"
 
-#: scripts.js:14186
+#: scripts.js:14187
 msgctxt "Error : Preset"
 msgid "Preset name is required."
 msgstr "Preset name is required."
@@ -2471,7 +2472,7 @@ msgctxt "Info : Targeting : Behaviours"
 msgid "Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only."
 msgstr "Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only."
 
-#: scripts.components.js:8052
+#: scripts.components.js:7853
 msgctxt "Validation : Instagram Account"
 msgid "read in our blog."
 msgstr "read in our blog."
@@ -2500,7 +2501,7 @@ msgstr "Relocate Budget"
 #: scripts.js:12917
 #: scripts.js:13105
 #: scripts.js:13130
-#: scripts.js:14448
+#: scripts.js:14449
 #: scripts.js:2350
 msgctxt "Placement"
 msgid "Right Column"
@@ -2523,7 +2524,7 @@ msgid "Saturday"
 msgstr "Saturday"
 
 #: crop/crop__modal/cropModal.html:16
-#: scripts.components.js:10808
+#: scripts.components.js:10717
 msgid "Save"
 msgstr "Save"
 
@@ -2547,7 +2548,7 @@ msgctxt "Info : Automation : Adset"
 msgid "Select actions that you want to apply to selected adsets when all rules match."
 msgstr "Select actions that you want to apply to selected adsets when all rules match."
 
-#: scripts.components.js:6592
+#: scripts.components.js:7195
 msgctxt "Automation: Ads"
 msgid "Select ad that you want to use automation for."
 msgstr "Select ad that you want to use automation for."
@@ -2665,8 +2666,8 @@ msgid "Set an overall spending limit for your ad campaign. This means your ad se
 msgstr "Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit."
 
 #: scripts.js:12599
-#: scripts.js:14377
-#: scripts.js:14456
+#: scripts.js:14378
+#: scripts.js:14457
 #: scripts.js:1789
 #: scripts.js:2225
 msgctxt "Call To Action"
@@ -2679,8 +2680,8 @@ msgid "Short caption of the url that people will reach after clicking on your ad
 msgstr "Short caption of the url that people will reach after clicking on your ad."
 
 #: scripts.js:12620
-#: scripts.js:14398
-#: scripts.js:14465
+#: scripts.js:14399
+#: scripts.js:14466
 #: scripts.js:1792
 #: scripts.js:2246
 msgctxt "Call To Action"
@@ -2692,12 +2693,12 @@ msgctxt "Informer"
 msgid "spend"
 msgstr "spend"
 
-#: scripts.components.js:10811
+#: scripts.components.js:10720
 msgctxt "Validation : Campaign"
 msgid "Spend Cap is required"
 msgstr "Spend Cap is required"
 
-#: scripts.components.js:10811
+#: scripts.components.js:10720
 msgctxt "Validation : Campaign"
 msgid "Spend Cap must be numeric"
 msgstr "Spend Cap must be numeric"
@@ -2750,12 +2751,12 @@ msgctxt "Pricing Table"
 msgid "support"
 msgstr "support"
 
-#: scripts.js:14347
+#: scripts.js:14348
 msgctxt "Error : Sync"
 msgid "Sync period value is required."
 msgstr "Sync period value is required."
 
-#: scripts.js:14352
+#: scripts.js:14353
 msgctxt "Error : Sync"
 msgid "Sync period value should be greater or equal to 15 minutes."
 msgstr "Sync period value should be greater or equal to 15 minutes."
@@ -2801,22 +2802,22 @@ msgctxt "Info : Audiences : Upload File"
 msgid "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
 msgstr "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
 
-#: scripts.js:14302
+#: scripts.js:14303
 msgctxt "Error : Text"
 msgid "The body text is required and cannot be empty."
 msgstr "The body text is required and cannot be empty."
 
-#: scripts.js:14307
+#: scripts.js:14308
 msgctxt "Error : Text"
 msgid "The body text must be more than 1 and less than 300 characters long."
 msgstr "The body text must be more than 1 and less than 300 characters long."
 
-#: scripts.js:14133
+#: scripts.js:14134
 msgctxt "Error : Link Description"
 msgid "The caption must be more than 1 and less than 60 characters long."
 msgstr "The caption must be more than 1 and less than 60 characters long."
 
-#: scripts.js:14124
+#: scripts.js:14125
 msgctxt "Error : Link Caption"
 msgid "The caption must be more than 1 and less than 90 characters long."
 msgstr "The caption must be more than 1 and less than 90 characters long."
@@ -2831,22 +2832,22 @@ msgctxt "Pricing Table"
 msgid "The functionality you're trying to access is only available for premium users"
 msgstr "The functionality you're trying to access is only available for premium users"
 
-#: scripts.js:14290
+#: scripts.js:14291
 msgctxt "Error : Headline"
 msgid "The headline is required and cannot be empty."
 msgstr "The headline is required and cannot be empty."
 
-#: scripts.js:14295
+#: scripts.js:14296
 msgctxt "Error : Headline"
 msgid "The headline must be more than 1 and less than 40 characters long."
 msgstr "The headline must be more than 1 and less than 40 characters long."
 
-#: scripts.js:14115
+#: scripts.js:14116
 msgctxt "Error : Link Name"
 msgid "The link name must be more than 1 and less than 50 characters long."
 msgstr "The link name must be more than 1 and less than 50 characters long."
 
-#: scripts.js:14083
+#: scripts.js:14084
 msgctxt "Error : Link URL"
 msgid "The Link URl is required."
 msgstr "The Link URl is required."
@@ -2862,12 +2863,12 @@ msgctxt "Validation : App"
 msgid "The Mobile App is required"
 msgstr "The Mobile App is required"
 
-#: scripts.js:14254
+#: scripts.js:14255
 msgctxt "Error : Name"
 msgid "The name is required and cannot be empty."
 msgstr "The name is required and cannot be empty."
 
-#: scripts.js:14259
+#: scripts.js:14260
 msgctxt "Error : Name"
 msgid "The name must be more than 1 and less than 100 characters long."
 msgstr "The name must be more than 1 and less than 100 characters long."
@@ -2882,32 +2883,32 @@ msgctxt "Info : Audiences : In The Last"
 msgid "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
 msgstr "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
 
-#: scripts.js:14278
+#: scripts.js:14279
 msgctxt "Error : Pixel"
 msgid "The pixel name is required and cannot be empty."
 msgstr "The pixel name is required and cannot be empty."
 
-#: scripts.js:14283
+#: scripts.js:14284
 msgctxt "Error : Pixel"
 msgid "The pixel name must be more than 1 and less than 100 characters long."
 msgstr "The pixel name must be more than 1 and less than 100 characters long."
 
-#: scripts.js:14140
+#: scripts.js:14141
 msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "The text message for carousel ad is required."
 
-#: scripts.js:14145
+#: scripts.js:14146
 msgctxt "Error : Text"
 msgid "The text message must be more than 1 and less than 300 characters long."
 msgstr "The text message must be more than 1 and less than 300 characters long."
 
-#: scripts.js:14241
+#: scripts.js:14242
 msgctxt "Error : Bid"
 msgid "The value should be greater or equal to 0.01."
 msgstr "The value should be greater or equal to 0.01."
 
-#: scripts.js:14353
+#: scripts.js:14354
 msgctxt "Error : Sync"
 msgid "The value should be numeric."
 msgstr "The value should be numeric."
@@ -2932,7 +2933,7 @@ msgctxt "Error : Page"
 msgid "this page."
 msgstr "this page."
 
-#: scripts.js:14232
+#: scripts.js:14233
 msgctxt "Error : Bid"
 msgid "This value is required."
 msgstr "This value is required."
@@ -2947,7 +2948,7 @@ msgctxt "Pacing"
 msgid "Thursday"
 msgstr "Thursday"
 
-#: scripts.components.js:8150
+#: scripts.components.js:7951
 msgctxt "Instagram Account"
 msgid "to 'Aitarget' application in order to create instagram account for the selected page."
 msgstr "to 'Aitarget' application in order to create instagram account for the selected page."
@@ -3003,7 +3004,7 @@ msgctxt "Error : Page"
 msgid "Unknown error occurred on this page."
 msgstr "Unknown error occurred on this page."
 
-#: scripts.components.js:10840
+#: scripts.components.js:10749
 msgctxt "Error : Campaign : Edit"
 msgid "Unknown error occurred when updating selected Ad Campaigns."
 msgstr "Unknown error occurred when updating selected Ad Campaigns."
@@ -3042,8 +3043,8 @@ msgstr "URL to main page or products category on the website."
 
 #: scripts.js:12605
 #: scripts.js:12629
-#: scripts.js:14383
-#: scripts.js:14407
+#: scripts.js:14384
+#: scripts.js:14408
 #: scripts.js:1774
 #: scripts.js:1801
 #: scripts.js:2231
@@ -3052,7 +3053,7 @@ msgctxt "Call To Action"
 msgid "Use Mobile App"
 msgstr "Use Mobile App"
 
-#: scripts.components.js:8124
+#: scripts.components.js:7925
 msgctxt "Instagram Account"
 msgid "Use page only"
 msgstr "Use page only"
@@ -3063,7 +3064,7 @@ msgctxt "Info : Deep Link"
 msgid "Using a Deep Link"
 msgstr "Using a Deep Link"
 
-#: scripts.components.js:11272
+#: scripts.components.js:11366
 msgctxt "Audience Opt Groups"
 msgid "Video"
 msgstr "Video"
@@ -3080,7 +3081,7 @@ msgid "W"
 msgstr "W"
 
 #: scripts.js:12626
-#: scripts.js:14404
+#: scripts.js:14405
 #: scripts.js:1798
 #: scripts.js:2252
 msgctxt "Call To Action"
@@ -3088,7 +3089,7 @@ msgid "Watch More"
 msgstr "Watch More"
 
 #: scripts.js:12614
-#: scripts.js:14392
+#: scripts.js:14393
 #: scripts.js:1795
 #: scripts.js:2240
 msgctxt "Call To Action"
@@ -3100,7 +3101,7 @@ msgctxt "Objective"
 msgid "Website"
 msgstr "Website"
 
-#: scripts.components.js:11260
+#: scripts.components.js:11354
 msgctxt "Audience Opt Groups"
 msgid "Website"
 msgstr "Website"
@@ -3146,7 +3147,7 @@ msgctxt "Automation : Analyze Window"
 msgid "Yesterday"
 msgstr "Yesterday"
 
-#: scripts.components.js:6997
+#: scripts.components.js:6929
 #: scripts.components.js:9219
 msgctxt "Validation : App"
 msgid "You App is not registered in Facebook."
@@ -3203,7 +3204,7 @@ msgctxt "Info : Deep Link"
 msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
 msgstr "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
 
-#: scripts.components.js:8694
+#: scripts.components.js:8452
 msgctxt "Validation : Page"
 msgid "You don’t have any pages. You can’t use your profile page. You should"
 msgstr "You don’t have any pages. You can’t use your profile page. You should"
@@ -3219,7 +3220,7 @@ msgctxt "Modal : Create : Title"
 msgid "You have successfully created"
 msgstr "You have successfully created"
 
-#: scripts.components.js:8150
+#: scripts.components.js:7951
 msgctxt "Instagram Account"
 msgid "You should"
 msgstr "You should"
@@ -3359,7 +3360,7 @@ msgctxt "Modal : Automation : Title"
 msgid "an automation"
 msgstr "an automation"
 
-#: scripts.js:14577
+#: scripts.js:14578
 msgctxt "R&F : Chart : Title"
 msgid "and"
 msgstr "and"
@@ -3605,20 +3606,20 @@ msgid "Day"
 msgstr "Day"
 
 #: index.html:423
-#: scripts.js:14552
-#: scripts.js:15100
+#: scripts.js:14553
+#: scripts.js:15101
 msgctxt "Placement"
 msgid "Desktop News Feed"
 msgstr "Desktop News Feed"
 
-#: scripts.js:15099
+#: scripts.js:15100
 msgctxt "Placement"
 msgid "Desktop News Feed and Mobile News Feed"
 msgstr "Desktop News Feed and Mobile News Feed"
 
 #: index.html:422
-#: scripts.js:14554
-#: scripts.js:15102
+#: scripts.js:14555
+#: scripts.js:15103
 msgctxt "Placement"
 msgid "Desktop Right Column"
 msgstr "Desktop Right Column"
@@ -3927,8 +3928,8 @@ msgid "Maximum CPI"
 msgstr "Maximum CPI"
 
 #: index.html:424
-#: scripts.js:14553
-#: scripts.js:15101
+#: scripts.js:14554
+#: scripts.js:15102
 msgctxt "Placement"
 msgid "Mobile News Feed"
 msgstr "Mobile News Feed"
@@ -4104,7 +4105,7 @@ msgctxt "Breakdown"
 msgid "Product ID"
 msgstr "Product ID"
 
-#: scripts.js:14619
+#: scripts.js:14620
 msgid "Reach"
 msgstr "Reach"
 
@@ -4454,7 +4455,7 @@ msgstr "– Numeric characters only\n"
 "                                      1234567890\n"
 "                                      1443637309"
 
-#: scripts.js:14642
+#: scripts.js:14643
 msgctxt "RF"
 msgid "A minimum reach of 200 000"
 msgstr "A minimum reach of 200 000"
@@ -4536,7 +4537,7 @@ msgctxt "Placeholder : URL"
 msgid "Enter url to your website"
 msgstr "Enter url to your website"
 
-#: scripts.js:15319
+#: scripts.js:15320
 msgctxt "RF"
 msgid "Error occurred when requesting R&F prediction! Please, check all fields and try again."
 msgstr "Error occurred when requesting R&F prediction! Please, check all fields and try again."
@@ -4596,7 +4597,7 @@ msgctxt "Relationship Status"
 msgid "In relationship"
 msgstr "In relationship"
 
-#: scripts.js:14642
+#: scripts.js:14643
 msgctxt "RF"
 msgid "is required."
 msgstr "is required."
@@ -4643,8 +4644,8 @@ msgctxt "Relationship Status"
 msgid "Not specified"
 msgstr "Not specified"
 
-#: scripts.components.js:11287
-#: scripts.components.js:11504
+#: scripts.components.js:11255
+#: scripts.components.js:11381
 #: scripts.components.js:11594
 #: scripts.components.js:12085
 #: scripts.components.js:12204
@@ -4677,8 +4678,8 @@ msgctxt "RF : Table : Column"
 msgid "Reach"
 msgstr "Reach"
 
-#: scripts.js:14651
-#: scripts.js:14711
+#: scripts.js:14652
+#: scripts.js:14712
 msgctxt "RF"
 msgid "REACH"
 msgstr "REACH"
@@ -4782,7 +4783,7 @@ msgctxt "Relationship Status"
 msgid "Widowed"
 msgstr "Widowed"
 
-#: scripts.components.js:10797
+#: scripts.components.js:10706
 msgctxt "Modal : Campaign : Title"
 msgid "Edit Campaign:"
 msgstr "Edit Campaign:"
@@ -4807,17 +4808,17 @@ msgstr "Previous 90 days"
 msgid "Select a post in the list or enter its ID or URL"
 msgstr "Select a post in the list or enter its ID or URL"
 
-#: scripts.components.js:5941
+#: scripts.components.js:6020
 msgctxt "Column : Adaccount"
 msgid "Account Status"
 msgstr "Account Status"
 
-#: scripts.components.js:1195
+#: scripts.components.js:1192
 msgctxt "Column : Automation"
 msgid "Adgroups"
 msgstr "Adgroups"
 
-#: scripts.components.js:1183
+#: scripts.components.js:1180
 msgctxt "Column : Automation"
 msgid "Adsets"
 msgstr "Adsets"
@@ -4832,12 +4833,12 @@ msgctxt "Pay for"
 msgid "App Installs"
 msgstr "App Installs"
 
-#: scripts.components.js:1145
+#: scripts.components.js:1142
 msgctxt "Column : Audience"
 msgid "Availability"
 msgstr "Availability"
 
-#: scripts.components.js:5909
+#: scripts.components.js:5988
 msgctxt "Column : Adaccount"
 msgid "Balance"
 msgstr "Balance"
@@ -4847,17 +4848,17 @@ msgctxt "Optimize for"
 msgid "Brand Awarness"
 msgstr "Brand Awarness"
 
-#: scripts.components.js:5796
+#: scripts.components.js:5875
 msgctxt "Column : Adaccount"
 msgid "Business Name"
 msgstr "Business Name"
 
-#: scripts.components.js:8488
+#: scripts.components.js:8755
 msgctxt "Validation : Post"
 msgid "Couldn't find requested post. Check if you have access to this post and entered value is correct."
 msgstr "Couldn't find requested post. Check if you have access to this post and entered value is correct."
 
-#: scripts.components.js:8489
+#: scripts.components.js:8756
 msgctxt "Validation : Post"
 msgid "Couldn't get numeric post id from your input. Try to use another value."
 msgstr "Couldn't get numeric post id from your input. Try to use another value."
@@ -4867,7 +4868,7 @@ msgctxt "Button : Create : Dashboard"
 msgid "Create [[({'adcampaigns': 'Campaign', 'adsets': 'AdSets','adgroups':'Ads'}[$root.$state.params.listedItems])]]"
 msgstr "Create [[({'adcampaigns': 'Campaign', 'adsets': 'Adsets','adgroups':'Ads'}[$root.$state.params.listedItems])]]"
 
-#: scripts.components.js:1153
+#: scripts.components.js:1150
 msgctxt "Column : Audience"
 msgid "Date Created"
 msgstr "Date Created"
@@ -4876,7 +4877,7 @@ msgstr "Date Created"
 msgid "Deep Link (optional)"
 msgstr "Deep Link (optional)"
 
-#: scripts.components.js:5952
+#: scripts.components.js:6031
 msgctxt "Column : Adaccount"
 msgid "Disable Reason"
 msgstr "Disable Reason"
@@ -4890,7 +4891,7 @@ msgstr "Engaged Users"
 msgid "Enter the deep link URL"
 msgstr "Enter the deep link URL"
 
-#: scripts.components.js:1225
+#: scripts.components.js:1222
 msgctxt "Column : Automation"
 msgid "Error"
 msgstr "Error"
@@ -4900,7 +4901,7 @@ msgctxt "Optimize for"
 msgid "Event Responses"
 msgstr "Event Responses"
 
-#: scripts.components.js:8492
+#: scripts.components.js:8759
 msgctxt "Info : Post"
 msgid "Ex."
 msgstr "Ex."
@@ -4909,17 +4910,17 @@ msgstr "Ex."
 msgid "Exclude Locations"
 msgstr "Exclude Locations"
 
-#: scripts.components.js:1162
+#: scripts.components.js:1159
 msgctxt "Column : Automation"
 msgid "ID"
 msgstr "ID"
 
-#: scripts.components.js:1107
+#: scripts.components.js:1104
 msgctxt "Column : Audience"
 msgid "ID"
 msgstr "ID"
 
-#: scripts.components.js:5785
+#: scripts.components.js:5864
 msgctxt "Column : Adaccount"
 msgid "ID"
 msgstr "ID"
@@ -4934,7 +4935,7 @@ msgctxt "Pay for"
 msgid "Impressions"
 msgstr "Impressions"
 
-#: scripts.components.js:5925
+#: scripts.components.js:6004
 msgctxt "Column : Adaccount"
 msgid "Limit"
 msgstr "Limit"
@@ -4953,17 +4954,17 @@ msgstr "Link Clicks"
 msgid "Locations"
 msgstr "Locations"
 
-#: scripts.components.js:1173
+#: scripts.components.js:1170
 msgctxt "Column : Automation"
 msgid "Name"
 msgstr "Name"
 
-#: scripts.components.js:5806
+#: scripts.components.js:5885
 msgctxt "Column : Adaccount"
 msgid "Name"
 msgstr "Name"
 
-#: scripts.components.js:1118
+#: scripts.components.js:1115
 msgctxt "Column : Audience"
 msgid "Name"
 msgstr "Name"
@@ -5016,7 +5017,7 @@ msgctxt "Optimize for"
 msgid "Post Engagement"
 msgstr "Post Engagement"
 
-#: scripts.components.js:8487
+#: scripts.components.js:8754
 msgctxt "Validation : Post"
 msgid "Post is required."
 msgstr "Post is required."
@@ -5050,7 +5051,7 @@ msgstr "Repeat on"
 msgid "Set change value"
 msgstr "Set change value"
 
-#: scripts.components.js:1136
+#: scripts.components.js:1133
 msgctxt "Column : Audience"
 msgid "Size"
 msgstr "Size"
@@ -5060,42 +5061,42 @@ msgctxt "Optimize for"
 msgid "Social Impressions"
 msgstr "Social Impressions"
 
-#: scripts.components.js:5870
+#: scripts.components.js:5949
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Month"
 msgstr "Spent Previous Month"
 
-#: scripts.components.js:5896
+#: scripts.components.js:5975
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Quarter"
 msgstr "Spent Previous Quarter"
 
-#: scripts.components.js:5844
+#: scripts.components.js:5923
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Week"
 msgstr "Spent Previous Week"
 
-#: scripts.components.js:5857
+#: scripts.components.js:5936
 msgctxt "Column : Adaccount"
 msgid "Spent This Month"
 msgstr "Spent This Month"
 
-#: scripts.components.js:5883
+#: scripts.components.js:5962
 msgctxt "Column : Adaccount"
 msgid "Spent This Quarter"
 msgstr "Spent This Quarter"
 
-#: scripts.components.js:5818
+#: scripts.components.js:5897
 msgctxt "Column : Adaccount"
 msgid "Spent Today"
 msgstr "Spent Today"
 
-#: scripts.components.js:5831
+#: scripts.components.js:5910
 msgctxt "Column : Adaccount"
 msgid "Spent Yesterday"
 msgstr "Spent Yesterday"
 
-#: scripts.components.js:1128
+#: scripts.components.js:1125
 msgctxt "Column : Audience"
 msgid "Type"
 msgstr "Type"
@@ -5110,7 +5111,7 @@ msgctxt "Optimize for"
 msgid "Video Views"
 msgstr "Video Views"
 
-#: scripts.components.js:8492
+#: scripts.components.js:8759
 msgctxt "Info : Post"
 msgid "You can also enter post ID or its URL."
 msgstr "You can also enter post ID or its URL."
@@ -5172,4 +5173,39 @@ msgstr "Save"
 msgctxt "Preset"
 msgid "Set as Default"
 msgstr "Set as Default"
+
+#: calendar/calendar.html:15
+msgctxt "Calendar Day Name"
+msgid "Fr"
+msgstr "Fr"
+
+#: calendar/calendar.html:11
+msgctxt "Calendar Day Name"
+msgid "Mo"
+msgstr "Mo"
+
+#: calendar/calendar.html:16
+msgctxt "Calendar Day Name"
+msgid "Sa"
+msgstr "Sa"
+
+#: calendar/calendar.html:17
+msgctxt "Calendar Day Name"
+msgid "Su"
+msgstr "Su"
+
+#: calendar/calendar.html:14
+msgctxt "Calendar Day Name"
+msgid "Th"
+msgstr "Th"
+
+#: calendar/calendar.html:12
+msgctxt "Calendar Day Name"
+msgid "Tu"
+msgstr "Tu"
+
+#: calendar/calendar.html:13
+msgctxt "Calendar Day Name"
+msgid "We"
+msgstr "We"
 
