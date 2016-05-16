@@ -105,6 +105,7 @@ msgstr "Адсет"
 msgid "Adsets"
 msgstr "Адсеты"
 
+#: audience-form/audienceForm.html:6
 #: index.html:607
 msgid "Age"
 msgstr "По возрасту"
@@ -117,13 +118,14 @@ msgstr "Название аудитории"
 
 #: index.html:400
 #: index.html:628
+#: main/main.html:4
 msgid "Audiences"
 msgstr "Аудитории"
 
 #: index.html:1900
 #: index.html:2236
 #: index.html:2577
-#: scripts.components.js:6714
+#: scripts.components.js:7396
 msgctxt "Bid"
 msgid "Auto"
 msgstr "Авто"
@@ -142,6 +144,7 @@ msgstr "Ставка"
 msgid "Breakdown"
 msgstr "Разбиение"
 
+#: control/control_budget/control_budget_budget/controlBudgetBudget.html:2
 #: index.html:1852
 #: index.html:2187
 #: index.html:2529
@@ -175,6 +178,7 @@ msgstr "Период"
 msgid "Call To Action"
 msgstr "Призыв к действию"
 
+#: control/control_campaign/control_campaign_main/controlCampaignMain.html:2
 #: index.html:265
 #: index.html:3222
 msgid "Campaign"
@@ -184,6 +188,7 @@ msgstr "Кампания"
 msgid "Carousel"
 msgstr "Карусель"
 
+#: crud/crud__step/crud__step_selected/crudStepSelected.html:7
 #: index.html:538
 msgid "Choose another ad type."
 msgstr "Выбрать другой тип"
@@ -244,6 +249,7 @@ msgstr "Создание объекта автоматизации"
 msgid "Creating Mode"
 msgstr "Режим создания"
 
+#: audience-form/audienceForm.html:10
 #: index.html:611
 msgid "Custom Audiences"
 msgstr "Индивидуализированные аудитории"
@@ -255,13 +261,13 @@ msgstr "Список клиентов"
 #: index.html:1863
 #: index.html:2198
 #: index.html:2540
-#: scripts.components.js:7464
-#: scripts.js:3882
-#: scripts.js:3885
-#: scripts.js:3963
-#: scripts.js:3966
-#: scripts.js:4091
-#: scripts.js:4094
+#: scripts.components.js:7543
+#: scripts.js:4324
+#: scripts.js:4327
+#: scripts.js:4405
+#: scripts.js:4408
+#: scripts.js:4533
+#: scripts.js:4536
 msgctxt "Budget"
 msgid "Daily"
 msgstr "Дневной"
@@ -282,6 +288,7 @@ msgstr "дней"
 msgid "Description"
 msgstr "Описание"
 
+#: audience-form/audienceForm.html:15
 #: index.html:609
 msgid "Device"
 msgstr "По устройствам"
@@ -307,6 +314,7 @@ msgstr "Введите имя для вашей аудитории"
 msgid "Enter a number"
 msgstr "Введите номер"
 
+#: control/control_adset/controlAdset.html:8
 #: index.html:321
 msgid "Enter adset name"
 msgstr "Введите название"
@@ -317,11 +325,14 @@ msgstr "Введите название"
 msgid "Enter an optional description of your audience"
 msgstr "Введите дополнительное описание вашей аудитории"
 
+#: control/control_campaign/controlCampaign.html:8
 #: index.html:280
 #: index.html:3237
 msgid "Enter campaign name"
 msgstr "Введите название кампании"
 
+#: control/control_budget/controlBudget.html:10
+#: control/control_budget/controlBudget.html:8
 #: index.html:1868
 #: index.html:1869
 #: index.html:2203
@@ -335,22 +346,18 @@ msgstr "Введите максимальную сумму, которое вы 
 msgid "Enter url for your call to action button"
 msgstr "Введите ссылку для перехода по кнопке действия"
 
-#: header/header_crud/headerCrud.html:17
-msgid "Errors&nbsp;<span class=\"caret\"></span>"
-msgstr "Ошибки&nbsp;<span class=\"caret\"></span>"
-
 #: index.html:576
 msgid "Evenly"
 msgstr "Равными частями"
 
 #: index.html:317
-#: scripts.components.js:7290
+#: scripts.components.js:6849
 msgctxt "Adset"
 msgid "Existing"
 msgstr "Из существующего списка"
 
 #: index.html:276
-#: scripts.components.js:8269
+#: scripts.components.js:7856
 msgctxt "Campaign"
 msgid "Existing"
 msgstr "Из существующего списка"
@@ -359,6 +366,7 @@ msgstr "Из существующего списка"
 msgid "Facebook-Aitarget cabinet"
 msgstr "Facebook AITarget кабинет"
 
+#: audience-form/audienceForm.html:7
 #: index.html:606
 msgid "Gender"
 msgstr "По полу"
@@ -384,6 +392,7 @@ msgstr "За последние"
 msgid "Include past website traffic"
 msgstr "Включать траффик на сайт с прошлых периодов "
 
+#: audience-form/audienceForm.html:8
 #: index.html:610
 msgid "Interests"
 msgstr "По интересам"
@@ -391,13 +400,13 @@ msgstr "По интересам"
 #: index.html:1862
 #: index.html:2197
 #: index.html:2539
-#: scripts.components.js:7461
-#: scripts.js:3882
-#: scripts.js:3885
-#: scripts.js:3963
-#: scripts.js:3966
-#: scripts.js:4091
-#: scripts.js:4094
+#: scripts.components.js:7540
+#: scripts.js:4324
+#: scripts.js:4327
+#: scripts.js:4405
+#: scripts.js:4408
+#: scripts.js:4533
+#: scripts.js:4536
 msgctxt "Budget"
 msgid "Lifetime"
 msgstr "Бюджет на весь срок действия"
@@ -435,7 +444,7 @@ msgstr "Вручную"
 #: index.html:1901
 #: index.html:2237
 #: index.html:2578
-#: scripts.components.js:6717
+#: scripts.components.js:7399
 msgctxt "Bid"
 msgid "Manual"
 msgstr "Установленная вручную"
@@ -457,17 +466,18 @@ msgstr "Мобильное приложение"
 #: index.html:3197
 #: index.html:3343
 #: index.html:3859
+#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:7
 msgid "Name"
 msgstr "Название"
 
 #: index.html:275
-#: scripts.components.js:8266
+#: scripts.components.js:7853
 msgctxt "Campaign"
 msgid "New"
 msgstr "Новая"
 
 #: index.html:316
-#: scripts.components.js:7287
+#: scripts.components.js:6846
 msgctxt "Adset"
 msgid "New"
 msgstr "Новый"
@@ -515,6 +525,7 @@ msgstr "Одно изображение"
 msgid "Optimize Carousel"
 msgstr "Порядок отображения картинок оптимизирован"
 
+#: control/control_optimize/control_optimize_budget/controlOptimizeBudget.html:2
 #: index.html:1993
 #: index.html:2670
 msgid "Optimize for"
@@ -530,6 +541,7 @@ msgstr "На паузе"
 msgid "Paused"
 msgstr "На паузе"
 
+#: control/control_pay/control_pay_budget/controlPayBudget.html:2
 #: index.html:2022
 #: index.html:2699
 msgid "Pay for"
@@ -616,6 +628,7 @@ msgstr "Выберите или найдите адсет из списка, в�
 msgid "Select Period:"
 msgstr "Выберите период:"
 
+#: crud/crud__step/crud__step_selected/crudStepSelected.html:3
 #: index.html:522
 msgid "Selected Ad Type"
 msgstr "Выбранный тип объявления"
@@ -826,6 +839,7 @@ msgctxt "Crop"
 msgid "Recommended size: <span class=\"media_text__bold\">[[requirements.recommendedSize.width]]</span> x <span class=\"media_text__bold\">[[requirements.recommendedSize.height]]</span> pixels"
 msgstr "Рекомендуемый размер: <span class=\"media_text__bold\"> [[requirements.recommendedSize.width]] </span> х <span class=\"media_text__bold\"> [[requirements.recommendedSize.height]] </span> пикселей"
 
+#: columns/columns__search/columns__search.html:2
 #: index.html:2384
 msgid "Search"
 msgstr "Поиск"
@@ -855,273 +869,260 @@ msgctxt "Crop"
 msgid "Your image may not include more than <span class=\"media_text__bold\">20%</span> text"
 msgstr "Ваше изображение не может включать в себя больше, чем <span class=\"media_text__bold\">20%</span> текста"
 
-#: scripts.js:5841
-#: scripts.js:7658
-#: scripts.js:7737
+#: scripts.js:2290
+#: scripts.js:4107
+#: scripts.js:4186
 #: scripts.js:8590
 #: scripts.js:9044
 msgctxt "Call To Action"
 msgid "– Not Selected –"
 msgstr "- Не выбран -"
 
-#: scripts.components.js:6516
+#: scripts.components.js:6580
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend during the lifetime of your adset."
 msgstr ", сумма, которую вы ввели – это максимум, который вы потратите за весь срок работы вашего адсета."
 
-#: scripts.components.js:6466
+#: scripts.components.js:6530
 msgctxt "Info : Adset"
 msgid ", then you have to choose existing adset in the list. You have to choose campaign to get adset list."
 msgstr ", то вы должны выбрать существующий адсет в списке. Вы должны выбрать кампанию, чтобы получить список адсетов."
 
-#: scripts.components.js:6463
+#: scripts.components.js:6527
 msgctxt "Info : Campaign"
 msgid ", then you have to choose existing campaign in the list."
 msgstr ", затем вы должны выбрать существующую кампанию в списке."
 
-#: scripts.components.js:6466
+#: scripts.components.js:6530
 msgctxt "Info : Adset"
 msgid ", then you have to enter new adset name. One adset will be created."
 msgstr ", затем вы должны ввести новое имя адсета. Один адсет будет создан."
 
-#: scripts.components.js:6463
+#: scripts.components.js:6527
 msgctxt "Info : Campaign"
 msgid ", then you have to enter new campaign name."
 msgstr ", то вы должны ввести новое название кампании."
 
-#: scripts.components.js:6463
+#: scripts.components.js:6527
 msgctxt "Info : Campaign"
 msgid "'Existing'"
 msgstr "'Существующая'"
 
-#: scripts.components.js:6466
+#: scripts.components.js:6530
 msgctxt "Info : Adset"
 msgid "'Existing'"
 msgstr "'Существующий'"
 
-#: scripts.components.js:6463
+#: scripts.components.js:6527
 msgctxt "Info : Campaign"
 msgid "'New'"
 msgstr "\"Новая\""
 
-#: scripts.components.js:6466
+#: scripts.components.js:6530
 msgctxt "Info : Adset"
 msgid "'New'"
 msgstr "\"Новый\""
 
-#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
-msgctxt "Info : Targeting : Locations"
-msgid "[[audienceFormControlTypeGeoController.namesToReplaceStr]] to [[audienceFormControlTypeGeoController.itemName]].&nbsp;"
-msgstr "[[AudienceFormControlTypeGeoController.namesToReplaceStr]] на  [[audienceFormControlTypeGeoController.itemName]]&nbsp;"
-
-#: footer/footer.html:4
-msgid "© 2012-2016 Aitarget"
-msgstr "© 2012-2016 Aitarget"
-
-#: scripts.components.js:4131
+#: scripts.components.js:4302
 msgctxt "Pricing Table"
 msgid "$. Please subscribe to premium plan."
 msgstr "$. Пожалуйста, подпишитесь на премиум-план."
 
-#: scripts.components.js:4229
+#: scripts.components.js:4400
 msgctxt "Pricing Table"
 msgid "1 automation"
 msgstr "1 автоматизация"
 
-#: scripts.js:4970
+#: scripts.js:1419
 msgctxt "Attribution"
 msgid "1 day"
 msgstr "1 день"
 
 #: scripts.js:12588
 #: scripts.js:14578
-#: scripts.js:3153
-#: scripts.js:3172
-#: scripts.js:3191
-#: scripts.js:3194
-#: scripts.js:7143
+#: scripts.js:3592
+#: scripts.js:7146
+#: scripts.js:7165
+#: scripts.js:7184
+#: scripts.js:7187
 msgctxt "Create : Step"
 msgid "1. Main"
 msgstr "1. Основной"
 
-#: scripts.js:7143
+#: scripts.js:3592
 msgctxt "Create : Step"
 msgid "1. Settings"
 msgstr "1. Настройки"
 
-#: scripts.js:7146
+#: scripts.js:3595
 msgctxt "Create : Step"
 msgid "2. Budget"
 msgstr "2. Бюджет"
 
-#: scripts.js:7146
+#: scripts.js:3595
 msgctxt "Create : Step"
 msgid "2. Targeting"
 msgstr "2. Таргетирование"
 
-#: scripts.js:4976
+#: scripts.js:1425
 msgctxt "Attribution"
 msgid "28 day"
 msgstr "28 день"
 
-#: scripts.js:7149
+#: scripts.js:3598
 msgctxt "Create : Step"
 msgid "3. Charts"
 msgstr "3. Графики"
 
-#: scripts.js:7149
+#: scripts.js:3598
 msgctxt "Create : Step"
 msgid "3. Targeting"
 msgstr "3. Таргетинг"
 
 #: scripts.js:12489
-#: scripts.js:3164
-#: scripts.js:3245
-#: scripts.js:3250
-#: scripts.js:3265
-#: scripts.js:3269
-#: scripts.js:7152
-#: scripts.js:7248
+#: scripts.js:3601
+#: scripts.js:3697
+#: scripts.js:7157
+#: scripts.js:7238
+#: scripts.js:7243
+#: scripts.js:7258
+#: scripts.js:7262
 #: scripts.js:8391
 #: scripts.js:8393
 msgctxt "Create : Step"
 msgid "4. Creative"
 msgstr "4. Креатив"
 
-#: scripts.js:7152
+#: scripts.js:3601
 msgctxt "Create : Step"
 msgid "4. Table"
 msgstr "4. Таблица"
 
-#: scripts.js:4973
+#: scripts.js:1422
 msgctxt "Attribution"
 msgid "7 day"
 msgstr "7 дней"
 
-#: scripts.components.js:6514
+#: scripts.components.js:6578
 msgctxt "Info : Pixel"
 msgid "A conversion pixel is a small piece of code that lets you keep track of conversions, such as purchases and sign-ups, on your website."
 msgstr "Конверсионный пиксель представляет собой небольшой фрагмент кода, который позволяет отслеживать конверсий, таких как покупки и подписок, на своем сайте."
 
-#: scripts.components.js:12989
-#: scripts.components.js:6484
+#: scripts.components.js:12976
+#: scripts.components.js:6548
 msgctxt "Info : Deep Link"
 msgid "A deep link is a URL that points to a specific place in your app, like a product page."
 msgstr "Deep Link ссылкой является URL, который указывает на определенное место в вашем приложении, как странице продукта."
 
-#: scripts.components.js:4250
+#: scripts.components.js:4421
 msgctxt "Pricing Table"
 msgid "A/B  tests"
 msgstr "A/B тесты"
 
-#: scripts.js:5659
+#: scripts.js:2108
 msgctxt "Informer"
 msgid "actions"
 msgstr "действия"
 
-#: scripts.components.js:10796
+#: scripts.components.js:10809
 msgctxt "Campaign : Status"
 msgid "Active"
 msgstr "Активная"
 
-#: scripts.js:3838
+#: scripts.js:4280
 msgctxt "Column : Status : Campaign"
 msgid "Active"
 msgstr "Активная"
 
-#: scripts.js:3919
+#: scripts.js:4361
 msgctxt "Column : Status : Adset"
 msgid "Active"
 msgstr "Активный"
 
-#: control/control_schedule/control_schedule_budget/controlScheduleBudget.html:2
-msgid "Ad Schedule"
-msgstr "Расписание показов объявлений"
-
-#: scripts.js:4028
+#: scripts.js:4470
 msgctxt "Column : Status : Adgroup"
 msgid "Ad Set is Off"
 msgstr "Адсет выключен"
 
-#: scripts.components.js:6510
+#: scripts.components.js:6574
 msgctxt "Info : Headline"
 msgid "Add a headline that grabs people's attention and tells them what your ad is about."
 msgstr "Добавить заголовок, который захватывает внимание людей и говорит им, о чем ваше объявление."
 
-#: scripts.components.js:6468
+#: scripts.components.js:6532
 msgctxt "Info : Headline"
 msgid "Add headlines that grabs people's attention and tells them what your ad(s) is about."
 msgstr "Добавьте заголовки, которые привлекает внимание людей и говорит им, о чем ваше(и) объявление(я)."
 
-#: scripts.components.js:4197
+#: scripts.components.js:4368
 msgctxt "Pricing Table"
 msgid "Add payment method"
 msgstr "Добавьте способ оплаты"
 
-#: scripts.components.js:11133
-#: scripts.components.js:11203
+#: scripts.components.js:11129
+#: scripts.components.js:11199
 msgctxt "Switcher"
 msgid "Ads"
 msgstr "Объявления"
 
-#: scripts.js:7550
+#: scripts.js:3999
 msgctxt "Error : Text"
 msgid "Ads message is required and cannot be empty."
 msgstr "Сообщение объявления является обязательным и не может быть пустым."
 
-#: scripts.js:7555
+#: scripts.js:4004
 msgctxt "Error : Text"
 msgid "Ads message must be more than 1 and less than 300 characters long."
 msgstr "Сообщение объявления должно быть длиной более 1 и менее 300 символов."
 
-#: scripts.components.js:6303
+#: scripts.components.js:6405
 msgctxt "URL Macros"
 msgid "AdSet ID"
 msgstr "Адсет ID"
 
-#: scripts.components.js:7299
+#: scripts.components.js:6858
 msgctxt "Validation : Adset"
 msgid "Adset is required"
 msgstr "Необходимо выбрать адсет"
 
-#: scripts.js:7477
-#: scripts.js:7491
+#: scripts.js:3926
+#: scripts.js:3940
 msgctxt "Error : Adset"
 msgid "Adset is required if you want to use existing adset."
 msgstr "Необходимо выбрать адсет, если вы хотите использовать существующий."
 
-#: scripts.components.js:6300
+#: scripts.components.js:6402
 msgctxt "URL Macros"
 msgid "AdSet name"
 msgstr "имя адсета"
 
-#: scripts.components.js:7298
+#: scripts.components.js:6857
 msgctxt "Validation : Adset"
 msgid "Adset name is required"
 msgstr "Необходимо ввести имя адсета"
 
-#: scripts.js:7498
+#: scripts.js:3947
 msgctxt "Error : Adset"
 msgid "Adset name is required if new adset is selected."
 msgstr "Необходимо ввести имя адсета, если выбран новый адсет."
 
-#: scripts.js:7503
+#: scripts.js:3952
 msgctxt "Error : Adset"
 msgid "Adset name must be less than 100 characters long."
 msgstr "Имя адсета должно быть короче 100 символов."
 
-#: scripts.components.js:11130
-#: scripts.components.js:11200
+#: scripts.components.js:11126
+#: scripts.components.js:11196
 msgctxt "Switcher"
 msgid "AdSets"
 msgstr "Адсет"
 
-#: scripts.components.js:4252
+#: scripts.components.js:4423
 msgctxt "Pricing Table"
 msgid "AiTarget learning"
 msgstr "обучение AITarget"
 
-#: scripts.components.js:11531
+#: scripts.components.js:11780
 msgid "All"
 msgstr "Все"
 
@@ -1136,9 +1137,9 @@ msgctxt "Targeting OS Version"
 msgid "All"
 msgstr "Все"
 
+#: scripts.js:1529
+#: scripts.js:1545
 #: scripts.js:256
-#: scripts.js:5080
-#: scripts.js:5096
 msgctxt "Breadcrumb"
 msgid "All accounts"
 msgstr "Все Аккаунты"
@@ -1152,665 +1153,621 @@ msgctxt "Platforms"
 msgid "Android only"
 msgstr "только Android"
 
-#: scripts.components.js:11750
+#: scripts.components.js:11360
 msgctxt "Audience Opt Groups"
 msgid "App"
 msgstr "Приложение"
 
-#: scripts.components.js:11762
+#: scripts.components.js:11372
 msgctxt "Audience Opt Groups"
 msgid "App Combination"
 msgstr "Комбинация для приложения"
 
-#: scripts.components.js:11453
+#: scripts.components.js:11481
 msgctxt "Connections Opt Groups"
 msgid "Applications"
 msgstr "Приложения"
 
-#: scripts.js:4038
+#: scripts.js:4480
 msgctxt "Column : Status : Adgroup"
 msgid "Approved"
 msgstr "Одобрено"
 
-#: scripts.js:7484
+#: scripts.js:3933
 msgctxt "Error : Adset"
 msgid "At least one Adset is required."
 msgstr "Требуется по крайней мере один адсет"
 
-#: scripts.js:7374
+#: scripts.js:3823
 msgctxt "Error : Email"
 msgid "At least one email address is required."
 msgstr "Необходим по крайней мере один адрес электронной почты."
 
-#: scripts.js:7443
+#: scripts.js:3892
 msgctxt "Error : App"
 msgid "At least one facebook app is required if you want to upload people IDs."
 msgstr "Необходимо по крайней мере одно приложение, зарегистрированное в Facebook, чтобы загрузить идентификаторы людей."
 
-#: scripts.js:7450
+#: scripts.js:3899
 msgctxt "Error : Audience"
 msgid "At least one source is required."
 msgstr "Требуется по крайней мере один источник."
 
-#: scripts.js:4551
-#: scripts.js:5833
+#: scripts.js:1000
+#: scripts.js:2282
 msgctxt "Placement"
 msgid "Audience Network - Banner"
 msgstr "Сеть Аудиторий - Баннер"
 
-#: scripts.js:4554
-#: scripts.js:5836
+#: scripts.js:1003
+#: scripts.js:2285
 msgctxt "Placement"
 msgid "Audience Network - Interstitial"
 msgstr "Сеть Аудиторий - Interstitial"
 
-#: scripts.components.js:4184
+#: scripts.components.js:4355
 msgctxt "Pricing Table"
 msgid "Automatic payment failed. We will try to retry the payment."
 msgstr "Автоматический платеж не прошел. Он повторится в ближайшее время. "
 
-#: main/main.html:5
-msgid "Automations"
-msgstr "Список автоматизаций"
-
-#: scripts.js:5651
+#: scripts.js:2100
 msgctxt "Informer"
 msgid "Avg daily spend"
 msgstr "Средний расход за день"
 
-#: audience-form/audienceForm.html:9
-msgid "Behaviours"
-msgstr "Поведение"
-
-#: scripts.components.js:6312
+#: scripts.components.js:6414
 msgctxt "URL Macros"
 msgid "Bid amount (value or AUTOBID)"
 msgstr "Сумма ставки (значение или автоматическая ставка)"
 
-#: scripts.components.js:6726
+#: scripts.components.js:7408
 msgctxt "Validation : Bid"
 msgid "Bid bid is required"
 msgstr "Требуется значение ставки"
 
-#: scripts.components.js:6725
+#: scripts.components.js:7407
 msgctxt "Validation : Bid"
 msgid "Bid is required"
 msgstr "Требуется значение ставки"
 
-#: scripts.components.js:6309
+#: scripts.components.js:6411
 msgctxt "URL Macros"
 msgid "Bid type"
 msgstr "Тип ставки"
 
-#: scripts.components.js:6315
+#: scripts.components.js:6417
 msgctxt "URL Macros"
 msgid "Billing event"
 msgstr "Платежное событие"
 
-#: scripts.js:5856
-#: scripts.js:7673
-#: scripts.js:7743
+#: scripts.js:2305
+#: scripts.js:4122
+#: scripts.js:4192
 #: scripts.js:8599
 #: scripts.js:9059
 msgctxt "Call To Action"
 msgid "Book Now"
 msgstr "Забронируйте сейчас"
 
-#: scripts.components.js:4231
+#: scripts.components.js:4402
 msgctxt "Pricing Table"
 msgid "Budget < $2000"
 msgstr "Бюджет < $2000"
 
-#: scripts.components.js:4244
+#: scripts.components.js:4415
 msgctxt "Pricing Table"
 msgid "Budget < $4000"
 msgstr "Бюджет < $4000"
 
-#: scripts.js:7347
+#: scripts.js:3796
 msgctxt "Error : Budget"
 msgid "Budget value is required."
 msgstr "Необходимо указать значение бюджета."
 
-#: scripts.js:7356
+#: scripts.js:3805
 msgctxt "Error : Budget"
 msgid "Budget value should be greater or equal to 1."
 msgstr "Значение бюджета должно быть больше или равно 1."
 
-#: scripts.js:7358
+#: scripts.js:3807
 msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "Значение бюджета должна быть меньше или равно 1 000 000."
 
-#: scripts.js:7697
+#: scripts.js:4146
 msgid "Buy Now"
 msgstr "Купить сейчас"
 
-#: scripts.js:5880
+#: scripts.js:2329
 #: scripts.js:8629
 #: scripts.js:9083
 msgctxt "Call To Action"
 msgid "Buy Now"
 msgstr "Купить сейчас"
 
-#: scripts.js:4991
+#: scripts.js:1440
 msgctxt "Automation : Adset : Action Param"
 msgid "By Reach"
 msgstr "По охвату"
 
-#: scripts.components.js:7604
+#: scripts.components.js:7683
 msgctxt "Calendar"
 msgid "Calendar"
 msgstr "Календарь"
 
-#: scripts.components.js:7612
-#: scripts.components.js:7613
+#: scripts.components.js:7691
+#: scripts.components.js:7692
 msgctxt "Validation : Calendar"
 msgid "Calendar is required"
 msgstr "Требуется задать период в календаре"
 
-#: scripts.components.js:6297
+#: scripts.components.js:6399
 msgctxt "URL Macros"
 msgid "Campaign ID"
 msgstr "Идентификатор кампании"
 
-#: scripts.js:3924
+#: scripts.js:4366
 msgctxt "Column : Status : Adset"
 msgid "Campaign is Off"
 msgstr "Кампания выкл"
 
-#: scripts.js:4031
+#: scripts.js:4473
 msgctxt "Column : Status : Adgroup"
 msgid "Campaign is Off"
 msgstr "Кампания выкл"
 
-#: scripts.components.js:8278
+#: scripts.components.js:7865
 msgctxt "Validation : Campaign"
 msgid "Campaign is required"
 msgstr "Выберите кампанию"
 
-#: scripts.js:7436
+#: scripts.js:3885
 msgctxt "Error : Campaign"
 msgid "Campaign is required if you want to use existing campaign."
 msgstr "Для использования существующей кампании выберите подходящую из списка"
 
-#: scripts.components.js:6294
+#: scripts.components.js:6396
 msgctxt "URL Macros"
 msgid "Campaign name"
 msgstr "Название кампании"
 
-#: scripts.components.js:10789
-#: scripts.components.js:8277
+#: scripts.components.js:10802
+#: scripts.components.js:7864
 msgctxt "Validation : Campaign"
 msgid "Campaign name is required"
 msgstr "Требуется название кампании"
 
-#: scripts.js:7457
+#: scripts.js:3906
 msgctxt "Error : Campaign"
 msgid "Campaign name is required if new campaign is selected."
 msgstr "Для создания новой кампании введите ее имя"
 
-#: scripts.js:7462
+#: scripts.js:3911
 msgctxt "Error : Campaign"
 msgid "Campaign name must be less than 128 characters long."
 msgstr "Название кампании должно быть длиной от 1 до 128 символов."
 
-#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:10
-msgid "Campaign Spending Limit"
-msgstr "Лимит затрат кампании"
-
-#: scripts.components.js:11127
+#: scripts.components.js:11193
 msgctxt "Switcher"
 msgid "Campaigns"
 msgstr "Список кампаний"
 
-#: scripts.components.js:10843
+#: crop/crop__modal/cropModal.html:15
+#: scripts.components.js:10856
 msgid "Cancel"
 msgstr "Отмена"
 
-#: scripts.js:4940
+#: scripts.js:1389
 msgctxt "Automation : Adset : Action"
 msgid "Change Bid"
 msgstr "Изменение ставок"
 
-#: scripts.js:4943
+#: scripts.js:1392
 msgctxt "Automation : Adset : Action"
 msgid "Change Budget"
 msgstr "Изменение бюджета"
 
-#: scripts.components.js:6494
+#: scripts.components.js:6558
 msgctxt "Info : Targeting : Gender"
 msgid "Choose \"All\" unless you only want your ads to be shown to either men or women."
 msgstr "Выберите \"Все\", если вы хотите, чтобы ваши объявления показывались мужчинам или женщинам."
 
-#: scripts.components.js:6508
+#: scripts.components.js:6572
 msgctxt "Info : Targeting : Wireless Connection"
 msgid "Choose \"Wi-Fi only\" to show your ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection."
 msgstr "Выберите \"Wi-Fi только\", чтобы показать рекламу пользователям, когда они используют беспроводное подключение к Интернету для просмотра Facebook. Это может быть важно, если ваше приложение является слишком большим, чтобы загрузить с помощью сотовой связи."
 
-#: scripts.components.js:13271
-#: scripts.components.js:13448
+#: scripts.components.js:13355
+#: scripts.components.js:13403
 msgctxt "Info: Page : Post"
 msgid "Choose a Facebook Page containing promoted post."
 msgstr "Выберите Facebook страницу, содержащую пост для обяъвления."
 
-#: scripts.components.js:13272
-#: scripts.components.js:13449
+#: scripts.components.js:13356
+#: scripts.components.js:13404
 msgctxt "Info: Page : Mobile"
 msgid "Choose a Facebook Page so you can run ads on Facebook."
 msgstr "Выберите страницу Facebook, так что вы можете запустить рекламу на Facebook."
 
-#: scripts.components.js:13270
-#: scripts.components.js:13447
+#: scripts.components.js:13354
+#: scripts.components.js:13402
 msgctxt "Info: Page : Page"
 msgid "Choose a Facebook Page that you want to be promoted."
 msgstr "Выберите страницу Facebook, которую вы хотите продвигать."
 
-#: scripts.components.js:13269
+#: scripts.components.js:13353
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 "                                      Your ad will link to your site, but it will show as coming from your Facebook Page."
 msgstr "Выберите страницу Facebook, чтобы рассказывать о своем бизнесе в Ленте новостей.\n"
 "                                      Ваше объявление будет иметь ссылку на ваш сайт, но оно будет показано, как исходящее от страницы в Facebook."
 
-#: scripts.components.js:13446
+#: scripts.components.js:13401
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 "                              Your ad will link to your site, but it will show as coming from your Facebook Page."
 msgstr "Выберите страницу Facebook, чтобы рассказывать о своем бизнесе в Ленте новостей.\n"
 "                                      Ваше объявление будет иметь ссылку на ваш сайт, но оно будет показано, как исходящее от страницы в Facebook."
 
-#: scripts.components.js:6509
+#: scripts.components.js:6573
 msgctxt "Info : Adgroup : Name"
 msgid "Choose a name of your ad."
 msgstr "Выберите имя вашего объявления."
 
-#: scripts.components.js:6490
+#: scripts.components.js:6554
 msgctxt "Info : URL : Link"
 msgid "Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements."
 msgstr "Выберите конкретный вид просмотра или приложение на странице, куда перейдут пользователи, когда они нажимут на ваше объявление. Этот параметр применяется только для десктопных размещений."
 
-#: scripts.components.js:6459
-#: scripts.components.js:9191
+#: scripts.components.js:6523
+#: scripts.components.js:8842
 msgctxt "Info : Post"
 msgid "Choose a post that you want to promote."
 msgstr "Выберите пост, который вы хотите продвигать."
 
-#: scripts.components.js:6466
+#: scripts.components.js:6530
 msgctxt "Info : Adset"
 msgid "Choose Adset"
 msgstr "Выберите адсет"
 
-#: scripts.components.js:6463
+#: scripts.components.js:6527
 msgctxt "Info : Campaign"
 msgid "Choose Campaign"
 msgstr "Выберите кампанию"
 
-#: scripts.components.js:6507
+#: scripts.components.js:6571
 msgctxt "Info : Targeting : Device"
 msgid "Choose device models you would like to target these ads to."
 msgstr "Выберите модели устройств, чтобы учесть их в таргетинге объявлений"
 
-#: scripts.components.js:6451
+#: scripts.components.js:6515
 msgctxt "Info : Web Traffic"
 msgid "Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website."
 msgstr "Создайте правило добавления людей к вашей аудитории. Подключите всех посетителей вашего сайта или тех, которые посещают определенные страницы вашего сайта."
 
-#: scripts.components.js:6506
+#: scripts.components.js:6570
 msgctxt "Info : Targeting : Min. OS"
 msgid "Choose minimum selected operating system version you want to target your ads to."
 msgstr "Выберите минимальную выбранную версию операционной системы, на которую вы хотите настроить таргетинг объявлений."
 
-#: scripts.components.js:6486
+#: scripts.components.js:6550
 msgctxt "Info : Creating Mode"
 msgid "Choose mixing mode if you want to combine every image, headline and message altogether."
 msgstr "Выберите режим смешивания, если вы хотите создать объявления, соответсвующие каждой комбинации изображений, заголовков и сообщений."
 
-#: scripts.components.js:6487
+#: scripts.components.js:6551
 msgctxt "Info : Optimize Carousel"
 msgid "Choose optimizing mode if you want automatically select and order images and links."
 msgstr "Выберите режим оптимизации, если вы хотите, чтобы порядок изображений в карусели был выбран автоматически"
 
-#: scripts.components.js:6489
+#: scripts.components.js:6553
 msgctxt "Info : Split Budget"
 msgid "Choose split by reach if you want to split budget according to audience reach."
 msgstr "Выберите \"Разбить по охвату\", если вы хотите разделить бюджет в соответствии с охватом аудитории."
 
-#: scripts.components.js:6488
+#: scripts.components.js:6552
 msgctxt "Info : Split By"
 msgid "Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device."
 msgstr "Выберите режим разделения аудитории, если вы хотите, чтобы таргетинг аудитории был автоматически поделен по возрасту, полу, стране или устройства. Итогом будет несколько адсетов с соответствующими аудиториями."
 
-#: scripts.components.js:6485
+#: scripts.components.js:6549
 msgctxt "Info : Call To Action"
 msgid "Choose the action you want people to take when they see your ad."
 msgstr "Выберите название кнопки к действию, которое смогут совершать пользователи, когда они увидят ваше объявление."
 
-#: scripts.components.js:6458
+#: scripts.components.js:6522
 msgctxt "Info : App"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store URL или Play URL. Вы можете рекламировать любое приложение, которое вы зарегистрировали на сайте разработчиков Facebook http://developers.facebook.com ."
 
-#: scripts.components.js:6457
+#: scripts.components.js:6521
 msgctxt "Info : URL : Mobile"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store URL или Play URL. Вы можете рекламировать любое приложение, которое вы зарегистрировали на сайте разработчиков Facebook http://developers.facebook.com ."
 
-#: scripts.components.js:6477
+#: scripts.components.js:6541
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
 msgstr "Выберите наиболее важное для автоматизации окно атрибуции. Окно атрибуции позволяет отслеживать действия, предпринятые в отношении вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции, используя поля с пользовательским сроком."
 
-#: scripts.components.js:6476
+#: scripts.components.js:6540
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "Выберите наиболее важное для вашей отчетности окно атрибуции. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настроенными сроки."
 
-#: scripts.components.js:6478
+#: scripts.components.js:6542
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "Выберите наиболее важное для вашей отчетности окно атрибуции. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настроенными сроки."
 
-#: scripts.js:6070
+#: scripts.js:2519
 msgctxt "Objective"
 msgid "Choose the objective for your campaign"
 msgstr "Выберите цель вашей кампании"
 
-#: scripts.components.js:6505
-#: scripts.components.js:6512
+#: scripts.components.js:6569
+#: scripts.components.js:6576
 msgctxt "Info : Targeting : Platform"
 msgid "Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model."
 msgstr "Выберите тип мобильного устройства, которое вы хотели бы включить в таргетинг объявлений. Вы можете настроить таргетинг по мобильной операционной системе и модели устройства."
 
-#: scripts.js:5937
+#: scripts.js:2386
 msgctxt "Objective"
 msgid "Choose the type of your ads campaign:"
 msgstr "Выберите цель создаваемой кампании"
 
-#: scripts.components.js:6511
+#: scripts.components.js:6575
 msgctxt "Info : Targeting : Placements"
 msgid "Choose where you want your ads to show on Facebook and the placements that are most important to you."
 msgstr "Выберите самые важные для вас размещения в Facebook для ваших объявлений"
 
-#: scripts.components.js:11995
+#: scripts.components.js:11936
 msgctxt "Geo Opt Groups"
 msgid "Cities"
 msgstr "Города"
 
-#: scripts.js:5986
+#: scripts.js:2435
 msgctxt "Objective"
 msgid "Clicks"
 msgstr "Клики"
 
-#: scripts.components.js:4006
+#: scripts.components.js:4177
 msgctxt "Plan : Dialog"
 msgid "Close"
 msgstr "Закрыть"
 
-#: scripts.components.js:5776
+#: scripts.components.js:5161
 msgid "Close Advanced Settings"
 msgstr "Спрятать дополнительные настройки"
 
-#: scripts.components.js:6496
+#: scripts.components.js:6560
 msgctxt "Info : Targeting : Interests"
 msgid "Combine interests to expand your ad's reach."
 msgstr "Объединить интересы, чтобы расширить охват вашего объявления."
 
-#: scripts.components.js:13501
+#: scripts.components.js:13171
 msgctxt "Info : Instagram Account"
 msgid "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
 msgstr "Подключите ваш Instagram-аккаунт в Бизнес-менеджере или отключите тип размещения Instagram"
 
-#: scripts.js:6289
+#: scripts.js:2738
 msgctxt "Modal : Create : Ok Button"
 msgid "Continue"
 msgstr "Далее"
 
-#: scripts.components.js:4168
+#: scripts.components.js:4339
 msgctxt "Pricing Table"
 msgid "Continue to use"
 msgstr "Продолжить использование"
 
-#: scripts.components.js:7601
+#: scripts.components.js:7680
 msgctxt "Calendar"
 msgid "Continuously"
 msgstr "Непрерывно"
 
-#: scripts.js:7385
+#: scripts.js:3834
 msgctxt "Error : Pixel"
 msgid "Conversion Pixel is required."
 msgstr "Требуется конверсионный пиксель"
 
-#: scripts.js:5999
+#: scripts.js:2448
 msgctxt "Objective"
 msgid "Conversions"
 msgstr "Конверсии"
 
-#: scripts.components.js:6454
+#: scripts.components.js:6518
 msgctxt "Info : Audiences: Copy And Paste"
 msgid "Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file."
 msgstr "Скопируйте и вставьте список сообщений электронной почты, номеров телефонов, идентификаторы пользователей Facebook или идентификаторы мобильных рекламодателей из таблицы или текстового файла."
 
-#: scripts.components.js:11992
+#: scripts.components.js:11933
 msgctxt "Geo Opt Groups"
 msgid "Countries"
 msgstr "Страны"
 
-#: scripts.js:5669
+#: scripts.js:2118
 msgctxt "Informer"
 msgid "cpc"
 msgstr "CPC"
 
-#: scripts.components.js:8586
+#: scripts.components.js:8535
 msgctxt "Validation : Page"
 msgid "create public page."
 msgstr "создайте публичную страницу"
 
-#: scripts.js:6290
+#: scripts.js:2739
 msgctxt "Modal : Create : Cancel Button"
 msgid "Create Similar Ads"
 msgstr "Создайте похожие объявления"
 
-#: scripts.components.js:6306
+#: scripts.components.js:6408
 msgctxt "URL Macros"
 msgid "Creative (Ads) name"
 msgstr "Имя креатива (объявление)"
 
-#: scripts.js:4049
+#: scripts.js:4491
 msgctxt "Column : Status : Adgroup"
 msgid "Credit Card Needed"
 msgstr "Требуется кредитная карта"
 
-#: crop/crop__dialog/cropDialog.html:12
-msgid "Crop"
-msgstr "Обрезать"
-
-#: crop/crop__modal/cropModal.html:5
-msgid "Crop Image"
-msgstr "Обрезать изображение"
-
-#: crop/crop__dialog/cropDialog.html:4
-msgid "Crop Image For Instagram"
-msgstr "Обрезать изображение для Instagram"
-
-#: scripts.js:5664
+#: scripts.js:2113
 msgctxt "Informer"
 msgid "ctr"
 msgstr "CTR"
 
-#: scripts.components.js:11741
+#: scripts.components.js:11351
 msgctxt "Audience Opt Groups"
 msgid "Custom"
 msgstr "Пользовательская настройка"
 
-#: scripts.components.js:7473
+#: scripts.components.js:7552
 msgctxt "Validation : Budget"
 msgid "Daily budget is required"
 msgstr "Требуется указать ежедневный бюджет"
 
-#: scripts.components.js:4179
-#: scripts.components.js:4188
+#: scripts.components.js:4350
+#: scripts.components.js:4359
 msgctxt "Pricing Table"
 msgid "days"
 msgstr "дней"
 
-#: scripts.components.js:4175
+#: scripts.components.js:4346
 msgctxt "Pricing Table"
 msgid "Days left:"
 msgstr "Осталось дней:"
 
-#: scripts.js:4017
+#: scripts.js:4459
 msgctxt "Column : Status : Adgroup"
 msgid "Delivering"
 msgstr "Действ."
 
-#: scripts.components.js:6483
+#: scripts.components.js:6547
 msgctxt "Info : Link Description"
 msgid "Describe why people should visit your website."
 msgstr "Опишите, почему люди должны посетить ваш сайт."
 
-#: scripts.js:4532
-#: scripts.js:6165
-#: scripts.js:6382
-#: scripts.js:6407
-#: scripts.js:7650
-#: scripts.js:7726
+#: scripts.js:2614
+#: scripts.js:2831
+#: scripts.js:2856
+#: scripts.js:4099
+#: scripts.js:4175
+#: scripts.js:981
 msgctxt "Placement"
 msgid "Desktop Feed"
 msgstr "Десктопная лента"
 
-#: scripts.js:4052
+#: scripts.js:4494
 msgctxt "Column : Status : Adgroup"
 msgid "Disabled"
 msgstr "Отключено"
 
-#: scripts.js:4122
+#: scripts.js:4564
 msgctxt "Column : Status : Automation"
 msgid "Disabled"
 msgstr "Отключено"
 
-#: scripts.js:4042
+#: scripts.js:4484
 msgctxt "Column : Status : Adgroup"
 msgid "Disapproved"
 msgstr "Отклонено"
 
-#: scripts.components.js:11155
+#: scripts.components.js:11221
 msgctxt "Switcher"
 msgid "Display"
 msgstr "Показать"
 
-#: scripts.js:6288
+#: scripts.js:2737
 msgctxt "Modal : Create : Body"
 msgid "Do you want to leave this page and go to dashboard?"
 msgstr "Покинуть эту страницу и перейти к созданным адсетам?"
 
-#: scripts.js:5004
-#: scripts.js:5013
+#: scripts.js:1453
+#: scripts.js:1462
 msgctxt "Automation : Adset : Param"
 msgid "Down"
 msgstr "Уменьшить на"
 
-#: scripts.js:5868
-#: scripts.js:7685
-#: scripts.js:7752
+#: scripts.js:2317
+#: scripts.js:4134
+#: scripts.js:4201
 #: scripts.js:8602
 #: scripts.js:9071
 msgctxt "Call To Action"
 msgid "Download"
 msgstr "Скачать"
 
-#: scripts.js:6126
+#: scripts.js:2575
 msgctxt "Objective"
 msgid "Dynamic Product Ad"
 msgstr "Динамическая реклама товара"
 
-#: scripts.components.js:6479
+#: scripts.components.js:6543
 msgctxt "Info : Preset"
 msgid "Editing and creating is only available for user's presets. For shared presets you can only create a new one."
 msgstr "Создание и редактирование доступно только для предварительных настроек пользователя. Для общих предварительных настроек вы можете только создать новый."
 
-#: scripts.js:4127
+#: scripts.js:4569
 msgctxt "Column : Status : Automation"
 msgid "Enabled"
 msgstr "Включено"
 
-#: scripts.components.js:6528
+#: scripts.components.js:6592
 msgctxt "Info : Bid"
 msgid "Enabling this option will set your bid so that it's optimized to help you reach your objective."
 msgstr "Включение этой опции подразумевает установление ставки, оптимизированной для достижения вашей цели."
 
-#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:7
-msgid "Enter Ad Campaign Name"
-msgstr "Введите название рекламной кампании"
-
-#: scripts.components.js:6529
+#: scripts.components.js:6593
 msgctxt "Info : Sync"
 msgid "Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes."
 msgstr "Введите, как часто мы должны обновлять ваши объявления, используя данные из предоставляемого  XML-файла каталога продуктов. Значение должно быть введено в течение нескольких минут."
 
-#: scripts.components.js:6492
+#: scripts.components.js:6556
 msgctxt "Info : Targeting : Exclude Locations"
 msgid "Enter locations you want to exclude."
 msgstr "Введите места, которые вы хотите исключить из таргетинга."
 
-#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:10
-msgid "Enter maximum amount your campaign can spend"
-msgstr "Введите максимальную сумму, которая может быть списана в результате действия вашей кампании"
-
-#: scripts.components.js:6491
+#: scripts.components.js:6555
 msgctxt "Info : Targeting : Locations"
 msgid "Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations."
 msgstr "Введите один или несколько стран, штатов, городов или почтовые индексы, чтобы сделать точнее потенциальную аудиторию в этих местах"
 
-#: scripts.components.js:4006
+#: scripts.components.js:4177
 msgctxt "Plan : Dialog"
 msgid "Error"
 msgstr "Ошибка"
 
-#: scripts.js:6341
+#: scripts.js:2790
 msgctxt "Error : Create"
 msgid "Error occurred when creating your ads! Message:"
 msgstr "Произошла ошибка при создании объявлений! Сообщение:"
 
-#: scripts.js:5604
+#: scripts.js:2053
 msgctxt "Error : Image"
 msgid "Error occurred when requesting for library images."
 msgstr "Произошла ошибка при запросе библиотеки изображений."
 
-#: scripts.js:5625
+#: scripts.js:2074
 msgctxt "Error : Video"
 msgid "Error occurred when requesting for library videos."
 msgstr "Произошла ошибка при запросе для библиотеки видео."
 
-#: scripts.components.js:7960
+#: scripts.components.js:8238
 msgctxt "Instagram Account"
 msgid "Error occurred! Couldn't create instagram account for the selected page."
 msgstr "Произошла ошибка! Не удалось выбрать указанную страницу в виде аккаунта Instagram."
 
-#: scripts.components.js:6941
-#: scripts.components.js:8907
+#: scripts.components.js:7103
+#: scripts.components.js:9325
 msgctxt "Error : App"
 msgid "Error occurred! Please, check your App URL."
 msgstr "Произошла ошибка! Пожалуйста, проверьте App URL."
 
-#: scripts.js:4995
+#: scripts.js:1444
 msgctxt "Automation : Adset : Param"
 msgid "Evenly"
 msgstr "Равномерно"
 
-#: pacing/pacing.html:56
-msgctxt "Pacing"
-msgid "Every day"
-msgstr "Каждый день"
-
-#: audience-form/audienceForm.html:11
-msgid "Exclude Custom Audiences"
-msgstr "Исключение пользовательских аудиторий"
-
-#: audience-form/audienceForm.html:21
-msgid "Exclude people who are connected to"
-msgstr "Исключение людей, которые являются пользователями:"
-
-#: scripts.components.js:6504
+#: scripts.components.js:6568
 msgctxt "Info : Targeting : Exclude Custom Audiences"
 msgid "Exclude your ads from targeting to people from some custom audience."
 msgstr "Исключить ваши объявления от таргетирования на людей некоторой пользовательской аудитории."
@@ -1835,197 +1792,181 @@ msgctxt "Placement"
 msgid "Facebook – Right Hand Side"
 msgstr "Facebook - Правая колонка"
 
-#: scripts.components.js:6496
+#: scripts.components.js:6560
 msgctxt "Info : Targeting : Interests"
 msgid "Facebook can help you reach specific audiences by looking at their interests, activities, the Pages they have liked and closely related topics."
 msgstr "Facebook может помочь вам достичь определенной аудитории, опираясь на их интересы, деятельность, страницы, которые им понравились и тесно связанные темы."
 
-#: scripts.components.js:4227
+#: scripts.components.js:4398
 msgctxt "Pricing Table"
 msgid "FAQ"
 msgstr "Часто задаваемые вопросы"
 
-#: scripts.components.js:6456
+#: scripts.components.js:6520
 msgctxt "Info : URL : Post"
 msgid "For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2."
 msgstr "Например, если теги URL определяются, как key1=val1&key2=val2 и поток истории включает в себя URL: www.example.com?key1=test, то URL будет отображен, как: www.example.com?key1=val1&key2=val2."
 
-#: scripts.js:5682
+#: scripts.js:2131
 msgctxt "Informer"
 msgid "frequency"
 msgstr "Частота"
 
-#: scripts.js:7605
+#: scripts.js:4054
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value is required."
 msgstr "Необходимо указать значение ограничения частоты показов."
 
-#: scripts.js:7610
+#: scripts.js:4059
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value should be greater or equal to 1."
 msgstr "Значение ограничения частоты должно быть больше или равна 1."
 
-#: scripts.js:7611
+#: scripts.js:4060
 msgctxt "Error : Frequency Cap"
 msgid "Frequency cap value should be numeric."
 msgstr "Значение ограничения частоты должно быть числовым."
 
-#: scripts.components.js:3224
+#: scripts.components.js:3199
 msgctxt "Pacing"
 msgid "Friday"
 msgstr "Пятница"
 
-#: scripts.components.js:12001
+#: scripts.components.js:11942
 msgctxt "Geo Opt Groups"
 msgid "Geo Market"
 msgstr "География"
 
-#: scripts.js:5949
+#: scripts.js:2398
 msgctxt "Objective"
 msgid "Get new installs"
 msgstr "Получить новые установки"
 
-#: scripts.js:5883
+#: scripts.js:2332
 #: scripts.js:8632
 #: scripts.js:9086
 msgctxt "Call To Action"
 msgid "Get Offer"
 msgstr "Принять предложение"
 
-#: scripts.js:7700
+#: scripts.js:4149
 msgid "Get Offer"
 msgstr "Принять предложение"
 
-#: scripts.components.js:6528
+#: scripts.components.js:6592
 msgctxt "Info : Bid"
 msgid "Get the most conversions at the best price - You'll be charged for impressions."
 msgstr "Получить наибольшее количество переходов по лучшей цене - Вы будете платить за показы."
 
-#: scripts.components.js:6465
+#: scripts.components.js:6529
 msgctxt "Info : Adset : Name"
 msgid "Give your adset a name that describes the audience, scheduling or ads inside it."
 msgstr "Дайте адсету имя, которое описывает аудитории, планирование или объявления внутри него."
 
-#: scripts.components.js:6464
+#: scripts.components.js:6528
 msgctxt "Info : Campaign : Name"
 msgid "Give your campaign a name that describes the audience, scheduling or adsets inside it."
 msgstr "Дайте название кампании, которая описывает аудитории, планирование или адсеты внутри него."
 
-#: scripts.components.js:7957
+#: scripts.components.js:8235
 msgctxt "Instagram Account"
 msgid "grant manage page permissions"
 msgstr "разрешить управлять страницами"
 
-#: scripts.components.js:7859
+#: scripts.components.js:8137
 msgctxt "Validation : Instagram Account"
 msgid "How to link your Instagram Account and AdAccount you can"
 msgstr "Как связать свой Инстаграм аккаунт и рекламный акканут — вы можете"
 
-#: scripts.components.js:6466
+#: scripts.components.js:6530
 msgctxt "Info : Adset"
 msgid "If"
 msgstr "Если"
 
-#: scripts.components.js:6463
+#: scripts.components.js:6527
 msgctxt "Info : Campaign"
 msgid "If"
 msgstr "Если"
 
-#: scripts.components.js:6516
+#: scripts.components.js:6580
 msgctxt "Info : Budget"
 msgid "If you choose a"
 msgstr "Если вы выбираете"
 
-#: scripts.components.js:6515
+#: scripts.components.js:6579
 msgctxt "Info : App"
 msgid "If you want to optimize your ad for mobile app installs, please choose facebook app associated with your app."
 msgstr "Если вы хотите оптимизировать ваше объявление для мобильного приложения, пожалуйста, выберите приложение, зарегистированное в Facebook, связанное с вашим приложением в AppStore или PlayMarket."
 
-#: scripts.js:5677
+#: scripts.js:2126
 msgctxt "Informer"
 msgid "impressions"
 msgstr "Показы"
 
-#: scripts.js:4034
+#: scripts.js:4476
 msgctxt "Column : Status : Adgroup"
 msgid "In Review"
 msgstr "На рассмотрении"
 
-#: scripts.js:3823
+#: scripts.js:4265
 msgctxt "Column : Status : Campaign"
 msgid "Inactive"
 msgstr "Неактивно"
 
-#: scripts.js:3928
+#: scripts.js:4370
 msgctxt "Column : Status : Adset"
 msgid "Inactive"
 msgstr "Неактивно"
 
-#: scripts.js:4022
+#: scripts.js:4464
 msgctxt "Column : Status : Adgroup"
 msgid "Inactive"
 msgstr "Неактивный"
 
-#: audience-form/audienceForm.html:20
-msgid "Include people who are connected to"
-msgstr "Подключите людей, которые связаны с"
-
-#: audience-form/audienceForm.html:22
-msgid "Include people whose friends are connected to"
-msgstr "Подключите людей, чьи друзья связаны с"
-
 #: index.html:427
 #: scripts.components.js:12375
-#: scripts.js:14672
-#: scripts.js:15222
-#: scripts.js:4544
+#: scripts.js:14844
+#: scripts.js:15394
 #: scripts.js:8563
+#: scripts.js:993
 msgctxt "Placement"
 msgid "Instagram"
 msgstr "Instagram"
 
-#: scripts.js:6060
+#: scripts.js:2509
 msgctxt "Objective"
 msgid "Instagram"
 msgstr "Instagram"
 
-#: control/control_instagram/control_instagram_creative/controlInstagramCreative.html:2
-msgid "Instagram Account"
-msgstr "Instagram-аккаунт"
-
-#: scripts.components.js:7855
+#: scripts.components.js:8133
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "Необходимо выбрать Instagram-аккаунт."
 
-#: scripts.js:5853
-#: scripts.js:7670
+#: scripts.js:2302
+#: scripts.js:4119
 #: scripts.js:8593
 #: scripts.js:9056
 msgctxt "Call To Action"
 msgid "Install Mobile App"
 msgstr "Установить приложение для мобильных телефонов"
 
-#: scripts.components.js:4246
+#: scripts.components.js:4417
 msgctxt "Pricing Table"
 msgid "Integration of external data"
 msgstr "Интеграция внешних данных"
 
-#: audience-form/audienceForm.html:18
-msgid "Interested In"
-msgstr "Заинтересован в"
-
-#: scripts.js:7618
+#: scripts.js:4067
 msgctxt "Error : Frequency Cap"
 msgid "Interval period is required."
 msgstr "Задайте интервал."
 
-#: scripts.js:7623
+#: scripts.js:4072
 msgctxt "Error : Frequency Cap"
 msgid "Interval period should be more than 1 day."
 msgstr "Интервал должен быть дольше, чем 1 день."
 
-#: scripts.js:7624
+#: scripts.js:4073
 msgctxt "Error : Frequency Cap"
 msgid "Interval period value should be numeric."
 msgstr "Значение интервала должно быть числовым"
@@ -2035,305 +1976,271 @@ msgctxt "Platforms"
 msgid "iOS only"
 msgstr "только iOS"
 
-#: scripts.js:7352
-#: scripts.js:7521
+#: scripts.js:3801
+#: scripts.js:3970
 msgctxt "Error : Number"
 msgid "It can't have less than 1 or more than 2 decimal places."
 msgstr "В значении не может быть меньше 1 или более 2-х знаков после запятой."
 
-#: audience-form/audienceForm.html:17
-msgid "Languages"
-msgstr "Языки"
-
-#: scripts.js:1580
+#: scripts.js:5573
 msgctxt "Automation : Analyze Window"
 msgid "Last 14 Days"
 msgstr "За последние 14 дней"
 
-#: scripts.js:1583
+#: scripts.js:5576
 msgctxt "Automation : Analyze Window"
 msgid "Last 28 Days"
 msgstr "За последние 28 дней"
 
-#: scripts.js:1598
+#: scripts.js:5591
 msgctxt "Automation : Analyze Window"
 msgid "Last 3 Months"
 msgstr "За последние 3 месяца"
 
-#: scripts.js:1586
+#: scripts.js:5579
 msgctxt "Automation : Analyze Window"
 msgid "Last 30 Days"
 msgstr "За последние 30 дней"
 
-#: scripts.js:1577
+#: scripts.js:5570
 msgctxt "Automation : Analyze Window"
 msgid "Last 7 Days"
 msgstr "За последние 7 дней"
 
-#: scripts.js:1589
+#: scripts.js:5582
 msgctxt "Automation : Analyze Window"
 msgid "Last 90 Days"
 msgstr "За последние 90 дней"
 
-#: scripts.js:1562
+#: scripts.js:5555
 msgctxt "Automation : Analyze Window"
 msgid "Last Hour"
 msgstr "За последний час"
 
-#: scripts.js:1595
+#: scripts.js:5588
 msgctxt "Automation : Analyze Window"
 msgid "Last Month"
 msgstr "За прошлый месяц"
 
-#: scripts.js:1574
+#: scripts.js:5567
 msgctxt "Automation : Analyze Window"
 msgid "Last Week"
 msgstr "На прошлой неделе"
 
-#: scripts.js:5862
-#: scripts.js:7679
-#: scripts.js:7746
+#: scripts.js:2311
+#: scripts.js:4128
+#: scripts.js:4195
 #: scripts.js:8605
 #: scripts.js:9065
 msgctxt "Call To Action"
 msgid "Learn More"
 msgstr "Узнать больше"
 
-#: scripts.components.js:6495
+#: scripts.components.js:6559
 msgctxt "Info : Targeting : Languages"
 msgid "Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above."
 msgstr "Оставьте это поле пустым, если вы не ориентируетесь на пользователей, говорящих на общем языке для местоположения, выбранного выше."
 
-#: scripts.components.js:6502
+#: scripts.components.js:6566
 msgctxt "Info : Targeting : Interested In"
 msgid "Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\""
 msgstr "Оставьте это поле пустым, если вы не таргетируетесь на определенный пол (для дружбы, знакомства, отношения или нетворкинга). Некоторые люди не уточняют эту информацию на Facebook, так что вы можете охватить всех, выбрав \"Все\"."
 
-#: scripts.components.js:6498
+#: scripts.components.js:6562
 msgctxt "Info : Targeting : Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите сузить свою аудиторию до людей, связанных с вашей страницей, приложением или событием."
 
-#: scripts.components.js:6500
+#: scripts.components.js:6564
 msgctxt "Info : Targeting : Friends Of Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите сузить свою аудиторию до друзей тех, кто связан с вашей страницей, приложением или событием."
 
-#: scripts.components.js:6499
+#: scripts.components.js:6563
 msgctxt "Info : Targeting : Excluded Connections"
 msgid "Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите сузить свою аудиторию до людей, НЕ связанных с вашей страницей, приложением или событием."
 
-#: scripts.js:1601
+#: scripts.js:5594
 msgctxt "Automation : Analyze Window"
 msgid "Lifetime"
 msgstr "Весь период"
 
-#: scripts.components.js:6516
+#: scripts.components.js:6580
 msgctxt "Info : Budget"
 msgid "lifetime budget"
 msgstr "бюджет на весь период"
 
-#: scripts.components.js:7472
+#: scripts.components.js:7551
 msgctxt "Validation : Budget"
 msgid "Lifetime budget is required"
 msgstr "Необходимо ввести бюджет за весь период"
 
-#: scripts.components.js:6520
+#: scripts.components.js:6584
 msgctxt "Info : Targeting : Audiences"
 msgid "List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here."
 msgstr "Список таргетированных аудиторий. Отдельный адсет будет создан для каждой аудитории. Если выбран существующий адсет, то будет создана только одна аудитория."
 
-#: scripts.components.js:11744
+#: scripts.components.js:11354
 msgctxt "Audience Opt Groups"
 msgid "Lookalike"
 msgstr "Похожая аудитория"
 
-#: scripts.components.js:11756
+#: scripts.components.js:11366
 msgctxt "Audience Opt Groups"
 msgid "Managed"
 msgstr "Управление"
 
-#: scripts.js:5892
-#: scripts.js:7711
+#: scripts.js:2341
+#: scripts.js:4160
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPC"
 msgstr "Максимальная цена за клик"
 
-#: scripts.js:5895
-#: scripts.js:7714
+#: scripts.js:2344
+#: scripts.js:4163
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPI"
 msgstr "Максимальная цена установки\n"
 ""
 
-#: control/control_bid/controlBid.html:8
-msgid "Maximum CPI"
-msgstr "Максимальная цена установки\n"
-""
-
-#: scripts.components.js:6469
+#: scripts.components.js:6533
 msgctxt "Info : Message"
 msgid "Maximum length is 300 characters. Will be automatically cut."
 msgstr "Максимальная длина составляет 300 символов. Сообщение длиннее будет автоматически обрезаться."
 
-#: scripts.components.js:6468
+#: scripts.components.js:6532
 msgctxt "Info : Headline"
 msgid "Maximum length is 40 characters. Will be automatically cut."
 msgstr "Максимальная длина составляет 300 символов. Сообщение длиннее будет автоматически обрезаться."
 
-#: scripts.components.js:6527
+#: scripts.components.js:6591
 msgctxt "Info : Frequency Cap"
 msgid "Maximum number of times your ad will be shown to tha same user."
 msgstr "Максимальное количество раз, которое ваше объявление будет показано одному и тому же пользователю."
 
-#: scripts.components.js:6455
+#: scripts.components.js:6519
 msgctxt "Info : Audiences : In The Last"
 msgid "Maximum time: 180 days"
 msgstr "Максимальное время: 180 дней"
 
-#: scripts.components.js:11534
-#: scripts.components.js:11843
+#: scripts.components.js:11783
+#: scripts.components.js:12102
 msgid "Men"
 msgstr "Мужчины"
 
-#: scripts.components.js:11849
+#: scripts.components.js:12108
 msgid "Men and Women"
 msgstr "Мужчины и женщины"
 
-#: audience-form/audienceForm.html:14
-msgid "Min. Operating System"
-msgstr "Минимальная операционная система"
-
-#: scripts.js:5939
+#: scripts.js:2388
 msgctxt "Objective"
 msgid "Mobile"
 msgstr "Продвижение мобильного приложения"
 
-#: scripts.js:4540
-#: scripts.js:4548
-#: scripts.js:5830
-#: scripts.js:6168
-#: scripts.js:6385
-#: scripts.js:6410
-#: scripts.js:7653
-#: scripts.js:7729
+#: scripts.js:2279
+#: scripts.js:2617
+#: scripts.js:2834
+#: scripts.js:2859
+#: scripts.js:4102
+#: scripts.js:4178
+#: scripts.js:989
+#: scripts.js:997
 msgctxt "Placement"
 msgid "Mobile Feed"
 msgstr "Мобильная лента новостей\n"
 ""
 
-#: scripts.js:6085
+#: scripts.js:2534
 msgctxt "Objective"
 msgid "Mobile installs"
 msgstr "Установки приложения"
 
-#: scripts.components.js:3204
+#: scripts.components.js:3179
 msgctxt "Pacing"
 msgid "Monday"
 msgstr "Понедельник"
 
-#: crud/crud__step/crud__step_action/crudStepAction.html:14
-#: fba-form/fba-form_budget/fbaFormBudget.html:15
-#: fba-form/fba-form_creative/fbaFormCreative.html:25
-#: fba-form/fba-form_main/fbaFormMain.html:13
-#: fba-form/fba-form_targeting/fbaFormTargeting.html:15
-msgid "Next step"
-msgstr "Дальше"
-
-#: scripts.js:3903
+#: scripts.js:4345
 msgctxt "Column : Status : Adset"
 msgid "Not Delivering"
 msgstr "Приостановлено"
 
-#: scripts.js:4001
+#: scripts.js:4443
 msgctxt "Column : Status : Adgroup"
 msgid "Not Delivering"
 msgstr "Приостановлено"
 
-#: scripts.components.js:11852
+#: scripts.components.js:12111
 msgid "Not specified"
 msgstr "Не задан"
 
-#: scripts.js:4955
+#: scripts.js:1404
 msgctxt "Automation : Adset : Action"
 msgid "Notify By Email"
 msgstr "Уведомлять по электронной почте"
 
-#: scripts.components.js:4240
+#: scripts.components.js:4411
 msgctxt "Pricing Table"
 msgid "Online chat support"
 msgstr "Онлайн поддержка в чате"
 
-#: scripts.components.js:5770
-#: scripts.components.js:5781
+#: scripts.components.js:5155
+#: scripts.components.js:5166
 msgid "Open Advanced Settings"
 msgstr "Открыть дополнительные настройки"
 
-#: scripts.js:5877
-#: scripts.js:7694
+#: scripts.js:2326
+#: scripts.js:4143
 #: scripts.js:8626
 #: scripts.js:9080
 msgctxt "Call To Action"
 msgid "Open Link"
 msgstr "Открыть ссылку"
 
-#: scripts.components.js:6318
+#: scripts.components.js:6420
 msgctxt "URL Macros"
 msgid "Optimization goal"
 msgstr "Цель оптимизации"
 
-#: scripts.components.js:4248
+#: scripts.components.js:4419
 msgctxt "Pricing Table"
 msgid "Optimization of mobile events"
 msgstr "Оптимизация мобильных событий"
 
-#: crop/crop__dialog/cropDialog.html:13
-msgid "Original"
-msgstr "Оригинал\n"
-""
-
-#: control/control_page/control_page_adgroup/controlPageAdgroup.html:2
-msgid "Page"
-msgstr "Страница"
-
-#: scripts.js:1284
-#: scripts.js:6339
-#: scripts.js:6341
+#: scripts.js:2788
+#: scripts.js:2790
+#: scripts.js:5277
 msgctxt "Error : Group"
 msgid "Page"
 msgstr "Страница"
 
-#: scripts.js:6013
+#: scripts.js:2462
 msgctxt "Objective"
 msgid "Page"
 msgstr "Страница"
 
-#: scripts.js:7598
+#: scripts.js:4047
 msgctxt "Error : Page"
 msgid "Page is required."
 msgstr "Требуется страница."
 
-#: scripts.components.js:8585
+#: scripts.components.js:8534
 msgctxt "Validation : Page"
 msgid "Page is required."
 msgstr "Требуется страница."
 
-#: scripts.js:6023
+#: scripts.js:2472
 msgctxt "Objective"
 msgid "Page Likes"
 msgstr "Отметки страницы \"Нравится\""
 
-#: control/control_page/control_page_creative/controlPageCreative.html:2
-msgid "Pages"
-msgstr "Страницы"
-
-#: scripts.components.js:11450
+#: scripts.components.js:11478
 msgctxt "Connections Opt Groups"
 msgid "Pages"
 msgstr "Страницы"
 
-#: scripts.components.js:11753
+#: scripts.components.js:11363
 msgctxt "Audience Opt Groups"
 msgid "Partner"
 msgstr "Партнер"
@@ -2342,65 +2249,57 @@ msgstr "Партнер"
 msgid "Paste your customer list here."
 msgstr "Вставьте сюда список клиентов."
 
-#: scripts.components.js:10799
+#: scripts.components.js:10812
 msgctxt "Campaign : Status"
 msgid "Paused"
 msgstr "Приостановлена"
 
-#: scripts.js:4046
+#: scripts.js:4488
 msgctxt "Column : Status : Adgroup"
 msgid "Pending Billing Info"
 msgstr "В ожидании информации об оплате"
 
-#: scripts.js:1203
-#: scripts.js:1210
+#: scripts.js:5196
+#: scripts.js:5203
 msgctxt "Tooltip : Slider : Audiences"
 msgid "people"
 msgstr "людей"
 
-#: audience-form/audienceForm.html:12
-msgid "Placements"
-msgstr "Места размещения"
-
-#: scripts.components.js:11456
+#: scripts.components.js:11484
 msgctxt "Connections Opt Groups"
 msgid "Places"
 msgstr "Места"
 
-#: audience-form/audienceForm.html:13
-msgid "Platform"
-msgstr "Платформа"
-
-#: scripts.js:5847
-#: scripts.js:7664
+#: scripts.js:2296
+#: scripts.js:4113
 #: scripts.js:9050
 msgctxt "Call To Action"
 msgid "Play Game"
 msgstr "Играть в игру"
 
-#: scripts.js:1113
+#: scripts.js:5106
 msgctxt "Error : Connection"
 msgid "Please, check that your computer is connected to the Internet."
 msgstr "Пожалуйста, убедитесь, что ваш компьютер подключен к Интернету."
 
-#: scripts.components.js:1846
+#: scripts.components.js:3981
 msgctxt "Error : Replace"
 msgid "Please, select application by direct link to play.google.com or itunes.apple.com if you\n"
 "               want to promote App Installs. No redirect links are supported."
 msgstr "Пожалуйста, выберите приложение по прямой ссылкой на play.google.com или itunes.apple.com если вы\n"
 "               хотят продвигать установки приложений. Переадресация на другие сайты не поддерживается."
 
-#: scripts.components.js:6635
+#: scripts.components.js:6714
 msgctxt "Automation: Ads"
 msgid "Please, select at least one ad to be used in automations"
 msgstr "Пожалуйста, выберите хотя бы одно объявление для использования в автоматизации"
 
-#: scripts.components.js:6474
+#: scripts.components.js:6538
 msgctxt "Info : Image : Library"
 msgid "Please, select images that you want to use in your new ads."
 msgstr "Пожалуйста, выберите изображения, которые вы хотите использовать в новых объявлениях."
 
-#: scripts.components.js:1841
+#: scripts.components.js:3976
 msgctxt "Error : Replace"
 msgid "Please, select page or change targeting placement."
 msgstr "Пожалуйста, выберите страницу или измените место размещения."
@@ -2410,485 +2309,404 @@ msgctxt "Error : Page"
 msgid "Please, try to"
 msgstr "Пожалуйста, попробуйте"
 
-#: scripts.js:6036
+#: scripts.js:2485
 msgctxt "Objective"
 msgid "Post Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: scripts.components.js:3942
+#: scripts.components.js:4113
 msgctxt "Plan"
 msgid "Premiun plan"
 msgstr "План Premiun"
 
-#: scripts.js:7470
+#: scripts.js:3919
 msgctxt "Error : Preset"
 msgid "Preset name is required."
 msgstr "Требуется имя пресета"
 
-#: scripts.js:1565
+#: scripts.js:5558
 msgctxt "Automation : Analyze Window"
 msgid "Previous Hour"
 msgstr "Предыдущий час"
 
-#: scripts.js:5962
+#: scripts.js:2411
 msgctxt "Objective"
 msgid "Re-engage existing users"
 msgstr "Повторное привлечение существующих пользователей"
 
-#: scripts.js:5687
+#: scripts.js:2136
 msgctxt "Informer"
 msgid "reach"
 msgstr "Охват"
 
-#: scripts.js:6050
+#: scripts.js:2499
 msgctxt "Objective"
 msgid "Reach & Frequency"
 msgstr "Охват и частота"
 
-#: scripts.components.js:6497
+#: scripts.components.js:6561
 msgctxt "Info : Targeting : Behaviours"
 msgid "Reach people based on purchase behaviors or intents, device usage and more. Some behavior data is available for US audiences only."
 msgstr "Охватывайте пользователей на основании поведения или действий, использования устройства и др. Некоторые данные о поведении доступны только для аудитории США."
 
-#: scripts.components.js:7859
+#: scripts.components.js:8137
 msgctxt "Validation : Instagram Account"
 msgid "read in our blog."
 msgstr "читайте в нашем блоге."
 
-#: scripts.components.js:11998
+#: scripts.components.js:11939
 msgctxt "Geo Opt Groups"
 msgid "Regions"
 msgstr "Регионы"
-
-#: audience-form/audienceForm.html:19
-msgid "Relationship Statuses"
-msgstr "Статусы отношений"
 
 #: scripts.js:883
 msgctxt "Error : Page"
 msgid "reload"
 msgstr "перезагрузить"
 
-#: scripts.js:4946
+#: scripts.js:1395
 msgctxt "Automation : Adset : Action"
 msgid "Relocate Budget"
 msgstr "Перераспределить бюджет"
 
-#: scripts.js:4536
-#: scripts.js:4558
-#: scripts.js:6162
-#: scripts.js:6388
-#: scripts.js:6413
-#: scripts.js:7732
+#: scripts.js:1007
+#: scripts.js:2611
+#: scripts.js:2837
+#: scripts.js:2862
+#: scripts.js:4181
 #: scripts.js:9172
+#: scripts.js:985
 msgctxt "Placement"
 msgid "Right Column"
 msgstr "Правая колонка"
 
-#: scripts.js:4965
+#: scripts.js:1414
 msgctxt "Automation : Adgroup : Action"
 msgid "Rotate"
 msgstr "Ротировать"
 
-#: scripts.components.js:3229
+#: scripts.components.js:3204
 msgctxt "Pacing"
 msgid "Saturday"
 msgstr "Суббота"
 
-#: scripts.components.js:10787
+#: crop/crop__modal/cropModal.html:16
+#: scripts.components.js:10800
 msgid "Save"
 msgstr "Сохранить"
 
-#: pacing/pacing.html:58
-msgctxt "Pacing"
-msgid "Scheduled hours are shaded blue"
-msgstr "Запланированные часы заштрихованы синим"
-
-#: scripts.components.js:6462
+#: scripts.components.js:6526
 msgctxt "Info : Copy : Adgroups"
 msgid "Select 'No' if you want to copy Adset without Ad Groups."
 msgstr "Выберите \"Нет\", если вы хотите скопировать адсет без объявлений."
 
-#: control/control_page/control_page_adgroup/controlPageAdgroup.html:2
-#: control/control_page/control_page_creative/controlPageCreative.html:2
-msgid "Select a page in the list"
-msgstr "Выберите страницу в списке"
-
-#: scripts.components.js:6481
+#: scripts.components.js:6545
 msgctxt "Info : Automation : Adset"
 msgid "Select actions that you want to apply to selected adsets when all rules match."
 msgstr "Выберите действия, которые необходимо применить к выбранным адсетам, когда выполняются все условия правил."
 
-#: scripts.components.js:6598
+#: scripts.components.js:6677
 msgctxt "Automation: Ads"
 msgid "Select ad that you want to use automation for."
 msgstr "Выберите объявления, для которого вы хотите использовать автоматизацию."
 
-#: scripts.components.js:6480
+#: scripts.components.js:6544
 msgctxt "Info : Automation : Adset"
 msgid "Select adsets that you want to use automation for."
 msgstr "Выберите адсеты, для которых вы хотите использовать автоматизацию."
 
-#: audience-form/audienceForm.html:6
-msgid "Select Age"
-msgstr "Выберите возраст"
-
-#: scripts.components.js:6519
+#: scripts.components.js:6583
 msgctxt "Info : Automation : Notifications"
 msgid "Select emails to send notifications to."
 msgstr "Выберите сообщения электронной почты для отправки уведомлений."
 
-#: control/control_adset/controlAdset.html:6
-msgid "Select manual targeting mode if you want to use existing adset."
-msgstr "Выберите ручной режим выбора таргетинга, если вы хотите использовать существующий адсет."
-
-#: audience-form/audienceForm.html:14
-msgid "Select min. Operating System"
-msgstr "Выберите мин. Операционная система"
-
-#: audience-form/audience-form__control/audience-form__control_type_placements/audienceFormControlTypePlacements.html:4
-msgid "Select or search a placement in the list"
-msgstr "Выберите или найдите место размещения в списке"
-
-#: audience-form/audienceForm.html:18
-#: audience-form/audienceForm.html:19
-msgid "Select or search a values in the list"
-msgstr "Выберите или Выберите значения в списке"
-
-#: control/control_adset/controlAdset.html:10
-msgid "Select or search adset in the list"
-msgstr "Выберите или выполнить поиск adset в списке"
-
-#: control/control_ad/controlAd.html:5
-#: control/control_adset/control_adset_automation/controlAdsetAutomation.html:5
-msgid "Select or search adsets in the list"
-msgstr "Выберите или найдите адсеты в списке"
-
-#: audience-form/audienceForm.html:9
-msgid "Select or search behaviors in the list"
-msgstr "Выберите или найдите поведение в списке"
-
-#: audience-form/audienceForm.html:10
-#: audience-form/audienceForm.html:11
-msgid "Select or search custom audiences in the list"
-msgstr "Выберите или найдите пользовательскую аудиторию в списке"
-
-#: audience-form/audienceForm.html:15
-msgid "Select or search device name in the list"
-msgstr "Выберите или найдите имя устройства в списке"
-
-#: audience-form/audienceForm.html:4
-#: audience-form/audienceForm.html:5
-msgid "Select or search geo locations in the list"
-msgstr "Выберите или найдите геолокации в списке"
-
-#: audience-form/audienceForm.html:8
-msgid "Select or search interests in the list"
-msgstr "Выберите или найдите интересы в списке"
-
-#: audience-form/audienceForm.html:17
-msgid "Select or search languages in the list"
-msgstr "Выберите или найдите языки в списке"
-
-#: audience-form/audienceForm.html:20
-#: audience-form/audienceForm.html:21
-#: audience-form/audienceForm.html:22
-msgid "Select or search pages, apps or events in the list"
-msgstr "Выберите или найдите страницы, приложения или события в списке"
-
-#: scripts.components.js:6517
+#: scripts.components.js:6581
 msgctxt "Info : Calendar"
 msgid "Select the advertisement period for your ads."
 msgstr "Выберите рекламный период для ваших объявлений."
 
-#: scripts.components.js:6467
+#: scripts.components.js:6531
 msgctxt "Info : Image"
 msgid "Select the images."
 msgstr "Выберите изображения."
 
-#: scripts.components.js:6493
+#: scripts.components.js:6557
 msgctxt "Info : Targeting : Age"
 msgid "Select the minimum and maximum age of the people who will find your ad relevant."
 msgstr "Выберите минимальный и максимальный возраст людей, для которых предназначено ваше объявление"
 
-#: scripts.components.js:6518
+#: scripts.components.js:6582
 msgctxt "Info : Automation : Calendar"
 msgid "Select the period for your automation."
 msgstr "Выберите период для вашей автоматизации."
 
-#: scripts.components.js:6461
+#: scripts.components.js:6525
 msgctxt "Info : Adset"
 msgid "Select to create new adset or use an existing adset."
 msgstr "Выберите для создания нового адсета или создавайте объявления в существующем адсете."
 
-#: scripts.components.js:6460
+#: scripts.components.js:6524
 msgctxt "Info : Campaign"
 msgid "Select to create new campaign or use an existing campaign."
 msgstr "Выберите для создания новой кампании или создавайте объявления в существующей кампании."
 
-#: scripts.components.js:6526
+#: scripts.components.js:6590
 msgctxt "Info : Status"
 msgid "Set activity status for your campaign."
 msgstr "Установите статус активности вашей кампании"
 
-#: scripts.components.js:6450
+#: scripts.components.js:6514
 msgctxt "Info : Spend Cap"
 msgid "Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit."
 msgstr "Установить общий лимит расходов для вашей рекламной кампании. Это означает, что ваши адсеты в кампании остановятся, как только вы достигнете своего предела расходов."
 
-#: scripts.js:5844
-#: scripts.js:7661
-#: scripts.js:7740
+#: scripts.js:2293
+#: scripts.js:4110
+#: scripts.js:4189
 #: scripts.js:8611
 #: scripts.js:9047
 msgctxt "Call To Action"
 msgid "Shop Now"
 msgstr "В магазин"
 
-#: scripts.components.js:6513
+#: scripts.components.js:6577
 msgctxt "Info : Caption"
 msgid "Short caption of the url that people will reach after clicking on your ad."
 msgstr "Короткий заголовок из URL, что люди будут достигать после нажатия на объявление."
 
-#: scripts.js:5865
-#: scripts.js:7682
-#: scripts.js:7749
+#: scripts.js:2314
+#: scripts.js:4131
+#: scripts.js:4198
 #: scripts.js:8614
 #: scripts.js:9068
 msgctxt "Call To Action"
 msgid "Sign Up"
 msgstr "Зарегистрируйтесь"
 
-#: scripts.js:5641
+#: scripts.js:2090
 msgctxt "Informer"
 msgid "spend"
 msgstr "Израсходовано"
 
-#: scripts.components.js:10792
+#: scripts.components.js:10805
 msgctxt "Validation : Campaign"
 msgid "Spend Cap is required"
 msgstr "Требуется лимит расходов"
 
-#: scripts.components.js:10791
+#: scripts.components.js:10804
 msgctxt "Validation : Campaign"
 msgid "Spend Cap must be numeric"
 msgstr "Лимит расходов должен иметь числовой формат"
 
-#: scripts.js:4952
+#: scripts.js:1401
 msgctxt "Automation : Adset : Action"
 msgid "Start"
 msgstr "Начало"
 
-#: scripts.js:4962
+#: scripts.js:1411
 msgctxt "Automation : Adgroup : Action"
 msgid "Start"
 msgstr "Начало"
 
-#: scripts.js:4949
+#: scripts.js:1398
 msgctxt "Automation : Adset : Action"
 msgid "Stop"
 msgstr "Стоп"
 
-#: scripts.js:4959
+#: scripts.js:1408
 msgctxt "Automation : Adgroup : Action"
 msgid "Stop"
 msgstr "Стоп"
 
-#: scripts.components.js:3961
+#: scripts.components.js:4132
 msgctxt "Plan"
 msgid "Stripe Checkout closed without making a sale."
 msgstr "Оплата не была произведена"
 
-#: scripts.components.js:4157
-#: scripts.components.js:4178
-#: scripts.components.js:4187
-#: scripts.components.js:4261
+#: scripts.components.js:4328
+#: scripts.components.js:4349
+#: scripts.components.js:4358
+#: scripts.components.js:4432
 msgctxt "Pricing Table"
 msgid "Subscribe"
 msgstr "Подписывайтесь"
 
-#: scripts.components.js:4199
+#: scripts.components.js:4370
 msgctxt "Pricing Table"
 msgid "Subscription period has ended. Please update your plan"
 msgstr "Период подписки закончился. Пожалуйста, обновите ваш план"
 
-#: scripts.components.js:3234
+#: scripts.components.js:3209
 msgctxt "Pacing"
 msgid "Sunday"
 msgstr "Воскресенье"
 
-#: scripts.components.js:4227
+#: scripts.components.js:4398
 msgctxt "Pricing Table"
 msgid "support"
 msgstr "Поддержка"
 
-#: scripts.js:7631
+#: scripts.js:4080
 msgctxt "Error : Sync"
 msgid "Sync period value is required."
 msgstr "Требуется значение периода синхронизации"
 
-#: scripts.js:7636
+#: scripts.js:4085
 msgctxt "Error : Sync"
 msgid "Sync period value should be greater or equal to 15 minutes."
 msgstr "Значение периода синхронизации должно быть больше или равно 15 мин."
 
-#: scripts.components.js:6501
+#: scripts.components.js:6565
 msgctxt "Info : Targeting : Relationship Statuses"
 msgid "Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status."
 msgstr "Таргетинг объявлений на людей на основе статуса отношений, перечисленных в своем профиле Facebook. Оставьте это поле пустым, если вы не хотите, чтобы ваше объявление будет показываться только тем людям, которые имеют особый статус отношений."
 
-#: scripts.components.js:6503
+#: scripts.components.js:6567
 msgctxt "Info : Targeting : Custom Audiences"
 msgid "Target your ads to people from your custom audience."
 msgstr "Таргетируйте объявления на людей из вашей пользовательской аудитории."
 
-#: scripts.components.js:6491
+#: scripts.components.js:6555
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your ad by city isn't available in all countries."
 msgstr "Таргетинг на жителей определенного города не доступен во всех странах"
 
-#: scripts.components.js:6491
+#: scripts.components.js:6555
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your ad by ZIP code is only available in the United States."
 msgstr "Таргетинг объявления по почтовому коду доступен только в Соединенных Штатах."
 
-#: scripts.components.js:6469
+#: scripts.components.js:6533
 msgctxt "Info : Message"
 msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
 msgstr "Скажите людям немного больше о вашем объявлении. Убедитесь в том, что вы четко объясняете то, что вы рекламируете."
 
-#: scripts.components.js:6470
+#: scripts.components.js:6534
 msgctxt "Info : Text : Carousel"
 msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
 msgstr "Скажите людям немного больше о вашем объявлении (ы). Убедитесь в том, чтобы четко объяснить, что вы рекламируете."
 
-#: scripts.components.js:6453
+#: scripts.components.js:6517
 msgctxt "Info : Audiences : Upload File"
 msgid "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
 msgstr "Текстовые файлы (.txt и .csv) могут включать в себя записи в виде отдельных строк или в списке через запятую."
 
-#: scripts.js:7586
+#: scripts.js:4035
 msgctxt "Error : Text"
 msgid "The body text is required and cannot be empty."
 msgstr "Поле для текста является обязательным для заполнения и не может быть пустым."
 
-#: scripts.js:7591
+#: scripts.js:4040
 msgctxt "Error : Text"
 msgid "The body text must be more than 1 and less than 300 characters long."
 msgstr "Поле для текста должно содержать более 1 и менее 300 символов."
 
-#: scripts.js:7417
+#: scripts.js:3866
 msgctxt "Error : Link Description"
 msgid "The caption must be more than 1 and less than 60 characters long."
 msgstr "Отображаемая ссылка должна быть длиной более 1 и менее 60 символов."
 
-#: scripts.js:7408
+#: scripts.js:3857
 msgctxt "Error : Link Caption"
 msgid "The caption must be more than 1 and less than 90 characters long."
 msgstr "Отображаемая ссылка должна быть длиной более 1 и менее 90 символов."
 
-#: scripts.components.js:6482
+#: scripts.components.js:6546
 msgctxt "Info : Link Caption"
 msgid "The caption of a link in the post (appears beneath the name)."
 msgstr "Отображаемая ссылка в посте (появляется под именем)."
 
-#: scripts.components.js:4128
+#: scripts.components.js:4299
 msgctxt "Pricing Table"
 msgid "The functionality you're trying to access is only available for premium users"
 msgstr "Данная функция доступна только пользователям плана Premium."
 
-#: scripts.js:7574
+#: scripts.js:4023
 msgctxt "Error : Headline"
 msgid "The headline is required and cannot be empty."
 msgstr "Заголовок является обязательным и не может быть пустым."
 
-#: scripts.js:7579
+#: scripts.js:4028
 msgctxt "Error : Headline"
 msgid "The headline must be more than 1 and less than 40 characters long."
 msgstr "Заголовок должен быть более 1 и менее 40 символов."
 
-#: scripts.js:7399
+#: scripts.js:3848
 msgctxt "Error : Link Name"
 msgid "The link name must be more than 1 and less than 50 characters long."
 msgstr "Имя ссылки должно быть более 1 и менее 50 символов."
 
-#: scripts.js:7367
+#: scripts.js:3816
 msgctxt "Error : Link URL"
 msgid "The Link URl is required."
 msgstr "Поле для ссылки не может быть пустым"
 
-#: scripts.components.js:6449
+#: scripts.components.js:6513
 msgctxt "Info : Frequency Cap"
 msgid "The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement."
 msgstr "Среднее число показов вашего объявления одному человеку. Мы предлагаем ограничение частоты 2, основанное на продолжительности вашей кампании и ее размещения."
 
-#: control/control_app/controlApp.html:5
-#: control/control_type_app/controlTypeApp.html:5
-msgctxt "Validation : App"
-msgid "The Mobile App is required"
-msgstr "Требуется мобильное приложение"
-
-#: scripts.js:7538
+#: scripts.js:3987
 msgctxt "Error : Name"
 msgid "The name is required and cannot be empty."
 msgstr "Имя является обязательным и не может быть пустым."
 
-#: scripts.js:7543
+#: scripts.js:3992
 msgctxt "Error : Name"
 msgid "The name must be more than 1 and less than 100 characters long."
 msgstr "Имя должно быть больше 1 и меньше, чем 100 символов."
 
-#: scripts.components.js:6475
+#: scripts.components.js:6539
 msgctxt "Info : Link Name"
 msgid "The name of the link."
 msgstr "Название ссылки."
 
-#: scripts.components.js:6455
+#: scripts.components.js:6519
 msgctxt "Info : Audiences : In The Last"
 msgid "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
 msgstr "Число дней с момента посещения вашего сайта. Люди будут удалены из вашей аудитории по истечении установленного периода времени, если они снова не посетят ваш сайт."
 
-#: scripts.js:7562
+#: scripts.js:4011
 msgctxt "Error : Pixel"
 msgid "The pixel name is required and cannot be empty."
 msgstr "Имя пикселя является обязательным и не может быть пустым."
 
-#: scripts.js:7567
+#: scripts.js:4016
 msgctxt "Error : Pixel"
 msgid "The pixel name must be more than 1 and less than 100 characters long."
 msgstr "Имя пикселя должно быть больше 1 и меньше, чем 100 символов."
 
-#: scripts.js:7424
+#: scripts.js:3873
 msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "Требуется текст сообщения для карусельного объявления."
 
-#: scripts.js:7429
+#: scripts.js:3878
 msgctxt "Error : Text"
 msgid "The text message must be more than 1 and less than 300 characters long."
 msgstr "Текст сообщения должен быть более 1 и менее 300 символов."
 
-#: scripts.js:7525
+#: scripts.js:3974
 msgctxt "Error : Bid"
 msgid "The value should be greater or equal to 0.01."
 msgstr "Значение должно быть больше или равно 0,01."
 
-#: scripts.js:7637
+#: scripts.js:4086
 msgctxt "Error : Sync"
 msgid "The value should be numeric."
 msgstr "Значение должно быть числовым."
 
-#: scripts.components.js:3987
+#: scripts.components.js:4158
 msgctxt "Plan"
 msgid "There was a mistake when updating plan"
 msgstr "Возникла ошибка при обновлении плана"
 
-#: scripts.components.js:6522
+#: scripts.components.js:6586
 msgctxt "Info : Bid"
 msgid "This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads."
 msgstr "Эта ставка помогает определить силу вашего объявления в аукционе объявлений и вероятности его запуска. Facebook взимает сумму, которая требуется для Вашего объявления для выигрыша аукциона, которая может быть ниже максимальной ставки, поэтому мы рекомендуем вам ввести возможный максимум при создании объявлений."
 
-#: scripts.js:1592
+#: scripts.js:5585
 msgctxt "Automation : Analyze Window"
 msgid "This Month"
 msgstr "Этот месяц"
@@ -2898,118 +2716,113 @@ msgctxt "Error : Page"
 msgid "this page."
 msgstr "эта страница."
 
-#: scripts.js:7516
+#: scripts.js:3965
 msgctxt "Error : Bid"
 msgid "This value is required."
 msgstr "Требуется ввести значение."
 
-#: scripts.js:1571
+#: scripts.js:5564
 msgctxt "Automation : Analyze Window"
 msgid "This Week"
 msgstr "На этой неделе"
 
-#: scripts.components.js:3219
+#: scripts.components.js:3194
 msgctxt "Pacing"
 msgid "Thursday"
 msgstr "Четверг"
 
-#: scripts.components.js:7957
+#: scripts.components.js:8235
 msgctxt "Instagram Account"
 msgid "to 'Aitarget' application in order to create instagram account for the selected page."
 msgstr "к приложению 'Aitarget' для того, чтобы создать учетную запись Instagram для выбранной страницы."
 
-#: scripts.js:1559
+#: scripts.js:5552
 msgctxt "Automation : Analyze Window"
 msgid "Today"
 msgstr "Cегодня"
 
-#: scripts.js:5646
+#: scripts.js:2095
 msgctxt "Informer"
 msgid "total spend"
 msgstr "общие расходы"
 
-#: scripts.components.js:4163
+#: scripts.components.js:4334
 msgctxt "Pricing Table"
 msgid "Trial days left:"
 msgstr "Осталось пробных дней:"
 
-#: scripts.components.js:4196
+#: scripts.components.js:4367
 msgctxt "Pricing Table"
 msgid "Trial period has ended. Please update your plan"
 msgstr "Пробный период закончился. Пожалуйста, обновите ваш план"
 
-#: scripts.components.js:4179
-#: scripts.components.js:4188
+#: scripts.components.js:4350
+#: scripts.components.js:4359
 msgctxt "Pricing Table"
 msgid "Trial Period:"
 msgstr "Испытательный срок:"
 
-#: scripts.components.js:4203
+#: scripts.components.js:4374
 msgctxt "Pricing Table"
 msgid "Trial period: 30 days"
 msgstr "Пробный период: 30 дней"
 
-#: scripts.components.js:3209
+#: scripts.components.js:3184
 msgctxt "Pacing"
 msgid "Tuesday"
 msgstr "Вторник"
 
-#: scripts.js:1114
+#: scripts.js:5107
 msgctxt "Error : Connection"
 msgid "Unable to connect to the Internet!"
 msgstr "Невозможно подключиться к Интернету!"
-
-#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
-msgctxt "Info : Targeting : Locations"
-msgid "Undo Change"
-msgstr "Отменить изменения"
 
 #: scripts.js:882
 msgctxt "Error : Page"
 msgid "Unknown error occurred on this page."
 msgstr "Произошла неизвестная ошибка на этой странице."
 
-#: scripts.components.js:10828
+#: scripts.components.js:10841
 msgctxt "Error : Campaign : Edit"
 msgid "Unknown error occurred when updating selected Ad Campaigns."
 msgstr "при обновлении выбранных рекламных кампаний произошла неизвестная ошибка."
 
 #: scripts.js:10859
-#: scripts.js:6470
+#: scripts.js:2919
 msgctxt "Error : Preview"
 msgid "Unknown error occurred, when requesting for Ad preview."
 msgstr "При запросе предварительного просмотра объявлений произошла неизвестная ошибка"
 
-#: scripts.components.js:4242
+#: scripts.components.js:4413
 msgctxt "Pricing Table"
 msgid "Unlimited amount of automations"
 msgstr "Неограниченное количество объектов автоматизаций"
 
-#: scripts.js:5000
-#: scripts.js:5009
+#: scripts.js:1449
+#: scripts.js:1458
 msgctxt "Automation : Adset : Param"
 msgid "Up"
 msgstr "Увеличить"
 
-#: scripts.components.js:6448
+#: scripts.components.js:6512
 msgctxt "Info : URL"
 msgid "Url of a website that you want to promote."
 msgstr "Адрес веб-сайта, который вы хотите продвигать."
 
-#: scripts.components.js:6456
+#: scripts.components.js:6520
 msgctxt "Info : URL : Post"
 msgid "URL tags you specify here will be appended to or will replace existing tags in the URLs."
 msgstr "URL теги, которые вы указываете здесь, будут добавлены в ссылку или заменят существующие теги в URL."
 
-#: scripts.components.js:13322
+#: scripts.components.js:13025
 msgctxt "Info : URL"
 msgid "URL to main page or products category on the website."
 msgstr "URL главной страницы или категории на сайте."
 
-#: scripts.js:5850
-#: scripts.js:5874
-#: scripts.js:7667
-#: scripts.js:7691
+#: scripts.js:2299
+#: scripts.js:2323
+#: scripts.js:4116
+#: scripts.js:4140
 #: scripts.js:8596
 #: scripts.js:8623
 #: scripts.js:9053
@@ -3018,73 +2831,73 @@ msgctxt "Call To Action"
 msgid "Use Mobile App"
 msgstr "Используйте мобильное приложение"
 
-#: scripts.components.js:7931
+#: scripts.components.js:8209
 msgctxt "Instagram Account"
 msgid "Use page only"
 msgstr "Используйте только страницы"
 
-#: scripts.components.js:12989
-#: scripts.components.js:6484
+#: scripts.components.js:12976
+#: scripts.components.js:6548
 msgctxt "Info : Deep Link"
 msgid "Using a Deep Link"
 msgstr "Использование диплинка"
 
-#: scripts.components.js:11759
+#: scripts.components.js:11369
 msgctxt "Audience Opt Groups"
 msgid "Video"
 msgstr "Видео"
 
-#: scripts.js:6098
-#: scripts.js:6113
+#: scripts.js:2547
+#: scripts.js:2562
 msgctxt "Objective"
 msgid "Video Views"
 msgstr "Просмотр видео"
 
-#: scripts.js:5871
-#: scripts.js:7688
+#: scripts.js:2320
+#: scripts.js:4137
 #: scripts.js:8620
 #: scripts.js:9074
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "См. больше"
 
-#: scripts.js:5859
-#: scripts.js:7676
+#: scripts.js:2308
+#: scripts.js:4125
 #: scripts.js:8617
 #: scripts.js:9062
 msgctxt "Call To Action"
 msgid "Watch Video"
 msgstr "Смотреть видео"
 
-#: scripts.js:5976
+#: scripts.js:2425
 msgctxt "Objective"
 msgid "Website"
 msgstr "Веб-сайт"
 
-#: scripts.components.js:11747
+#: scripts.components.js:11357
 msgctxt "Audience Opt Groups"
 msgid "Website"
 msgstr "Веб-сайт"
 
-#: scripts.js:6072
+#: scripts.js:2521
 msgctxt "Objective"
 msgid "Website Clicks"
 msgstr "Клики на сайт"
 
-#: scripts.components.js:3214
+#: scripts.components.js:3189
 msgctxt "Pacing"
 msgid "Wednesday"
 msgstr "Среда"
 
-#: scripts.js:5947
-#: scripts.js:5984
-#: scripts.js:6021
+#: scripts.js:2396
+#: scripts.js:2433
+#: scripts.js:2470
 msgctxt "Objective"
 msgid "What kind of actions do you want to get?"
 msgstr "Уточните цель кампании"
 
-#: scripts.components.js:12989
-#: scripts.components.js:6484
+#: scripts.components.js:12976
+#: scripts.components.js:6548
 msgctxt "Info : Deep Link"
 msgid "When launching an app with a deep link Facebook will be able to open your app in a specific state."
 msgstr "При запуске приложения с диплинком у Facebook будет возможность открыть определенное окно в приложении."
@@ -3093,119 +2906,110 @@ msgstr "При запуске приложения с диплинком у Face
 msgid "Wi-Fi only"
 msgstr "Только Wi-Fi"
 
-#: audience-form/audienceForm.html:16
-msgid "Wireless Connection"
-msgstr "Беспроводное соединение"
-
-#: scripts.components.js:11537
-#: scripts.components.js:11846
+#: scripts.components.js:11786
+#: scripts.components.js:12105
 msgid "Women"
 msgstr "Женщины"
 
-#: scripts.js:1568
+#: scripts.js:5561
 msgctxt "Automation : Analyze Window"
 msgid "Yesterday"
 msgstr "Вчера"
 
-#: scripts.components.js:6920
-#: scripts.components.js:8884
+#: scripts.components.js:7082
+#: scripts.components.js:9302
 msgctxt "Validation : App"
 msgid "You App is not registered in Facebook."
 msgstr "Ваше приложение не зарегистрировано на developers.facebook.com"
 
-#: scripts.components.js:6471
+#: scripts.components.js:6535
 msgctxt "Info : Preview"
 msgid "You can choose different ad formats and see how your ads looks like."
 msgstr "Вы можете выбрать разные форматы объявлений и посмотреть, как они выглядят для пользователей."
 
-#: scripts.components.js:6473
+#: scripts.components.js:6537
 msgctxt "Info : Preview"
 msgid "You can choose different ad formats and see how your ads will like after creation."
 msgstr "Вы можете выбрать разные форматы объявлений и посмотреть, как они выглядят для пользователей."
 
-#: scripts.components.js:6524
+#: scripts.components.js:6588
 msgctxt "Info : Pay For"
 msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to."
 msgstr "Вы можете предложить ставку для вашей цели, кликов или конверсий (требуют выбранного пикселя) в зависимости от типа вашего объявления. Ваш выбор определяет то, за что вы платите, и для кого ваше объявление будет показано."
 
-#: scripts.components.js:6523
+#: scripts.components.js:6587
 msgctxt "Info : Optimize For"
 msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to."
 msgstr "Вы можете выбрать цель оптимизации кампании. Ваш выбор определяет то, за что вы платите, и для кого ваше объявление будет показано."
 
-#: scripts.components.js:6454
+#: scripts.components.js:6518
 msgctxt "Info : Audiences : Copy And Paste"
 msgid "You can copy columns from a spreadsheet with one record per row or a list of records separated by commas"
 msgstr "Вы можете копировать столбцы из таблицы с одной записью в строке или списка записей, разделенных запятыми"
 
-#: scripts.components.js:6472
+#: scripts.components.js:6536
 msgctxt "Info : Preview"
 msgid "You can delete comments to your ad."
 msgstr "Вы можете удалить комментарии к вашему объявлению."
 
-#: scripts.components.js:6452
+#: scripts.components.js:6516
 msgctxt "Info : Audiences : Apps For"
 msgid "You can only upload IDs for people that download or use your Facebook app."
 msgstr "Вы можете загрузить только идентификаторы для людей, которые скачали или используют ваше приложение."
 
-#: scripts.components.js:6521
+#: scripts.components.js:6585
 msgctxt "Info : Schedule"
 msgid "You can schedule your ads for specific hours and days of the week."
 msgstr "Вы можете запланировать показ объявлений на определенные часы и дни недели."
 
-#: scripts.components.js:6453
+#: scripts.components.js:6517
 msgctxt "Info : Upload File Audiences"
 msgid "You can upload files in .csv or .txt format."
 msgstr "Вы можете загружать файлы в формате CSV или .txt формате."
 
-#: scripts.components.js:12989
-#: scripts.components.js:6484
+#: scripts.components.js:12976
+#: scripts.components.js:6548
 msgctxt "Info : Deep Link"
 msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
 msgstr "Вы можете использовать диплинк (например: MyApp://buynow/12345) или URL с доступной ссылкой на приложение"
 
-#: scripts.components.js:8586
+#: scripts.components.js:8535
 msgctxt "Validation : Page"
 msgid "You don’t have any pages. You can’t use your profile page. You should"
 msgstr "У вас нет доступа к страницам. Вы не можете использовать свою страницу профиля. Вам следует"
 
 #: scripts.js:14264
-#: scripts.js:5927
+#: scripts.js:2376
 msgctxt "Tooltip : Access"
 msgid "You have limited rights to create Ads"
 msgstr "Вы ограничены в праве создавать объявления"
 
-#: scripts.js:6287
+#: scripts.js:2736
 msgctxt "Modal : Create : Title"
 msgid "You have successfully created"
 msgstr "Вы успешно создали"
 
-#: scripts.components.js:7957
+#: scripts.components.js:8235
 msgctxt "Instagram Account"
 msgid "You should"
 msgstr "Вам следует"
 
-#: scripts.js:7248
+#: scripts.js:3697
 msgctxt "Error : Create"
 msgid "You should have at least one ad to create."
 msgstr "Вы должны создать по крайней мере одно объявление для публикации."
 
-#: scripts.components.js:6525
+#: scripts.components.js:6589
 msgctxt "Info : Status"
 msgid "Your ads will have status that you choose."
 msgstr "Выберите статус вашей рекламы."
 
-#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
-msgctxt "Info : Targeting : Locations"
-msgid "Your audience location has been changed from&nbsp;"
-msgstr "Местоположение вашей аудитории было изменено с&nbsp;"
-
-#: scripts.components.js:6522
+#: scripts.components.js:6586
 msgctxt "Info : Bid"
 msgid "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
 msgstr "Ваша ставка — максимальная сумма, которую вы готовы платить за клик (если ставка на основе цены за клик) или тысячу показов (если ставка на CPM основе) ваших объявлений."
 
-#: scripts.components.js:4131
+#: scripts.components.js:4302
 msgctxt "Pricing Table"
 msgid "Your budget is over"
 msgstr "Ваш бюджет составляет более"
@@ -3245,14 +3049,14 @@ msgctxt "Breadcrumb"
 msgid "Ad"
 msgstr "Объявление"
 
-#: scripts.js:3200
+#: scripts.js:7193
 msgctxt "Error : Preview"
 msgid "Ad IMAGE is missing! Can't generate ad preview!"
 msgstr "Не хватает изображения!  Невозможно создать предварительный просмотр объявления!"
 
-#: scripts.js:3153
-#: scripts.js:3180
-#: scripts.js:3191
+#: scripts.js:7146
+#: scripts.js:7173
+#: scripts.js:7184
 msgctxt "Error : Preview"
 msgid "Ad PAGE is missing! Can't generate ad preview!"
 msgstr "Отсутствует страница! Невозможно создать предварительный просмотр объявления!"
@@ -3275,18 +3079,18 @@ msgctxt "Modal : Copy : Title"
 msgid "Ad Set"
 msgstr "Адсет"
 
-#: scripts.js:3172
-#: scripts.js:3194
+#: scripts.js:7165
+#: scripts.js:7187
 msgctxt "Error : Preview"
 msgid "Ad URL is missing! Can't generate ad preview!"
 msgstr "Отсутствует ссылка на сайт! Невозможно создать предварительный просмотр объявления!"
 
-#: scripts.js:1805
+#: scripts.js:5798
 msgctxt "Audience : Rule"
 msgid "Add a value"
 msgstr "Добавьте значение"
 
-#: scripts.js:1628
+#: scripts.js:5621
 msgid "Add a value"
 msgstr "Добавьте значение"
 
@@ -3320,12 +3124,12 @@ msgctxt "Modal : Automation : Title"
 msgid "an automation"
 msgstr " автоматизацию"
 
-#: scripts.js:1805
+#: scripts.js:5798
 msgctxt "Audience : Rule"
 msgid "AND"
 msgstr "И"
 
-#: scripts.js:1698
+#: scripts.js:5691
 msgctxt "Automation : Condition"
 msgid "AND"
 msgstr "И"
@@ -3340,7 +3144,7 @@ msgctxt "Modal : Bulk Edit : Ok Button"
 msgid "Apply"
 msgstr "Применить"
 
-#: scripts.js:2557
+#: scripts.js:6550
 msgctxt "Audience : Sources : Opt Group"
 msgid "Audiences"
 msgstr "Аудитории"
@@ -3420,7 +3224,7 @@ msgctxt "Breadcrumb"
 msgid "Campaign"
 msgstr "Кампания"
 
-#: scripts.js:3161
+#: scripts.js:7154
 msgctxt "Error : Preview"
 msgid "Can't show preview because of some error. Please modify the ad."
 msgstr "Невозможно показать предварительный просмотр из-за ошибки. Пожалуйста, измените объявление."
@@ -3481,7 +3285,7 @@ msgctxt "Modal : Video : Ok Button"
 msgid "Close"
 msgstr "Закрыть"
 
-#: scripts.js:1855
+#: scripts.js:5848
 msgctxt "Audience : Operator"
 msgid "Contains"
 msgstr "Содержит"
@@ -3561,20 +3365,20 @@ msgid "Day"
 msgstr "День"
 
 #: index.html:425
-#: scripts.js:14669
-#: scripts.js:15219
+#: scripts.js:14841
+#: scripts.js:15391
 msgctxt "Placement"
 msgid "Desktop News Feed"
 msgstr "Десктопная лента новостей"
 
-#: scripts.js:15218
+#: scripts.js:15390
 msgctxt "Placement"
 msgid "Desktop News Feed and Mobile News Feed"
 msgstr "Десктопная и мобильная ленты новостей"
 
 #: index.html:424
-#: scripts.js:14671
-#: scripts.js:15221
+#: scripts.js:14843
+#: scripts.js:15393
 msgctxt "Placement"
 msgid "Desktop Right Column"
 msgstr "Правая колонка"
@@ -3604,12 +3408,12 @@ msgctxt "Modal : Automation : Success : Body"
 msgid "Do you want to leave this page and go to automations list?"
 msgstr "Вы хотите, чтобы покинуть эту страницу и перейти к списку автоматизаций?"
 
-#: scripts.js:1858
+#: scripts.js:5851
 msgctxt "Audience : Operator"
 msgid "Does not contain"
 msgstr "Не содержит"
 
-#: scripts.js:1845
+#: scripts.js:5838
 msgctxt "Audience : Source"
 msgid "Domain"
 msgstr "Домен"
@@ -3697,12 +3501,12 @@ msgstr "Введите имя ссылки"
 msgid "Enter text that clearly tells people about what you are promoting"
 msgstr "Введите текст, который четко говорит людям о том, что вы рекламируете"
 
-#: scripts.js:1861
+#: scripts.js:5854
 msgctxt "Audience : Operator"
 msgid "Equal to"
 msgstr "Равно"
 
-#: scripts.js:3631
+#: scripts.js:7624
 msgctxt "Error : Upload"
 msgid "Error occured when uploading images."
 msgstr "Произошла ошибка при загрузке изображений."
@@ -3742,12 +3546,12 @@ msgctxt "Error : Pixel"
 msgid "Error occurred when requesting Pixels. Error:"
 msgstr "Произошла ошибка при запросе пикселей. Ошибка:"
 
-#: scripts.js:3269
+#: scripts.js:7262
 msgctxt "Error : Preview"
 msgid "Error occurred, when generating your ad preview."
 msgstr "Произошла ошибка при генерации вашего предварительного просмотра объявлений."
 
-#: scripts.js:1851
+#: scripts.js:5844
 msgctxt "Audience : Source"
 msgid "Event"
 msgstr "Мероприятие"
@@ -3777,22 +3581,22 @@ msgctxt "Modal : Copy : Body"
 msgid "go"
 msgstr "перейти"
 
-#: scripts.js:1692
+#: scripts.js:5685
 msgctxt "Automation Operator"
 msgid "greater"
 msgstr "больше"
 
-#: scripts.js:1873
+#: scripts.js:5866
 msgctxt "Audience : Operator"
 msgid "Greater than"
 msgstr "Больше чем"
 
-#: scripts.js:1876
+#: scripts.js:5869
 msgctxt "Audience : Operator"
 msgid "Greater than or equal to"
 msgstr "Больше или равно"
 
-#: scripts.js:1704
+#: scripts.js:5697
 msgctxt "Automation : Group"
 msgid "GROUP"
 msgstr "Группа"
@@ -3833,27 +3637,27 @@ msgctxt "Tooltip : Access"
 msgid "isn't supported yet."
 msgstr "пока не поддерживается."
 
-#: scripts.js:1694
+#: scripts.js:5687
 msgctxt "Automation Operator"
 msgid "less"
 msgstr "Меньше"
 
-#: scripts.js:1695
+#: scripts.js:5688
 msgctxt "Automation Operator"
 msgid "less or equal"
 msgstr "меньше или равно"
 
-#: scripts.js:1867
+#: scripts.js:5860
 msgctxt "Audience : Operator"
 msgid "Less than"
 msgstr "Меньше, чем"
 
-#: scripts.js:1870
+#: scripts.js:5863
 msgctxt "Audience : Operator"
 msgid "Less than or equal to"
 msgstr "Меньше или равно"
 
-#: scripts.js:1879
+#: scripts.js:5872
 msgctxt "Audience : Operator"
 msgid "Matches a regular expression"
 msgstr "Соответствует регулярному выражению"
@@ -3878,8 +3682,8 @@ msgid "Maximum CPI"
 msgstr "Максимальная цена за установку"
 
 #: index.html:426
-#: scripts.js:14670
-#: scripts.js:15220
+#: scripts.js:14842
+#: scripts.js:15392
 msgctxt "Placement"
 msgid "Mobile News Feed"
 msgstr "Мобильная лента новостей"
@@ -3911,7 +3715,7 @@ msgctxt "Breakdown"
 msgid "None"
 msgstr "Никто"
 
-#: scripts.js:1864
+#: scripts.js:5857
 msgctxt "Audience : Operator"
 msgid "Not equal to"
 msgstr "Не равно"
@@ -3921,7 +3725,7 @@ msgctxt "Chart"
 msgid "Not Selected"
 msgstr "Не выбран"
 
-#: scripts.js:3528
+#: scripts.js:7521
 msgctxt "Empty Grid"
 msgid "Nothing to show. Please, try to create new items"
 msgstr "Не хватает данных для отображения. Пожалуйста, попытайтесь создать новые элементы"
@@ -3961,12 +3765,12 @@ msgctxt "Modal : Copy : Body"
 msgid "or"
 msgstr "или"
 
-#: scripts.js:1805
+#: scripts.js:5798
 msgctxt "Audience : Rule"
 msgid "OR"
 msgstr "ИЛИ"
 
-#: scripts.js:1699
+#: scripts.js:5692
 msgctxt "Automation : Condition"
 msgid "OR"
 msgstr "ИЛИ"
@@ -3976,17 +3780,17 @@ msgctxt "Error : Modal : Preset : Title"
 msgid "Overwrite existing preset?"
 msgstr "Переписать существующий пресет?"
 
-#: scripts.js:2551
+#: scripts.js:6544
 msgctxt "Audience : Sources : Opt Group"
 msgid "Pages"
 msgstr "Страницы"
 
-#: scripts.js:1848
+#: scripts.js:5841
 msgctxt "Audience : Source"
 msgid "Path"
 msgstr "Путь"
 
-#: scripts.js:2554
+#: scripts.js:6547
 msgctxt "Audience : Sources : Opt Group"
 msgid "Pixels"
 msgstr "Пиксели"
@@ -4005,17 +3809,17 @@ msgstr "Размещение и устройство"
 msgid "Play Game"
 msgstr "Играть"
 
-#: scripts.js:1658
+#: scripts.js:5651
 msgctxt "Validation : Rule"
 msgid "Please, check that you properly set all fields."
 msgstr "Пожалуйста, убедитесь, что вы правильно установили все поля."
 
-#: scripts.js:1654
+#: scripts.js:5647
 msgctxt "Validation : Rule"
 msgid "Please, check that your value is positive."
 msgstr "Пожалуйста, убедитесь, что значение является положительным."
 
-#: scripts.js:1650
+#: scripts.js:5643
 msgctxt "Validation : Rule"
 msgid "Please, check that your value is set and is a number."
 msgstr "Пожалуйста, убедитесь, что значение введено и является числом."
@@ -4070,7 +3874,7 @@ msgctxt "Breakdown"
 msgid "Region"
 msgstr "Область"
 
-#: scripts.js:1704
+#: scripts.js:5697
 msgctxt "Automation : Group"
 msgid "RULE"
 msgstr "Правило"
@@ -4081,7 +3885,7 @@ msgctxt "Modal : Ok Button"
 msgid "Save"
 msgstr "Сохранить"
 
-#: scripts.js:3434
+#: scripts.js:7427
 msgctxt "Placeholder : Search"
 msgid "Search by name..."
 msgstr "Поиск по имени ..."
@@ -4103,12 +3907,12 @@ msgctxt "Tooltip : Select"
 msgid "Select at least one row from the table below"
 msgstr "Выберите хотя бы одну строку из приведенной ниже таблицы"
 
-#: scripts.js:1805
+#: scripts.js:5798
 msgctxt "Audience : Rule"
 msgid "Select operator"
 msgstr "Выбор оператора"
 
-#: scripts.js:1805
+#: scripts.js:5798
 msgctxt "Audience : Rule"
 msgid "Select source"
 msgstr "Выбор источника"
@@ -4296,7 +4100,7 @@ msgctxt "Modal : Crop : Ok Button"
 msgid "Upload images"
 msgstr "Загрузить изображения"
 
-#: scripts.js:1842
+#: scripts.js:5835
 msgctxt "Audience : Source"
 msgid "URL"
 msgstr "URL"
@@ -4345,7 +4149,7 @@ msgstr "Вы успешно скопировали"
 msgid "You must have at least one Instagram Account linked to your AdAccount"
 msgstr "По крайней мере один ваш Instagram-аккаунт должен быть связан с вашим рекламным аккаунтом"
 
-#: scripts.js:1642
+#: scripts.js:5635
 msgctxt "Validation : Rule"
 msgid "Your rule is empty."
 msgstr "Не задано правило."
@@ -4365,12 +4169,12 @@ msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Facebook..."
 msgstr "Ваше видео загружается на Facebook ..."
 
-#: scripts.components.js:6516
+#: scripts.components.js:6580
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend each day."
 msgstr ", введенное количество – это максимум, который вы готовы потратить в день."
 
-#: scripts.components.js:6516
+#: scripts.components.js:6580
 msgctxt "Info : Budget"
 msgid "daily budget"
 msgstr "дневной бюджет"
@@ -4401,7 +4205,7 @@ msgstr "– Только цифровые символы\n"
 "                                      1234567890\n"
 "                                      1443637309"
 
-#: scripts.js:14761
+#: scripts.js:14933
 msgctxt "RF"
 msgid "A minimum reach of 200 000"
 msgstr "Минимальный охват 200 000"
@@ -4478,12 +4282,12 @@ msgctxt "Automation"
 msgid "Enter emails to subscribe"
 msgstr "Введите электронную почту, чтобы подписаться"
 
-#: scripts.components.js:13300
+#: scripts.components.js:13003
 msgctxt "Placeholder : URL"
 msgid "Enter url to your website"
 msgstr "Введите URL на свой веб-сайт"
 
-#: scripts.js:15438
+#: scripts.js:14722
 msgctxt "RF"
 msgid "Error occurred when requesting R&F prediction! Please, check all fields and try again."
 msgstr "Произошла ошибка при запросе предсказания для кампании с фиксированной частотой и охватом! Пожалуйста, проверьте все поля и повторите попытку."
@@ -4543,7 +4347,7 @@ msgctxt "Relationship Status"
 msgid "In relationship"
 msgstr "В отношениях"
 
-#: scripts.js:14761
+#: scripts.js:14933
 msgctxt "RF"
 msgid "is required."
 msgstr "необходимо."
@@ -4590,11 +4394,11 @@ msgctxt "Relationship Status"
 msgid "Not specified"
 msgstr "Не указан"
 
-#: scripts.components.js:11291
-#: scripts.components.js:11442
-#: scripts.components.js:11774
+#: scripts.components.js:11384
+#: scripts.components.js:11470
+#: scripts.components.js:11706
 #: scripts.components.js:12182
-#: scripts.components.js:12266
+#: scripts.components.js:12301
 msgctxt "Audience : Size"
 msgid "people"
 msgstr "людей"
@@ -4624,18 +4428,18 @@ msgctxt "RF : Table : Column"
 msgid "Reach"
 msgstr "Охват"
 
-#: scripts.js:14770
-#: scripts.js:14830
+#: scripts.js:14942
+#: scripts.js:15002
 msgctxt "RF"
 msgid "REACH"
 msgstr "ОХВАТ"
 
-#: scripts.components.js:8425
+#: scripts.components.js:9011
 msgctxt "Schedule : Adgroup"
 msgid "Run ads all the time"
 msgstr "Нет"
 
-#: scripts.components.js:8428
+#: scripts.components.js:9014
 msgctxt "Schedule : Adgroup"
 msgid "Run ads on a schedule"
 msgstr "По расписанию"
@@ -4645,8 +4449,8 @@ msgctxt "Automation"
 msgid "Saved Tasks"
 msgstr "Сохраненные задачи"
 
-#: scripts.components.js:8435
-#: scripts.components.js:8436
+#: scripts.components.js:9021
+#: scripts.components.js:9022
 msgctxt "Validation : Schedule : Adgroup"
 msgid "Schedule is required"
 msgstr "Необходимо задать расписание"
@@ -4665,21 +4469,6 @@ msgstr "Одинокий"
 msgctxt "Automation"
 msgid "Templates"
 msgstr "Шаблоны"
-
-#: control/control-url/controlUrl.html:20
-msgctxt "Validation : URL"
-msgid "The deep link URL is required."
-msgstr "Необходимо задать диплинк."
-
-#: control/control-url/controlUrl.html:22
-msgctxt "Validation : URL"
-msgid "The website address is not valid."
-msgstr "Адрес веб-сайта неверный."
-
-#: control/control-url/controlUrl.html:21
-msgctxt "Validation : URL"
-msgid "The website address is required."
-msgstr "Необходимо задать адрес веб-сайта."
 
 #: index.html:502
 msgctxt "RF : Table : Cell"
@@ -4719,7 +4508,7 @@ msgstr "Мы поддерживаем:\n"
 "– Реклама идентификатора Apple (IDFA), и\n"
 "– идентификаторы пользователей Facebook App"
 
-#: scripts.components.js:13299
+#: scripts.components.js:13002
 msgctxt "Label : URL"
 msgid "Website Url"
 msgstr "Ссылка на сайт"
@@ -4729,7 +4518,7 @@ msgctxt "Relationship Status"
 msgid "Widowed"
 msgstr "Овдовевший(ая)"
 
-#: scripts.components.js:10776
+#: scripts.components.js:10789
 msgctxt "Modal : Campaign : Title"
 msgid "Edit Campaign:"
 msgstr "Редактировать кампанию: "
@@ -4754,57 +4543,57 @@ msgstr "Предыдущие 90 дней"
 msgid "Select a post in the list or enter its ID or URL"
 msgstr "Выберите пост или введите ссылку на него или его ID"
 
-#: scripts.components.js:5992
+#: scripts.components.js:6026
 msgctxt "Column : Adaccount"
 msgid "Account Status"
 msgstr "Статус аккаунта"
 
-#: scripts.components.js:1249
+#: scripts.components.js:1195
 msgctxt "Column : Automation"
 msgid "Adgroups"
 msgstr "Группы объявлений"
 
-#: scripts.components.js:1237
+#: scripts.components.js:1183
 msgctxt "Column : Automation"
 msgid "Adsets"
 msgstr "Адсеты"
 
-#: scripts.components.js:2090
+#: scripts.components.js:1861
 msgctxt "Optimize for"
 msgid "App Installs"
 msgstr "Установки"
 
-#: scripts.components.js:2111
+#: scripts.components.js:1882
 msgctxt "Pay for"
 msgid "App Installs"
 msgstr "Установки"
 
-#: scripts.components.js:1199
+#: scripts.components.js:1145
 msgctxt "Column : Audience"
 msgid "Availability"
 msgstr "Доступность"
 
-#: scripts.components.js:5960
+#: scripts.components.js:5994
 msgctxt "Column : Adaccount"
 msgid "Balance"
 msgstr "Баланс"
 
-#: scripts.components.js:2091
+#: scripts.components.js:1862
 msgctxt "Optimize for"
 msgid "Brand Awarness"
 msgstr "Узнаваимость Бренда"
 
-#: scripts.components.js:5847
+#: scripts.components.js:5881
 msgctxt "Column : Adaccount"
 msgid "Business Name"
 msgstr "Наименование фирмы"
 
-#: scripts.components.js:9187
+#: scripts.components.js:8838
 msgctxt "Validation : Post"
 msgid "Couldn't find requested post. Check if you have access to this post and entered value is correct."
 msgstr "Не получилось найти пост. Проверьте введенные данные и что у вас есть доступ к этому посту."
 
-#: scripts.components.js:9188
+#: scripts.components.js:8839
 msgctxt "Validation : Post"
 msgid "Couldn't get numeric post id from your input. Try to use another value."
 msgstr "Не получилось извлечь id поста из введенных данных. Попробуйте ввести другое значение."
@@ -4814,107 +4603,92 @@ msgctxt "Button : Create : Dashboard"
 msgid "Create [[({'adcampaigns': 'Campaign', 'adsets': 'AdSets','adgroups':'Ads'}[$root.$state.params.listedItems])]]"
 msgstr "Создать [[({'adcampaigns': 'Кампанию', 'adsets': 'Адсеты','adgroups':'Объявления'}[$root.$state.params.listedItems])]]"
 
-#: scripts.components.js:1207
+#: scripts.components.js:1153
 msgctxt "Column : Audience"
 msgid "Date Created"
 msgstr "Дата создания"
 
-#: control/control-url/control-url-deep-link_creative/controlUrlDeepLinkCreative.html:2
-msgid "Deep Link (optional)"
-msgstr "Внутренняя ссылка (опционально)"
-
-#: scripts.components.js:6003
+#: scripts.components.js:6037
 msgctxt "Column : Adaccount"
 msgid "Disable Reason"
 msgstr "Причина отключения"
 
-#: scripts.components.js:2092
+#: scripts.components.js:1863
 msgctxt "Optimize for"
 msgid "Engaged Users"
 msgstr "Вовлеченные пользователи"
 
-#: control/control-url/control-url-deep-link_creative/controlUrlDeepLinkCreative.html:2
-msgid "Enter the deep link URL"
-msgstr "Введите внутреннюю ссылку"
-
-#: scripts.components.js:1279
+#: scripts.components.js:1225
 msgctxt "Column : Automation"
 msgid "Error"
 msgstr "Ошибка"
 
-#: scripts.components.js:2093
+#: scripts.components.js:1864
 msgctxt "Optimize for"
 msgid "Event Responses"
 msgstr "Реакции на события"
 
-#: scripts.components.js:9191
+#: scripts.components.js:8842
 msgctxt "Info : Post"
 msgid "Ex."
 msgstr "Пример."
 
-#: audience-form/audienceForm.html:5
-msgid "Exclude Locations"
-msgstr "Гео (исключая)"
-
-#: scripts.components.js:1216
+#: scripts.components.js:1162
 msgctxt "Column : Automation"
 msgid "ID"
 msgstr "ID"
 
-#: scripts.components.js:1161
+#: scripts.components.js:1107
 msgctxt "Column : Audience"
 msgid "ID"
 msgstr "ID"
 
-#: scripts.components.js:5836
+#: scripts.components.js:5870
 msgctxt "Column : Adaccount"
 msgid "ID"
 msgstr "ID"
 
-#: scripts.components.js:2094
+#: scripts.components.js:1865
 msgctxt "Optimize for"
 msgid "Impressions"
 msgstr "Показы"
 
-#: scripts.components.js:2112
+#: scripts.components.js:1883
 msgctxt "Pay for"
 msgid "Impressions"
 msgstr "Показы"
 
-#: scripts.components.js:5976
+#: scripts.components.js:6010
 msgctxt "Column : Adaccount"
 msgid "Limit"
 msgstr "Лимит"
 
-#: scripts.components.js:2113
+#: scripts.components.js:1884
 msgctxt "Pay for"
 msgid "Link Clicks"
 msgstr "Переходы"
 
-#: scripts.components.js:2095
+#: scripts.components.js:1866
 msgctxt "Optimize for"
 msgid "Link Clicks"
 msgstr "Переходы"
 
-#: audience-form/audienceForm.html:4
-msgid "Locations"
-msgstr "Гео"
-
-#: scripts.components.js:1227
+#: scripts.components.js:1173
 msgctxt "Column : Automation"
 msgid "Name"
 msgstr "Название"
 
-#: scripts.components.js:5857
+#: scripts.components.js:5891
 msgctxt "Column : Adaccount"
 msgid "Name"
 msgstr "Название"
 
-#: scripts.components.js:1172
+#: scripts.components.js:1118
 msgctxt "Column : Audience"
 msgid "Name"
 msgstr "Название"
 
+#: header/header_crud/headerCrud.html:14
 #: index.html:2104
 msgctxt "Button : Create : Crud"
 msgid "No Ad To Create"
@@ -4924,72 +4698,62 @@ msgstr[1] "Создать [[$count]] новых объявления"
 msgstr[2] "Создать [[$count]] новых объявлений"
 msgstr[3] "Нет объявлений для создания"
 
-#: scripts.components.js:2114
+#: scripts.components.js:1885
 msgctxt "Pay for"
 msgid "Offer Claims"
 msgstr "Предложения/претензии"
 
-#: scripts.components.js:2096
+#: scripts.components.js:1867
 msgctxt "Optimize for"
 msgid "Offer Claims"
 msgstr "Предложения/претензии"
 
-#: scripts.components.js:2097
+#: scripts.components.js:1868
 msgctxt "Optimize for"
 msgid "Offsite Conversions"
 msgstr "Оффлайн конверсии"
 
-#: scripts.components.js:2098
+#: scripts.components.js:1869
 msgctxt "Optimize for"
 msgid "Page Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: scripts.components.js:2115
+#: scripts.components.js:1886
 msgctxt "Pay for"
 msgid "Page Likes"
 msgstr "Отметки страницы \"Нравится\""
 
-#: scripts.components.js:2099
+#: scripts.components.js:1870
 msgctxt "Optimize for"
 msgid "Page Likes"
 msgstr "Отметки страницы \"Нравится\""
 
-#: scripts.components.js:2116
+#: scripts.components.js:1887
 msgctxt "Pay for"
 msgid "Post Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: scripts.components.js:2100
+#: scripts.components.js:1871
 msgctxt "Optimize for"
 msgid "Post Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: scripts.components.js:9186
+#: scripts.components.js:8837
 msgctxt "Validation : Post"
 msgid "Post is required."
 msgstr "Необходимо выбрать пост"
 
-#: audience-desc/audienceDesc.html:7
-msgctxt "Targeting"
-msgid "Potential Reach:"
-msgstr "Потенциальный охват:"
-
-#: scripts.components.js:2101
+#: scripts.components.js:1872
 msgctxt "Optimize for"
 msgid "Reach"
 msgstr "Охват"
 
-#: audience-desc/audienceDesc.html:7
-msgctxt "Targeting"
-msgid "Recommended Bid:"
-msgstr "Рекомендуемая ставка:"
-
-#: scripts.js:4986
+#: scripts.js:1435
 msgctxt "Automation : Adgroup : Action Param"
 msgid "Repeat off"
 msgstr "Повторять"
 
-#: scripts.js:4982
+#: scripts.js:1431
 msgctxt "Automation : Adgroup : Action Param"
 msgid "Repeat on"
 msgstr "Не повторять"
@@ -4998,67 +4762,67 @@ msgstr "Не повторять"
 msgid "Set change value"
 msgstr "Введите значение"
 
-#: scripts.components.js:1190
+#: scripts.components.js:1136
 msgctxt "Column : Audience"
 msgid "Size"
 msgstr "Размер"
 
-#: scripts.components.js:2102
+#: scripts.components.js:1873
 msgctxt "Optimize for"
 msgid "Social Impressions"
 msgstr "Показы"
 
-#: scripts.components.js:5921
+#: scripts.components.js:5955
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Month"
 msgstr "Потрачено за предыдущий месяц"
 
-#: scripts.components.js:5947
+#: scripts.components.js:5981
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Quarter"
 msgstr "Потрачено за предыдущий квартал"
 
-#: scripts.components.js:5895
+#: scripts.components.js:5929
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Week"
 msgstr "Потрачено за предыдущую неделю"
 
-#: scripts.components.js:5908
+#: scripts.components.js:5942
 msgctxt "Column : Adaccount"
 msgid "Spent This Month"
 msgstr "Потрачено в этом месяце"
 
-#: scripts.components.js:5934
+#: scripts.components.js:5968
 msgctxt "Column : Adaccount"
 msgid "Spent This Quarter"
 msgstr "Потрачено в этом месяце"
 
-#: scripts.components.js:5869
+#: scripts.components.js:5903
 msgctxt "Column : Adaccount"
 msgid "Spent Today"
 msgstr "Потрачено за сегодня"
 
-#: scripts.components.js:5882
+#: scripts.components.js:5916
 msgctxt "Column : Adaccount"
 msgid "Spent Yesterday"
 msgstr "Потрачено за вчера"
 
-#: scripts.components.js:1182
+#: scripts.components.js:1128
 msgctxt "Column : Audience"
 msgid "Type"
 msgstr "Тип"
 
-#: scripts.components.js:2117
+#: scripts.components.js:1888
 msgctxt "Pay for"
 msgid "Video Views"
 msgstr "Просмотр видео"
 
-#: scripts.components.js:2103
+#: scripts.components.js:1874
 msgctxt "Optimize for"
 msgid "Video Views"
 msgstr "Просмотр видео"
 
-#: scripts.components.js:9191
+#: scripts.components.js:8842
 msgctxt "Info : Post"
 msgid "You can also enter post ID or its URL."
 msgstr "Введите id поста или ссылку на него."
@@ -5079,11 +4843,6 @@ msgctxt "Automation : Adsets"
 msgid "Adsets automation"
 msgstr "Автоматизация адсетов"
 
-#: columns-customize/columns-customize_adaccounts/columns-customize_adaccounts.html:13
-msgctxt "Modal : Columns"
-msgid "Cancel"
-msgstr "Отмена"
-
 #: index.html:179
 msgctxt "Preset"
 msgid "Customize columns"
@@ -5092,11 +4851,6 @@ msgstr "Настроить столбцы"
 #: index.html:183
 msgctxt "Modal : Columns"
 msgid "Customize columns"
-msgstr "Настроить столбцы"
-
-#: columns-customize/columns-customize_adaccounts/columns-customize_adaccounts.html:3
-msgctxt "Modal : Columns"
-msgid "Customize Columns"
 msgstr "Настроить столбцы"
 
 #: index.html:1969
@@ -5111,64 +4865,15 @@ msgctxt "Ad Scheduling"
 msgid "Run ads on a schedule"
 msgstr "По расписанию"
 
-#: columns-customize/columns-customize_adaccounts/columns-customize_adaccounts.html:14
-msgctxt "Modal : Columns"
-msgid "Save"
-msgstr "Сохранить"
-
 #: index.html:178
 msgctxt "Preset"
 msgid "Set as Default"
 msgstr "Установить по умолчанию"
 
-#: calendar/calendar.html:15
-msgctxt "Calendar Day Name"
-msgid "Fr"
-msgstr "Пт"
-
-#: calendar/calendar.html:11
-msgctxt "Calendar Day Name"
-msgid "Mo"
-msgstr "Пн"
-
-#: calendar/calendar.html:16
-msgctxt "Calendar Day Name"
-msgid "Sa"
-msgstr "Сб"
-
-#: calendar/calendar.html:17
-msgctxt "Calendar Day Name"
-msgid "Su"
-msgstr "Вс"
-
-#: calendar/calendar.html:14
-msgctxt "Calendar Day Name"
-msgid "Th"
-msgstr "Чт"
-
-#: calendar/calendar.html:12
-msgctxt "Calendar Day Name"
-msgid "Tu"
-msgstr "Вт"
-
-#: calendar/calendar.html:13
-msgctxt "Calendar Day Name"
-msgid "We"
-msgstr "Ср"
-
-#: scripts.components.js:4051
+#: scripts.components.js:4256
 msgctxt "Preloader"
 msgid "LOADING, PLEASE WAIT ..."
 msgstr "ИДЕТ ЗАГРУЗКА..."
-
-#: columns/columns__selected/columns__selected.html:3
-msgctxt "Modal : Columns"
-msgid "columns selected"
-msgid_plural "columns selected"
-msgstr[0] "столбец выбран"
-msgstr[1] "столбца выбрано"
-msgstr[2] "столбцов выбрано"
-msgstr[3] "столбцов выбрано"
 
 #: index.html:3144
 msgctxt "Modal : Preview"
@@ -5180,7 +4885,7 @@ msgctxt "Modal : Preview"
 msgid "View permalink on Instagram"
 msgstr "Посмотреть постоянную ссылку для Instagram"
 
-#: scripts.js:6284
+#: scripts.js:2733
 msgid "1 New Ad!"
 msgid_plural "[[$count]] New Ads!"
 msgstr[0] "1 новое объявление!"
@@ -5198,32 +4903,32 @@ msgstr "Ускоренная открутка доступна только пр
 msgid "Ad scheduling only works with lifetime budgets."
 msgstr "Ограничения по времени работают только с бюджетом на весь период."
 
-#: scripts.js:6288
+#: scripts.js:2737
 msgctxt "Modal : Create : Body"
 msgid "ads"
 msgstr "Объявления"
 
-#: scripts.js:6288
+#: scripts.js:2737
 msgctxt "Modal : Create : Body"
 msgid "adsets"
 msgstr "Адсеты"
 
-#: scripts.js:6288
+#: scripts.js:2737
 msgctxt "Modal : Create : Body"
 msgid "automation."
 msgstr "автоматизации."
 
-#: scripts.js:1693
+#: scripts.js:5686
 msgctxt "Automation Operator"
 msgid "greater or equal"
 msgstr "больше или равно"
 
-#: scripts.js:6288
+#: scripts.js:2737
 msgctxt "Modal : Create : Body"
 msgid "Now you can create"
 msgstr "Теперь вы можете создать"
 
-#: scripts.js:6288
+#: scripts.js:2737
 msgctxt "Modal : Create : Body"
 msgid "or"
 msgstr " или "
@@ -5238,17 +4943,17 @@ msgctxt "Ribbon"
 msgid "Upcoming"
 msgstr "Ожидается"
 
-#: scripts.js:14675
+#: scripts.js:14847
 msgctxt "RF : Chart : Title"
 msgid "and"
 msgstr " и "
 
-#: scripts.js:14600
+#: scripts.js:14772
 msgctxt "RF"
 msgid "budget"
 msgstr "бюджет"
 
-#: scripts.js:14738
+#: scripts.js:14910
 msgctxt "RF : Chart : Tooltip"
 msgid "Budget"
 msgstr "Бюджет"
@@ -5258,12 +4963,12 @@ msgctxt "Ad : Template"
 msgid "Call to action"
 msgstr "Призыв к действию"
 
-#: scripts.js:14602
+#: scripts.js:14774
 msgctxt "RF"
 msgid "cpm"
 msgstr "CPM"
 
-#: scripts.js:14601
+#: scripts.js:14773
 msgctxt "RF"
 msgid "cpt"
 msgstr "CPT"
@@ -5331,6 +5036,7 @@ msgctxt "Ad : Template"
 msgid "Headline"
 msgstr "Заголовок"
 
+#: ad/ad.html:2
 #: index.html:1370
 #: index.html:1507
 #: index.html:1551
@@ -5345,7 +5051,7 @@ msgctxt "Ad : Template"
 msgid "Link URL"
 msgstr "Ссылка на страницу"
 
-#: scripts.js:14738
+#: scripts.js:14910
 msgctxt "RF : Chart : Tooltip"
 msgid "Reach"
 msgstr "Охват"
@@ -5374,79 +5080,447 @@ msgctxt "Ad : Template"
 msgid "Video"
 msgstr "Видео"
 
-#: scripts.components.js:4368
+#: scripts.components.js:3839
 msgctxt "Pay Adaccount"
 msgid "adaccounts list?"
-msgstr ""
+msgstr "к списку аккаунтов?"
 
-#: scripts.components.js:4335
+#: scripts.components.js:3806
 msgctxt "Pay Adaccount"
 msgid "Comission fee is 15%"
-msgstr ""
+msgstr "Комиссия 15%"
 
-#: scripts.components.js:4361
+#: scripts.components.js:3832
 msgctxt "Pay Adaccount"
 msgid "Create adaccount"
 msgstr "Создать аккаунт"
 
-#: scripts.components.js:4372
+#: scripts.components.js:3843
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "Do you want to leave this page and go to"
-msgstr ""
+msgstr "Вы хотите покинуть данную страницу и перейти"
 
-#: scripts.components.js:4453
+#: scripts.components.js:3924
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "Do you want to leave this page and go to adaccounts list?"
-msgstr ""
+msgstr "Вы хотите покинуть данную страницу и перейти к списку аккаунтов?"
 
-#: scripts.components.js:4368
+#: scripts.components.js:3839
 msgctxt "Pay Adaccount"
 msgid "login page?"
-msgstr ""
+msgstr "на страницу входа?"
 
-#: scripts.components.js:4406
+#: scripts.components.js:3877
 msgctxt "Modal : Pay Adaccount : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: scripts.components.js:4416
+#: scripts.components.js:3887
 msgctxt "Modal : Error"
 msgid "There was a mistake when creating advert account"
-msgstr ""
+msgstr "Произошла ошибка при создании аккаунта"
 
-#: scripts.components.js:4466
+#: scripts.components.js:3937
 msgctxt "Modal : Error"
 msgid "There was a mistake when topping up advert account"
-msgstr ""
+msgstr "Произошла ошибка при пополнении аккаунта"
 
-#: scripts.components.js:4405
+#: scripts.components.js:3876
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "To finish creating, you need to verify it by proceeding the invite link in your mail box."
-msgstr ""
+msgstr "Для завершения создания аккаунта, вам необходимо подтвердить его, пройдя по ссылке в письме, высланном на вашу электронную почту."
 
-#: scripts.components.js:4392
+#: scripts.components.js:3863
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "To finish creating, you need to verify it."
-msgstr ""
+msgstr "Для завершения создания аккаунта, вам необходимо подтвердить его."
 
-#: scripts.components.js:4393
+#: scripts.components.js:3864
 msgctxt "Modal : Pay Adaccount : Ok Button"
 msgid "Verify"
-msgstr ""
+msgstr "Подтвердить"
 
-#: scripts.components.js:4371
+#: scripts.components.js:3842
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "You have successfully created advert account"
-msgstr ""
+msgstr "Вы успешно создали аккаунт"
 
-#: scripts.components.js:4391
-#: scripts.components.js:4404
+#: scripts.components.js:3862
+#: scripts.components.js:3875
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "Your advert account is almost created"
-msgstr ""
+msgstr "Ваш аккаунт почти создан"
 
-#: scripts.components.js:4452
+#: scripts.components.js:3923
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "Your payment has been processed successfully"
-msgstr ""
+msgstr "Ваш платеж прошел успешно"
+
+#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
+msgctxt "Info : Targeting : Locations"
+msgid "[[audienceFormControlTypeGeoController.namesToReplaceStr]] to [[audienceFormControlTypeGeoController.itemName]].&nbsp;"
+msgstr "[[AudienceFormControlTypeGeoController.namesToReplaceStr]] на  [[audienceFormControlTypeGeoController.itemName]]&nbsp;"
+
+#: footer/footer.html:4
+msgid "© 2012-2016 Aitarget"
+msgstr "© 2012-2016 Aitarget"
+
+#: control/control_schedule/control_schedule_budget/controlScheduleBudget.html:2
+msgid "Ad Schedule"
+msgstr "Расписание показов объявлений"
+
+#: create-adaccount/createAdaccount.html:8
+#: topup-adaccount/topupAdaccount.html:8
+msgid "Amount"
+msgstr "Сумма"
+
+#: main/main.html:5
+msgid "Automations"
+msgstr "Список автоматизаций"
+
+#: audience-form/audienceForm.html:9
+msgid "Behaviours"
+msgstr "Поведение"
+
+#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:10
+msgid "Campaign Spending Limit"
+msgstr "Лимит затрат кампании"
+
+#: columns-customize/columns-customize_adaccounts/columns-customize_adaccounts.html:13
+msgctxt "Modal : Columns"
+msgid "Cancel"
+msgstr "Отмена"
+
+#: columns/columns__selected/columns__selected.html:3
+msgctxt "Modal : Columns"
+msgid "columns selected"
+msgid_plural "columns selected"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: create-adaccount/createAdaccount.html:3
+msgid "Create adaccount"
+msgstr "Создать аккаунт"
+
+#: crop/crop__dialog/cropDialog.html:12
+msgid "Crop"
+msgstr "Обрезать"
+
+#: crop/crop__modal/cropModal.html:5
+msgid "Crop Image"
+msgstr "Обрезать изображение"
+
+#: crop/crop__dialog/cropDialog.html:4
+msgid "Crop Image For Instagram"
+msgstr "Обрезать изображение для Instagram"
+
+#: columns-customize/columns-customize_adaccounts/columns-customize_adaccounts.html:3
+msgctxt "Modal : Columns"
+msgid "Customize Columns"
+msgstr "Настроить столбцы"
+
+#: control/control-url/control-url-deep-link_creative/controlUrlDeepLinkCreative.html:2
+msgid "Deep Link (optional)"
+msgstr "Внутренняя ссылка (опционально)"
+
+#: create-adaccount/createAdaccount.html:7
+#: topup-adaccount/topupAdaccount.html:7
+msgid "Email"
+msgstr "Адрес электронной почты"
+
+#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:7
+msgid "Enter Ad Campaign Name"
+msgstr "Введите название рекламной кампании"
+
+#: create-adaccount/createAdaccount.html:8
+#: topup-adaccount/topupAdaccount.html:8
+msgid "Enter amount"
+msgstr "Введите сумму"
+
+#: create-adaccount/createAdaccount.html:7
+#: topup-adaccount/topupAdaccount.html:7
+msgid "Enter email"
+msgstr "Введите адрес электронной почты"
+
+#: modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:10
+msgid "Enter maximum amount your campaign can spend"
+msgstr "Введите максимальную сумму, которая может быть списана в результате действия вашей кампании"
+
+#: control/control-url/control-url-deep-link_creative/controlUrlDeepLinkCreative.html:2
+msgid "Enter the deep link URL"
+msgstr "Введите внутреннюю ссылку"
+
+#: header/header_crud/headerCrud.html:17
+msgid "Errors&nbsp;<span class=\"caret\"></span>"
+msgstr "Ошибки&nbsp;<span class=\"caret\"></span>"
+
+#: pacing/pacing.html:56
+msgctxt "Pacing"
+msgid "Every day"
+msgstr "Каждый день"
+
+#: audience-form/audienceForm.html:11
+msgid "Exclude Custom Audiences"
+msgstr "Исключение пользовательских аудиторий"
+
+#: audience-form/audienceForm.html:5
+msgid "Exclude Locations"
+msgstr "Гео (исключая)"
+
+#: audience-form/audienceForm.html:21
+msgid "Exclude people who are connected to"
+msgstr "Исключение людей, которые связаны с"
+
+#: calendar/calendar.html:15
+msgctxt "Calendar Day Name"
+msgid "Fr"
+msgstr "Пт"
+
+#: audience-form/audienceForm.html:20
+msgid "Include people who are connected to"
+msgstr "Подключите людей, которые связаны с"
+
+#: audience-form/audienceForm.html:22
+msgid "Include people whose friends are connected to"
+msgstr "Подключите людей, чьи друзья связаны с"
+
+#: control/control_instagram/control_instagram_creative/controlInstagramCreative.html:2
+msgid "Instagram Account"
+msgstr "Instagram-аккаунт"
+
+#: audience-form/audienceForm.html:18
+msgid "Interested In"
+msgstr "Заинтересованный в"
+
+#: audience-form/audienceForm.html:17
+msgid "Languages"
+msgstr "Языки"
+
+#: audience-form/audienceForm.html:4
+msgid "Locations"
+msgstr "Гео"
+
+#: control/control_bid/controlBid.html:8
+msgid "Maximum CPI"
+msgstr "Максимальный индекс потребительских цен"
+
+#: audience-form/audienceForm.html:14
+msgid "Min. Operating System"
+msgstr "Минимальная операционная система"
+
+#: calendar/calendar.html:11
+msgctxt "Calendar Day Name"
+msgid "Mo"
+msgstr "Пн"
+
+#: crud/crud__step/crud__step_action/crudStepAction.html:14
+#: fba-form/fba-form_budget/fbaFormBudget.html:15
+#: fba-form/fba-form_creative/fbaFormCreative.html:25
+#: fba-form/fba-form_main/fbaFormMain.html:13
+#: fba-form/fba-form_targeting/fbaFormTargeting.html:15
+msgid "Next step"
+msgstr "Дальше"
+
+#: crop/crop__dialog/cropDialog.html:13
+msgid "Original"
+msgstr "Оригинал"
+
+#: control/control_page/control_page_adgroup/controlPageAdgroup.html:2
+msgid "Page"
+msgstr "Страница"
+
+#: control/control_page/control_page_creative/controlPageCreative.html:2
+msgid "Pages"
+msgstr "Страницы"
+
+#: audience-form/audienceForm.html:12
+msgid "Placements"
+msgstr "Места размещения"
+
+#: audience-form/audienceForm.html:13
+msgid "Platform"
+msgstr "Платформа"
+
+#: audience-desc/audienceDesc.html:7
+msgctxt "Targeting"
+msgid "Potential Reach:"
+msgstr "Потенциальный охват:"
+
+#: audience-desc/audienceDesc.html:7
+msgctxt "Targeting"
+msgid "Recommended Bid:"
+msgstr "Рекомендуемая ставка:"
+
+#: audience-form/audienceForm.html:19
+msgid "Relationship Statuses"
+msgstr "Статусы отношений"
+
+#: calendar/calendar.html:16
+msgctxt "Calendar Day Name"
+msgid "Sa"
+msgstr "Сб"
+
+#: columns-customize/columns-customize_adaccounts/columns-customize_adaccounts.html:14
+msgctxt "Modal : Columns"
+msgid "Save"
+msgstr "Сохранить"
+
+#: pacing/pacing.html:58
+msgctxt "Pacing"
+msgid "Scheduled hours are shaded blue"
+msgstr "Запланированные часы заштрихованы синим"
+
+#: control/control_page/control_page_adgroup/controlPageAdgroup.html:2
+#: control/control_page/control_page_creative/controlPageCreative.html:2
+msgid "Select a page in the list"
+msgstr "Выберите страницу в списке"
+
+#: audience-form/audienceForm.html:6
+msgid "Select Age"
+msgstr "Выберите возраст"
+
+#: control/control_adset/controlAdset.html:6
+msgid "Select manual targeting mode if you want to use existing adset."
+msgstr "Выберите ручной режим выбора таргетинга, если вы хотите использовать существующий адсет."
+
+#: audience-form/audienceForm.html:14
+msgid "Select min. Operating System"
+msgstr "Выберите мин. Операционная система"
+
+#: audience-form/audience-form__control/audience-form__control_type_placements/audienceFormControlTypePlacements.html:4
+msgid "Select or search a placement in the list"
+msgstr "Выберите или найдите место размещения в списке"
+
+#: audience-form/audienceForm.html:18
+#: audience-form/audienceForm.html:19
+msgid "Select or search a values in the list"
+msgstr "Выберите или Выберите значения в списке"
+
+#: control/control_adset/controlAdset.html:10
+msgid "Select or search adset in the list"
+msgstr "Выберите или выполнить поиск adset в списке"
+
+#: control/control_ad/controlAd.html:5
+#: control/control_adset/control_adset_automation/controlAdsetAutomation.html:5
+msgid "Select or search adsets in the list"
+msgstr "Выберите или найдите адсеты в списке"
+
+#: audience-form/audienceForm.html:9
+msgid "Select or search behaviors in the list"
+msgstr "Выберите или найдите поведение в списке"
+
+#: audience-form/audienceForm.html:10
+#: audience-form/audienceForm.html:11
+msgid "Select or search custom audiences in the list"
+msgstr "Выберите или найдите пользовательскую аудиторию в списке"
+
+#: audience-form/audienceForm.html:15
+msgid "Select or search device name in the list"
+msgstr "Выберите или выполнить поиск имени устройства в списке"
+
+#: audience-form/audienceForm.html:4
+#: audience-form/audienceForm.html:5
+msgid "Select or search geo locations in the list"
+msgstr "Выберите или найдите геолокации в списке"
+
+#: audience-form/audienceForm.html:8
+msgid "Select or search interests in the list"
+msgstr "Выберите или выполнить поиск интересов в списке"
+
+#: audience-form/audienceForm.html:17
+msgid "Select or search languages in the list"
+msgstr "Выберите или поиска языков в списке"
+
+#: audience-form/audienceForm.html:20
+#: audience-form/audienceForm.html:21
+#: audience-form/audienceForm.html:22
+msgid "Select or search pages, apps or events in the list"
+msgstr "Выберите или найдите страницы, приложения или события в списке"
+
+#: calendar/calendar.html:17
+msgctxt "Calendar Day Name"
+msgid "Su"
+msgstr "Вс"
+
+#: calendar/calendar.html:14
+msgctxt "Calendar Day Name"
+msgid "Th"
+msgstr "Чт"
+
+#: create-adaccount/createAdaccount.html:8
+#: topup-adaccount/topupAdaccount.html:8
+msgid "The amount of money you want to add to your account"
+msgstr "Сумма на которую вы хотите пополнить ваш аккаунт"
+
+#: control/control-url/controlUrl.html:20
+msgctxt "Validation : URL"
+msgid "The deep link URL is required."
+msgstr "Необходимо задать Deep Link адрес."
+
+#: control/control_app/controlApp.html:5
+#: control/control_type_app/controlTypeApp.html:5
+msgctxt "Validation : App"
+msgid "The Mobile App is required"
+msgstr "Mobile App требуется"
+
+#: control/control-url/controlUrl.html:22
+msgctxt "Validation : URL"
+msgid "The website address is not valid."
+msgstr "Адрес веб-сайта не верный."
+
+#: control/control-url/controlUrl.html:21
+msgctxt "Validation : URL"
+msgid "The website address is required."
+msgstr "Необходимо задать адрес веб-сайта."
+
+#: calendar/calendar.html:12
+msgctxt "Calendar Day Name"
+msgid "Tu"
+msgstr "Вт"
+
+#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
+msgctxt "Info : Targeting : Locations"
+msgid "Undo Change"
+msgstr "Отменить изменения"
+
+#: calendar/calendar.html:13
+msgctxt "Calendar Day Name"
+msgid "We"
+msgstr "Ср"
+
+#: audience-form/audienceForm.html:16
+msgid "Wireless Connection"
+msgstr "Беспроводное соединение"
+
+#: audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:7
+msgctxt "Info : Targeting : Locations"
+msgid "Your audience location has been changed from&nbsp;"
+msgstr "Местоположение вашей аудитории было изменено с&nbsp;"
+
+#: create-adaccount/createAdaccount.html:7
+#: topup-adaccount/topupAdaccount.html:7
+msgid "Your email"
+msgstr "Адрес электронной почты"
+
+#: create-adaccount/createAdaccount.html:4
+msgctxt "Create Adaccount"
+msgid "Comission fee for creating adaccount is 15%"
+msgstr "Комиссия за создание аккаунта 15%"
+
+#: topup-adaccount/topupAdaccount.html:4
+msgctxt "Topup Adaccount"
+msgid "Comission fee for topping up adaccount is 15%"
+msgstr "Комиссия за пополнение аккаунта 15%"
+
+#: create-adaccount/createAdaccount.html:13
+msgctxt "Create Adaccount"
+msgid "Create adacсount"
+msgstr "Создать аккаунт"
+
+#: topup-adaccount/topupAdaccount.html:12
+msgctxt "Top up adacсount"
+msgid "Top up adacсount"
+msgstr "Пополнить аккаунт"
 
