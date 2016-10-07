@@ -1897,7 +1897,7 @@ msgstr "Максимальная цена за клик"
 #: app.js:19463
 msgctxt "Placeholder : Bid"
 msgid "Maximum CPI"
-msgstr "Максимальная цена установки\n"
+msgstr "Максимальная цена за установку\n"
 ""
 
 #: app.js:15368
@@ -3372,19 +3372,6 @@ msgctxt "Placeholder"
 msgid "Maximum CPA"
 msgstr "Максимальная цена за конверсию"
 
-#: app.js:19367
-#: app.js:19739
-#: app.js:19834
-msgctxt "Placeholder"
-msgid "Maximum CPC"
-msgstr "Максимальная цена за клик"
-
-#: app.js:18631
-#: app.js:19486
-msgctxt "Placeholder"
-msgid "Maximum CPI"
-msgstr "Максимальная цена за установку"
-
 #: app.js:10758
 msgctxt "Breakdown"
 msgid "Month"
@@ -4770,10 +4757,6 @@ msgstr "Языки"
 msgid "Locations"
 msgstr "Гео"
 
-#: components/control/control_bid/controlBid.html:20
-msgid "Maximum CPI"
-msgstr "Максимальный индекс потребительских цен"
-
 #: components/audience-form/audienceForm.html:61
 msgid "Min. Operating System"
 msgstr "Минимальная операционная система"
@@ -5795,11 +5778,6 @@ msgctxt "Automation"
 msgid "Choose campaigns, adsets, adgroups you want to automate"
 msgstr "Выберете компании, адсеты, объявления для автоматизации"
 
-#: app.js:14687
-msgctxt "Placeholder"
-msgid "Average"
-msgstr "Среднее значение"
-
 #: components/control/control-bid/controlBid.html:53
 msgid "Average"
 msgstr "Среднее"
@@ -5812,4 +5790,19 @@ msgstr "Макс"
 msgctxt "Placeholder"
 msgid "Maximum"
 msgstr "Максимальное значение"
+
+#: 
+msgctxt "Placeholder : Bid"
+msgid "Average CPC"
+msgstr "Средняя цена за клик"
+
+#: 
+msgctxt "Placeholder : Bid"
+msgid "Average CPI"
+msgstr "Средняя цена за установку"
+
+#: 
+msgctxt "Placeholder : Bid"
+msgid "Average CPA"
+msgstr "Средняя цена за конверсию"
 
