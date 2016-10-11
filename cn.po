@@ -53,8 +53,9 @@ msgid "Add New Row"
 msgstr "添加行"
 
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:89
-msgid "Adset"
-msgstr "Adset"
+#, fuzzy
+msgid "Ad Set"
+msgstr "Ad Set"
 
 #: components/audience-form/audienceForm.html:19
 #: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:82
@@ -130,7 +131,8 @@ msgid "Carousel"
 msgstr "轮播"
 
 #: components/crud/crud__create/crud__create.html:25
-msgid "Choose another ad type."
+#, fuzzy
+msgid "Choose another Ad type."
 msgstr "选择其他广告类型。"
 
 #: components/chart/chart.html:4
@@ -254,8 +256,9 @@ msgstr "输入一个数字"
 
 #: components/control/control_adset/controlAdset.html:26
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:129
-msgid "Enter adset name"
-msgstr "输入adset名"
+#, fuzzy
+msgid "Enter Ad Set name"
+msgstr "输入Ad Set名"
 
 #: components/modal/modal__audience/modal__audienceCustom.html:175
 #: components/modal/modal__audience/modal__audienceCustom.html:439
@@ -266,7 +269,8 @@ msgstr "输入一个受众描述（可选的）"
 #: components/control/control_campaign/controlCampaign.html:19
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:47
 #: components/modal/modal__copy/modal__copy.html:104
-msgid "Enter campaign name"
+#, fuzzy
+msgid "Enter Campaign name"
 msgstr "输入广告活动名称"
 
 #: components/control/control_budget/controlBudget.html:20
@@ -291,7 +295,7 @@ msgstr "平均值"
 
 #: app.js:17039
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:114
-msgctxt "Adset"
+msgctxt "Ad Set"
 msgid "Existing"
 msgstr "已有的"
 
@@ -414,7 +418,7 @@ msgstr "新的"
 
 #: app.js:17036
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:108
-msgctxt "Adset"
+msgctxt "Ad Set"
 msgid "New"
 msgstr "新"
 
@@ -532,7 +536,8 @@ msgstr "选择文件"
 
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:57
 #: components/modal/modal__copy/modal__copy.html:113
-msgid "Select or search a campaign in the list"
+#, fuzzy
+msgid "Select or search a Campaign in the list"
 msgstr "选择或搜索列表中的广告活动"
 
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:176
@@ -544,8 +549,9 @@ msgid "Select or search an action in the list"
 msgstr "选择或搜索列表中的指令"
 
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:138
-msgid "Select or search an adset in the list"
-msgstr "选择或搜索列表中的adset"
+#, fuzzy
+msgid "Select or search an Ad Set in the list"
+msgstr "选择或搜索列表中的Ad Set"
 
 #: components/period/period.html:3
 msgid "Select Period:"
@@ -556,7 +562,8 @@ msgid "Selected Ad Type"
 msgstr "选择广告类型"
 
 #: components/modal/modal__copy/modal__copy.html:202
-msgid "Should we copy Ad Groups?"
+#, fuzzy
+msgid "Should we copy Ads?"
 msgstr "我们需要复制广告组吗？"
 
 #: components/modal/modal__audience/modal__audienceCustom.html:236
@@ -640,7 +647,8 @@ msgid "Yes"
 msgstr "是"
 
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:29
-msgid "You have no existing campaigns to choose with selected ad type."
+#, fuzzy
+msgid "You have no existing Campaigns to choose with selected Ad type."
 msgstr "您目前选择的广告类型下没有已建的广告活动"
 
 #: components/modal/modal__audience/modal__audienceCustom.html:204
@@ -670,13 +678,15 @@ msgid "Ad Comments"
 msgstr "广告评论"
 
 #: components/control/control-attribution/controlAttribution.html:63
+#, fuzzy
 msgctxt "Attribution"
-msgid "after clicking on ad"
+msgid "after clicking on Ad"
 msgstr "点击广告后"
 
 #: components/control/control-attribution/controlAttribution.html:32
+#, fuzzy
 msgctxt "Attribution"
-msgid "after viewing ad"
+msgid "after viewing Ad"
 msgstr "观看广告后"
 
 #: components/modal/modal__preset/modal__preset.html:90
@@ -772,28 +782,33 @@ msgid "– Not Selected –"
 msgstr " - 未选择 - "
 
 #: app.js:15411
+#, fuzzy
 msgctxt "Info : Budget"
-msgid ", the amount you enter is the maximum you'll spend during the lifetime of your adset."
-msgstr "，您输入的金额是您adset期间的全额最大花销。"
+msgid ", the amount you enter is the maximum you'll spend during the lifetime of your Ad Set."
+msgstr "，您输入的金额是您Ad Set期间的全额最大花销。"
 
 #: app.js:15365
-msgctxt "Info : Adset"
-msgid ", then you have to choose existing adset in the list. You have to choose campaign to get adset list."
-msgstr "，那么你必须在列表中选择现有adset。你必须选择广告活动来获取adset列表。"
+#, fuzzy
+msgctxt "Info : Ad Set"
+msgid ", then you have to choose existing Ad Set in the list. You have to choose Campaign to get Ad Set list."
+msgstr "，那么你必须在列表中选择现有Ad Set。你必须选择广告活动来获取Ad Set列表。"
 
 #: app.js:15362
+#, fuzzy
 msgctxt "Info : Campaign"
-msgid ", then you have to choose existing campaign in the list."
+msgid ", then you have to choose existing Campaign in the list."
 msgstr "，然后你要在列表中选择现有广告活动。"
 
 #: app.js:15365
-msgctxt "Info : Adset"
-msgid ", then you have to enter new adset name. One adset will be created."
-msgstr "，那么你必须输入新的名称adset名称。一个新的adset将被创建。"
+#, fuzzy
+msgctxt "Info : Ad Set"
+msgid ", then you have to enter new Ad Set name. One Ad Set will be created."
+msgstr "，那么你必须输入新的名称Ad Set名称。一个新的Ad Set将被创建。"
 
 #: app.js:15362
+#, fuzzy
 msgctxt "Info : Campaign"
-msgid ", then you have to enter new campaign name."
+msgid ", then you have to enter new Campaign name."
 msgstr "，那么你必须输入新的广告活动名称。"
 
 #: app.js:15362
@@ -802,7 +817,7 @@ msgid "'Existing'"
 msgstr "'现有的'"
 
 #: app.js:15365
-msgctxt "Info : Adset"
+msgctxt "Info : Ad Set"
 msgid "'Existing'"
 msgstr "'现有的'"
 
@@ -812,7 +827,7 @@ msgid "'New'"
 msgstr "'新的'"
 
 #: app.js:15365
-msgctxt "Info : Adset"
+msgctxt "Info : Ad Set"
 msgid "'New'"
 msgstr "'新的'"
 
@@ -897,23 +912,25 @@ msgid "Active"
 msgstr "活跃的"
 
 #: app.js:12429
-msgctxt "Column : Status : Adset"
+msgctxt "Column : Status : Ad Set"
 msgid "Active"
 msgstr "活跃的"
 
 #: app.js:12539
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Ad Set is Off"
 msgstr "广告设置已关闭"
 
 #: app.js:15405
+#, fuzzy
 msgctxt "Info : Headline"
-msgid "Add a headline that grabs people's attention and tells them what your ad is about."
+msgid "Add a headline that grabs people's attention and tells them what your Ad is about."
 msgstr "添加标题用语抓住人们的注意力，并告诉他们你的广告是内容。"
 
 #: app.js:15367
+#, fuzzy
 msgctxt "Info : Headline"
-msgid "Add headlines that grabs people's attention and tells them what your ad(s) is about."
+msgid "Add headlines that grabs people's attention and tells them what your Ad(s) is about."
 msgstr "添加标题用语抓住人们的注意力，并告诉他们你的广告是内容。"
 
 #: app.js:7977
@@ -938,46 +955,54 @@ msgid "Ads message must be more than 1 and less than 300 characters long."
 msgstr "广告信息必须大于1且小于300个字符长。"
 
 #: app.js:15207
+#, fuzzy
 msgctxt "URL Macros"
-msgid "AdSet ID"
-msgstr "AdSet ID"
+msgid "Ad Set ID"
+msgstr "Ad Set ID"
 
 #: app.js:17048
-msgctxt "Validation : Adset"
-msgid "Adset is required"
-msgstr "需要Adset"
+#, fuzzy
+msgctxt "Validation : Ad Set"
+msgid "Ad Set is required"
+msgstr "需要Ad Set"
 
 #: app.js:10137
 #: app.js:10151
-msgctxt "Error : Adset"
-msgid "Adset is required if you want to use existing adset."
-msgstr "如果你想用现有adset Adset是必需的。"
+#, fuzzy
+msgctxt "Error : Ad Set"
+msgid "Ad Set is required if you want to use existing Ad Set."
+msgstr "如果你想用现有Ad Set Ad Set是必需的。"
 
 #: app.js:15204
+#, fuzzy
 msgctxt "URL Macros"
-msgid "AdSet name"
-msgstr "AdSet名称"
+msgid "Ad Set name"
+msgstr "Ad Set名称"
 
 #: app.js:17047
-msgctxt "Validation : Adset"
-msgid "Adset name is required"
-msgstr "需要Adset名称"
+#, fuzzy
+msgctxt "Validation : Ad Set"
+msgid "Ad Set name is required"
+msgstr "需要Ad Set名称"
 
 #: app.js:10170
-msgctxt "Error : Adset"
-msgid "Adset name is required if new adset is selected."
-msgstr "需要Asset名称，如果选择新的adset。"
+#, fuzzy
+msgctxt "Error : Ad Set"
+msgid "Ad Set name is required if new Ad Set is selected."
+msgstr "需要Ad Set名称，如果选择新的Ad Set。"
 
 #: app.js:10175
-msgctxt "Error : Adset"
-msgid "Adset name must be less than 100 characters long."
-msgstr "Adset名称必须少于100个字符。"
+#, fuzzy
+msgctxt "Error : Ad Set"
+msgid "Ad Set name must be less than 100 characters long."
+msgstr "Ad Set名称必须少于100个字符。"
 
 #: app.js:24012
 #: app.js:24082
+#, fuzzy
 msgctxt "Switcher"
-msgid "AdSets"
-msgstr "AdSets"
+msgid "Ad Sets"
+msgstr "Ad Sets"
 
 #: app.js:8010
 msgctxt "Pricing Table"
@@ -1031,14 +1056,15 @@ msgid "Applications"
 msgstr "应用"
 
 #: app.js:12550
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Approved"
 msgstr "批准"
 
 #: app.js:10201
-msgctxt "Error : Adset"
-msgid "At least one Adset is required."
-msgstr "至少填写一个Adset。"
+#, fuzzy
+msgctxt "Error : Ad Set"
+msgid "At least one Ad Set is required."
+msgstr "至少填写一个Ad Set。"
 
 #: app.js:10034
 #: components/control/control-notifications/controlNotifications.html:16
@@ -1139,7 +1165,7 @@ msgid "Buy Now"
 msgstr "立即购买"
 
 #: app.js:3504
-msgctxt "Automation : Adset : Action Param"
+msgctxt "Automation : Ad Set : Action Param"
 msgid "By Reach"
 msgstr "REACH法规"
 
@@ -1160,12 +1186,12 @@ msgid "Campaign ID"
 msgstr "账户ID"
 
 #: app.js:12434
-msgctxt "Column : Status : Adset"
+msgctxt "Column : Status : Ad Set"
 msgid "Campaign is Off"
 msgstr "广告活动已关闭"
 
 #: app.js:12542
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Campaign is Off"
 msgstr "广告活动已关闭"
 
@@ -1211,18 +1237,19 @@ msgid "Cancel"
 msgstr "取消"
 
 #: app.js:3449
-msgctxt "Automation : Adset : Action"
+msgctxt "Automation : Ad Set : Action"
 msgid "Change Bid"
 msgstr "更改竞标价"
 
 #: app.js:3452
-msgctxt "Automation : Adset : Action"
+msgctxt "Automation : Ad Set : Action"
 msgid "Change Budget"
 msgstr "更改预算"
 
 #: app.js:15393
+#, fuzzy
 msgctxt "Info : Targeting : Gender"
-msgid "Choose \"All\" unless you only want your ads to be shown to either men or women."
+msgid "Choose \"All\" unless you only want your Ads to be shown to either men or women."
 msgstr "选择“全部”，表示你只希望自己的广告展示给男性或女性。"
 
 #: app.js:15403
@@ -1238,8 +1265,9 @@ msgstr "选取一个含有推广公告的Facebook页面"
 
 #: app.js:26400
 #: app.js:26448
+#, fuzzy
 msgctxt "Info: Page : Mobile"
-msgid "Choose a Facebook Page so you can run ads on Facebook."
+msgid "Choose a Facebook Page so you can run Ads on Facebook."
 msgstr "选择一个Facebook页面，因此你可以在Facebook上投放广告。"
 
 #: app.js:26398
@@ -1263,13 +1291,15 @@ msgstr "选择一个Facebook页面让你的广告在关键位置展示。\n"
 "                                    您的广告将链接到你的网站，但它会显示广告基于从你的Facebook页面。"
 
 #: app.js:15404
+#, fuzzy
 msgctxt "Info : Adgroup : Name"
-msgid "Choose a name of your ad."
+msgid "Choose a name of your Ad."
 msgstr "选择广告的名称。"
 
 #: app.js:15389
+#, fuzzy
 msgctxt "Info : URL : Link"
-msgid "Choose a particular view or app on your Page where people will land when they click on your ad. This option only applies to desktop placements."
+msgid "Choose a particular view or app on your Page where people will land when they click on your Ad. This option only applies to desktop placements."
 msgstr "选择你的页面的特定视图或应用，让人们点击广告时会点击到。此选项仅适用于台式机的展示位置。"
 
 #: app.js:15358
@@ -1279,9 +1309,10 @@ msgid "Choose a post that you want to promote."
 msgstr "选择您要推广一个公告。"
 
 #: app.js:15365
-msgctxt "Info : Adset"
-msgid "Choose Adset"
-msgstr "选择Adset"
+#, fuzzy
+msgctxt "Info : Ad Set"
+msgid "Choose Ad Set"
+msgstr "选择Ad Set"
 
 #: app.js:15362
 msgctxt "Info : Campaign"
@@ -1289,8 +1320,9 @@ msgid "Choose Campaign"
 msgstr "选择广告活动"
 
 #: app.js:15402
+#, fuzzy
 msgctxt "Info : Targeting : Device"
-msgid "Choose device models you would like to target these ads to."
+msgid "Choose device models you would like to target these Ads to."
 msgstr "选择你想这些广告定位到的设备型号。"
 
 #: app.js:15350
@@ -1299,8 +1331,9 @@ msgid "Choose how you want to add people to your audience. Include all of your w
 msgstr "选择您想要增加受众的方式。包含所有网站访问者，或者创建规则只添加特定的一部分访问网站的人为受众。"
 
 #: app.js:15401
+#, fuzzy
 msgctxt "Info : Targeting : Min. OS"
-msgid "Choose minimum selected operating system version you want to target your ads to."
+msgid "Choose minimum selected operating system version you want to target your Ads to."
 msgstr "选择你想你的广告定位到的最低所选操作系统的版本。"
 
 #: app.js:15385
@@ -1324,8 +1357,9 @@ msgid "Choose splitting mode if you want to automatically split targeting audien
 msgstr "选择拆分模式，如果你想自动按年龄，性别，国别或设备自动定位受众。"
 
 #: app.js:15384
+#, fuzzy
 msgctxt "Info : Call To Action"
-msgid "Choose the action you want people to take when they see your ad."
+msgid "Choose the action you want people to take when they see your Ad."
 msgstr "选择受众看到你的广告时你想发布的指令。"
 
 #: app.js:15357
@@ -1339,34 +1373,40 @@ msgid "Choose the app you want to advertise. Start typing to find the app or use
 msgstr "选择您要放置广告的应用程序。开始键入用以找到应用程序，或使用其应用程序商店或Play商店的连接。你可以宣传你在Facebook的开发者网站注册过的的任何应用程序。"
 
 #: app.js:15376
+#, fuzzy
 msgctxt "Info : Attribution"
-msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
+msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
 msgstr "选择对你自动化设置影响最大的属性窗口。归属窗口可以帮你跟踪在特定广告时间内，所采取的指令。您可以调整归属窗口，自定义时间段使用。"
 
 #: app.js:15375
+#, fuzzy
 msgctxt "Info : Attribution"
-msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
+msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "选择对你的报告影响最大的属性窗口。归属窗口可以帮你跟踪在特定广告时间内，所采取的指令。您可以调整归属窗口，自定义时间段生成报告。"
 
 #: app.js:15377
+#, fuzzy
 msgctxt "Info : Attribution"
-msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
+msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "选择对你的报告影响最大的属性窗口。归属窗口可以帮你跟踪在特定广告时间内，所采取的指令。您可以调整归属窗口，自定义时间段生成报告。"
 
 #: app.js:15400
 #: app.js:15407
+#, fuzzy
 msgctxt "Info : Targeting : Platform"
-msgid "Choose the type of mobile device you would like to target these ads to. You can target by mobile operating system and by device model."
+msgid "Choose the type of mobile device you would like to target these Ads to. You can target by mobile operating system and by device model."
 msgstr "选择你的广告定位的移动设备的类型。您可以通过移动操作系统和设备型号定位目标。"
 
 #: app.js:18483
+#, fuzzy
 msgctxt "Objective"
-msgid "Choose the type of your ads campaign:"
+msgid "Choose the type of your Campaign:"
 msgstr "选择您的广告活动类型:  "
 
 #: app.js:15406
+#, fuzzy
 msgctxt "Info : Targeting : Placements"
-msgid "Choose where you want your ads to show on Facebook and the placements that are most important to you."
+msgid "Choose where you want your Ads to show on Facebook and the placements that are most important to you."
 msgstr "选择你希望在Facebook展示广告的位置和对你最重要的展示位置。"
 
 #: app.js:24944
@@ -1389,8 +1429,9 @@ msgid "Close Advanced Settings"
 msgstr "关闭高级设置"
 
 #: app.js:14012
+#, fuzzy
 msgctxt "Info : Targeting : Interests"
-msgid "Combine interests to expand your ad's reach."
+msgid "Combine interests to expand your Ad's reach."
 msgstr "结合兴趣，扩大广告的覆盖面。"
 
 #: app.js:25961
@@ -1444,7 +1485,7 @@ msgid "Create Similar Ads"
 msgstr "创建类似广告"
 
 #: app.js:12562
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Credit Card Needed"
 msgstr "信用卡所需"
 
@@ -1475,7 +1516,7 @@ msgid "Days left:"
 msgstr "剩余天数:  "
 
 #: app.js:12528
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Delivering"
 msgstr "交付"
 
@@ -1495,7 +1536,7 @@ msgid "Desktop Feed"
 msgstr "桌面供稿"
 
 #: app.js:12565
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Disabled"
 msgstr "不可用"
 
@@ -1505,7 +1546,7 @@ msgid "Disabled"
 msgstr "不可用"
 
 #: app.js:12554
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Disapproved"
 msgstr "失败"
 
@@ -1521,7 +1562,7 @@ msgstr "你想离开这个页面，前往仪表板？"
 
 #: app.js:3517
 #: app.js:3526
-msgctxt "Automation : Adset : Param"
+msgctxt "Automation : Ad Set : Param"
 msgid "Down"
 msgstr "下"
 
@@ -1550,8 +1591,9 @@ msgid "Enabling this option will set your bid so that it's optimized to help you
 msgstr "优化这个选项可以帮助你设置你的出价以达到你的目标。"
 
 #: app.js:15423
+#, fuzzy
 msgctxt "Info : Sync"
-msgid "Enter how often we should update your ads using data from provided products feed xml file. Value should be entered in minutes."
+msgid "Enter how often we should update your Ads using data from provided products feed xml file. Value should be entered in minutes."
 msgstr "告知我们，我们应该从提供产品进料XML文件数据更新广告的频率。值应在几分钟内输入。"
 
 #: app.js:15391
@@ -1570,8 +1612,9 @@ msgid "Error"
 msgstr "错误"
 
 #: app.js:3734
+#, fuzzy
 msgctxt "Error : Create"
-msgid "Error occurred when creating your ads! Message:"
+msgid "Error occurred when creating your Ads! Message:"
 msgstr "在创建广告时出错！信息:  "
 
 #: app.js:27515
@@ -1596,13 +1639,14 @@ msgid "Error occurred! Please, check your App URL."
 msgstr "发生了错误！请检查您的应用程序的连接。"
 
 #: app.js:3508
-msgctxt "Automation : Adset : Param"
+msgctxt "Automation : Ad Set : Param"
 msgid "Evenly"
 msgstr "均值"
 
 #: app.js:15399
+#, fuzzy
 msgctxt "Info : Targeting : Exclude Custom Audiences"
-msgid "Exclude your ads from targeting to people from some custom audience."
+msgid "Exclude your Ads from targeting to people from some custom audience."
 msgstr "排除一些自定义受众看您的广告。"
 
 #: app.js:25197
@@ -1678,13 +1722,15 @@ msgid "Get the most conversions at the best price - You'll be charged for impres
 msgstr "获得最好的价格进行最大转换 - 根据印象收费。"
 
 #: app.js:15364
-msgctxt "Info : Adset : Name"
-msgid "Give your adset a name that describes the audience, scheduling or ads inside it."
-msgstr "给你的adset添加名称，描述受众，安排或包含的广告。"
+#, fuzzy
+msgctxt "Info : Ad Set : Name"
+msgid "Give your Ad Set a name that describes the audience, scheduling or ads inside it."
+msgstr "给你的Ad Set添加名称，描述受众，安排或包含的广告。"
 
 #: app.js:15363
+#, fuzzy
 msgctxt "Info : Campaign : Name"
-msgid "Give your campaign a name that describes the audience, scheduling or adsets inside it."
+msgid "Give your Campaign a name that describes the audience, scheduling or Ad Sets inside it."
 msgstr "给你的广告活动添加名称，描述受众，安排或包含的adset。"
 
 #: app.js:16720
@@ -1698,7 +1744,7 @@ msgid "How to link your Instagram Account and AdAccount you can"
 msgstr "如何连结你的Instagram帐户，并AdAccount可以"
 
 #: app.js:15365
-msgctxt "Info : Adset"
+msgctxt "Info : Ad Set"
 msgid "If"
 msgstr "如果"
 
@@ -1723,7 +1769,7 @@ msgid "impressions"
 msgstr "印象"
 
 #: app.js:12545
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "In Review"
 msgstr "回顾"
 
@@ -1733,12 +1779,12 @@ msgid "Inactive"
 msgstr "待用"
 
 #: app.js:12438
-msgctxt "Column : Status : Adset"
+msgctxt "Column : Status : Ad Set"
 msgid "Inactive"
 msgstr "待用"
 
 #: app.js:12533
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Inactive"
 msgstr "待用"
 
@@ -1839,8 +1885,9 @@ msgid "Leave this blank unless the audience you are targeting uses a language th
 msgstr "除非你的目标受众使用的语言和你定位地区不同，否则不填。"
 
 #: app.js:14018
+#, fuzzy
 msgctxt "Info : Targeting : Interested In"
-msgid "Leave this blank unless you only want your ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\""
+msgid "Leave this blank unless you only want your Ad to be shown to people who are interested in a specific gender for friendship, dating, relationships or networking. Some people do not specify this information on Facebook, so you can only reach everyone by selecting \"All.\""
 msgstr "除非你只希望自己的广告展示给特定群组，例如特定的性别，约会，关系或网络，否则不填写。有些人在Facebook上不会填写这些信息，所以你只能选择达“全部”以确保全部人都能覆盖到。"
 
 #: app.js:15395
@@ -1874,9 +1921,10 @@ msgid "Lifetime budget is required"
 msgstr "需要永久预算"
 
 #: app.js:15415
+#, fuzzy
 msgctxt "Info : Targeting : Audiences"
-msgid "List of targeting audiences. Separate AdSet will be created for each audience. If existing AdSet is selected, then only one audience will be here."
-msgstr "目标受众列表。将为每个受众创建独立的AdSet。如果选择现有AdSet，那么只有一个受众可见。"
+msgid "List of targeting audiences. Separate Ad Set will be created for each audience. If existing Ad Set is selected, then only one audience will be here."
+msgstr "目标受众列表。将为每个受众创建独立的Ad Set。如果选择现有Ad Set，那么只有一个受众可见。"
 
 #: app.js:24396
 msgctxt "Audience Opt Groups"
@@ -1941,12 +1989,12 @@ msgid "Monday"
 msgstr "星期一"
 
 #: app.js:12412
-msgctxt "Column : Status : Adset"
+msgctxt "Column : Status : Ad Set"
 msgid "Not Delivering"
 msgstr "发送失败"
 
 #: app.js:12511
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Not Delivering"
 msgstr "发送失败"
 
@@ -1955,7 +2003,7 @@ msgid "Not specified"
 msgstr "未标明"
 
 #: app.js:3464
-msgctxt "Automation : Adset : Action"
+msgctxt "Automation : Ad Set : Action"
 msgid "Notify By Email"
 msgstr "通过电子邮件通知"
 
@@ -2034,7 +2082,7 @@ msgid "Paused"
 msgstr "被暂停"
 
 #: app.js:12559
-msgctxt "Column : Status : Adgroup"
+msgctxt "Column : Status : Ad"
 msgid "Pending Billing Info"
 msgstr "账单信息待审核"
 
@@ -2067,13 +2115,15 @@ msgid "Please, select application by direct link to play.google.com or itunes.ap
 msgstr "如果您要推广应用安装，请选择直接粘贴应用程序play.google.com或itunes.apple.com的地址。不支持非直接连接。"
 
 #: app.js:15557
+#, fuzzy
 msgctxt "Automation: Ads"
-msgid "Please, select at least one ad to be used in automations"
+msgid "Please, select at least one Ad to be used in automations"
 msgstr "请选择至少一个广告在自动化中使用"
 
 #: app.js:15373
+#, fuzzy
 msgctxt "Info : Image : Library"
-msgid "Please, select images that you want to use in your new ads."
+msgid "Please, select images that you want to use in your new Ads."
 msgstr "请选择您要在新广告中使用的图像。"
 
 #: app.js:4397
@@ -2137,7 +2187,7 @@ msgid "reload"
 msgstr "重装"
 
 #: app.js:3455
-msgctxt "Automation : Adset : Action"
+msgctxt "Automation : Ad Set : Action"
 msgid "Relocate Budget"
 msgstr "搬迁预算"
 
@@ -2153,7 +2203,7 @@ msgid "Right Column"
 msgstr "右栏"
 
 #: app.js:3482
-msgctxt "Automation : Adgroup : Action"
+msgctxt "Automation : Ad : Action"
 msgid "Rotate"
 msgstr "旋转"
 
@@ -2168,24 +2218,28 @@ msgid "Save"
 msgstr "保存"
 
 #: app.js:15361
-msgctxt "Info : Copy : Adgroups"
-msgid "Select 'No' if you want to copy Adset without Ad Groups."
+#, fuzzy
+msgctxt "Info : Copy : Ads"
+msgid "Select 'No' if you want to copy Ad Set without Ads."
 msgstr "如果你想排除广告组并且复制Adset，选择“否”。"
 
 #: app.js:15380
-msgctxt "Info : Automation : Adset"
-msgid "Select actions that you want to apply to selected adsets when all rules match."
-msgstr "选择要应用到选定adsets时和规则相匹配的指令。"
+#, fuzzy
+msgctxt "Info : Automation : Ad Set"
+msgid "Select actions that you want to apply to selected Ad Sets when all rules match."
+msgstr "选择要应用到选定Ad Sets时和规则相匹配的指令。"
 
 #: app.js:15496
+#, fuzzy
 msgctxt "Automation: Ads"
-msgid "Select ad that you want to use automation for."
+msgid "Select Ad that you want to use automation for."
 msgstr "选择你要自动设置的广告。"
 
 #: app.js:15379
-msgctxt "Info : Automation : Adset"
-msgid "Select adsets that you want to use automation for."
-msgstr "选择你要自动设置的adsets。"
+#, fuzzy
+msgctxt "Info : Automation : Ad Set"
+msgid "Select Ad Sets that you want to use automation for."
+msgstr "选择你要自动设置的Ad Sets。"
 
 #: app.js:15414
 msgctxt "Info : Automation : Notifications"
@@ -2193,8 +2247,9 @@ msgid "Select emails to send notifications to."
 msgstr "选择电子邮件发送通知。"
 
 #: app.js:15412
+#, fuzzy
 msgctxt "Info : Calendar"
-msgid "Select the advertisement period for your ads."
+msgid "Select the advertisement period for your Ads."
 msgstr "选择广告的发布周期。"
 
 #: app.js:15366
@@ -2203,8 +2258,9 @@ msgid "Select the images."
 msgstr "选择图像。"
 
 #: app.js:15392
+#, fuzzy
 msgctxt "Info : Targeting : Age"
-msgid "Select the minimum and maximum age of the people who will find your ad relevant."
+msgid "Select the minimum and maximum age of the people who will find your Ad relevant."
 msgstr "选择你的广告会关联到的人群的最小年龄和最大年龄。"
 
 #: app.js:15413
@@ -2213,23 +2269,27 @@ msgid "Select the period for your automation."
 msgstr "选择您要设置自动的时间段。"
 
 #: app.js:15360
-msgctxt "Info : Adset"
-msgid "Select to create new adset or use an existing adset."
-msgstr "选择创建新的adset或使用现有adset。"
+#, fuzzy
+msgctxt "Info : Ad Set"
+msgid "Select to create new Ad Set or use an existing Ad Set."
+msgstr "选择创建新的adset或使用现有Ad Set。"
 
 #: app.js:15359
+#, fuzzy
 msgctxt "Info : Campaign"
-msgid "Select to create new campaign or use an existing campaign."
+msgid "Select to create new Campaign or use an existing Campaign."
 msgstr "选择创建新的广告或使用现有的广告活动。"
 
 #: app.js:15421
+#, fuzzy
 msgctxt "Info : Status"
-msgid "Set activity status for your campaign."
+msgid "Set activity status for your Campaign."
 msgstr "设置您的广告活动系列的状态。"
 
 #: app.js:15349
+#, fuzzy
 msgctxt "Info : Spend Cap"
-msgid "Set an overall spending limit for your ad campaign. This means your ad sets in the campaign will stop once you've reached your spending limit."
+msgid "Set an overall spending limit for your Campaign. This means your Ad Sets in the Campaign will stop once you've reached your spending limit."
 msgstr "设置您的广告活动的花费限额。这意味一旦达到你的花费限额，你的广告活动在将被停止。"
 
 #: app.js:18724
@@ -2242,8 +2302,9 @@ msgid "Shop Now"
 msgstr "即刻购买"
 
 #: app.js:15408
+#, fuzzy
 msgctxt "Info : Caption"
-msgid "Short caption of the url that people will reach after clicking on your ad."
+msgid "Short caption of the url that people will reach after clicking on your Ad."
 msgstr "短标题，人们会点击广告后到达的url。"
 
 #: app.js:18745
@@ -2271,22 +2332,22 @@ msgid "Spend Cap must be numeric"
 msgstr "支出上限必须是数字"
 
 #: app.js:3461
-msgctxt "Automation : Adset : Action"
+msgctxt "Automation : Ad Set : Action"
 msgid "Start"
 msgstr "开始"
 
 #: app.js:3479
-msgctxt "Automation : Adgroup : Action"
+msgctxt "Automation : Ad : Action"
 msgid "Start"
 msgstr "开始"
 
 #: app.js:3458
-msgctxt "Automation : Adset : Action"
+msgctxt "Automation : Ad Set : Action"
 msgid "Stop"
 msgstr "停止"
 
 #: app.js:3476
-msgctxt "Automation : Adgroup : Action"
+msgctxt "Automation : Ad: Action"
 msgid "Stop"
 msgstr "停止"
 
@@ -2328,33 +2389,39 @@ msgid "Sync period value should be greater or equal to 15 minutes."
 msgstr "同步周期值应大于或等于15分钟。"
 
 #: app.js:14017
+#, fuzzy
 msgctxt "Info : Targeting : Relationship Statuses"
-msgid "Target your ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status."
+msgid "Target your Ads to people based on the relationship status listed in their Facebook profile. Leave this field blank unless you want your ad to be shown only to people who have a specific relationship status."
 msgstr "根据Facebook资料中列出的感情状态定位广告。保留此处空白，除非你的广告中只展示特定的感情状态的受众。"
 
 #: app.js:15398
+#, fuzzy
 msgctxt "Info : Targeting : Custom Audiences"
-msgid "Target your ads to people from your custom audience."
+msgid "Target your Ads to people from your custom audience."
 msgstr "从您的自定义受众群体定位接受广告的人。"
 
 #: app.js:15390
+#, fuzzy
 msgctxt "Info : Targeting : Locations"
-msgid "Targeting your ad by city isn't available in all countries."
+msgid "Targeting your Ad by city isn't available in all countries."
 msgstr "若你的广告无法在全部国家展示，则按城市定位广告。"
 
 #: app.js:15390
+#, fuzzy
 msgctxt "Info : Targeting : Locations"
-msgid "Targeting your ad by ZIP code is only available in the United States."
+msgid "Targeting your Ad by ZIP code is only available in the United States."
 msgstr "通过邮政编码定位广告，仅限于美国。"
 
 #: app.js:15368
+#, fuzzy
 msgctxt "Info : Message"
-msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
+msgid "Tell people a bit more about your Ad(s). Make sure to clearly explain what you are promoting."
 msgstr "向人们更多的讲述您的广告（S）。请务必解释清楚，你要推送什么。"
 
 #: app.js:15369
+#, fuzzy
 msgctxt "Info : Text : Carousel"
-msgid "Tell people a bit more about your ad(s). Make sure to clearly explain what you are promoting."
+msgid "Tell people a bit more about your Ad(s). Make sure to clearly explain what you are promoting."
 msgstr "向人们更多的讲述您的广告（S）。请务必解释清楚，你要推送什么。"
 
 #: app.js:15352
@@ -2398,8 +2465,9 @@ msgid "The Link URl is required."
 msgstr "需要链接的URL。"
 
 #: app.js:15348
+#, fuzzy
 msgctxt "Info : Frequency Cap"
-msgid "The maximum number of times you want your ad to show to people. We suggest frequency cap 2 based on your campaign duration and placement."
+msgid "The maximum number of times you want your Ad to show to people. We suggest frequency cap 2 based on your Campaign duration and placement."
 msgstr "您希望自己的广告展示给人们的最大次数。我们建议为您的活动持续时间和位置频率上限的2倍。"
 
 #: app.js:10210
@@ -2434,8 +2502,9 @@ msgid "The pixel name must be more than 1 and less than 100 characters long."
 msgstr "像素名称必须大于1且小于100个字符长。"
 
 #: app.js:10084
+#, fuzzy
 msgctxt "Error : Text"
-msgid "The text message for carousel ad is required."
+msgid "The text message for carousel Ad is required."
 msgstr "需要轮播广告文本消息。"
 
 #: app.js:10089
@@ -2459,8 +2528,9 @@ msgid "There was a mistake when updating plan"
 msgstr "更新计划时出现了一个错误"
 
 #: app.js:15417
+#, fuzzy
 msgctxt "Info : Bid"
-msgid "This bid helps determine your ad's strength in the ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your ads."
+msgid "This bid helps determine your Ad's strength in the Ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your Ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your Ads."
 msgstr "出价决定了你的广告在广告竞标中的影响力，从而决定了你的广告在网站上运营的可能性。我们将只收取能保证你的广告赢得竞标的金额，这个数值可能比您的最高出价额低，因此我们建议你在创建广告时输入您的真实的最大竞标金额。"
 
 #: app.js:8587
@@ -2541,8 +2611,9 @@ msgid "Unknown error occurred on this page."
 msgstr "此页面上出现未知错误。"
 
 #: app.js:23887
+#, fuzzy
 msgctxt "Error : Campaign : Edit"
-msgid "Unknown error occurred when updating selected Ad Campaigns."
+msgid "Unknown error occurred when updating selected Campaigns."
 msgstr "更新选定的广告活动时出现未知错误。"
 
 #: app.js:27917
@@ -2558,7 +2629,7 @@ msgstr "无限量自动化"
 
 #: app.js:3513
 #: app.js:3522
-msgctxt "Automation : Adset : Param"
+msgctxt "Automation : Ad Set : Param"
 msgid "Up"
 msgstr "向上"
 
@@ -2674,23 +2745,27 @@ msgid "You App is not registered in Facebook."
 msgstr "你的应用没有在Facebook中注册。"
 
 #: app.js:15370
+#, fuzzy
 msgctxt "Info : Preview"
-msgid "You can choose different ad formats and see how your ads looks like."
+msgid "You can choose different Ad formats and see how your Ads looks like."
 msgstr "您可以选择不同的广告格式，观察每一种广告的样式。"
 
 #: app.js:15372
+#, fuzzy
 msgctxt "Info : Preview"
-msgid "You can choose different ad formats and see how your ads will like after creation."
+msgid "You can choose different Ad formats and see how your Ads will like after creation."
 msgstr "您可以选择不同的广告格式，观察哪一种更受欢迎。"
 
 #: app.js:15419
+#, fuzzy
 msgctxt "Info : Pay For"
-msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your ad. Your choice determines how you pay and who your ad is served to."
+msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your Ad. Your choice determines how you pay and who your Ad is served to."
 msgstr "您可以根据你的广告类型选择为...目标，点击或转换（需要选择像素）出价。您的选择决定了你的广告的付费方式及送达方式。"
 
 #: app.js:15418
+#, fuzzy
 msgctxt "Info : Optimize For"
-msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your ad is served to."
+msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your Ad is served to."
 msgstr "你可以选择你想优化的东西。您的选择决定了你的广告的付费方式及送达方式。"
 
 #: app.js:15353
@@ -2699,8 +2774,9 @@ msgid "You can copy columns from a spreadsheet with one record per row or a list
 msgstr "您可以从每行一个记录或用逗号分隔的记录列表的电子表格中复制列，"
 
 #: app.js:15371
+#, fuzzy
 msgctxt "Info : Preview"
-msgid "You can delete comments to your ad."
+msgid "You can delete comments to your Ad."
 msgstr "您可以删除您广告的评论。"
 
 #: app.js:15351
@@ -2709,8 +2785,9 @@ msgid "You can only upload IDs for people that download or use your Facebook app
 msgstr "您只能使用您的Facebook应用程序的人上传IDs。"
 
 #: app.js:15416
+#, fuzzy
 msgctxt "Info : Schedule"
-msgid "You can schedule your ads for specific hours and days of the week."
+msgid "You can schedule your Ads for specific hours and days of the week."
 msgstr "您可以为你的广告设定特定的展示时间或星期几。"
 
 #: app.js:15352
@@ -2746,13 +2823,15 @@ msgid "You should"
 msgstr "你应该"
 
 #: app.js:9920
+#, fuzzy
 msgctxt "Error : Create"
-msgid "You should have at least one ad to create."
+msgid "You should have at least one Ad to create."
 msgstr "你应该至少有一个广告创造。"
 
 #: app.js:15420
+#, fuzzy
 msgctxt "Info : Status"
-msgid "Your ads will have status that you choose."
+msgid "Your Ads will have status that you choose."
 msgstr "你的广告下将会显示你所选择显示的状态。"
 
 #: app.js:15417
@@ -2833,8 +2912,9 @@ msgstr "广告设置"
 
 #: app.js:27656
 #: app.js:27681
+#, fuzzy
 msgctxt "Error : Preview"
-msgid "Ad URL is missing! Can't generate ad preview!"
+msgid "Ad URL is missing! Can't generate Ad preview!"
 msgstr "广告网址丢失！无法生成广告预览！"
 
 #: app.js:2957
@@ -2847,19 +2927,22 @@ msgid "Add a value"
 msgstr "添加值"
 
 #: app.js:6170
+#, fuzzy
 msgctxt "Error : Group"
-msgid "Adgroup Edit Modal"
+msgid "Ad Edit Modal"
 msgstr "广告组编辑模态"
 
 #: app.js:22624
+#, fuzzy
 msgctxt "Modal : Bulk Edit"
-msgid "Adset"
-msgstr "Adset"
+msgid "Ad Set"
+msgstr "Ad Set"
 
 #: app.js:6125
+#, fuzzy
 msgctxt "Error : Group"
-msgid "Adsets Edit Modal"
-msgstr "Adsets编辑模态"
+msgid "Ad Sets Edit Modal"
+msgstr "Ad Sets编辑模态"
 
 #: app.js:10673
 msgctxt "Breakdown"
@@ -2932,7 +3015,7 @@ msgid "Be careful, because deleted items can't be restored!"
 msgstr "要小心，因为无法恢复已删除的项目！"
 
 #: app.js:18190
-msgctxt "Adset : Description"
+msgctxt "Ad Set : Description"
 msgid "Bid for"
 msgstr "竞标"
 
@@ -2977,8 +3060,9 @@ msgid "Campaign"
 msgstr "广告活动"
 
 #: app.js:27647
+#, fuzzy
 msgctxt "Error : Preview"
-msgid "Can't show preview because of some error. Please modify the ad."
+msgid "Can't show preview because of some error. Please modify the Ad."
 msgstr "因为错误无法显示预览。请修改广告。"
 
 #: app.js:22897
@@ -3097,7 +3181,7 @@ msgid "Day"
 msgstr "天"
 
 #: app.js:18196
-msgctxt "Adset : Description"
+msgctxt "Ad Set : Description"
 msgid "Disabled"
 msgstr "不能用"
 
@@ -3157,12 +3241,12 @@ msgid "Editing of this Ad isn't supported yet."
 msgstr "此广告还不支持编辑。"
 
 #: app.js:6125
-msgctxt "Error : Adset : Edit"
+msgctxt "Error : Ad Set : Edit"
 msgid "Editing of this Ad Set isn't supported yet."
 msgstr "该广告设置的编辑还不支持。"
 
 #: app.js:18194
-msgctxt "Adset : Description"
+msgctxt "Ad Set : Description"
 msgid "Enabled"
 msgstr "启用"
 
@@ -3172,11 +3256,13 @@ msgstr "输入广告的名称"
 
 #: components/modal/modal__adsets/modal__adsets.html:44
 #: components/modal/modal__copy/modal__copy.html:40
+#, fuzzy
 msgid "Enter a name for Ad Sets..."
 msgstr "为广告设置输入名称..."
 
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-post.html:98
-msgid "Enter a name for your ad"
+#, fuzzy
+msgid "Enter a name for your Ad"
 msgstr "为您的广告输入一个名称"
 
 #: components/modal/modal__automations/modal__automations.html:121
@@ -3233,13 +3319,15 @@ msgid "Error occurred when removing your"
 msgstr "移除你的广告时出现错误的"
 
 #: app.js:18170
+#, fuzzy
 msgctxt "Error : Adset"
-msgid "Error occurred when requesting Adsets. Error:"
-msgstr "请求Adsets时出错。错误:  "
+msgid "Error occurred when requesting Ad Sets. Error:"
+msgstr "请求Ad Sets时出错。错误:  "
 
 #: app.js:24155
+#, fuzzy
 msgctxt "Error : Campaign"
-msgid "Error occurred when requesting existing campaigns. Error:"
+msgid "Error occurred when requesting existing Campaigns. Error:"
 msgstr "请求现有广告活动时发生错误。错误:  "
 
 #: app.js:21359
@@ -3563,8 +3651,9 @@ msgid "Search by name..."
 msgstr "按名称搜索..."
 
 #: app.js:11593
+#, fuzzy
 msgctxt "Tooltip : Table"
-msgid "Select ad least 2 rows with the same status"
+msgid "Select at least 2 rows with the same status"
 msgstr "选择至少有有2行同样状态的广告"
 
 #: app.js:22912
@@ -3635,13 +3724,15 @@ msgid "This month"
 msgstr "这个月"
 
 #: app.js:24223
+#, fuzzy
 msgctxt "Modal : Copy : Title"
-msgid "to existing campaign"
+msgid "to existing Campaign"
 msgstr "对现有活动"
 
 #: app.js:24227
+#, fuzzy
 msgctxt "Modal : Copy : Title"
-msgid "to new campaign"
+msgid "to new Campaign"
 msgstr "新广告活动"
 
 #: app.js:24274
@@ -3685,14 +3776,16 @@ msgid "Unknown error occurred when deleteing rows."
 msgstr "删除一个行时出现未知错误。"
 
 #: app.js:11292
+#, fuzzy
 msgctxt "Error"
-msgid "Unknown error occurred when getting adgroups ids"
+msgid "Unknown error occurred when getting Ads ids"
 msgstr "获得广告组ID时发生未知错误"
 
 #: app.js:11260
+#, fuzzy
 msgctxt "Error"
-msgid "Unknown error occurred when getting adset ids"
-msgstr "获得adset ID时出现未知错误"
+msgid "Unknown error occurred when getting Ad Set ids"
+msgstr "获得Ad Set ID时出现未知错误"
 
 #: app.js:18440
 msgctxt "Error : Pixel"
@@ -3705,7 +3798,7 @@ msgid "Unknown error occurred when getting pixel code."
 msgstr "获得像素代码时出现未知错误。"
 
 #: app.js:20798
-msgctxt "Error : Update : Adset"
+msgctxt "Error : Update : Ad Set"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "更新选定的广告设置时发生未知错误。"
 
@@ -3715,17 +3808,17 @@ msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "更新选定的广告设置时发生未知错误。"
 
 #: app.js:21840
-msgctxt "Error : Update : Adgroup"
+msgctxt "Error : Update : Ad"
 msgid "Unknown error occurred when updating selected Ads."
 msgstr "更新选择的广告时发生未知错误。"
 
 #: app.js:6146
-msgctxt "Error : Adset"
+msgctxt "Error : Ad Set"
 msgid "Unknown error occurred, when requesting for Ad Set."
 msgstr "请求广告设置的时发生未知错误。"
 
 #: app.js:6192
-msgctxt "Error : Adgroup"
+msgctxt "Error : Ad"
 msgid "Unknown error occurred, when requesting for Ad."
 msgstr "请求广告时发生未知错误。"
 
@@ -3761,8 +3854,9 @@ msgid "URL"
 msgstr "网址"
 
 #: app.js:21563
+#, fuzzy
 msgctxt "Modal : Error"
-msgid "We are sorry, but editing of carousel ads isn't supported yet. Please, try to create new ad instead."
+msgid "We are sorry, but editing of carousel ads isn't supported yet. Please, try to create new Ad instead."
 msgstr "我们很抱歉，但尚不支持编辑轮播广告。请尝试建立新的广告。"
 
 #: app.js:10750
@@ -3990,13 +4084,15 @@ msgid "Phone Numbers"
 msgstr "电话号码"
 
 #: app.js:16583
-msgctxt "Schedule : Adgroup"
-msgid "Run ads all the time"
+#, fuzzy
+msgctxt "Schedule : Ad"
+msgid "Run Ads all the time"
 msgstr "一直投放广告"
 
 #: app.js:16586
-msgctxt "Schedule : Adgroup"
-msgid "Run ads on a schedule"
+#, fuzzy
+msgctxt "Schedule : Ad"
+msgid "Run Ads on a schedule"
 msgstr "按计划投放广告"
 
 #: components/rule-builder/ruleBuilder.html:46
@@ -4006,7 +4102,7 @@ msgstr "存储任务"
 
 #: app.js:16593
 #: app.js:16594
-msgctxt "Validation : Schedule : Adgroup"
+msgctxt "Validation : Schedule : Ad"
 msgid "Schedule is required"
 msgstr "必须有计划"
 
@@ -4094,14 +4190,16 @@ msgid "Account Status"
 msgstr "帐户状态"
 
 #: app.js:3424
+#, fuzzy
 msgctxt "Column : Automation"
 msgid "Adgroups"
 msgstr "广告组"
 
 #: app.js:2764
+#, fuzzy
 msgctxt "Column : Automation"
-msgid "Adsets"
-msgstr "Adsets"
+msgid "Ad Sets"
+msgstr "Ad Sets"
 
 #: app.js:5420
 msgctxt "Optimize for"
@@ -4291,7 +4389,7 @@ msgid "Repeat off"
 msgstr "关闭重复"
 
 #: app.js:3495
-msgctxt "Automation : Adgroup : Action Param"
+msgctxt "Automation : Ad : Action Param"
 msgid "Repeat on"
 msgstr "重复上"
 
@@ -4372,9 +4470,10 @@ msgid "Ads automation"
 msgstr "自动播放广告"
 
 #: components/tablecontrols/tablecontrols.html:77
-msgctxt "Automation : Adsets"
-msgid "Adsets automation"
-msgstr "自动设置Adsets"
+#, fuzzy
+msgctxt "Automation : Ad Sets"
+msgid "Ad Sets automation"
+msgstr "自动设置Ad Sets"
 
 #: components/tablecontrols/tablecontrols.html:181
 msgctxt "Preset"
@@ -4388,14 +4487,16 @@ msgstr "自定义列"
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:142
 #: components/modal/modal__adsets/modal__adsets.html:210
+#, fuzzy
 msgctxt "Ad Scheduling"
-msgid "Run ads all the time"
+msgid "Run Ads all the time"
 msgstr "一直投放广告"
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:148
 #: components/modal/modal__adsets/modal__adsets.html:216
+#, fuzzy
 msgctxt "Ad Scheduling"
-msgid "Run ads on a schedule"
+msgid "Run Ads on a schedule"
 msgstr "按计划投放广告"
 
 #: components/tablecontrols/tablecontrols.html:174
@@ -4434,14 +4535,16 @@ msgid "Ad scheduling only works with lifetime budgets."
 msgstr "广告日程管理仅适用于永久预算。"
 
 #: app.js:3673
+#, fuzzy
 msgctxt "Modal : Create : Body"
-msgid "ads"
+msgid "Ads"
 msgstr "广告"
 
 #: app.js:3673
+#, fuzzy
 msgctxt "Modal : Create : Body"
-msgid "adsets"
-msgstr "adsets"
+msgid "Ad Sets"
+msgstr "Ad Sets"
 
 #: app.js:3673
 msgctxt "Modal : Create : Body"
@@ -4679,7 +4782,8 @@ msgid "Email"
 msgstr "电子邮件"
 
 #: components/modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:12
-msgid "Enter Ad Campaign Name"
+#, fuzzy
+msgid "Enter Campaign Name"
 msgstr "输入广告活动名称"
 
 #: components/create-adaccount/createAdaccount.html:29
@@ -4693,7 +4797,8 @@ msgid "Enter email"
 msgstr "输入电子邮件"
 
 #: components/modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:26
-msgid "Enter maximum amount your campaign can spend"
+#, fuzzy
+msgid "Enter maximum amount your Campaign can spend"
 msgstr "输入您的广告活动系列可以花费最高金额"
 
 #: components/control/control-url/control-url-deep-link_creative/controlUrlDeepLinkCreative.html:4
@@ -4810,8 +4915,9 @@ msgid "Select Age"
 msgstr "选择年龄"
 
 #: components/control/control_adset/controlAdset.html:17
-msgid "Select manual targeting mode if you want to use existing adset."
-msgstr "如果你想利用现有的adset选择手动定位模式。"
+#, fuzzy
+msgid "Select manual targeting mode if you want to use existing Ad Set."
+msgstr "如果你想利用现有的aAd Set选择手动定位模式。"
 
 #: components/audience-form/audienceForm.html:62
 msgid "Select min. Operating System"
@@ -4827,13 +4933,15 @@ msgid "Select or search a values in the list"
 msgstr "选择或在列表中搜索值"
 
 #: components/control/control_adset/controlAdset.html:35
-msgid "Select or search adset in the list"
-msgstr "选择或搜索列表adset"
+#, fuzzy
+msgid "Select or search Ad Set in the list"
+msgstr "选择或搜索列表Ad Set"
 
 #: components/control/control_ad/controlAd.html:7
 #: components/control/control_adset/control_adset_automation/controlAdsetAutomation.html:6
-msgid "Select or search adsets in the list"
-msgstr "选择或搜索列表adsets"
+#, fuzzy
+msgid "Select or search Ad Sets in the list"
+msgstr "选择或搜索列表Ad Sets"
 
 #: components/audience-form/audienceForm.html:38
 msgid "Select or search behaviors in the list"
@@ -5129,17 +5237,19 @@ msgid "The automation action value is required."
 msgstr "自动化操作值是必需的。"
 
 #: components/control/control_ad/controlAd.html:13
-msgctxt "Adgroups : Validation : Automation"
-msgid "At least one ad is required."
+#, fuzzy
+msgctxt "Ad : Validation : Automation"
+msgid "At least one Ad is required."
 msgstr "至少有一个广告是必需的。"
 
 #: components/control/control_adset/control_adset_automation/controlAdsetAutomation.html:12
-msgctxt "Adsets : Validation : Automation"
-msgid "At least one adset is required."
-msgstr "至少一个Adset是必需的。"
+#, fuzzy
+msgctxt "Ad Sets : Validation : Automation"
+msgid "At least one Ad Set is required."
+msgstr "至少一个Ad Set是必需的。"
 
 #: components/rule-builder/ruleBuilder.html:62
-msgctxt "Adgroups : Validation : Automation"
+msgctxt "Ads : Validation : Automation"
 msgid "At least one task is required."
 msgstr "至少有一个任务是必需的。"
 
@@ -5295,8 +5405,9 @@ msgid "+ Create Audience <span class=\"caret\"></span>"
 msgstr "+ 创建受众群体的<span class=“caret”></span>"
 
 #: components/control/control-attribution/controlAttribution.html:71
+#, fuzzy
 msgctxt "Attribution"
-msgid "1 day after viewing advert and 28 days after clicking on advert are set if nothing is selected"
+msgid "1 day after viewing advert and 28 days after clicking on Ad are set if nothing is selected"
 msgstr "若不更改设置，默认一天后预览广告，28天后点击广告"
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:294
@@ -5304,9 +5415,10 @@ msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
 msgstr "预算设置“[[$root.MainObj.adset.name]]”"
 
 #: components/tablecontrols/tablecontrols.html:6
+#, fuzzy
 msgctxt "Button : Create : Dashboard"
-msgid "Create [[({'adcampaigns': 'Campaign', 'adsets': 'AdSets','adgroups':'Ads'}[$root.$state.params.listedItems])]]"
-msgstr "创建 [[({'adcampaigns': '广告', 'adsets': 'AdSets','adgroups':'广告'}[$root.$state.params.listedItems])]]"
+msgid "Create [[({'adcampaigns': 'Campaign', 'adsets': 'Ad Sets','adgroups':'Ads'}[$root.$state.params.listedItems])]] "
+msgstr "创建 [[({'adcampaigns': '广告', 'adsets': 'Ad Sets','adgroups':'广告'}[$root.$state.params.listedItems])]]"
 
 #: components/audience-form/audience-form__control/audience-form__control_type_geo/audienceFormControlTypeGeo.html:12
 msgctxt "Info : Targeting : Locations"
@@ -5512,14 +5624,16 @@ msgstr "从您的桌面上传图片。"
 
 #: app.js:21489
 #: app.js:27236
+#, fuzzy
 msgctxt "Image : Library : Tooltip"
-msgid "Access a library that contains all your ad images."
+msgid "Access a library that contains all your Ad images."
 msgstr "访问包含所有广告图片库。"
 
 #: app.js:21488
 #: app.js:27235
+#, fuzzy
 msgctxt "Video : Library : Tooltip"
-msgid "Access a library that contains all your ad videos."
+msgid "Access a library that contains all your Ad videos."
 msgstr "访问包含所有广告的视频库。"
 
 #: app.js:21487
@@ -5697,7 +5811,8 @@ msgid "Ads"
 msgstr "广告"
 
 #: components/control/control_adset/control_adset_automation/controlAdsetAutomation.html:1
-msgid "Adsets"
+#, fuzzy
+msgid "Ad Sets"
 msgstr "广告设置"
 
 #: components/control/control-automation-cpc/controlAutomationCpc.html:1
@@ -5724,7 +5839,8 @@ msgid "Choose entities you'd like to automate"
 msgstr "选择实体要自动化"
 
 #: components/control/control-tree/controlTree.html:5
-msgid "Search for campaign"
+#, fuzzy
+msgid "Search for Campaign"
 msgstr "搜索活动"
 
 #: components/control/control-tree/controlTree.html:16
@@ -5742,7 +5858,7 @@ msgstr "转到广告"
 
 #: app.js:3467
 #: app.js:3485
-msgctxt "Automation : Adgroup : Action"
+msgctxt "Automation : Ad : Action"
 msgid "Add Adlabel"
 msgstr "添加Adlabel"
 
@@ -5757,14 +5873,16 @@ msgid "Remove Adlabel"
 msgstr "删除Adlabel"
 
 #: app.js:20935
+#, fuzzy
 msgctxt "Automation"
-msgid "Choose campaigns and adsets you want to automate"
-msgstr "选择运动和adsets要自动运行"
+msgid "Choose Campaigns and Ad Sets you want to automate"
+msgstr "选择运动和Ad Sets要自动运行"
 
 #: app.js:20935
+#, fuzzy
 msgctxt "Automation"
-msgid "Choose campaigns, adsets, adgroups you want to automate"
-msgstr "选择活动，adsets，广告组要自动"
+msgid "Choose Campaigns, Ad Sets, Ads you want to automate"
+msgstr "选择活动，Ad Sets，广告组要自动"
 
 #: components/control/control-bid/controlBid.html:53
 msgid "Average"
