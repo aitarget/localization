@@ -31,7 +31,7 @@ msgstr "活跃的"
 msgid "Ad Name"
 msgstr "广告名称"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:124
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:131
 #: components/modal/modal__adsets/modal__adsets.html:192
 msgid "Ad Scheduling"
 msgstr "广告日程"
@@ -96,7 +96,7 @@ msgid "By Reach"
 msgstr "REACH法规"
 
 #: components/automation/automation.html:59
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:113
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:120
 #: components/modal/modal__adsets/modal__adsets.html:181
 #: components/modal/modal__automations/modal__automations.html:75
 #: components/modal/modal__massediting/modal__massEditing.html:131
@@ -135,7 +135,7 @@ msgstr "清除所有明细"
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:738
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:895
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:180
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:307
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:322
 #: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:150
 msgid "Clear this step."
 msgstr "清除此步。"
@@ -157,7 +157,7 @@ msgid "Compare to parameter:"
 msgstr "比较参数:  "
 
 #: components/automation/automation.html:52
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:103
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:110
 #: components/modal/modal__adsets/modal__adsets.html:171
 #: components/modal/modal__automations/modal__automations.html:68
 #: components/modal/modal__massediting/modal__massEditing.html:121
@@ -187,13 +187,13 @@ msgstr "自定义受众"
 msgid "Customer List"
 msgstr "客户名单"
 
-#: app.js:11979
-#: app.js:11982
-#: app.js:12061
-#: app.js:12064
-#: app.js:12192
-#: app.js:12195
-#: app.js:18513
+#: app.js:12350
+#: app.js:12353
+#: app.js:12432
+#: app.js:12435
+#: app.js:12563
+#: app.js:12566
+#: app.js:18074
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:36
 #: components/modal/modal__adsets/modal__adsets.html:96
 #: components/modal/modal__massediting/modal__massEditing.html:47
@@ -278,12 +278,12 @@ msgstr "输入点击的网址"
 msgid "Evenly"
 msgstr "平均值"
 
-#: app.js:18339
+#: app.js:17900
 msgctxt "Ad Set"
 msgid "Existing"
 msgstr "已有的"
 
-#: app.js:17919
+#: app.js:18245
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:28
 msgctxt "Campaign"
 msgid "Existing"
@@ -325,13 +325,13 @@ msgstr "包括过去的网站流量"
 msgid "Interests"
 msgstr "兴趣"
 
-#: app.js:11979
-#: app.js:11982
-#: app.js:12061
-#: app.js:12064
-#: app.js:12192
-#: app.js:12195
-#: app.js:18510
+#: app.js:12350
+#: app.js:12353
+#: app.js:12432
+#: app.js:12435
+#: app.js:12563
+#: app.js:12566
+#: app.js:18071
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:30
 #: components/modal/modal__adsets/modal__adsets.html:90
 #: components/modal/modal__massediting/modal__massEditing.html:40
@@ -399,13 +399,13 @@ msgstr "移动应用"
 msgid "Name"
 msgstr "名称"
 
-#: app.js:17916
+#: app.js:18242
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:22
 msgctxt "Campaign"
 msgid "New"
 msgstr "新的"
 
-#: app.js:18336
+#: app.js:17897
 msgctxt "Ad Set"
 msgid "New"
 msgstr "新"
@@ -417,7 +417,7 @@ msgstr "新"
 #: components/crud/crud__step/crud__step_action/crud__step_action.html:80
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-post.html:136
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:1463
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:315
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:330
 #: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:158
 msgid "Next Step"
 msgstr "下一步"
@@ -454,7 +454,7 @@ msgid "Optimize Carousel"
 msgstr "轮播性能优化"
 
 #: components/control/control_optimize/control_optimize_budget/controlOptimizeBudget.html:1
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:192
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:201
 #: components/modal/modal__adsets/modal__adsets.html:264
 msgid "Optimize for"
 msgstr "优化"
@@ -470,7 +470,7 @@ msgid "Paused"
 msgstr "已暂停"
 
 #: components/control/control_pay/control_pay_budget/controlPayBudget.html:1
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:237
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:248
 #: components/modal/modal__adsets/modal__adsets.html:313
 msgid "Pay for"
 msgstr "付款"
@@ -507,7 +507,7 @@ msgstr "在列表中选择一个选项卡"
 msgid "Select an app or enter its URL"
 msgstr "选择一个应用程序或输入网址"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:104
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:111
 #: components/modal/modal__adsets/modal__adsets.html:172
 #: components/modal/modal__massediting/modal__massEditing.html:122
 msgid "Select daily budget if you want to use this option."
@@ -645,7 +645,7 @@ msgstr "你需要接受&nbsp;"
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:736
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:893
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:178
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:305
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:319
 #: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:148
 msgid "Your data has been automatically saved.&nbsp;"
 msgstr "您的数据已自动保存&nbsp"
@@ -737,1112 +737,1112 @@ msgstr "宽度"
 msgid "Yes"
 msgstr "是"
 
-#: app.js:20594
-#: app.js:20668
-#: app.js:20810
-#: app.js:22634
-#: app.js:4444
+#: app.js:20560
+#: app.js:21489
+#: app.js:21631
+#: app.js:22449
+#: app.js:4559
 msgctxt "Call To Action"
 msgid "– Not Selected –"
 msgstr " - 未选择 - "
 
-#: app.js:17130
+#: app.js:17072
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend during the lifetime of your Ad Set."
 msgstr "，您输入的金额是您Ad Set期间的全额最大花销。"
 
-#: app.js:17084
+#: app.js:17026
 msgctxt "Info : Ad Set"
 msgid ", then you have to choose existing Ad Set in the list. You have to choose Campaign to get Ad Set list."
 msgstr "，那么你必须在列表中选择现有Ad Set。你必须选择广告活动来获取Ad Set列表。"
 
-#: app.js:17081
+#: app.js:17023
 msgctxt "Info : Campaign"
 msgid ", then you have to choose existing Campaign in the list."
 msgstr "，然后你要在列表中选择现有广告活动。"
 
-#: app.js:17084
+#: app.js:17026
 msgctxt "Info : Ad Set"
 msgid ", then you have to enter new Ad Set name. One Ad Set will be created."
 msgstr "，那么你必须输入新的名称Ad Set名称。一个新的Ad Set将被创建。"
 
-#: app.js:17081
+#: app.js:17023
 msgctxt "Info : Campaign"
 msgid ", then you have to enter new Campaign name."
 msgstr "，那么你必须输入新的广告活动名称。"
 
-#: app.js:17081
+#: app.js:17023
 msgctxt "Info : Campaign"
 msgid "'Existing'"
 msgstr "'现有的'"
 
-#: app.js:17084
+#: app.js:17026
 msgctxt "Info : Ad Set"
 msgid "'Existing'"
 msgstr "'现有的'"
 
-#: app.js:17081
+#: app.js:17023
 msgctxt "Info : Campaign"
 msgid "'New'"
 msgstr "'新的'"
 
-#: app.js:17084
+#: app.js:17026
 msgctxt "Info : Ad Set"
 msgid "'New'"
 msgstr "'新的'"
 
-#: app.js:9084
+#: app.js:8449
 msgctxt "Pricing Table"
 msgid "1 automation"
 msgstr "1自动的"
 
-#: app.js:20009
-#: app.js:20842
-#: app.js:29472
-#: app.js:29488
-#: app.js:29510
-#: app.js:29513
+#: app.js:20710
+#: app.js:21251
+#: app.js:29444
+#: app.js:29460
+#: app.js:29482
+#: app.js:29485
 msgctxt "Create : Step"
 msgid "1. Main"
 msgstr "1.主要得"
 
-#: app.js:20845
+#: app.js:21254
 msgctxt "Create : Step"
 msgid "2. Budget"
 msgstr "2.预算"
 
-#: app.js:13770
-#: app.js:20848
+#: app.js:10834
+#: app.js:21257
 msgctxt "Create : Step"
 msgid "3. Targeting"
 msgstr "3.目标"
 
-#: app.js:13781
-#: app.js:20851
-#: app.js:26050
-#: app.js:29237
-#: app.js:29239
-#: app.js:29480
-#: app.js:29566
-#: app.js:29571
-#: app.js:29586
-#: app.js:29591
+#: app.js:10845
+#: app.js:21260
+#: app.js:25745
+#: app.js:29209
+#: app.js:29211
+#: app.js:29452
+#: app.js:29538
+#: app.js:29543
+#: app.js:29558
+#: app.js:29563
 msgctxt "Create : Step"
 msgid "4. Creative"
 msgstr "4.创意"
 
-#: app.js:17102
-#: app.js:27727
+#: app.js:17044
+#: app.js:27650
 msgctxt "Info : Deep Link"
 msgid "A deep link is a URL that points to a specific place in your app, like a product page."
 msgstr "一个深层链接是您的应用程序上指向一个特定的地方，就像一个产品页面的URL。"
 
-#: app.js:6341
+#: app.js:6375
 msgctxt "Informer"
 msgid "actions"
 msgstr "行动"
 
-#: app.js:25893
+#: app.js:25861
 msgctxt "Campaign : Status"
 msgid "Active"
 msgstr "活跃的"
 
-#: app.js:11935
+#: app.js:12306
 msgctxt "Column : Status : Campaign"
 msgid "Active"
 msgstr "活跃的"
 
-#: app.js:12017
+#: app.js:12388
 msgctxt "Column : Status : Ad Set"
 msgid "Active"
 msgstr "活跃的"
 
-#: app.js:12127
+#: app.js:12498
 msgctxt "Column : Status : Ad"
 msgid "Ad Set is Off"
 msgstr "广告设置已关闭"
 
-#: app.js:17124
+#: app.js:17066
 msgctxt "Info : Headline"
 msgid "Add a headline that grabs people's attention and tells them what your Ad is about."
 msgstr "添加标题用语抓住人们的注意力，并告诉他们你的广告是内容。"
 
-#: app.js:17086
+#: app.js:17028
 msgctxt "Info : Headline"
 msgid "Add headlines that grabs people's attention and tells them what your Ad(s) is about."
 msgstr "添加标题用语抓住人们的注意力，并告诉他们你的广告是内容。"
 
-#: app.js:9065
+#: app.js:8430
 msgctxt "Pricing Table"
 msgid "Add payment method"
 msgstr "新增付款方式"
 
-#: app.js:26210
-#: app.js:26280
+#: app.js:26182
+#: app.js:26252
 msgctxt "Switcher"
 msgid "Ads"
 msgstr "广告"
 
-#: app.js:14069
+#: app.js:11129
 msgctxt "Error : Text"
 msgid "Ads message is required and cannot be empty."
 msgstr "需要广告信息，不能为空。"
 
-#: app.js:14074
+#: app.js:11134
 msgctxt "Error : Text"
 msgid "Ads message must be more than 1 and less than 300 characters long."
 msgstr "广告信息必须大于1且小于300个字符长。"
 
-#: app.js:16792
+#: app.js:16747
 msgctxt "URL Macros"
 msgid "Ad Set ID"
 msgstr "Ad Set ID"
 
-#: app.js:18348
+#: app.js:17909
 msgctxt "Validation : Ad Set"
 msgid "Ad Set is required"
 msgstr "需要Ad Set"
 
-#: app.js:13991
-#: app.js:13998
+#: app.js:11051
+#: app.js:11058
 msgctxt "Error : Ad Set"
 msgid "Ad Set is required if you want to use existing Ad Set."
 msgstr "如果你想用现有Ad Set Ad Set是必需的。"
 
-#: app.js:16789
+#: app.js:16744
 msgctxt "URL Macros"
 msgid "Ad Set name"
 msgstr "Ad Set名称"
 
-#: app.js:18347
+#: app.js:17908
 msgctxt "Validation : Ad Set"
 msgid "Ad Set name is required"
 msgstr "需要Ad Set名称"
 
-#: app.js:14022
+#: app.js:11082
 msgctxt "Error : Ad Set"
 msgid "Ad Set name must be less than 100 characters long."
 msgstr "Ad Set名称必须少于100个字符。"
 
-#: app.js:26207
-#: app.js:26277
+#: app.js:26179
+#: app.js:26249
 msgctxt "Switcher"
 msgid "Ad Sets"
 msgstr "Ad Sets"
 
-#: app.js:9099
+#: app.js:8464
 msgctxt "Pricing Table"
 msgid "AiTarget learning"
 msgstr "AiTarget已知"
 
-#: app.js:27322
+#: app.js:26812
 msgid "All"
 msgstr "所有"
 
-#: app.js:26953
+#: app.js:27238
 msgctxt "Platforms"
 msgid "All"
 msgstr "所有"
 
-#: app.js:27370
-#: app.js:27420
+#: app.js:27342
+#: app.js:27392
 msgctxt "Targeting OS Version"
 msgid "All"
 msgstr "所有"
 
-#: app.js:12856
-#: app.js:12872
-#: app.js:302
+#: app.js:304
+#: app.js:9920
+#: app.js:9936
 msgctxt "Breadcrumb"
 msgid "All accounts"
 msgstr "所有帐户"
 
-#: app.js:27598
+#: app.js:27570
 msgid "All mobile users"
 msgstr "所有移动用户"
 
-#: app.js:26957
+#: app.js:27242
 msgctxt "Platforms"
 msgid "Android only"
 msgstr "只有Android版"
 
-#: app.js:26485
+#: app.js:26593
 msgctxt "Audience Opt Groups"
 msgid "App"
 msgstr "应用程式"
 
-#: app.js:26497
+#: app.js:26605
 msgctxt "Audience Opt Groups"
 msgid "App Combination"
 msgstr "应用组合"
 
-#: app.js:26612
+#: app.js:26419
 msgctxt "Connections Opt Groups"
 msgid "Applications"
 msgstr "应用"
 
-#: app.js:12138
+#: app.js:12509
 msgctxt "Column : Status : Ad"
 msgid "Approved"
 msgstr "批准"
 
-#: app.js:13888
+#: app.js:10948
 #: components/control/control-notifications/controlNotifications.html:16
 msgctxt "Error : Email"
 msgid "At least one email address is required."
 msgstr "至少填入一个电子邮件地址。"
 
-#: app.js:13957
+#: app.js:11017
 msgctxt "Error : App"
 msgid "At least one facebook app is required if you want to upload people IDs."
 msgstr "如果你想上传任何人ID的人，需要有至少有一个Facebook应用。"
 
-#: app.js:13964
+#: app.js:11024
 msgctxt "Error : Audience"
 msgid "At least one source is required."
 msgstr "至少需要一个源。"
 
-#: app.js:20586
-#: app.js:28524
+#: app.js:20552
+#: app.js:28496
 msgctxt "Placement"
 msgid "Audience Network - Banner"
 msgstr "受众网络 - 横幅"
 
-#: app.js:20589
-#: app.js:28527
+#: app.js:20555
+#: app.js:28499
 msgctxt "Placement"
 msgid "Audience Network - Interstitial"
 msgstr "受众网络 - 间质性"
 
-#: app.js:9057
+#: app.js:8422
 msgctxt "Pricing Table"
 msgid "Automatic payment failed. We will try to retry the payment."
 msgstr "自动付款失败。我们将尝试重试付款。"
 
-#: app.js:6333
+#: app.js:6367
 msgctxt "Informer"
 msgid "Avg daily spend"
 msgstr "平均每日支出"
 
-#: app.js:16807
+#: app.js:16762
 msgctxt "URL Macros"
 msgid "Bid amount (value or AUTOBID)"
 msgstr "投标量（值或自动竞价）"
 
-#: app.js:16801
+#: app.js:16756
 msgctxt "URL Macros"
 msgid "Billing event"
 msgstr "结算"
 
-#: app.js:20609
-#: app.js:20683
-#: app.js:20816
-#: app.js:22649
-#: app.js:4453
+#: app.js:20575
+#: app.js:21504
+#: app.js:21637
+#: app.js:22464
+#: app.js:4568
 msgctxt "Call To Action"
 msgid "Book Now"
 msgstr "现在预订"
 
-#: app.js:13861
+#: app.js:10921
 msgctxt "Error : Budget"
 msgid "Budget value is required."
 msgstr "需要输入预算值。"
 
-#: app.js:13870
+#: app.js:10930
 msgctxt "Error : Budget"
 msgid "Budget value should be greater or equal to 1."
 msgstr "预算值应大于或等于1。"
 
-#: app.js:13872
+#: app.js:10932
 msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "预算值应小于或等于1 000 000。"
 
-#: app.js:20707
+#: app.js:21528
 msgid "Buy Now"
 msgstr "立即购买"
 
-#: app.js:20633
-#: app.js:22673
-#: app.js:4483
+#: app.js:20599
+#: app.js:22488
+#: app.js:4598
 msgctxt "Call To Action"
 msgid "Buy Now"
 msgstr "立即购买"
 
-#: app.js:3947
+#: app.js:4060
 msgctxt "Automation : Ad Set : Action Param"
 msgid "By Reach"
 msgstr "REACH法规"
 
-#: app.js:16540
-#: app.js:16541
+#: app.js:16595
+#: app.js:16596
 msgctxt "Validation : Calendar"
 msgid "Calendar is required"
 msgstr "需要日历"
 
-#: app.js:16786
+#: app.js:16741
 msgctxt "URL Macros"
 msgid "Campaign ID"
 msgstr "账户ID"
 
-#: app.js:12022
+#: app.js:12393
 msgctxt "Column : Status : Ad Set"
 msgid "Campaign is Off"
 msgstr "广告活动已关闭"
 
-#: app.js:12130
+#: app.js:12501
 msgctxt "Column : Status : Ad"
 msgid "Campaign is Off"
 msgstr "广告活动已关闭"
 
-#: app.js:17928
+#: app.js:18254
 msgctxt "Validation : Campaign"
 msgid "Campaign is required"
 msgstr "需要广告活动"
 
-#: app.js:13950
+#: app.js:11010
 msgctxt "Error : Campaign"
 msgid "Campaign is required if you want to use existing campaign."
 msgstr "若想用现有广告活动，必须有已建广告活动"
 
-#: app.js:16783
+#: app.js:16738
 msgctxt "URL Macros"
 msgid "Campaign name"
 msgstr "广告活动名称"
 
-#: app.js:17927
-#: app.js:25886
+#: app.js:18253
+#: app.js:25854
 msgctxt "Validation : Campaign"
 msgid "Campaign name is required"
 msgstr "需要广告活动名称"
 
-#: app.js:13971
+#: app.js:11031
 msgctxt "Error : Campaign"
 msgid "Campaign name is required if new campaign is selected."
 msgstr "如果新建广告，必须有广告活动名称"
 
-#: app.js:13976
+#: app.js:11036
 msgctxt "Error : Campaign"
 msgid "Campaign name must be less than 128 characters long."
 msgstr "广告活动名称必须少于128个字符。"
 
-#: app.js:26274
+#: app.js:26246
 msgctxt "Switcher"
 msgid "Campaigns"
 msgstr "广告活动"
 
-#: app.js:25940
+#: app.js:25908
 #: components/crop/crop__modal/cropModal.html:21
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:3892
+#: app.js:4005
 msgctxt "Automation : Ad Set : Action"
 msgid "Change Bid"
 msgstr "更改竞标价"
 
-#: app.js:3895
+#: app.js:4008
 msgctxt "Automation : Ad Set : Action"
 msgid "Change Budget"
 msgstr "更改预算"
 
-#: app.js:17112
+#: app.js:17054
 msgctxt "Info : Targeting : Gender"
 msgid "Choose \"All\" unless you only want your Ads to be shown to either men or women."
 msgstr "选择“全部”，表示你只希望自己的广告展示给男性或女性。"
 
-#: app.js:28178
-#: app.js:28226
+#: app.js:28070
+#: app.js:28118
 msgctxt "Info: Page : Post"
 msgid "Choose a Facebook Page containing promoted post."
 msgstr "选取一个含有推广公告的Facebook页面"
 
-#: app.js:28227
+#: app.js:28119
 msgctxt "Info: Page : Mobile"
 msgid "Choose a Facebook Page so you can run Ads on Facebook."
 msgstr "选择一个Facebook页面，因此你可以在Facebook上投放广告。"
 
-#: app.js:28177
-#: app.js:28225
+#: app.js:28069
+#: app.js:28117
 msgctxt "Info: Page : Page"
 msgid "Choose a Facebook Page that you want to be promoted."
 msgstr "选择一个要被推广的Facebook页面。"
 
-#: app.js:28176
+#: app.js:28068
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 "                                      Your ad will link to your site, but it will show as coming from your Facebook Page."
 msgstr "选择一个Facebook页面让你的广告在关键位置展示。\n"
 "                                      您的广告将链接到你的网站，但它会显示广告基于从你的Facebook页面。"
 
-#: app.js:28224
+#: app.js:28116
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 "                              Your ad will link to your site, but it will show as coming from your Facebook Page."
 msgstr "选择一个Facebook页面让你的广告在关键位置展示。\n"
 "                                    您的广告将链接到你的网站，但它会显示广告基于从你的Facebook页面。"
 
-#: app.js:17123
+#: app.js:17065
 msgctxt "Info : Ad : Name"
 msgid "Choose a name of your Ad."
 msgstr "选择广告的名称。"
 
-#: app.js:17108
+#: app.js:17050
 msgctxt "Info : URL : Link"
 msgid "Choose a particular view or app on your Page where people will land when they click on your Ad. This option only applies to desktop placements."
 msgstr "选择你的页面的特定视图或应用，让人们点击广告时会点击到。此选项仅适用于台式机的展示位置。"
 
-#: app.js:17077
-#: app.js:19439
+#: app.js:17019
+#: app.js:19351
 msgctxt "Info : Post"
 msgid "Choose a post that you want to promote."
 msgstr "选择您要推广一个公告。"
 
-#: app.js:17084
+#: app.js:17026
 msgctxt "Info : Ad Set"
 msgid "Choose Ad Set"
 msgstr "选择Ad Set"
 
-#: app.js:17081
+#: app.js:17023
 msgctxt "Info : Campaign"
 msgid "Choose Campaign"
 msgstr "选择广告活动"
 
-#: app.js:17121
+#: app.js:17063
 msgctxt "Info : Targeting : Device"
 msgid "Choose device models you would like to target these Ads to."
 msgstr "选择你想这些广告定位到的设备型号。"
 
-#: app.js:17069
+#: app.js:17011
 msgctxt "Info : Web Traffic"
 msgid "Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website."
 msgstr "选择您想要增加受众的方式。包含所有网站访问者，或者创建规则只添加特定的一部分访问网站的人为受众。"
 
-#: app.js:17120
+#: app.js:17062
 msgctxt "Info : Targeting : Min. OS"
 msgid "Choose minimum selected operating system version you want to target your Ads to."
 msgstr "选择你想你的广告定位到的最低所选操作系统的版本。"
 
-#: app.js:17104
+#: app.js:17046
 msgctxt "Info : Creating Mode"
 msgid "Choose mixing mode if you want to combine every image, headline and message altogether."
 msgstr "选择混合模式，如果你想每一个形象，标题和消息完全结合起来。"
 
-#: app.js:17105
+#: app.js:17047
 msgctxt "Info : Optimize Carousel"
 msgid "Choose optimizing mode if you want automatically select and order images and links."
 msgstr "选择自动模式，如果你要自动选择并指令图像和链接。"
 
-#: app.js:17107
+#: app.js:17049
 msgctxt "Info : Split Budget"
 msgid "Choose split by reach if you want to split budget according to audience reach."
 msgstr "选择按覆盖率付费，如果你想根据受众覆盖率花费预算。"
 
-#: app.js:17106
+#: app.js:17048
 msgctxt "Info : Split By"
 msgid "Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device."
 msgstr "选择拆分模式，如果你想自动按年龄，性别，国别或设备自动定位受众。"
 
-#: app.js:17103
+#: app.js:17045
 msgctxt "Info : Call To Action"
 msgid "Choose the action you want people to take when they see your Ad."
 msgstr "选择受众看到你的广告时你想发布的指令。"
 
-#: app.js:17076
+#: app.js:17018
 msgctxt "Info : App"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "选择您要放置广告的应用程序。开始键入用以找到应用程序，或使用其应用程序商店或Play商店的连接。你可以宣传你在Facebook的开发者网站注册过的的任何应用程序。"
 
-#: app.js:17075
+#: app.js:17017
 msgctxt "Info : URL : Mobile"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "选择您要放置广告的应用程序。开始键入用以找到应用程序，或使用其应用程序商店或Play商店的连接。你可以宣传你在Facebook的开发者网站注册过的的任何应用程序。"
 
-#: app.js:17095
+#: app.js:17037
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
 msgstr "选择对你自动化设置影响最大的属性窗口。归属窗口可以帮你跟踪在特定广告时间内，所采取的指令。您可以调整归属窗口，自定义时间段使用。"
 
-#: app.js:17094
+#: app.js:17036
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "选择对你的报告影响最大的属性窗口。归属窗口可以帮你跟踪在特定广告时间内，所采取的指令。您可以调整归属窗口，自定义时间段生成报告。"
 
-#: app.js:17119
-#: app.js:17126
+#: app.js:17061
+#: app.js:17068
 msgctxt "Info : Targeting : Platform"
 msgid "Choose the type of mobile device you would like to target these Ads to. You can target by mobile operating system and by device model."
 msgstr "选择你的广告定位的移动设备的类型。您可以通过移动操作系统和设备型号定位目标。"
 
-#: app.js:17125
+#: app.js:17067
 msgctxt "Info : Targeting : Placements"
 msgid "Choose where you want your Ads to show on Facebook and the placements that are most important to you."
 msgstr "选择你希望在Facebook展示广告的位置和对你最重要的展示位置。"
 
-#: app.js:20365
+#: app.js:21066
 msgctxt "Objective"
 msgid "Clicks"
 msgstr "点击"
 
-#: app.js:8330
+#: app.js:8275
 msgctxt "Plan : Dialog"
 msgid "Close"
 msgstr "关"
 
-#: app.js:14844
+#: app.js:14891
 msgid "Close Advanced Settings"
 msgstr "关闭高级设置"
 
-#: app.js:27906
+#: app.js:27886
 msgctxt "Info : Instagram Account"
 msgid "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
 msgstr "连接您的Instagram账户到BM或删除Instagram放置。"
 
-#: app.js:4131
+#: app.js:4246
 msgctxt "Modal : Create : Ok Button"
 msgid "Continue"
 msgstr "继续"
 
-#: app.js:20377
+#: app.js:21078
 msgctxt "Objective"
 msgid "Conversions"
 msgstr "转换"
 
-#: app.js:17072
+#: app.js:17014
 msgctxt "Info : Audiences: Copy And Paste"
 msgid "Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file."
 msgstr "从电子表格或文本文件复制并粘贴电子邮件，电话号码，Facebook的用户ID或移动广告商ID列表。"
 
-#: app.js:6351
+#: app.js:6385
 msgctxt "Informer"
 msgid "cpc"
 msgstr "CPC"
 
-#: app.js:19168
+#: app.js:19046
 msgctxt "Validation : Page"
 msgid "create public page."
 msgstr "创建公共页面。"
 
-#: app.js:4132
+#: app.js:4247
 msgctxt "Modal : Create : Cancel Button"
 msgid "Create Similar Ads"
 msgstr "创建类似广告"
 
-#: app.js:12150
+#: app.js:12521
 msgctxt "Column : Status : Ad"
 msgid "Credit Card Needed"
 msgstr "信用卡所需"
 
-#: app.js:6346
+#: app.js:6380
 msgctxt "Informer"
 msgid "ctr"
 msgstr "CTR"
 
-#: app.js:26476
+#: app.js:26584
 msgctxt "Audience Opt Groups"
 msgid "Custom"
 msgstr "习惯"
 
-#: app.js:18522
+#: app.js:18083
 msgctxt "Validation : Budget"
 msgid "Daily budget is required"
 msgstr "需要设置每日预算"
 
-#: app.js:9050
+#: app.js:8415
 msgctxt "Pricing Table"
 msgid "Days left:"
 msgstr "剩余天数:  "
 
-#: app.js:12116
+#: app.js:12487
 msgctxt "Column : Status : Ad"
 msgid "Delivering"
 msgstr "交付"
 
-#: app.js:17101
+#: app.js:17043
 msgctxt "Info : Link Description"
 msgid "Describe why people should visit your website."
 msgstr "说明为什么人们应该访问您的网站。"
 
-#: app.js:20488
-#: app.js:20529
-#: app.js:20660
-#: app.js:20799
-#: app.js:28505
-#: app.js:29694
+#: app.js:21192
+#: app.js:21227
+#: app.js:21481
+#: app.js:21620
+#: app.js:28477
+#: app.js:29666
 msgctxt "Placement"
 msgid "Desktop Feed"
 msgstr "桌面供稿"
 
-#: app.js:12153
+#: app.js:12524
 msgctxt "Column : Status : Ad"
 msgid "Disabled"
 msgstr "不可用"
 
-#: app.js:12223
+#: app.js:12594
 msgctxt "Column : Status : Automation"
 msgid "Disabled"
 msgstr "不可用"
 
-#: app.js:12142
+#: app.js:12513
 msgctxt "Column : Status : Ad"
 msgid "Disapproved"
 msgstr "失败"
 
-#: app.js:26302
+#: app.js:26274
 msgctxt "Switcher"
 msgid "Display"
 msgstr "显示"
 
-#: app.js:4122
+#: app.js:4237
 msgctxt "Modal : Create : Body"
 msgid "Do you want to leave this page and go to dashboard?"
 msgstr "你想离开这个页面，前往仪表板？"
 
-#: app.js:3960
-#: app.js:3969
+#: app.js:4073
+#: app.js:4082
 msgctxt "Automation : Ad Set : Param"
 msgid "Down"
 msgstr "下"
 
-#: app.js:20621
-#: app.js:20695
-#: app.js:20825
-#: app.js:22661
-#: app.js:4456
+#: app.js:20587
+#: app.js:21516
+#: app.js:21646
+#: app.js:22476
+#: app.js:4571
 msgctxt "Call To Action"
 msgid "Download"
 msgstr "下载"
 
-#: app.js:17097
+#: app.js:17039
 msgctxt "Info : Preset"
 msgid "Editing and creating is only available for user's presets. For shared presets you can only create a new one."
 msgstr "编辑和创建仅适用于用户预设。若要共享预设只能创建一个新的预设。"
 
-#: app.js:12228
+#: app.js:12599
 msgctxt "Column : Status : Automation"
 msgid "Enabled"
 msgstr "启用"
 
-#: app.js:17141
+#: app.js:17083
 msgctxt "Info : Bid"
 msgid "Enabling this option will set your bid so that it's optimized to help you reach your objective."
 msgstr "优化这个选项可以帮助你设置你的出价以达到你的目标。"
 
-#: app.js:17142
+#: app.js:17084
 msgctxt "Info : Sync"
 msgid "Enter how often we should update your Ads using data from provided products feed xml file. Value should be entered in minutes."
 msgstr "告知我们，我们应该从提供产品进料XML文件数据更新广告的频率。值应在几分钟内输入。"
 
-#: app.js:17110
+#: app.js:17052
 msgctxt "Info : Targeting : Exclude Locations"
 msgid "Enter locations you want to exclude."
 msgstr "输入您要排除的位置。"
 
-#: app.js:17109
+#: app.js:17051
 msgctxt "Info : Targeting : Locations"
 msgid "Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations."
 msgstr "输入一个或多个国家，州，市，邮政编码以缩小你的目标受众范围。"
 
-#: app.js:8330
+#: app.js:8275
 msgctxt "Plan : Dialog"
 msgid "Error"
 msgstr "错误"
 
-#: app.js:29347
+#: app.js:29319
 msgctxt "Error : Image"
 msgid "Error occurred when requesting for library images."
 msgstr "请求图库的图像时出现错误。"
 
-#: app.js:29369
+#: app.js:29341
 msgctxt "Error : Video"
 msgid "Error occurred when requesting for library videos."
 msgstr "请求库中的影片时发生错误。"
 
-#: app.js:18764
+#: app.js:18641
 msgctxt "Instagram Account"
 msgid "Error occurred! Couldn't create instagram account for the selected page."
 msgstr "发生了错误！无法为所选页面创建Instagram帐户。"
 
-#: app.js:17597
-#: app.js:19803
+#: app.js:17552
+#: app.js:19715
 msgctxt "Error : App"
 msgid "Error occurred! Please, check your App URL."
 msgstr "发生了错误！请检查您的应用程序的连接。"
 
-#: app.js:3951
+#: app.js:4064
 msgctxt "Automation : Ad Set : Param"
 msgid "Evenly"
 msgstr "均值"
 
-#: app.js:17118
+#: app.js:17060
 msgctxt "Info : Targeting : Exclude Custom Audiences"
 msgid "Exclude your Ads from targeting to people from some custom audience."
 msgstr "排除一些自定义受众看您的广告。"
 
-#: app.js:27083
+#: app.js:27001
 msgctxt "Placement"
 msgid "Facebook – Audience Network"
 msgstr "Facebook的 - 受众群"
 
-#: app.js:27074
+#: app.js:26992
 msgctxt "Placement"
 msgid "Facebook – Desktop News Feed"
 msgstr "Facebook的 - 桌面新闻供稿"
 
-#: app.js:27080
+#: app.js:26998
 msgctxt "Placement"
 msgid "Facebook – Mobile News Feed"
 msgstr "Facebook的 - 手机新闻频道"
 
-#: app.js:27077
+#: app.js:26995
 msgctxt "Placement"
 msgid "Facebook – Right Hand Side"
 msgstr "Facebook的 - 右手边"
 
-#: app.js:9082
+#: app.js:8447
 msgctxt "Pricing Table"
 msgid "FAQ"
 msgstr "常问问题"
 
-#: app.js:17074
+#: app.js:17016
 msgctxt "Info : URL : Post"
 msgid "For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2."
 msgstr "例如，如果URL标记被指定为键1 = VAL1＆键2 = val2，的流包括URL www.example.com?key1=test，那么URL将更新为www.example.com?key1=val1&key2=val2 。"
 
-#: app.js:6364
+#: app.js:6398
 msgctxt "Informer"
 msgid "frequency"
 msgstr "频率"
 
-#: app.js:7637
+#: app.js:7427
 msgctxt "Pacing"
 msgid "Friday"
 msgstr "星期五"
 
-#: app.js:20330
+#: app.js:21031
 msgctxt "Objective"
 msgid "Get new installs"
 msgstr "获取新安装"
 
-#: app.js:20636
-#: app.js:22676
-#: app.js:4486
+#: app.js:20602
+#: app.js:22491
+#: app.js:4601
 msgctxt "Call To Action"
 msgid "Get Offer"
 msgstr "获取优惠"
 
-#: app.js:20710
+#: app.js:21531
 msgid "Get Offer"
 msgstr "获取优惠"
 
-#: app.js:17141
+#: app.js:17083
 msgctxt "Info : Bid"
 msgid "Get the most conversions at the best price - You'll be charged for impressions."
 msgstr "获得最好的价格进行最大转换 - 根据印象收费。"
 
-#: app.js:17082
+#: app.js:17024
 msgctxt "Info : Campaign : Name"
 msgid "Give your Campaign a name that describes the audience, scheduling or Ad Sets inside it."
 msgstr "给你的广告活动添加名称，描述受众，安排或包含的adset。"
 
-#: app.js:18790
+#: app.js:18667
 msgctxt "Instagram Account"
 msgid "grant manage page permissions"
 msgstr "授予页面管理权限"
 
-#: app.js:18669
+#: app.js:18546
 msgctxt "Validation : Instagram Account"
 msgid "How to link your Instagram Account and AdAccount you can"
 msgstr "如何连结你的Instagram帐户，并AdAccount可以"
 
-#: app.js:17084
+#: app.js:17026
 msgctxt "Info : Ad Set"
 msgid "If"
 msgstr "如果"
 
-#: app.js:17081
+#: app.js:17023
 msgctxt "Info : Campaign"
 msgid "If"
 msgstr "如果"
 
-#: app.js:17130
+#: app.js:17072
 msgctxt "Info : Budget"
 msgid "If you choose a"
 msgstr "如果您选择"
 
-#: app.js:6359
+#: app.js:6393
 msgctxt "Informer"
 msgid "impressions"
 msgstr "印象"
 
-#: app.js:12133
+#: app.js:12504
 msgctxt "Column : Status : Ad"
 msgid "In Review"
 msgstr "回顾"
 
-#: app.js:11919
+#: app.js:12290
 msgctxt "Column : Status : Campaign"
 msgid "Inactive"
 msgstr "待用"
 
-#: app.js:12026
+#: app.js:12397
 msgctxt "Column : Status : Ad Set"
 msgid "Inactive"
 msgstr "待用"
 
-#: app.js:12121
+#: app.js:12492
 msgctxt "Column : Status : Ad"
 msgid "Inactive"
 msgstr "待用"
 
-#: app.js:27086
-#: app.js:28517
-#: app.js:4417
+#: app.js:27004
+#: app.js:28489
+#: app.js:4532
 msgctxt "Placement"
 msgid "Instagram"
 msgstr "Instagram"
 
-#: app.js:18665
+#: app.js:18542
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "需要Instagram的帐户。"
 
-#: app.js:20606
-#: app.js:20680
-#: app.js:22646
-#: app.js:4447
+#: app.js:20572
+#: app.js:21501
+#: app.js:22461
+#: app.js:4562
 msgctxt "Call To Action"
 msgid "Install Mobile App"
 msgstr "安装移动应用"
 
-#: app.js:9093
+#: app.js:8458
 msgctxt "Pricing Table"
 msgid "Integration of external data"
 msgstr "外部数据的整合"
 
-#: app.js:26961
+#: app.js:27246
 msgctxt "Platforms"
 msgid "iOS only"
 msgstr "只有iOS版"
 
-#: app.js:13866
-#: app.js:14040
+#: app.js:10926
+#: app.js:11100
 #: components/control/control-bid/controlBid.html:93
 msgctxt "Error : Number"
 msgid "It can't have less than 1 or more than 2 decimal places."
 msgstr "它不能具有小于1或大于2个小数位。"
 
-#: app.js:9375
+#: app.js:9342
 msgctxt "Automation : Analyze Window"
 msgid "Last 14 Days"
 msgstr "最近14天"
 
-#: app.js:9378
+#: app.js:9345
 msgctxt "Automation : Analyze Window"
 msgid "Last 28 Days"
 msgstr "最近28天"
 
-#: app.js:9393
+#: app.js:9360
 msgctxt "Automation : Analyze Window"
 msgid "Last 3 Months"
 msgstr "最近3个月"
 
-#: app.js:9381
+#: app.js:9348
 msgctxt "Automation : Analyze Window"
 msgid "Last 30 Days"
 msgstr "最近30天"
 
-#: app.js:9372
+#: app.js:9339
 msgctxt "Automation : Analyze Window"
 msgid "Last 7 Days"
 msgstr "过去7天"
 
-#: app.js:9384
+#: app.js:9351
 msgctxt "Automation : Analyze Window"
 msgid "Last 90 Days"
 msgstr "最后90天"
 
-#: app.js:9390
+#: app.js:9357
 msgctxt "Automation : Analyze Window"
 msgid "Last Month"
 msgstr "上个月"
 
-#: app.js:9360
+#: app.js:9327
 msgctxt "Automation : Analyze Window"
 msgid "Last Week"
 msgstr "上个星期"
 
-#: app.js:20615
-#: app.js:20689
-#: app.js:20819
-#: app.js:22655
-#: app.js:4459
+#: app.js:20581
+#: app.js:21510
+#: app.js:21640
+#: app.js:22470
+#: app.js:4574
 msgctxt "Call To Action"
 msgid "Learn More"
 msgstr "学到更多"
 
-#: app.js:17113
+#: app.js:17055
 msgctxt "Info : Targeting : Languages"
 msgid "Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above."
 msgstr "除非你的目标受众使用的语言和你定位地区不同，否则不填。"
 
-#: app.js:17114
+#: app.js:17056
 msgctxt "Info : Targeting : Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
 msgstr "除非你只定位连接到你的主页，你的应用和你的活动的受众，否则不用填写。"
 
-#: app.js:17116
+#: app.js:17058
 msgctxt "Info : Targeting : Friends Of Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event."
 msgstr "除非你只定位有朋友连接到你的主页，你的应用和你的活动的受众，否则不用填写。"
 
-#: app.js:17115
+#: app.js:17057
 msgctxt "Info : Targeting : Excluded Connections"
 msgid "Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event."
 msgstr "除非你只定位没有连接到你的主页，你的应用和你的活动的受众，否则不用填写。"
 
-#: app.js:9396
+#: app.js:9363
 msgctxt "Automation : Analyze Window"
 msgid "Lifetime"
 msgstr "永久的"
 
-#: app.js:17130
+#: app.js:17072
 msgctxt "Info : Budget"
 msgid "lifetime budget"
 msgstr "永久预算"
 
-#: app.js:18521
+#: app.js:18082
 msgctxt "Validation : Budget"
 msgid "Lifetime budget is required"
 msgstr "需要永久预算"
 
-#: app.js:17134
+#: app.js:17076
 msgctxt "Info : Targeting : Audiences"
 msgid "List of targeting audiences. Separate Ad Set will be created for each audience. If existing Ad Set is selected, then only one audience will be here."
 msgstr "目标受众列表。将为每个受众创建独立的Ad Set。如果选择现有Ad Set，那么只有一个受众可见。"
 
-#: app.js:26479
+#: app.js:26587
 msgctxt "Audience Opt Groups"
 msgid "Lookalike"
 msgstr "看起来像"
 
-#: app.js:26491
+#: app.js:26599
 msgctxt "Audience Opt Groups"
 msgid "Managed"
 msgstr "管理"
 
-#: app.js:17087
+#: app.js:17029
 msgctxt "Info : Message"
 msgid "Maximum length is 300 characters. Will be automatically cut."
 msgstr "最大长度为300个字符。会自动截断。"
 
-#: app.js:17086
+#: app.js:17028
 msgctxt "Info : Headline"
 msgid "Maximum length is 40 characters. Will be automatically cut."
 msgstr "最大长度为40个字符。会自动截断。"
 
-#: app.js:17073
+#: app.js:17015
 msgctxt "Info : Audiences : In The Last"
 msgid "Maximum time: 180 days"
 msgstr "最长时限:  180天"
 
-#: app.js:27325
+#: app.js:26815
 msgid "Men"
 msgstr "男性"
 
-#: app.js:20491
-#: app.js:20532
-#: app.js:20583
-#: app.js:20663
-#: app.js:20802
-#: app.js:28513
-#: app.js:28521
-#: app.js:29697
+#: app.js:20549
+#: app.js:21195
+#: app.js:21230
+#: app.js:21484
+#: app.js:21623
+#: app.js:28485
+#: app.js:28493
+#: app.js:29669
 msgctxt "Placement"
 msgid "Mobile Feed"
 msgstr "手机频道"
 
-#: app.js:7617
+#: app.js:7407
 msgctxt "Pacing"
 msgid "Monday"
 msgstr "星期一"
 
-#: app.js:12000
+#: app.js:12371
 msgctxt "Column : Status : Ad Set"
 msgid "Not Delivering"
 msgstr "发送失败"
 
-#: app.js:12099
+#: app.js:12470
 msgctxt "Column : Status : Ad"
 msgid "Not Delivering"
 msgstr "发送失败"
 
-#: app.js:3907
+#: app.js:4020
 msgctxt "Automation : Ad Set : Action"
 msgid "Notify By Email"
 msgstr "通过电子邮件通知"
 
-#: app.js:9089
+#: app.js:8454
 msgctxt "Pricing Table"
 msgid "Online chat support"
 msgstr "支持在线聊天"
 
-#: app.js:14838
-#: app.js:14849
+#: app.js:14885
+#: app.js:14896
 msgid "Open Advanced Settings"
 msgstr "打开高级设置"
 
-#: app.js:20630
-#: app.js:20704
-#: app.js:22670
-#: app.js:4480
+#: app.js:20596
+#: app.js:21525
+#: app.js:22485
+#: app.js:4595
 msgctxt "Call To Action"
 msgid "Open Link"
 msgstr "打开链接"
 
-#: app.js:16804
+#: app.js:16759
 msgctxt "URL Macros"
 msgid "Optimization goal"
 msgstr "优化目标"
 
-#: app.js:9095
+#: app.js:8460
 msgctxt "Pricing Table"
 msgid "Optimization of mobile events"
 msgstr "优化移动事件"
 
-#: app.js:2146
-#: app.js:4081
-#: app.js:4083
+#: app.js:2239
+#: app.js:4194
+#: app.js:4196
 msgctxt "Error : Group"
 msgid "Page"
 msgstr "页"
 
-#: app.js:20390
+#: app.js:21091
 msgctxt "Objective"
 msgid "Page"
 msgstr "页"
 
-#: app.js:14105
+#: app.js:11165
 msgctxt "Error : Page"
 msgid "Page is required."
 msgstr "需要页。"
 
-#: app.js:19167
+#: app.js:19045
 msgctxt "Validation : Page"
 msgid "Page is required."
 msgstr "需要页。"
 
-#: app.js:20400
+#: app.js:21101
 msgctxt "Objective"
 msgid "Page Likes"
 msgstr "为页面点赞"
 
-#: app.js:26609
+#: app.js:26416
 msgctxt "Connections Opt Groups"
 msgid "Pages"
 msgstr "网页"
 
-#: app.js:26488
+#: app.js:26596
 msgctxt "Audience Opt Groups"
 msgid "Partner"
 msgstr "伙伴"
@@ -1851,1041 +1851,1042 @@ msgstr "伙伴"
 msgid "Paste your customer list here."
 msgstr "在这里贴上您的客户名单。"
 
-#: app.js:25896
+#: app.js:25864
 msgctxt "Campaign : Status"
 msgid "Paused"
 msgstr "被暂停"
 
-#: app.js:12147
+#: app.js:12518
 msgctxt "Column : Status : Ad"
 msgid "Pending Billing Info"
 msgstr "账单信息待审核"
 
-#: app.js:24223
+#: app.js:23339
 msgctxt "Tooltip : Slider : Audiences"
 msgid "people"
 msgstr "人群"
 
-#: app.js:26615
+#: app.js:26422
 msgctxt "Connections Opt Groups"
 msgid "Places"
 msgstr "地方"
 
-#: app.js:20600
-#: app.js:20674
-#: app.js:22640
+#: app.js:20566
+#: app.js:21495
+#: app.js:22455
 msgctxt "Call To Action"
 msgid "Play Game"
 msgstr "玩游戏"
 
-#: app.js:2194
+#: app.js:2057
 msgctxt "Error : Connection"
 msgid "Please, check that your computer is connected to the Internet."
 msgstr "请检查您的计算机连接到互联网。"
 
-#: app.js:5718
+#: app.js:5723
 msgctxt "Error : Replace"
 msgid "Please, select application by direct link to play.google.com or itunes.apple.com if you\n"
 "               want to promote App Installs. No redirect links are supported."
 msgstr "如果您要推广应用安装，请选择直接粘贴应用程序play.google.com或itunes.apple.com的地址。不支持非直接连接。"
 
-#: app.js:17092
+#: app.js:17034
 msgctxt "Info : Image : Library"
 msgid "Please, select images that you want to use in your new Ads."
 msgstr "请选择您要在新广告中使用的图像。"
 
-#: app.js:5713
+#: app.js:5718
 msgctxt "Error : Replace"
 msgid "Please, select page or change targeting placement."
 msgstr "请选择页面或更改目标位置。"
 
-#: app.js:1040
+#: app.js:1043
 msgctxt "Error : Page"
 msgid "Please, try to"
 msgstr "请尝试"
 
-#: app.js:20412
+#: app.js:21113
 msgctxt "Objective"
 msgid "Post Engagement"
 msgstr "广告订阅量"
 
-#: app.js:8263
+#: app.js:8208
 msgctxt "Plan"
 msgid "Premiun plan"
 msgstr "优先计划"
 
-#: app.js:13984
+#: app.js:11044
 msgctxt "Error : Preset"
 msgid "Preset name is required."
 msgstr "需要预设名称。"
 
-#: app.js:9351
+#: app.js:9318
 msgctxt "Automation : Analyze Window"
 msgid "Previous Hour"
 msgstr "前一小时"
 
-#: app.js:20342
+#: app.js:21043
 msgctxt "Objective"
 msgid "Re-engage existing users"
 msgstr "重新吸引现有用户"
 
-#: app.js:6369
+#: app.js:6403
 msgctxt "Informer"
 msgid "reach"
 msgstr "覆盖率"
 
-#: app.js:18669
+#: app.js:18546
 msgctxt "Validation : Instagram Account"
 msgid "read in our blog."
 msgstr "在我们的博客里阅读。"
 
-#: app.js:1040
+#: app.js:1043
 msgctxt "Error : Page"
 msgid "reload"
 msgstr "重装"
 
-#: app.js:3898
+#: app.js:4011
 msgctxt "Automation : Ad Set : Action"
 msgid "Relocate Budget"
 msgstr "搬迁预算"
 
-#: app.js:20494
-#: app.js:20526
-#: app.js:20805
-#: app.js:22777
-#: app.js:28509
-#: app.js:28531
-#: app.js:29700
+#: app.js:21189
+#: app.js:21233
+#: app.js:21626
+#: app.js:22592
+#: app.js:28481
+#: app.js:28503
+#: app.js:29672
 msgctxt "Placement"
 msgid "Right Column"
 msgstr "右栏"
 
-#: app.js:3925
+#: app.js:4038
 msgctxt "Automation : Ad : Action"
 msgid "Rotate"
 msgstr "旋转"
 
-#: app.js:7642
+#: app.js:7432
 msgctxt "Pacing"
 msgid "Saturday"
 msgstr "星期六"
 
-#: app.js:25884
+#: app.js:25852
 #: components/crop/crop__modal/cropModal.html:25
 msgid "Save"
 msgstr "保存"
 
-#: app.js:17080
+#: app.js:17022
 msgctxt "Info : Copy : Ads"
 msgid "Select 'No' if you want to copy Ad Set without Ads."
 msgstr "如果你想排除广告组并且复制Adset，选择“否”。"
 
-#: app.js:17099
+#: app.js:17041
 msgctxt "Info : Automation : Ad Set"
 msgid "Select actions that you want to apply to selected Ad Sets when all rules match."
 msgstr "选择要应用到选定Ad Sets时和规则相匹配的指令。"
 
-#: app.js:17098
+#: app.js:17040
 msgctxt "Info : Automation : Ad Set"
 msgid "Select Ad Sets that you want to use automation for."
 msgstr "选择你要自动设置的Ad Sets。"
 
-#: app.js:17133
+#: app.js:17075
 msgctxt "Info : Automation : Notifications"
 msgid "Select emails to send notifications to."
 msgstr "选择电子邮件发送通知。"
 
-#: app.js:17131
+#: app.js:17073
 msgctxt "Info : Calendar"
 msgid "Select the advertisement period for your Ads."
 msgstr "选择广告的发布周期。"
 
-#: app.js:17085
+#: app.js:17027
 msgctxt "Info : Image"
 msgid "Select the images."
 msgstr "选择图像。"
 
-#: app.js:17111
+#: app.js:17053
 msgctxt "Info : Targeting : Age"
 msgid "Select the minimum and maximum age of the people who will find your Ad relevant."
 msgstr "选择你的广告会关联到的人群的最小年龄和最大年龄。"
 
-#: app.js:17132
+#: app.js:17074
 msgctxt "Info : Automation : Calendar"
 msgid "Select the period for your automation."
 msgstr "选择您要设置自动的时间段。"
 
-#: app.js:17079
+#: app.js:17021
 msgctxt "Info : Ad Set"
 msgid "Select to create new Ad Set or use an existing Ad Set."
 msgstr "选择创建新的adset或使用现有Ad Set。"
 
-#: app.js:17078
+#: app.js:17020
 msgctxt "Info : Campaign"
 msgid "Select to create new Campaign or use an existing Campaign."
 msgstr "选择创建新的广告或使用现有的广告活动。"
 
-#: app.js:17140
+#: app.js:17082
 msgctxt "Info : Status"
 msgid "Set activity status for your Campaign."
 msgstr "设置您的广告活动系列的状态。"
 
-#: app.js:20597
-#: app.js:20671
-#: app.js:20813
-#: app.js:22637
-#: app.js:4465
+#: app.js:20563
+#: app.js:21492
+#: app.js:21634
+#: app.js:22452
+#: app.js:4580
 msgctxt "Call To Action"
 msgid "Shop Now"
 msgstr "即刻购买"
 
-#: app.js:17127
+#: app.js:17069
 msgctxt "Info : Caption"
 msgid "Short caption of the url that people will reach after clicking on your Ad."
 msgstr "短标题，人们会点击广告后到达的url。"
 
-#: app.js:20618
-#: app.js:20692
-#: app.js:20822
-#: app.js:22658
-#: app.js:4468
+#: app.js:20584
+#: app.js:21513
+#: app.js:21643
+#: app.js:22473
+#: app.js:4583
 msgctxt "Call To Action"
 msgid "Sign Up"
 msgstr "注册"
 
-#: app.js:6323
+#: app.js:6357
 msgctxt "Informer"
 msgid "spend"
 msgstr "花费"
 
-#: app.js:25889
+#: app.js:25857
 msgctxt "Validation : Campaign"
 msgid "Spend Cap is required"
 msgstr "需要支出上限"
 
-#: app.js:25888
+#: app.js:25856
 msgctxt "Validation : Campaign"
 msgid "Spend Cap must be numeric"
 msgstr "支出上限必须是数字"
 
-#: app.js:3904
+#: app.js:4017
 msgctxt "Automation : Ad Set : Action"
 msgid "Start"
 msgstr "开始"
 
-#: app.js:3922
+#: app.js:4035
 msgctxt "Automation : Ad : Action"
 msgid "Start"
 msgstr "开始"
 
-#: app.js:3901
+#: app.js:4014
 msgctxt "Automation : Ad Set : Action"
 msgid "Stop"
 msgstr "停止"
 
-#: app.js:8280
+#: app.js:8225
 msgctxt "Plan"
 msgid "Stripe Checkout closed without making a sale."
 msgstr "促销期间不支持Stripe支付。"
 
-#: app.js:9030
-#: app.js:9149
+#: app.js:8395
+#: app.js:8514
 msgctxt "Pricing Table"
 msgid "Subscribe"
 msgstr "订阅"
 
-#: app.js:7647
+#: app.js:7437
 msgctxt "Pacing"
 msgid "Sunday"
 msgstr "星期日"
 
-#: app.js:14112
+#: app.js:11172
 #: components/control/control-automation-sync/controlAutomationSync.html:13
 msgctxt "Error : Sync"
 msgid "Sync period value is required."
 msgstr "需要同步周期值。"
 
-#: app.js:14117
+#: app.js:11177
 msgctxt "Error : Sync"
 msgid "Sync period value should be greater or equal to 15 minutes."
 msgstr "同步周期值应大于或等于15分钟。"
 
-#: app.js:17117
+#: app.js:17059
 msgctxt "Info : Targeting : Custom Audiences"
 msgid "Target your Ads to people from your custom audience."
 msgstr "从您的自定义受众群体定位接受广告的人。"
 
-#: app.js:17109
+#: app.js:17051
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your Ad by city isn't available in all countries."
 msgstr "若你的广告无法在全部国家展示，则按城市定位广告。"
 
-#: app.js:17109
+#: app.js:17051
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your Ad by ZIP code is only available in the United States."
 msgstr "通过邮政编码定位广告，仅限于美国。"
 
-#: app.js:17087
+#: app.js:17029
 msgctxt "Info : Message"
 msgid "Tell people a bit more about your Ad(s). Make sure to clearly explain what you are promoting."
 msgstr "向人们更多的讲述您的广告（S）。请务必解释清楚，你要推送什么。"
 
-#: app.js:17088
+#: app.js:17030
 msgctxt "Info : Text : Carousel"
 msgid "Tell people a bit more about your Ad(s). Make sure to clearly explain what you are promoting."
 msgstr "向人们更多的讲述您的广告（S）。请务必解释清楚，你要推送什么。"
 
-#: app.js:17071
+#: app.js:17013
 msgctxt "Info : Audiences : Upload File"
 msgid "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
 msgstr "文本文件（.txt和.csv）可以保存单独行的记录或以逗号分隔的列表记录。"
 
-#: app.js:13931
+#: app.js:10991
 msgctxt "Error : Link Description"
 msgid "The caption must be more than 1 and less than 60 characters long."
 msgstr "标题必须大于1且小于60个字符长。"
 
-#: app.js:13922
+#: app.js:10982
 msgctxt "Error : Link Caption"
 msgid "The caption must be more than 1 and less than 90 characters long."
 msgstr "字幕必须大于1且小于90个字符长。"
 
-#: app.js:17100
+#: app.js:17042
 msgctxt "Info : Link Caption"
 msgid "The caption of a link in the post (appears beneath the name)."
 msgstr "在公告中一个链接的标题（出现在名称下）。"
 
-#: app.js:14093
+#: app.js:11153
 msgctxt "Error : Headline"
 msgid "The headline is required and cannot be empty."
 msgstr "需要填写标题，不能为空。"
 
-#: app.js:14098
+#: app.js:11158
 msgctxt "Error : Headline"
 msgid "The headline must be more than 1 and less than 40 characters long."
 msgstr "标题必须大于1且小于40个字符长。"
 
-#: app.js:13913
+#: app.js:10973
 msgctxt "Error : Link Name"
 msgid "The link name must be more than 1 and less than 50 characters long."
 msgstr "链接名称必须大于1且小于50个字符长。"
 
-#: app.js:13881
+#: app.js:10941
 msgctxt "Error : Link URL"
 msgid "The Link URl is required."
 msgstr "需要链接的URL。"
 
-#: app.js:17067
+#: app.js:17009
 msgctxt "Info : Frequency Cap"
 msgid "The maximum number of times you want your Ad to show to people. We suggest frequency cap 2 based on your Campaign duration and placement."
 msgstr "您希望自己的广告展示给人们的最大次数。我们建议为您的活动持续时间和位置频率上限的2倍。"
 
-#: app.js:14057
-#: app.js:1433
-#: app.js:22905
+#: app.js:11117
+#: app.js:1735
+#: app.js:23426
 msgctxt "Error : Name"
 msgid "The name is required and cannot be empty."
 msgstr "需要填写名字，不能为空。"
 
-#: app.js:14062
+#: app.js:11122
 msgctxt "Error : Name"
 msgid "The name must be more than 1 and less than 100 characters long."
 msgstr "该名称必须是大于1且小于100个字符长。"
 
-#: app.js:17093
+#: app.js:17035
 msgctxt "Info : Link Name"
 msgid "The name of the link."
 msgstr "链接的名称。"
 
-#: app.js:17073
+#: app.js:17015
 msgctxt "Info : Audiences : In The Last"
 msgid "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
 msgstr "受众访问您的网站后，继续保存为您的受众群体的天数。受众将会根据你设置的时间被移除出受众群，除非他们再次访问你的网站。"
 
-#: app.js:14081
+#: app.js:11141
 msgctxt "Error : Pixel"
 msgid "The pixel name is required and cannot be empty."
 msgstr "需要像素名称，不能为空。"
 
-#: app.js:14086
+#: app.js:11146
 msgctxt "Error : Pixel"
 msgid "The pixel name must be more than 1 and less than 100 characters long."
 msgstr "像素名称必须大于1且小于100个字符长。"
 
-#: app.js:13943
+#: app.js:11003
 msgctxt "Error : Text"
 msgid "The text message must be more than 1 and less than 300 characters long."
 msgstr "文本消息必须大于1且小于300个字符长。"
 
-#: app.js:14044
+#: app.js:11104
 msgctxt "Error : Bid"
 msgid "The value should be greater or equal to 0.01."
 msgstr "该值应大于或等于0.01。"
 
-#: app.js:14118
+#: app.js:11178
 msgctxt "Error : Sync"
 msgid "The value should be numeric."
 msgstr "该值应是数字。"
 
-#: app.js:8311
+#: app.js:8256
 msgctxt "Plan"
 msgid "There was a mistake when updating plan"
 msgstr "更新计划时出现了一个错误"
 
-#: app.js:17136
+#: app.js:17078
 msgctxt "Info : Bid"
 msgid "This bid helps determine your Ad's strength in the Ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your Ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your Ads."
 msgstr "出价决定了你的广告在广告竞标中的影响力，从而决定了你的广告在网站上运营的可能性。我们将只收取能保证你的广告赢得竞标的金额，这个数值可能比您的最高出价额低，因此我们建议你在创建广告时输入您的真实的最大竞标金额。"
 
-#: app.js:9387
+#: app.js:9354
 msgctxt "Automation : Analyze Window"
 msgid "This Month"
 msgstr "这个月"
 
-#: app.js:1040
+#: app.js:1043
 msgctxt "Error : Page"
 msgid "this page."
 msgstr "这一页。"
 
-#: app.js:14035
+#: app.js:11095
 #: components/control/control-bid/controlBid.html:90
 msgctxt "Error : Bid"
 msgid "This value is required."
 msgstr "此值是必需的。"
 
-#: app.js:9357
+#: app.js:9324
 msgctxt "Automation : Analyze Window"
 msgid "This Week"
 msgstr "本星期"
 
-#: app.js:7632
+#: app.js:7422
 msgctxt "Pacing"
 msgid "Thursday"
 msgstr "星期四"
 
-#: app.js:18790
+#: app.js:18667
 msgctxt "Instagram Account"
 msgid "to 'Aitarget' application in order to create instagram account for the selected page."
 msgstr "转到'Aitarget'应用以为所选页面创造Instagram帐户。"
 
-#: app.js:9345
+#: app.js:9312
 msgctxt "Automation : Analyze Window"
 msgid "Today"
 msgstr "今天"
 
-#: app.js:6328
+#: app.js:6362
 msgctxt "Informer"
 msgid "total spend"
 msgstr "总支出"
 
-#: app.js:9040
+#: app.js:8405
 msgctxt "Pricing Table"
 msgid "Trial days left:"
 msgstr "剩余试用日期:  "
 
-#: app.js:7622
+#: app.js:7412
 msgctxt "Pacing"
 msgid "Tuesday"
 msgstr "星期二"
 
-#: app.js:2195
+#: app.js:2058
 msgctxt "Error : Connection"
 msgid "Unable to connect to the Internet!"
 msgstr "无法连接到互联网！"
 
-#: app.js:1039
+#: app.js:1042
 msgctxt "Error : Page"
 msgid "Unknown error occurred on this page."
 msgstr "此页面上出现未知错误。"
 
-#: app.js:29754
-#: app.js:7292
+#: app.js:29726
+#: app.js:7201
 msgctxt "Error : Preview"
 msgid "Unknown error occurred, when requesting for Ad preview."
 msgstr "请求广告预览时发生未知错误。"
 
-#: app.js:3956
-#: app.js:3965
+#: app.js:4069
+#: app.js:4078
 msgctxt "Automation : Ad Set : Param"
 msgid "Up"
 msgstr "向上"
 
-#: app.js:17066
+#: app.js:17008
 msgctxt "Info : URL"
 msgid "Url of a website that you want to promote."
 msgstr "要推广的网站网址。"
 
-#: app.js:17074
+#: app.js:17016
 msgctxt "Info : URL : Post"
 msgid "URL tags you specify here will be appended to or will replace existing tags in the URLs."
 msgstr "在这里指定的URL标记将被追加到或将替换网址的现有标记。"
 
-#: app.js:27684
+#: app.js:27699
 msgctxt "Info : URL"
 msgid "URL to main page or products category on the website."
 msgstr "跳转到到网站主页或产品类别的URL。"
 
-#: app.js:20603
-#: app.js:20627
-#: app.js:20677
-#: app.js:20701
-#: app.js:22643
-#: app.js:22667
-#: app.js:4450
-#: app.js:4477
+#: app.js:20569
+#: app.js:20593
+#: app.js:21498
+#: app.js:21522
+#: app.js:22458
+#: app.js:22482
+#: app.js:4565
+#: app.js:4592
 msgctxt "Call To Action"
 msgid "Use Mobile App"
 msgstr "使用移动应用"
 
-#: app.js:17102
-#: app.js:27727
+#: app.js:17044
+#: app.js:27650
 msgctxt "Info : Deep Link"
 msgid "Using a Deep Link"
 msgstr "使用深层链接"
 
-#: app.js:26494
+#: app.js:26602
 msgctxt "Audience Opt Groups"
 msgid "Video"
 msgstr "视频"
 
-#: app.js:20425
+#: app.js:21126
 msgctxt "Objective"
 msgid "Video Views"
 msgstr "视频观看次数"
 
-#: app.js:20624
-#: app.js:20698
-#: app.js:22664
-#: app.js:4474
+#: app.js:20590
+#: app.js:21519
+#: app.js:22479
+#: app.js:4589
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "观看更多"
 
-#: app.js:20612
-#: app.js:20686
-#: app.js:22652
-#: app.js:4471
+#: app.js:20578
+#: app.js:21507
+#: app.js:22467
+#: app.js:4586
 msgctxt "Call To Action"
 msgid "Watch Video"
 msgstr "看视频"
 
-#: app.js:20355
+#: app.js:21056
 msgctxt "Objective"
 msgid "Website"
 msgstr "网站"
 
-#: app.js:26482
+#: app.js:26590
 msgctxt "Audience Opt Groups"
 msgid "Website"
 msgstr "网站"
 
-#: app.js:7627
+#: app.js:7417
 msgctxt "Pacing"
 msgid "Wednesday"
 msgstr "星期三"
 
-#: app.js:20328
-#: app.js:20363
-#: app.js:20398
+#: app.js:21029
+#: app.js:21064
+#: app.js:21099
 msgctxt "Objective"
 msgid "What kind of actions do you want to get?"
 msgstr "你想要采取什么步骤？"
 
-#: app.js:17102
-#: app.js:27727
+#: app.js:17044
+#: app.js:27650
 msgctxt "Info : Deep Link"
 msgid "When launching an app with a deep link Facebook will be able to open your app in a specific state."
 msgstr "当发布一个含有深层连接的应用程序时，Facebook将能够在一个特定的状态打开您的应用程序。"
 
-#: app.js:27601
+#: app.js:27573
 msgid "Wi-Fi only"
 msgstr "仅Wi-Fi环境下使用"
 
-#: app.js:27328
+#: app.js:26818
 msgid "Women"
 msgstr "女性"
 
-#: app.js:9354
+#: app.js:9321
 msgctxt "Automation : Analyze Window"
 msgid "Yesterday"
 msgstr "昨天"
 
-#: app.js:17568
-#: app.js:19772
+#: app.js:17523
+#: app.js:19684
 msgctxt "Validation : App"
 msgid "You App is not registered in Facebook."
 msgstr "你的应用没有在Facebook中注册。"
 
-#: app.js:17089
+#: app.js:17031
 msgctxt "Info : Preview"
 msgid "You can choose different Ad formats and see how your Ads looks like."
 msgstr "您可以选择不同的广告格式，观察每一种广告的样式。"
 
-#: app.js:17091
+#: app.js:17033
 msgctxt "Info : Preview"
 msgid "You can choose different Ad formats and see how your Ads will like after creation."
 msgstr "您可以选择不同的广告格式，观察哪一种更受欢迎。"
 
-#: app.js:17138
+#: app.js:17080
 msgctxt "Info : Pay For"
 msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your Ad. Your choice determines how you pay and who your Ad is served to."
 msgstr "您可以根据你的广告类型选择为...目标，点击或转换（需要选择像素）出价。您的选择决定了你的广告的付费方式及送达方式。"
 
-#: app.js:17137
+#: app.js:17079
 msgctxt "Info : Optimize For"
 msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your Ad is served to."
 msgstr "你可以选择你想优化的东西。您的选择决定了你的广告的付费方式及送达方式。"
 
-#: app.js:17072
+#: app.js:17014
 msgctxt "Info : Audiences : Copy And Paste"
 msgid "You can copy columns from a spreadsheet with one record per row or a list of records separated by commas"
 msgstr "您可以从每行一个记录或用逗号分隔的记录列表的电子表格中复制列，"
 
-#: app.js:17090
+#: app.js:17032
 msgctxt "Info : Preview"
 msgid "You can delete comments to your Ad."
 msgstr "您可以删除您广告的评论。"
 
-#: app.js:17070
+#: app.js:17012
 msgctxt "Info : Audiences : Apps For"
 msgid "You can only upload IDs for people that download or use your Facebook app."
 msgstr "您只能使用您的Facebook应用程序的人上传IDs。"
 
-#: app.js:17135
+#: app.js:17077
 msgctxt "Info : Schedule"
 msgid "You can schedule your Ads for specific hours and days of the week."
 msgstr "您可以为你的广告设定特定的展示时间或星期几。"
 
-#: app.js:17071
+#: app.js:17013
 msgctxt "Info : Upload File Audiences"
 msgid "You can upload files in .csv or .txt format."
 msgstr "您可以上传.csv或.txt格式的文件。"
 
-#: app.js:17102
-#: app.js:27727
+#: app.js:17044
+#: app.js:27650
 msgctxt "Info : Deep Link"
 msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
 msgstr "您可以使用深层链接（例如:  MyApp的:  //立即购买/ 12345）或可用的应用程序链接。"
 
-#: app.js:19168
+#: app.js:19046
 msgctxt "Validation : Page"
 msgid "You don’t have any pages. You can’t use your profile page. You should"
 msgstr "您没有任何页面。你不能使用你的个人资料页面。你应该"
 
-#: app.js:10665
-#: app.js:20308
+#: app.js:13733
+#: app.js:21009
 msgctxt "Tooltip : Access"
 msgid "You have limited rights to create Ads"
 msgstr "你只有有限的权限来创建广告"
 
-#: app.js:4129
+#: app.js:4244
 msgctxt "Modal : Create : Title"
 msgid "You have successfully created"
 msgstr "您已成功创建"
 
-#: app.js:18790
+#: app.js:18667
 msgctxt "Instagram Account"
 msgid "You should"
 msgstr "你应该"
 
-#: app.js:17139
+#: app.js:17081
 msgctxt "Info : Status"
 msgid "Your Ads will have status that you choose."
 msgstr "你的广告下将会显示你所选择显示的状态。"
 
-#: app.js:17136
+#: app.js:17078
 msgctxt "Info : Bid"
 msgid "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
 msgstr "您的出价是根据你的Facebook广告上，你愿意为每次点击支付的最高金额（如果按每次点击费用出价）或每千次展示支付的最高金额（如果出价是一个CPM的基础上）。"
 
-#: app.js:29239
+#: app.js:29211
 msgctxt "Error : Creative : Remove"
 msgid "! Message:"
 msgstr "！信息:  "
 
-#: app.js:10070
+#: app.js:13138
 msgctxt "Breakdown"
 msgid "2 Weeks"
 msgstr "2周"
 
-#: app.js:24156
+#: app.js:23272
 msgctxt "Modal : Audiences : Lookalike : Title"
 msgid "a Lookalike Audience"
 msgstr "相似受众"
 
-#: app.js:19277
-#: app.js:2261
-#: app.js:4260
+#: app.js:20479
+#: app.js:2264
+#: app.js:4375
 msgctxt "Breadcrumb"
 msgid "Account"
 msgstr "帐户"
 
-#: app.js:29162
-#: app.js:4567
+#: app.js:29134
+#: app.js:4682
 msgctxt "Creative"
 msgid "Ad"
 msgstr "广告"
 
-#: app.js:19280
-#: app.js:2265
-#: app.js:4263
+#: app.js:20482
+#: app.js:2268
+#: app.js:4378
 msgctxt "Breadcrumb"
 msgid "Ad"
 msgstr "广告"
 
-#: app.js:19279
-#: app.js:4262
+#: app.js:20481
+#: app.js:4377
 msgctxt "Breadcrumb"
 msgid "Ad set"
 msgstr "广告设置"
 
-#: app.js:2264
+#: app.js:2267
 msgctxt "Breadcrumb"
 msgid "Ad Set"
 msgstr "广告设置"
 
-#: app.js:24327
-#: app.js:24382
-#: app.js:24386
+#: app.js:24139
+#: app.js:24194
+#: app.js:24198
 msgctxt "Modal : Copy : Title"
 msgid "Ad Set"
 msgstr "广告设置"
 
-#: app.js:29488
-#: app.js:29513
+#: app.js:29460
+#: app.js:29485
 msgctxt "Error : Preview"
 msgid "Ad URL is missing! Can't generate Ad preview!"
 msgstr "广告网址丢失！无法生成广告预览！"
 
-#: app.js:3243
+#: app.js:3408
 msgctxt "Audience : Rule"
 msgid "Add a value"
 msgstr "添加值"
 
-#: app.js:9405
+#: app.js:9372
 msgid "Add a value"
 msgstr "添加值"
 
-#: app.js:7081
+#: app.js:7029
+#: app.js:7036
 msgctxt "Error : Group"
 msgid "Ad Edit Modal"
 msgstr "广告组编辑模态"
 
-#: app.js:24910
+#: app.js:24705
 msgctxt "Modal : Bulk Edit"
 msgid "Ad Set"
 msgstr "Ad Set"
 
-#: app.js:7036
+#: app.js:6987
 msgctxt "Error : Group"
 msgid "Ad Sets Edit Modal"
 msgstr "Ad Sets编辑模态"
 
-#: app.js:9989
+#: app.js:13057
 msgctxt "Breakdown"
 msgid "Age"
 msgstr "年龄"
 
-#: app.js:10005
+#: app.js:13073
 msgctxt "Breakdown"
 msgid "Age and Gender"
 msgstr "年龄和性别"
 
-#: app.js:22908
+#: app.js:23429
 msgctxt "Modal : Automation : Title"
 msgid "an automation"
 msgstr "自动化"
 
-#: app.js:3243
+#: app.js:3408
 msgctxt "Audience : Rule"
 msgid "AND"
 msgstr "和"
 
-#: app.js:9287
+#: app.js:9254
 msgctxt "Automation : Condition"
 msgid "AND"
 msgstr "和"
 
-#: app.js:25004
+#: app.js:24816
 msgctxt "Modal : Preset : Ok Button"
 msgid "Apply"
 msgstr "应用"
 
-#: app.js:24700
+#: app.js:24495
 msgctxt "Modal : Bulk Edit : Ok Button"
 msgid "Apply"
 msgstr "应用"
 
-#: app.js:5508
+#: app.js:5513
 msgctxt "Audience : Sources : Opt Group"
 msgid "Audiences"
 msgstr "受众"
 
-#: app.js:23532
+#: app.js:24053
 msgctxt "Modal : Automation : Success : Title"
 msgid "automation"
 msgstr "自动"
 
-#: app.js:2262
+#: app.js:2265
 msgctxt "Breadcrumb"
 msgid "Automation"
 msgstr "自动"
 
-#: app.js:1628
-#: app.js:23122
+#: app.js:1930
+#: app.js:23643
 msgctxt "Error : Automation"
 msgid "automation."
 msgstr "自动。"
 
-#: app.js:25577
+#: app.js:25389
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Be careful, because deleted comments can't be restored!"
 msgstr "要小心，因为删除的评论无法恢复！"
 
-#: app.js:29249
+#: app.js:29221
 msgctxt "Modal : Creative : Title"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "要小心，因为无法恢复已删除的项目！"
 
-#: app.js:10818
+#: app.js:13886
 msgctxt "Modal : Delete : Body"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "要小心，因为无法恢复已删除的项目！"
 
-#: app.js:20025
+#: app.js:20726
 msgctxt "Ad Set : Description"
 msgid "Bid for"
 msgstr "竞标"
 
-#: app.js:24706
+#: app.js:24501
 msgctxt "Modal : Bulk Edit : Title"
 msgid "Bulk Editing"
 msgstr "批量编辑"
 
-#: app.js:10007
-#: app.js:10015
-#: app.js:10023
-#: app.js:10099
-#: app.js:10209
-#: app.js:10379
-#: app.js:9991
-#: app.js:9999
+#: app.js:13059
+#: app.js:13067
+#: app.js:13075
+#: app.js:13083
+#: app.js:13091
+#: app.js:13167
+#: app.js:13277
+#: app.js:13447
 msgctxt "Breakdown"
 msgid "By Action"
 msgstr "通过行动"
 
-#: app.js:10095
-#: app.js:10201
-#: app.js:10376
-#: app.js:9982
+#: app.js:13050
+#: app.js:13163
+#: app.js:13269
+#: app.js:13444
 msgctxt "Breakdown"
 msgid "By Delivery"
 msgstr "通过交付方式"
 
-#: app.js:10055
-#: app.js:10103
-#: app.js:10207
-#: app.js:10382
+#: app.js:13123
+#: app.js:13171
+#: app.js:13275
+#: app.js:13450
 msgctxt "Breakdown"
 msgid "By Time"
 msgstr "按时间"
 
-#: app.js:19278
-#: app.js:2263
-#: app.js:4261
+#: app.js:20480
+#: app.js:2266
+#: app.js:4376
 msgctxt "Breadcrumb"
 msgid "Campaign"
 msgstr "广告活动"
 
-#: app.js:29479
+#: app.js:29451
 msgctxt "Error : Preview"
 msgid "Can't show preview because of some error. Please modify the Ad."
 msgstr "因为错误无法显示预览。请修改广告。"
 
-#: app.js:25007
+#: app.js:24819
 msgctxt "Modal : Preset : Cancel Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:24154
+#: app.js:23270
 msgctxt "Modal : Ok Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:24474
+#: app.js:24286
 msgctxt "Modal : Crop : Cancel Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:24325
+#: app.js:24137
 msgctxt "Modal : Copy : Cancel Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:22625
-#: app.js:23597
+#: app.js:22440
+#: app.js:22713
 msgctxt "Modal : Cancel Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:24703
+#: app.js:24498
 msgctxt "Modal : Bulk Edit : Cancel Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:1440
-#: app.js:22911
+#: app.js:1742
+#: app.js:23432
 msgctxt "Modal : Automation : Cancel Button"
 msgid "Cancel"
 msgstr "取消"
 
-#: app.js:11294
+#: app.js:11670
 msgctxt "Error : Group"
 msgid "Change Status"
 msgstr "更改状态"
 
-#: app.js:25530
+#: app.js:25342
 msgctxt "Modal : Preview : Cancel Button"
 msgid "Close"
 msgstr "关"
 
-#: app.js:25967
+#: app.js:25662
 msgctxt "Modal : Video : Ok Button"
 msgid "Close"
 msgstr "关"
 
-#: app.js:3296
+#: app.js:3461
 msgctxt "Audience : Operator"
 msgid "Contains"
 msgstr "包含"
 
-#: app.js:24322
+#: app.js:24134
 msgctxt "Modal : Copy : Ok Button"
 msgid "Copy"
 msgstr "复制"
 
-#: app.js:24329
-#: app.js:24383
-#: app.js:24387
+#: app.js:24141
+#: app.js:24195
+#: app.js:24199
 msgctxt "Modal : Copy : Title"
 msgid "Copy"
 msgstr "复制"
 
-#: app.js:10013
+#: app.js:13081
 msgctxt "Breakdown"
 msgid "Country"
 msgstr "国家"
 
-#: app.js:24151
+#: app.js:23267
 msgctxt "Modal : Ok Button"
 msgid "Create"
 msgstr "创建"
 
-#: app.js:22910
+#: app.js:23431
 msgctxt "Modal : Automation : Ok Button"
 msgid "Create"
 msgstr "创建"
 
-#: app.js:1427
-#: app.js:22899
+#: app.js:1729
+#: app.js:23420
 msgctxt "Modal : Automation : Title"
 msgid "Create"
 msgstr "创建"
 
-#: app.js:10659
+#: app.js:13727
 msgctxt "Tooltip : Access"
 msgid "Creation of Ads in this"
 msgstr "在这个里面创建广告"
 
-#: app.js:25055
+#: app.js:24867
 msgctxt "Modal : Preset : Name"
 msgid "Custom"
 msgstr "顾客"
 
-#: app.js:25010
+#: app.js:24822
 msgctxt "Modal : Preset : Title"
 msgid "Customize Columns"
 msgstr "自定义列"
 
-#: app.js:19276
-#: app.js:2260
-#: app.js:4259
+#: app.js:20478
+#: app.js:2263
+#: app.js:4374
 msgctxt "Breadcrumb"
 msgid "Dashboard"
 msgstr "仪表板"
 
-#: app.js:10062
+#: app.js:13130
 msgctxt "Breakdown"
 msgid "Day"
 msgstr "天"
 
-#: app.js:20031
+#: app.js:20732
 msgctxt "Ad Set : Description"
 msgid "Disabled"
 msgstr "不能用"
 
-#: app.js:25569
+#: app.js:25381
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Do you really want to delete"
 msgstr "你真的要删除吗"
 
-#: app.js:10817
+#: app.js:13885
 msgctxt "Modal : Delete : Title"
 msgid "Do you really want to delete selected rows?"
 msgstr "难道你真的想删除所选行？"
 
-#: app.js:29248
+#: app.js:29220
 msgctxt "Modal : Creative : Title"
 msgid "Do you really want to delete this"
 msgstr "你真的要删除这个"
 
-#: app.js:23533
+#: app.js:24054
 msgctxt "Modal : Automation : Success : Body"
 msgid "Do you want to leave this page and go to automations list?"
 msgstr "你要离开这个页面并转到自动列表？"
 
-#: app.js:3299
+#: app.js:3464
 msgctxt "Audience : Operator"
 msgid "Does not contain"
 msgstr "不含"
 
-#: app.js:3286
+#: app.js:3451
 msgctxt "Audience : Source"
 msgid "Domain"
 msgstr "域"
 
-#: app.js:24433
+#: app.js:24245
 msgctxt "Modal : Copy : Body"
 msgid "edit"
 msgstr "编辑"
 
-#: app.js:1426
-#: app.js:22898
+#: app.js:1728
+#: app.js:23419
 msgctxt "Modal : Automation : Title"
 msgid "Edit"
 msgstr "编辑"
 
-#: app.js:23601
+#: app.js:22717
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad Set:"
 msgstr "编辑广告设置:  "
 
-#: app.js:22629
+#: app.js:22444
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad:"
 msgstr "修改广告:  "
 
-#: app.js:7081
+#: app.js:7029
 msgctxt "Error : Ad : Edit"
 msgid "Editing of this Ad isn't supported yet."
 msgstr "此广告还不支持编辑。"
 
-#: app.js:7036
+#: app.js:6987
 msgctxt "Error : Ad Set : Edit"
 msgid "Editing of this Ad Set isn't supported yet."
 msgstr "该广告设置的编辑还不支持。"
 
-#: app.js:20029
+#: app.js:20730
 msgctxt "Ad Set : Description"
 msgid "Enabled"
 msgstr "启用"
@@ -2933,281 +2934,281 @@ msgstr "输入链接名称"
 msgid "Enter text that clearly tells people about what you are promoting"
 msgstr "输入文字，清楚地告诉人们你推广的是什么"
 
-#: app.js:3302
+#: app.js:3467
 msgctxt "Audience : Operator"
 msgid "Equal to"
 msgstr "等于"
 
-#: app.js:29301
-#: app.js:29807
+#: app.js:29273
+#: app.js:29779
 msgctxt "Error : Upload"
 msgid "Error occured when uploading images."
 msgstr "上传图片时出错。"
 
-#: app.js:26043
+#: app.js:25738
 msgctxt "Error : Video"
 msgid "Error occured when uploading videos."
 msgstr "上传视频时出错。"
 
-#: app.js:29239
+#: app.js:29211
 msgctxt "Error : Creative : Remove"
 msgid "Error occurred when removing your"
 msgstr "移除你的广告时出现错误的"
 
-#: app.js:24314
+#: app.js:24126
 msgctxt "Error : Campaign"
 msgid "Error occurred when requesting existing Campaigns. Error:"
 msgstr "请求现有广告活动时发生错误。错误:  "
 
-#: app.js:23477
+#: app.js:23998
 msgctxt "Error : Automation"
 msgid "Error occurred when requesting existing rules presets. Error:"
 msgstr "请求现有规则预设时出错。错误:  "
 
-#: app.js:22555
+#: app.js:22370
 msgctxt "Error : Pages"
 msgid "Error occurred when requesting Pages. Error:"
 msgstr "请求页面时出现错误。错误:  "
 
-#: app.js:3292
+#: app.js:3457
 msgctxt "Audience : Source"
 msgid "Event"
 msgstr "事件"
 
-#: app.js:10645
+#: app.js:13713
 msgctxt "Tooltip : Export Data"
 msgid "Export visible data to CSV"
 msgstr "可见导出数据为CSV"
 
-#: app.js:10646
+#: app.js:13714
 msgctxt "Tooltip : Export Data"
 msgid "Export visible data to PDF"
 msgstr "导出可见数据为PDF"
 
-#: app.js:29248
+#: app.js:29220
 msgctxt "Modal : Creative : Title"
 msgid "from library?"
 msgstr "从库？"
 
-#: app.js:9997
+#: app.js:13065
 msgctxt "Breakdown"
 msgid "Gender"
 msgstr "性别"
 
-#: app.js:24433
+#: app.js:24245
 msgctxt "Modal : Copy : Body"
 msgid "go"
 msgstr "继续"
 
-#: app.js:9279
+#: app.js:9246
 msgctxt "Automation Operator"
 msgid "greater"
 msgstr "更大"
 
-#: app.js:3314
+#: app.js:3479
 msgctxt "Audience : Operator"
 msgid "Greater than"
 msgstr "比...更大"
 
-#: app.js:3317
+#: app.js:3482
 msgctxt "Audience : Operator"
 msgid "Greater than or equal to"
 msgstr "大于或等于"
 
-#: app.js:9473
+#: app.js:9440
 msgctxt "Automation : Group"
 msgid "GROUP"
 msgstr "组"
 
-#: app.js:10041
+#: app.js:13109
 msgctxt "Breakdown"
 msgid "Hourly stats by advertiser time zone"
 msgstr "按广告客户的时区每小时统计"
 
-#: app.js:10045
+#: app.js:13113
 msgctxt "Breakdown"
 msgid "Hourly stats by audience time zone"
 msgstr "按受众时区每小时统计"
 
-#: app.js:20245
-#: app.js:23983
+#: app.js:20946
+#: app.js:23099
 msgctxt "Modal : Pixel : Title"
 msgid "Install your pixel code!"
 msgstr "安装您的像素代码！"
 
-#: app.js:22840
-#: app.js:23805
+#: app.js:22655
+#: app.js:22921
 msgctxt "Modal : Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "发生内部错误。请告诉这个问题Aitarget支持团队。"
 
-#: app.js:10260
+#: app.js:13328
 msgctxt "Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "发生内部错误。请告诉Aitarget支持团队这个问题。"
 
-#: app.js:10659
+#: app.js:13727
 msgctxt "Tooltip : Access"
 msgid "isn't supported yet."
 msgstr "目前还不支持。"
 
-#: app.js:9281
+#: app.js:9248
 msgctxt "Automation Operator"
 msgid "less"
 msgstr "少于"
 
-#: app.js:9282
+#: app.js:9249
 msgctxt "Automation Operator"
 msgid "less or equal"
 msgstr "小于或等于"
 
-#: app.js:3308
+#: app.js:3473
 msgctxt "Audience : Operator"
 msgid "Less than"
 msgstr "少于"
 
-#: app.js:3311
+#: app.js:3476
 msgctxt "Audience : Operator"
 msgid "Less than or equal to"
 msgstr "小于或等于"
 
-#: app.js:3320
+#: app.js:3485
 msgctxt "Audience : Operator"
 msgid "Matches a regular expression"
 msgstr "匹配一个正则表达式"
 
-#: app.js:10074
+#: app.js:13142
 msgctxt "Breakdown"
 msgid "Month"
 msgstr "月"
 
-#: app.js:25957
+#: app.js:25652
 msgctxt "Modal : Video : Cancel Button"
 msgid "No"
 msgstr "没有"
 
-#: app.js:24637
-#: app.js:25691
+#: app.js:24449
+#: app.js:25503
 msgctxt "Modal : Dialog : Cancel Button"
 msgid "No"
 msgstr "没有"
 
-#: app.js:10050
-#: app.js:10058
-#: app.js:10079
-#: app.js:10150
-#: app.js:10221
-#: app.js:10414
-#: app.js:10422
-#: app.js:9985
+#: app.js:13053
+#: app.js:13118
+#: app.js:13126
+#: app.js:13147
+#: app.js:13218
+#: app.js:13289
+#: app.js:13482
+#: app.js:13490
 msgctxt "Breakdown"
 msgid "None"
 msgstr "没有"
 
-#: app.js:3305
+#: app.js:3470
 msgctxt "Audience : Operator"
 msgid "Not equal to"
 msgstr "和...不等"
 
-#: app.js:2806
+#: app.js:2809
 msgctxt "Chart"
 msgid "Not Selected"
 msgstr "未选择"
 
-#: app.js:11835
+#: app.js:12206
 msgctxt "Empty Grid"
 msgid "Nothing to show. Please, try to create new items"
 msgstr "没有显示。请尝试创建新项目"
 
-#: app.js:24433
+#: app.js:24245
 msgctxt "Modal : Copy : Body"
 msgid "Now you can"
 msgstr "现在你可以"
 
-#: app.js:2201
-#: app.js:7349
+#: app.js:2064
+#: app.js:7241
 msgctxt "Modal : Error : Ok Button"
 msgid "Ok"
 msgstr "好"
 
-#: app.js:20249
-#: app.js:20263
-#: app.js:23987
-#: app.js:24001
+#: app.js:20950
+#: app.js:20964
+#: app.js:23103
+#: app.js:23117
 msgctxt "Modal : Pixel : Ok Button"
 msgid "OK"
 msgstr "好"
 
-#: app.js:24435
+#: app.js:24247
 msgctxt "Modal : Copy : Ok Button"
 msgid "OK"
 msgstr "好"
 
-#: app.js:7346
+#: app.js:7238
 msgctxt "Error"
 msgid "Oops, something went wrong!"
 msgstr "哎呀！出错了！"
 
-#: app.js:24433
+#: app.js:24245
 msgctxt "Modal : Copy : Body"
 msgid "or"
 msgstr "或"
 
-#: app.js:3243
+#: app.js:3408
 msgctxt "Audience : Rule"
 msgid "OR"
 msgstr "或"
 
-#: app.js:9288
+#: app.js:9255
 msgctxt "Automation : Condition"
 msgid "OR"
 msgstr "或"
 
-#: app.js:5502
+#: app.js:5507
 msgctxt "Audience : Sources : Opt Group"
 msgid "Pages"
 msgstr "网页"
 
-#: app.js:3289
+#: app.js:3454
 msgctxt "Audience : Source"
 msgid "Path"
 msgstr "路径"
 
-#: app.js:5505
+#: app.js:5510
 msgctxt "Audience : Sources : Opt Group"
 msgid "Pixels"
 msgstr "像素"
 
-#: app.js:10029
+#: app.js:13097
 msgctxt "Breakdown"
 msgid "Placement"
 msgstr "放置"
 
-#: app.js:10033
+#: app.js:13101
 msgctxt "Breakdown"
 msgid "Placement and Device"
 msgstr "安置和设备"
 
-#: app.js:4462
+#: app.js:4577
 msgid "Play Game"
 msgstr "玩游戏"
 
-#: app.js:9436
+#: app.js:9403
 msgctxt "Validation : Rule"
 msgid "Please, check that you properly set all fields."
 msgstr "请检查您是否正确设置所有字段。"
 
-#: app.js:9448
+#: app.js:9415
 msgctxt "Validation : Rule"
 msgid "Please, check that your value is positive."
 msgstr "请检查您的值是正的。"
 
-#: app.js:9444
+#: app.js:9411
 msgctxt "Validation : Rule"
 msgid "Please, check that your value is set and is a number."
 msgstr "请检查您的值设置，并确保是一个数字。"
 
-#: app.js:25535
+#: app.js:25347
 msgctxt "Modal : Preview : Title"
 msgid "Preview Ad"
 msgstr "预览广告"
@@ -3222,313 +3223,312 @@ msgctxt "Error : Preview"
 msgid "Preview of this Ad isn't supported yet."
 msgstr "尚不支持此广告的预览。"
 
-#: app.js:25983
+#: app.js:25678
 msgctxt "Modal : Video : Title"
 msgid "Preview your video"
 msgstr "预览视频"
 
-#: app.js:8122
+#: app.js:8067
 msgctxt "Period : Date Preset"
 msgid "Previous month"
 msgstr "前一个月"
 
-#: app.js:25962
+#: app.js:25657
 msgctxt "Modal : Video : Title"
 msgid "Processing your video file"
 msgstr "处理您的视频文件"
 
-#: app.js:10037
+#: app.js:13105
 msgctxt "Breakdown"
 msgid "Product ID"
 msgstr "产品编号"
 
-#: app.js:10021
+#: app.js:13089
 msgctxt "Breakdown"
 msgid "Region"
 msgstr "地区"
 
-#: app.js:9473
+#: app.js:9440
 msgctxt "Automation : Group"
 msgid "RULE"
 msgstr "规则"
 
-#: app.js:22621
-#: app.js:23593
+#: app.js:22436
+#: app.js:22709
 msgctxt "Modal : Ok Button"
 msgid "Save"
 msgstr "保存"
 
-#: app.js:12539
-#: app.js:15177
-#: app.js:3416
-#: app.js:3493
+#: app.js:12910
+#: app.js:15211
+#: app.js:3241
+#: app.js:3318
 msgctxt "Placeholder : Search"
 msgid "Search by name..."
 msgstr "按名称搜索..."
 
-#: app.js:25021
-#: app.js:25314
-#: app.js:25352
+#: app.js:24833
+#: app.js:25126
+#: app.js:25164
 msgctxt "Modal : Preset"
 msgid "Select All Columns"
 msgstr "选择所有列"
 
-#: app.js:10644
+#: app.js:13712
 msgctxt "Tooltip : Select"
 msgid "Select at least one row from the table below"
 msgstr "从下表中选择至少一排"
 
-#: app.js:3243
+#: app.js:3408
 msgctxt "Audience : Rule"
 msgid "Select operator"
 msgstr "选择运营商"
 
-#: app.js:3243
+#: app.js:3408
 msgctxt "Audience : Rule"
 msgid "Select source"
 msgstr "选择源"
 
-#: app.js:25573
+#: app.js:25385
 msgctxt "Modal : Preview : Delete Comment"
 msgid "selected comments?"
 msgstr "选中的评论？"
 
-#: app.js:26062
+#: app.js:25757
 msgctxt "Modal : Video : Body"
 msgid "Step 1 of 3"
 msgstr "3步中的第1步"
 
-#: app.js:26034
+#: app.js:25729
 msgctxt "Modal : Video : Body"
 msgid "Step 2 of 3"
 msgstr "3步中的第2步"
 
-#: app.js:26024
+#: app.js:25719
 msgctxt "Modal : Video : Body"
 msgid "Step 3 of 3"
 msgstr "3步中的第3步"
 
-#: app.js:24432
+#: app.js:24244
 msgctxt "Modal : Copy : Title"
 msgid "Success!"
 msgstr "成功！"
 
-#: app.js:28316
+#: app.js:28265
 msgctxt "Targeting"
 msgid "Targeting settings for"
 msgstr "为目标设置"
 
-#: app.js:25131
+#: app.js:24943
 msgctxt "Error : Modal : Preset"
 msgid "There is already another preset with the same name."
 msgstr "已经有同名的另一个预设。"
 
-#: app.js:25571
+#: app.js:25383
 msgctxt "Modal : Preview : Delete Comment"
 msgid "this comment?"
 msgstr "对此有何评论？"
 
-#: app.js:8125
+#: app.js:8070
 msgctxt "Period : Date Preset"
 msgid "This month"
 msgstr "这个月"
 
-#: app.js:24382
+#: app.js:24194
 msgctxt "Modal : Copy : Title"
 msgid "to existing Campaign"
 msgstr "对现有活动"
 
-#: app.js:24386
+#: app.js:24198
 msgctxt "Modal : Copy : Title"
 msgid "to new Campaign"
 msgstr "新广告活动"
 
-#: app.js:24433
+#: app.js:24245
 msgctxt "Modal : Copy : Body"
 msgid "to your newly created Ad Set"
 msgstr "到新创建的广告设置"
 
-#: app.js:8107
+#: app.js:8052
 msgctxt "Period : Date Preset"
 msgid "Today"
 msgstr "今天"
 
-#: app.js:1628
-#: app.js:23122
+#: app.js:1930
+#: app.js:23643
 msgctxt "Error : Automation"
 msgid "Unknown error occurred when"
 msgstr "...时发生未知错误，"
 
-#: app.js:11282
+#: app.js:11658
 msgctxt "Error : Status"
 msgid "Unknown error occurred when changing status"
 msgstr "改变状态时出现未知错误"
 
-#: app.js:24456
+#: app.js:24268
 msgctxt "Error : Copy"
 msgid "Unknown error occurred when copying selected Ad Sets."
 msgstr "复制选定广告设置时发生未知错误。"
 
-#: app.js:24135
+#: app.js:23251
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when creating new Custom Audience."
 msgstr "创建新的自定义对象时出现未知错误。"
 
-#: app.js:24284
+#: app.js:23400
 msgctxt "Error : Audiences : Lookalike"
 msgid "Unknown error occurred when creating new Lookalike Audience."
 msgstr "创造新的相似受众群体时发生未知错误。"
 
-#: app.js:10797
+#: app.js:13865
 msgctxt "Error : Delete"
 msgid "Unknown error occurred when deleteing rows."
 msgstr "删除一个行时出现未知错误。"
 
-#: app.js:10607
+#: app.js:13675
 msgctxt "Error"
 msgid "Unknown error occurred when getting Ads ids"
 msgstr "获得广告组ID时发生未知错误"
 
-#: app.js:10575
+#: app.js:13643
 msgctxt "Error"
 msgid "Unknown error occurred when getting Ad Set ids"
 msgstr "获得Ad Set ID时出现未知错误"
 
-#: app.js:20275
+#: app.js:20976
 msgctxt "Error : Pixel"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "获得像素代码时出现未知错误。"
 
-#: app.js:24013
+#: app.js:23129
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "获得像素代码时出现未知错误。"
 
-#: app.js:23883
+#: app.js:22999
 msgctxt "Error : Update : Ad Set"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "更新选定的广告设置时发生未知错误。"
 
-#: app.js:24990
+#: app.js:24785
 msgctxt "Error : Bulk Edit"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "更新选定的广告设置时发生未知错误。"
 
-#: app.js:22878
+#: app.js:22691
 msgctxt "Error : Update : Ad"
 msgid "Unknown error occurred when updating selected Ads."
 msgstr "更新选择的广告时发生未知错误。"
 
-#: app.js:7057
+#: app.js:7008
 msgctxt "Error : Ad Set"
 msgid "Unknown error occurred, when requesting for Ad Set."
 msgstr "请求广告设置的时发生未知错误。"
 
-#: app.js:7103
+#: app.js:7058
 msgctxt "Error : Ad"
 msgid "Unknown error occurred, when requesting for Ad."
 msgstr "请求广告时发生未知错误。"
 
-#: app.js:691
-#: app.js:7246
+#: app.js:694
 msgctxt "Error : Automation"
 msgid "Unknown error occurred, when requesting for Optimization object."
 msgstr "请求优化对象时发生未知错误。"
 
-#: app.js:7339
+#: app.js:7231
 msgctxt "Error"
 msgid "Unknown error occurred."
 msgstr "出现未知错误。"
 
-#: app.js:25340
+#: app.js:25152
 msgctxt "Modal : Preset"
 msgid "Unselect All Columns"
 msgstr "取消选择所有列"
 
-#: app.js:1438
-#: app.js:22910
+#: app.js:1740
+#: app.js:23431
 msgctxt "Modal : Automation : Ok Button"
 msgid "Update"
 msgstr "更新"
 
-#: app.js:24471
-#: app.js:24477
+#: app.js:24283
+#: app.js:24289
 msgctxt "Modal : Crop : Ok Button"
 msgid "Upload images"
 msgstr "上传图片"
 
-#: app.js:3283
+#: app.js:3448
 msgctxt "Audience : Source"
 msgid "URL"
 msgstr "网址"
 
-#: app.js:10066
+#: app.js:13134
 msgctxt "Breakdown"
 msgid "Week"
 msgstr "周"
 
-#: app.js:24634
-#: app.js:25688
+#: app.js:24446
+#: app.js:25500
 msgctxt "Modal : Dialog : Ok Button"
 msgid "Yes"
 msgstr "是"
 
-#: app.js:25953
+#: app.js:25648
 msgctxt "Modal : Video : Ok Button"
 msgid "Yes"
 msgstr "是"
 
-#: app.js:25137
+#: app.js:24949
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "是"
 
-#: app.js:8110
+#: app.js:8055
 msgctxt "Period : Date Preset"
 msgid "Yesterday"
 msgstr "昨天"
 
-#: app.js:23532
+#: app.js:24053
 msgctxt "Modal : Automation : Success : Title"
 msgid "You have successfully"
 msgstr "您已成功"
 
-#: app.js:24433
+#: app.js:24245
 msgctxt "Modal : Copy : Body"
 msgid "You have successfully copied"
 msgstr "您已成功复制"
 
-#: app.js:9428
+#: app.js:9395
 msgctxt "Validation : Rule"
 msgid "Your rule is empty."
 msgstr "您的规则是空的。"
 
-#: app.js:26023
+#: app.js:25718
 msgctxt "Modal : Video : Title"
 msgid "Your video is being processed by Facebook..."
 msgstr "您的视频正在被Facebook处理..."
 
-#: app.js:26060
+#: app.js:25755
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Aitarget..."
 msgstr "您的视频被上传到Aitarget ..."
 
-#: app.js:26033
+#: app.js:25728
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Facebook..."
 msgstr "您的视频被上传到Facebook的..."
 
-#: app.js:17130
+#: app.js:17072
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend each day."
 msgstr "，您输入的金额是你每一天花费的最大值。"
 
-#: app.js:17130
+#: app.js:17072
 msgctxt "Info : Budget"
 msgid "daily budget"
 msgstr "日常开支"
 
-#: app.js:23925
+#: app.js:23041
 msgctxt "Audience : Custom : Example"
 msgid "– Country code + Area Code + Number\n"
 "                                       – No leading zeros from country code\n"
@@ -3543,7 +3543,7 @@ msgstr "- 国家代码+区号+电话号码\n"
 "                                       16505551234\n"
 "                                       16505551235"
 
-#: app.js:23924
+#: app.js:23040
 msgctxt "Audience : Custom : Example"
 msgid "– Numeric characters only\n"
 "                                      Ex.\n"
@@ -3572,7 +3572,7 @@ msgctxt "Video : Drag and drop"
 msgid "Drop Files Here"
 msgstr "拖放文件到这里"
 
-#: app.js:23917
+#: app.js:23033
 msgctxt "Audience : Custom"
 msgid "Emails"
 msgstr "电子邮件"
@@ -3582,12 +3582,12 @@ msgctxt "Automation"
 msgid "Enter emails to subscribe"
 msgstr "输入电子邮件地址用以订阅"
 
-#: app.js:27662
+#: app.js:27677
 msgctxt "Placeholder : URL"
 msgid "Enter url to your website"
 msgstr "输入您的网站网址"
 
-#: app.js:23923
+#: app.js:23039
 msgctxt "Audience : Custom : Example"
 msgid "Ex.\n"
 "                                                                   name1@example.com\n"
@@ -3602,7 +3602,7 @@ msgstr "例如。\n"
 "                                                                   名1 @ example.com，NAME2 @ example.com\n"
 "                                                                   name1@example.com; name2@example.com"
 
-#: app.js:23926
+#: app.js:23042
 msgctxt "Audience : Custom : Example"
 msgid "Learn more"
 msgstr "学到更多"
@@ -3619,25 +3619,25 @@ msgctxt "Image : Library"
 msgid "Library"
 msgstr "图书馆"
 
-#: app.js:24225
+#: app.js:23341
 msgctxt "Audience : Lookalike"
 msgid "Lookalike"
 msgstr "看起来像"
 
-#: app.js:23920
+#: app.js:23036
 msgctxt "Audience : Custom"
 msgid "Mobile Advertiser IDs"
 msgstr "移动广告客户编号"
 
-#: app.js:26509
-#: app.js:26601
-#: app.js:26773
-#: app.js:26891
+#: app.js:26408
+#: app.js:26617
+#: app.js:26745
+#: app.js:26927
 msgctxt "Audience : Size"
 msgid "people"
 msgstr "人"
 
-#: app.js:23919
+#: app.js:23035
 msgctxt "Audience : Custom"
 msgid "Phone Numbers"
 msgstr "电话号码"
@@ -3654,12 +3654,12 @@ msgctxt "Video : Upload"
 msgid "Upload"
 msgstr "上传"
 
-#: app.js:23918
+#: app.js:23034
 msgctxt "Audience : Custom"
 msgid "User IDs"
 msgstr "用户ID"
 
-#: app.js:23926
+#: app.js:23042
 msgctxt "Audience : Custom : Example"
 msgid "We support:\n"
 "                                                                – Android's advertising ID,\n"
@@ -3670,12 +3670,12 @@ msgstr "我们支持:  \n"
 "                                                                 - 苹果公司的广告标识符（IDFA），和\n"
 "                                                                 -  Facebook应用用户ID"
 
-#: app.js:27661
+#: app.js:27676
 msgctxt "Label : URL"
 msgid "Website Url"
 msgstr "网址"
 
-#: app.js:25873
+#: app.js:25841
 msgctxt "Modal : Campaign : Title"
 msgid "Edit Campaign:"
 msgstr "修改广告活动系列:"
@@ -3685,132 +3685,132 @@ msgstr "修改广告活动系列:"
 msgid "Select a post in the list or enter its ID or URL"
 msgstr "从列表中选择一个公告或输入公告ID或URL"
 
-#: app.js:15329
+#: app.js:15363
 msgctxt "Column : Adaccount"
 msgid "Account Status"
 msgstr "帐户状态"
 
-#: app.js:5895
+#: app.js:5940
 msgctxt "Optimize for"
 msgid "App Installs"
 msgstr "安装应用"
 
-#: app.js:5916
+#: app.js:5961
 msgctxt "Pay for"
 msgid "App Installs"
 msgstr "安装应用"
 
-#: app.js:3440
+#: app.js:3265
 msgctxt "Column : Audience"
 msgid "Availability"
 msgstr "可用性"
 
-#: app.js:15295
+#: app.js:15329
 msgctxt "Column : Adaccount"
 msgid "Balance"
 msgstr "平衡"
 
-#: app.js:5896
+#: app.js:5941
 msgctxt "Optimize for"
 msgid "Brand Awarness"
 msgstr "品牌认知度"
 
-#: app.js:15155
+#: app.js:15189
 msgctxt "Column : Adaccount"
 msgid "Business Name"
 msgstr "公司名称"
 
-#: app.js:19435
+#: app.js:19347
 msgctxt "Validation : Post"
 msgid "Couldn't find requested post. Check if you have access to this post and entered value is correct."
 msgstr "找不到需要的公告。检查您是否有访问这个公告的权限和输入的值是否是正确的。"
 
-#: app.js:19436
+#: app.js:19348
 msgctxt "Validation : Post"
 msgid "Couldn't get numeric post id from your input. Try to use another value."
 msgstr "无法从您的输入获得的数字的公告ID。尝试使用其他值。"
 
-#: app.js:3449
+#: app.js:3274
 msgctxt "Column : Audience"
 msgid "Date Created"
 msgstr "创建日期"
 
-#: app.js:15341
+#: app.js:15375
 msgctxt "Column : Adaccount"
 msgid "Disable Reason"
 msgstr "禁用原因"
 
-#: app.js:5897
+#: app.js:5942
 msgctxt "Optimize for"
 msgid "Engaged Users"
 msgstr "用户的活跃度"
 
-#: app.js:3529
+#: app.js:3354
 msgctxt "Column : Automation"
 msgid "Error"
 msgstr "错误"
 
-#: app.js:5898
+#: app.js:5943
 msgctxt "Optimize for"
 msgid "Event Responses"
 msgstr "事件响应"
 
-#: app.js:19439
+#: app.js:19351
 msgctxt "Info : Post"
 msgid "Ex."
 msgstr "例如"
 
-#: app.js:3459
+#: app.js:3284
 msgctxt "Column : Automation"
 msgid "ID"
 msgstr "ID"
 
-#: app.js:3394
+#: app.js:3219
 msgctxt "Column : Audience"
 msgid "ID"
 msgstr "ID"
 
-#: app.js:15142
+#: app.js:15176
 msgctxt "Column : Adaccount"
 msgid "ID"
 msgstr "ID"
 
-#: app.js:5899
+#: app.js:5944
 msgctxt "Optimize for"
 msgid "Impressions"
 msgstr "印象"
 
-#: app.js:5917
+#: app.js:5962
 msgctxt "Pay for"
 msgid "Impressions"
 msgstr "印象"
 
-#: app.js:15312
+#: app.js:15346
 msgctxt "Column : Adaccount"
 msgid "Limit"
 msgstr "限制"
 
-#: app.js:5918
+#: app.js:5963
 msgctxt "Pay for"
 msgid "Link Clicks"
 msgstr "点击链接"
 
-#: app.js:5900
+#: app.js:5945
 msgctxt "Optimize for"
 msgid "Link Clicks"
 msgstr "点击链接"
 
-#: app.js:3483
+#: app.js:3308
 msgctxt "Column : Automation"
 msgid "Name"
 msgstr "名称"
 
-#: app.js:15166
+#: app.js:15200
 msgctxt "Column : Adaccount"
 msgid "Name"
 msgstr "名称"
 
-#: app.js:3406
+#: app.js:3231
 msgctxt "Column : Audience"
 msgid "Name"
 msgstr "名称"
@@ -3822,132 +3822,132 @@ msgid "No Ad To Create"
 msgid_plural "Create [[$count]] New Ads"
 msgstr[0] "没有广告可创建"
 
-#: app.js:5919
+#: app.js:5964
 msgctxt "Pay for"
 msgid "Offer Claims"
 msgstr "索赔报价"
 
-#: app.js:5901
+#: app.js:5946
 msgctxt "Optimize for"
 msgid "Offer Claims"
 msgstr "索赔报价"
 
-#: app.js:5902
+#: app.js:5947
 msgctxt "Optimize for"
 msgid "Offsite Conversions"
 msgstr "异地转换"
 
-#: app.js:5903
+#: app.js:5948
 msgctxt "Optimize for"
 msgid "Page Engagement"
 msgstr "页面参与"
 
-#: app.js:5920
+#: app.js:5965
 msgctxt "Pay for"
 msgid "Page Likes"
 msgstr "页面点赞"
 
-#: app.js:5904
+#: app.js:5949
 msgctxt "Optimize for"
 msgid "Page Likes"
 msgstr "页面点赞"
 
-#: app.js:5921
+#: app.js:5966
 msgctxt "Pay for"
 msgid "Post Engagement"
 msgstr "定制公告"
 
-#: app.js:5905
+#: app.js:5950
 msgctxt "Optimize for"
 msgid "Post Engagement"
 msgstr "定制公告"
 
-#: app.js:19434
+#: app.js:19346
 msgctxt "Validation : Post"
 msgid "Post is required."
 msgstr "需要公告。"
 
-#: app.js:5906
+#: app.js:5951
 msgctxt "Optimize for"
 msgid "Reach"
 msgstr "覆盖"
 
-#: app.js:3942
+#: app.js:4055
 msgctxt "Automation : Ad : Action Param"
 msgid "Repeat off"
 msgstr "关闭重复"
 
-#: app.js:3938
+#: app.js:4051
 msgctxt "Automation : Ad : Action Param"
 msgid "Repeat on"
 msgstr "重复上"
 
-#: app.js:3430
+#: app.js:3255
 msgctxt "Column : Audience"
 msgid "Size"
 msgstr "尺寸"
 
-#: app.js:5907
+#: app.js:5952
 msgctxt "Optimize for"
 msgid "Social Impressions"
 msgstr "社会印象"
 
-#: app.js:15253
+#: app.js:15287
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Month"
 msgstr "上月花费"
 
-#: app.js:15281
+#: app.js:15315
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Quarter"
 msgstr "上个季度花费"
 
-#: app.js:15211
+#: app.js:15245
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Week"
 msgstr "上一周花费"
 
-#: app.js:15239
+#: app.js:15273
 msgctxt "Column : Adaccount"
 msgid "Spent This Month"
 msgstr "本月花费"
 
-#: app.js:15267
+#: app.js:15301
 msgctxt "Column : Adaccount"
 msgid "Spent This Quarter"
 msgstr "本季度花费"
 
-#: app.js:15183
+#: app.js:15217
 msgctxt "Column : Adaccount"
 msgid "Spent Today"
 msgstr "今天花费"
 
-#: app.js:15197
+#: app.js:15231
 msgctxt "Column : Adaccount"
 msgid "Spent Yesterday"
 msgstr "昨天花费"
 
-#: app.js:3421
+#: app.js:3246
 msgctxt "Column : Audience"
 msgid "Type"
 msgstr "类型"
 
-#: app.js:5922
+#: app.js:5967
 msgctxt "Pay for"
 msgid "Video Views"
 msgstr "视频观看次数"
 
-#: app.js:5908
+#: app.js:5953
 msgctxt "Optimize for"
 msgid "Video Views"
 msgstr "视频观看次数"
 
-#: app.js:19439
+#: app.js:19351
 msgctxt "Info : Post"
 msgid "You can also enter post ID or its URL."
 msgstr "您还可以输入公告ID或网址。"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:157
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:164
 #: components/modal/modal__adsets/modal__adsets.html:225
 msgctxt "Ad Scheduling"
 msgid "Accelerated delivery"
@@ -3978,7 +3978,7 @@ msgctxt "Preset"
 msgid "Set as Default"
 msgstr "设为默认"
 
-#: app.js:8098
+#: app.js:8334
 msgctxt "Preloader"
 msgid "LOADING, PLEASE WAIT ..."
 msgstr "加载请稍候 ..."
@@ -3993,42 +3993,42 @@ msgctxt "Modal : Preview"
 msgid "View permalink on Instagram"
 msgstr "Instagram上查看固定链接"
 
-#: app.js:4116
+#: app.js:4228
 msgid "1 New Ad!"
-msgid_plural "[[$count]] New Ads!"
+msgid_plural "1 New Ad!"
 msgstr[0] "[[$count]]个新广告！"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:158
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:165
 #: components/modal/modal__adsets/modal__adsets.html:226
 msgid "Accelerated delivery is only available for manual bid."
 msgstr "加速放送仅适用于人工出价竞标。"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:149
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:156
 #: components/modal/modal__adsets/modal__adsets.html:217
 msgid "Ad scheduling only works with lifetime budgets."
 msgstr "广告日程管理仅适用于永久预算。"
 
-#: app.js:4122
+#: app.js:4237
 msgctxt "Modal : Create : Body"
 msgid "Ad Sets"
 msgstr "Ad Sets"
 
-#: app.js:4122
+#: app.js:4237
 msgctxt "Modal : Create : Body"
 msgid "automation."
 msgstr "自动。"
 
-#: app.js:9280
+#: app.js:9247
 msgctxt "Automation Operator"
 msgid "greater or equal"
 msgstr "大于或等于"
 
-#: app.js:4122
+#: app.js:4237
 msgctxt "Modal : Create : Body"
 msgid "Now you can create"
 msgstr "现在你可以创建"
 
-#: app.js:4117
+#: app.js:4232
 msgctxt "Modal : Create : Body"
 msgid "or"
 msgstr "或"
@@ -4156,47 +4156,47 @@ msgctxt "Ad : Template"
 msgid "Video"
 msgstr "视频"
 
-#: app.js:7473
+#: app.js:7929
 msgctxt "Pay Adaccount"
 msgid "adaccounts list?"
 msgstr "adaccounts名单？"
 
-#: app.js:7427
+#: app.js:7883
 msgctxt "Pay Adaccount"
 msgid "Comission fee is 15%"
 msgstr "佣金为15％"
 
-#: app.js:7477
+#: app.js:7933
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "Do you want to leave this page and go to"
 msgstr "确定离开此页面并转到"
 
-#: app.js:7539
+#: app.js:7995
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "Do you want to leave this page and go to adaccounts list?"
 msgstr "你想离开这个页面并转到adaccounts列表？"
 
-#: app.js:7473
+#: app.js:7929
 msgctxt "Pay Adaccount"
 msgid "login page?"
 msgstr "登录页面？"
 
-#: app.js:7495
+#: app.js:7951
 msgctxt "Modal : Error"
 msgid "There was a mistake when creating advert account"
 msgstr "建立广告帐户时错误"
 
-#: app.js:7552
+#: app.js:8008
 msgctxt "Modal : Error"
 msgid "There was a mistake when topping up advert account"
 msgstr "为广告帐户充值时出现了一个错误"
 
-#: app.js:7476
+#: app.js:7932
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "You have successfully created advert account"
 msgstr "您已成功创建广告帐户"
 
-#: app.js:7538
+#: app.js:7994
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "Your payment has been processed successfully"
 msgstr "您已成功付款"
@@ -4455,42 +4455,42 @@ msgctxt "Top up adacсount"
 msgid "Top up adacсount"
 msgstr "为广告帐户充值"
 
-#: app.js:4803
+#: app.js:3689
 msgctxt "Create Adaccount"
 msgid "Amount required"
 msgstr "所需金额"
 
-#: app.js:12710
+#: app.js:14071
 msgctxt "Topup Adaccount"
 msgid "Amount required"
 msgstr "所需金额"
 
-#: app.js:4809
+#: app.js:3695
 msgctxt "Create Adaccount"
 msgid "Amount should be a number"
 msgstr "金额应为数字"
 
-#: app.js:12716
+#: app.js:14077
 msgctxt "Topup Adaccount"
 msgid "Amount should be a number"
 msgstr "金额应为数字"
 
-#: app.js:4795
+#: app.js:3681
 msgctxt "Create Adaccount"
 msgid "Email required"
 msgstr "需要电子邮件地址"
 
-#: app.js:12701
+#: app.js:14062
 msgctxt "Topup Adaccount"
 msgid "Email required"
 msgstr "需要电子邮件地址"
 
-#: app.js:12726
+#: app.js:14087
 msgctxt "Topup Adaccount"
 msgid "Minimum amount is 50$"
 msgstr "最低金额为$ 50"
 
-#: app.js:4819
+#: app.js:3705
 msgctxt "Create Adaccount"
 msgid "Minimum amount is 50$"
 msgstr "最低金额为$ 50"
@@ -4514,12 +4514,12 @@ msgctxt "Modal : Crop"
 msgid "Done"
 msgstr "做"
 
-#: app.js:22337
+#: app.js:22312
 msgctxt "Library"
 msgid "Library"
 msgstr "图书馆"
 
-#: app.js:22170
+#: app.js:21895
 msgctxt "Requirement"
 msgid "Minimum size:"
 msgstr "最小尺寸："
@@ -4529,13 +4529,13 @@ msgctxt "Modal : Crop"
 msgid "Original"
 msgstr "原版的"
 
-#: app.js:22170
-#: app.js:22176
+#: app.js:21895
+#: app.js:21901
 msgctxt "Requirement"
 msgid "pixels"
 msgstr "像素"
 
-#: app.js:21266
+#: app.js:20063
 msgctxt "Modal : Crop"
 msgid "Processing Image"
 msgstr "图像处理"
@@ -4545,7 +4545,7 @@ msgctxt "Modal : Crop"
 msgid "Ratios:"
 msgstr "比率："
 
-#: app.js:22176
+#: app.js:21901
 msgctxt "Requirement"
 msgid "Recommended size:"
 msgstr "推荐尺寸："
@@ -4564,22 +4564,22 @@ msgctxt "Modal : Crop"
 msgid "Select the image to edit how it is cropped."
 msgstr "选择要编辑的图像它是如何裁剪。"
 
-#: app.js:22182
+#: app.js:21907
 msgctxt "Requirement"
 msgid "text"
 msgstr "文本"
 
-#: app.js:22340
+#: app.js:22315
 msgctxt "Library"
 msgid "Upload"
 msgstr "上传"
 
-#: app.js:21131
+#: app.js:19928
 msgctxt "Modal : Crop"
 msgid "Uploading New Image"
 msgstr "上传新形象"
 
-#: app.js:22182
+#: app.js:21907
 msgctxt "Requirement"
 msgid "Your image may not include more than"
 msgstr "您的图像可能不包括超过"
@@ -4621,27 +4621,27 @@ msgctxt "Modal : Validate Images"
 msgid "Upload Valid Images"
 msgstr "上传有效图片"
 
-#: app.js:12474
+#: app.js:12845
 msgctxt "Modal : Recommendation : Ok Button"
 msgid "OK"
 msgstr "好"
 
-#: app.js:12474
+#: app.js:12845
 msgctxt "Modal : Recommendation : View Link"
 msgid "View"
 msgstr "视图"
 
-#: app.js:28905
+#: app.js:28877
 msgctxt "Creative : Pixel Events"
 msgid "Add payment info"
 msgstr "添加付款方式"
 
-#: app.js:28896
+#: app.js:28868
 msgctxt "Creative : Pixel Events"
 msgid "Add to cart"
 msgstr "添加到购物车"
 
-#: app.js:28899
+#: app.js:28871
 msgctxt "Creative : Pixel Events"
 msgid "Add to wishlist"
 msgstr "加入收藏夹"
@@ -4656,7 +4656,7 @@ msgstr "至少有一个合作伙伴是必需的。"
 msgid "Choose the date"
 msgstr "选择日期"
 
-#: app.js:28914
+#: app.js:28886
 msgctxt "Creative : Pixel Events"
 msgid "Complete registration"
 msgstr "完成注册"
@@ -4683,12 +4683,12 @@ msgstr "结束日期不能早于开始日期"
 msgid "Enter text"
 msgstr "输入文本"
 
-#: app.js:28902
+#: app.js:28874
 msgctxt "Creative : Pixel Events"
 msgid "Initiate checkout"
 msgstr "结帐启动"
 
-#: app.js:28911
+#: app.js:28883
 msgctxt "Creative : Pixel Events"
 msgid "Lead"
 msgstr "铅"
@@ -4706,7 +4706,7 @@ msgstr "伙伴"
 msgid "Partner you want to load statistics for"
 msgstr "合作伙伴要加载统计"
 
-#: app.js:13899
+#: app.js:10959
 msgctxt "Error : Pixel"
 msgid "Pixel Event is required."
 msgstr "像素事件是必需的。"
@@ -4715,18 +4715,18 @@ msgstr "像素事件是必需的。"
 msgid "Pixel Events"
 msgstr "像素活动"
 
-#: app.js:17128
+#: app.js:17070
 msgctxt "Info : Pixel"
 msgid "Pixel events are events you add to your Facebook pixel base code that allow you to better understand the audiences visiting your website and reach specific sets of your users who have visited your website as well as track and optimize for conversions."
 msgstr "像素事件添加到您的Facebook像素的基础代码，让您更好的了解访问您的网站受众，达到谁访问过你的网站以及跟踪用户的特定集合和优化转换的事件。"
 
-#: app.js:20259
-#: app.js:23997
+#: app.js:20960
+#: app.js:23113
 msgctxt "Modal : Pixel : Title"
 msgid "Pixel not found!"
 msgstr "像素不存在！"
 
-#: app.js:28908
+#: app.js:28880
 msgctxt "Creative : Pixel Events"
 msgid "Purchase"
 msgstr "采购"
@@ -4735,7 +4735,7 @@ msgstr "采购"
 msgid "Referral"
 msgstr "推荐"
 
-#: app.js:28893
+#: app.js:28865
 msgctxt "Creative : Pixel Events"
 msgid "Search"
 msgstr "搜索"
@@ -4748,7 +4748,7 @@ msgstr "在列表中选择事件"
 msgid "Select or search partner in the list"
 msgstr "选择或在列表中搜索合作伙伴"
 
-#: app.js:15225
+#: app.js:15259
 msgctxt "Column : Adaccount"
 msgid "Spent This Week"
 msgstr "花了本周"
@@ -4763,18 +4763,18 @@ msgctxt "Creative Settings"
 msgid "View Code"
 msgstr "查看代码"
 
-#: app.js:28890
+#: app.js:28862
 msgctxt "Creative : Pixel Events"
 msgid "View Content"
 msgstr "查看内容"
 
-#: app.js:20260
-#: app.js:23998
+#: app.js:20961
+#: app.js:23114
 msgctxt "Modal : Pixel : Body"
 msgid "You should create facebook pixel."
 msgstr "您应该创建Facebook的像素。"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:294
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:305
 msgid "Budget Settings for \"[[$root.MainObj.adset.name]]\""
 msgstr "预算设置“[[$root.MainObj.adset.name]]”"
 
@@ -4819,13 +4819,13 @@ msgstr "人ķ"
 msgid "Select File"
 msgstr "选择文件"
 
-#: app.js:17143
-#: app.js:24162
+#: app.js:17085
+#: app.js:23278
 msgctxt "Info : Audiences : Lookalike"
 msgid "Select an existing audience to model your lookalike audience on. This could be a customer list, Custom Audience, pixel, or people who like your page."
 msgstr "选择现有受众作为类似受众的源受众，这些人群可以是自定名单、自定义受众、像素或赞你主页的用户。"
 
-#: app.js:17144
+#: app.js:17086
 msgctxt "Info : Audiences : Lookalike"
 msgid "Select the country for your lookalike audience."
 msgstr "选择类似受众所在的国家/地区。"
@@ -4868,47 +4868,47 @@ msgctxt "Audiences : Lookalike"
 msgid "Minimum Estimated Reach"
 msgstr "最低估计河段"
 
-#: app.js:24161
+#: app.js:23277
 msgctxt "Audiences : Lookalike"
 msgid "Find new people on Facebook who are similar to your most valuable audiences. Select a source and a country below, then choose an audience size."
 msgstr "在 Facebook 上找到与最有价值受众类似的新受众。选择一个源和一个国 下面，然后选择一个受众规模。"
 
-#: app.js:222
+#: app.js:224
 msgctxt "Pricing Table"
 msgid "$. Please subscribe to one of the premium plans."
 msgstr "$。请订阅的保费计划之一。"
 
-#: app.js:231
+#: app.js:233
 msgctxt "Pricing Table"
 msgid "$. Please subscribe to the premium plan that meets your budget."
 msgstr "$。请订阅符合您的预算保费计划。"
 
-#: app.js:16798
+#: app.js:16753
 msgctxt "URL Macros"
 msgid "Ad ID"
 msgstr "广告ID"
 
-#: app.js:16795
+#: app.js:16750
 msgctxt "URL Macros"
 msgid "Ad name"
 msgstr "广告名称"
 
-#: app.js:16810
+#: app.js:16765
 msgctxt "URL Macros"
 msgid "Device Platforms"
 msgstr "设备平台 (mobile|desktop)"
 
-#: app.js:16816
+#: app.js:16771
 msgctxt "URL Macros"
 msgid "Facebook Positions"
 msgstr "Facebook的职位 (feed|right_hand_column)"
 
-#: app.js:16813
+#: app.js:16768
 msgctxt "URL Macros"
 msgid "Publisher Platforms"
 msgstr "发布平台 (facebook|instagram|audience_network)"
 
-#: app.js:20320
+#: app.js:21021
 msgctxt "Objective"
 msgid "Mobile App"
 msgstr "移动应用"
@@ -4923,106 +4923,106 @@ msgctxt "Create Adaccount"
 msgid "You need to verify your Ads before creating Prepaid AdAccount. Please answer the quiz in our support system."
 msgstr "您需要创建预付AdAccount之前验证您的广告。请回答我们的支持系统中的测验。"
 
-#: app.js:29072
+#: app.js:29044
 msgctxt "Image : Upload : Tooltip"
 msgid "Access to library only available when using manual creating mode."
 msgstr "访问库只使用手动创建模式时可用。"
 
-#: app.js:26621
+#: app.js:26428
 msgctxt "Connections Opt Groups"
 msgid "Domains"
 msgstr "域"
 
-#: app.js:26618
+#: app.js:26425
 msgctxt "Connections Opt Groups"
 msgid "Events"
 msgstr "活动"
 
-#: app.js:22521
-#: app.js:29065
+#: app.js:22336
+#: app.js:29037
 msgctxt "Image : Upload : Tooltip"
 msgid "Upload images from your desktop."
 msgstr "从您的桌面上传图片。"
 
-#: app.js:22524
-#: app.js:29068
+#: app.js:22339
+#: app.js:29040
 msgctxt "Image : Library : Tooltip"
 msgid "Access a library that contains all your Ad images."
 msgstr "访问包含所有广告图片库。"
 
-#: app.js:22523
+#: app.js:22338
 msgctxt "Video : Library : Tooltip"
 msgid "Access a library that contains all your Ad videos."
 msgstr "访问包含所有广告的视频库。"
 
-#: app.js:22522
-#: app.js:29066
+#: app.js:22337
+#: app.js:29038
 msgctxt "Video : Upload : Tooltip"
 msgid "Upload videos from your desktop."
 msgstr "从您的桌面上传影片。"
 
-#: app.js:10501
+#: app.js:13569
 msgctxt "Deletion : Modal : Preset"
 msgid "Be careful, because deleted presets can't be restored!"
 msgstr "要小心，因为删除的预设无法恢复！"
 
-#: app.js:10505
+#: app.js:13573
 msgctxt "Deletion : Modal : Preset : Title"
 msgid "Do you really want to delete selected preset?"
 msgstr "难道你真的要删除所选的预设？"
 
-#: app.js:25125
+#: app.js:24937
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "OK"
 msgstr "好"
 
-#: app.js:25135
+#: app.js:24947
 msgctxt "Error : Modal : Preset : "
 msgid "Overwrite existing preset?"
 msgstr "覆盖现有预设？"
 
-#: app.js:25121
+#: app.js:24933
 msgctxt "Error : Modal : Preset : "
 msgid "Shared preset with the same name"
 msgstr "共享预置具有相同名称"
 
-#: app.js:10507
+#: app.js:13575
 msgctxt "Deletion : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "是"
 
-#: app.js:25117
+#: app.js:24929
 msgctxt "Error : Modal : Preset"
 msgid "You can't overwrite shared preset. Please choose another name."
 msgstr "你不能覆盖共享预设。请选择其他名称。"
 
-#: app.js:9097
+#: app.js:8462
 msgctxt "Pricing Table"
 msgid "A/B tests"
 msgstr "A / B测试"
 
-#: app.js:9044
+#: app.js:8409
 msgctxt "Pricing Table"
 msgid "Continue to use trial period"
 msgstr "继续使用试用期"
 
-#: app.js:9030
+#: app.js:8395
 msgctxt "Pricing Table"
 msgid "Start trial"
 msgstr "开始试用"
 
-#: app.js:9067
+#: app.js:8432
 msgctxt "Pricing Table"
 msgid "Subscription period has ended. We were unable to charge money from you. Please contact support team."
 msgstr "认购期已经结束。我们无法从你充钱。请联系技术支持团队。"
 
-#: app.js:9064
+#: app.js:8429
 msgctxt "Pricing Table"
 msgid "Trial period has ended. Please update your plan."
 msgstr "试用期已经结束。请更新你的计划。"
 
-#: app.js:222
-#: app.js:231
+#: app.js:224
+#: app.js:233
 msgctxt "Pricing Table"
 msgid "Your budget is $ which is over"
 msgstr "您的预算是$这比"
@@ -5052,12 +5052,12 @@ msgctxt "Automation CPI : Validation : Automation"
 msgid "CPI value is required."
 msgstr "CPI值是必需的。"
 
-#: app.js:26421
+#: app.js:26529
 msgctxt "Detailed Targeting : Info"
 msgid "Define your audience by including or excluding demographics, interests, behaviors, etc."
 msgstr "包含或排除具体人口统计条件、兴趣和行为，设置你的目标受众。"
 
-#: app.js:26420
+#: app.js:26528
 msgctxt "Detailed Targeting"
 msgid "Detailed Targeting"
 msgstr "详细定位"
@@ -5082,17 +5082,17 @@ msgstr "专业级"
 msgid "Select or search automation strategy in the list"
 msgstr "选择或搜索列表自动化策略"
 
-#: app.js:8116
+#: app.js:8061
 msgctxt "Period : Date Preset"
 msgid "Last 14 days"
 msgstr "最近14天"
 
-#: app.js:8113
+#: app.js:8058
 msgctxt "Period : Date Preset"
 msgid "Last 7 days"
 msgstr "最后7天"
 
-#: app.js:8119
+#: app.js:8064
 msgctxt "Period : Date Preset"
 msgid "Last 90 days"
 msgstr "最后90天"
@@ -5122,12 +5122,12 @@ msgstr "什么是最高每次点击费用，你愿意支付？"
 msgid "What is your maximum CPI you are ready to pay?"
 msgstr "什么是你最大的CPI，你愿意支付？"
 
-#: app.js:26846
+#: app.js:26882
 msgctxt "Geo Targeting : Info"
 msgid "Enter one or more countries, states/regions, cities, postal codes, addresses or Designated Market Areas ®to show or exclude your ad to people in those locations. Location targeting is not available in all countries."
 msgstr "输入一个或多个国家、州/地区、城市、邮编、地址或指定市场区域 (Designated Market Areas ®)，向这些地理位置的用户展示广告，或选择不向他们展示广告。地理位置定位未对所有国家/地区开放。"
 
-#: app.js:26845
+#: app.js:26881
 msgctxt "Geo Targeting"
 msgid "Locations"
 msgstr "地区"
@@ -5137,8 +5137,8 @@ msgctxt "Validation : Tree"
 msgid "You should choose at least one entity"
 msgstr "你应该选择至少一个实体"
 
-#: app.js:3910
-#: app.js:3928
+#: app.js:4023
+#: app.js:4041
 msgctxt "Automation : Ad : Action"
 msgid "Add Adlabel"
 msgstr "添加Adlabel"
@@ -5147,20 +5147,20 @@ msgstr "添加Adlabel"
 msgid "Add or remove adlabels"
 msgstr "添加或删除adlabels"
 
-#: app.js:3913
-#: app.js:3931
+#: app.js:4026
+#: app.js:4044
 msgctxt "Automation : Ad : Action"
 msgid "Remove Adlabel"
 msgstr "删除Adlabel"
 
-#: app.js:1549
-#: app.js:23020
+#: app.js:1851
+#: app.js:23541
 msgctxt "Automation"
 msgid "Choose Campaigns and Ad Sets you want to automate"
 msgstr "选择运动和Ad Sets要自动运行"
 
-#: app.js:1549
-#: app.js:23020
+#: app.js:1851
+#: app.js:23541
 msgctxt "Automation"
 msgid "Choose Campaigns, Ad Sets, Ads you want to automate"
 msgstr "选择活动，Ad Sets，广告组要自动"
@@ -5181,12 +5181,12 @@ msgstr "Ad Set"
 msgid "Choose another ad type."
 msgstr "选择其他广告类型。"
 
-#: app.js:17096
+#: app.js:17038
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "选择属性窗口，对你的报告最重要的。归属窗口可以跟踪在特定时间内，由于您的广告所采取的行动。您可以调整属性窗口创建一个自定义时间范围的报告。"
 
-#: app.js:20318
+#: app.js:21019
 msgctxt "Objective"
 msgid "Choose the type of your ads campaign:"
 msgstr "选择您的广告活动类型:"
@@ -5208,12 +5208,12 @@ msgstr "输入广告活动名称"
 msgid "Enter maximum amount your campaign can spend"
 msgstr "输入您的广告系列可以花费最高金额"
 
-#: app.js:4083
+#: app.js:4196
 msgctxt "Error : Create"
 msgid "Error occurred when creating your ads! Message:"
 msgstr "在创建广告时出错！信息:"
 
-#: app.js:20005
+#: app.js:20706
 msgctxt "Error : Ad Set"
 msgid "Error occurred when requesting Ad Sets. Error:"
 msgstr "请求Ad Sets时出错。错误:"
@@ -5228,9 +5228,9 @@ msgctxt "Adset"
 msgid "New"
 msgstr "新"
 
-#: app.js:16667
-#: app.js:17291
-#: app.js:18107
+#: app.js:16345
+#: app.js:17259
+#: app.js:18852
 msgctxt "Automation: Ads"
 msgid "Please, select at least one ad to be used in automations"
 msgstr "请选择至少一个广告在自动化中使用"
@@ -5239,13 +5239,13 @@ msgstr "请选择至少一个广告在自动化中使用"
 msgid "Search for campaign"
 msgstr "搜索活动"
 
-#: app.js:10947
+#: app.js:11325
 msgctxt "Tooltip : Table"
 msgid "Select ad least 2 rows with the same status"
 msgstr "选择至少有有2行同样状态的广告"
 
-#: app.js:16612
-#: app.js:17230
+#: app.js:16290
+#: app.js:17198
 msgctxt "Automation: Ads"
 msgid "Select ad that you want to use automation for."
 msgstr "要使用自动化选择广告。"
@@ -5262,22 +5262,22 @@ msgstr "选择或搜索列表中的广告活动"
 msgid "Select or search adset in the list"
 msgstr "选择或搜索列表Ad Set"
 
-#: app.js:3919
+#: app.js:4032
 msgctxt "Automation : Ad : Action"
 msgid "Stop"
 msgstr "停止"
 
-#: app.js:13938
+#: app.js:10998
 msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "需要轮播广告文本消息。"
 
-#: app.js:25925
+#: app.js:25893
 msgctxt "Error : Campaign : Edit"
 msgid "Unknown error occurred when updating selected Ad Campaigns."
 msgstr "更新选定的广告活动时出现未知错误。"
 
-#: app.js:22598
+#: app.js:22413
 msgctxt "Modal : Error"
 msgid "We are sorry, but editing of carousel ads isn't supported yet. Please, try to create new ad instead."
 msgstr "我们很抱歉，但尚不支持编辑轮播广告。请尝试建立新的广告。"
@@ -5286,34 +5286,34 @@ msgstr "我们很抱歉，但尚不支持编辑轮播广告。请尝试建立新
 msgid "You have no existing campaigns to choose with selected ad type."
 msgstr "您目前没有任何活动与选定的广告类型来选择。"
 
-#: app.js:13781
+#: app.js:10845
 msgctxt "Error : Create"
 msgid "You should have at least one ad to create."
 msgstr "你应该至少有一个广告创造。"
 
-#: app.js:4117
+#: app.js:4232
 msgctxt "Modal : Create : Body"
 msgid "ads"
 msgstr "广告"
 
-#: app.js:29067
+#: app.js:29039
 msgctxt "Video : Library : Tooltip"
 msgid "Access a library that contains all your ad videos."
 msgstr "访问包含所有广告的视频库。"
 
-#: app.js:29520
+#: app.js:29492
 msgctxt "Error : Preview"
 msgid "Ad IMAGE is missing! Can't generate Ad preview!"
 msgstr "广告图片丢失！无法生成广告预览！"
 
-#: app.js:29472
-#: app.js:29497
-#: app.js:29510
+#: app.js:29444
+#: app.js:29469
+#: app.js:29482
 msgctxt "Error : Preview"
 msgid "Ad PAGE is missing! Can't generate Ad preview!"
 msgstr "广告网页丢失！无法生成广告预览！"
 
-#: app.js:14017
+#: app.js:11077
 msgctxt "Error : Ad Set"
 msgid "Ad Set name is required if new ad Set is selected."
 msgstr "需要Ad Set名称，如果选择新的Ad Set。"
@@ -5332,12 +5332,12 @@ msgctxt "Ads : Validation : Automation"
 msgid "At least one Ad is required."
 msgstr "至少有一个广告是必需的。"
 
-#: app.js:17122
+#: app.js:17064
 msgctxt "Info : Targeting : Wireless Connection"
 msgid "Choose \"Wi-Fi only\" to show your Ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection."
 msgstr "选择“仅限Wi-Fi”，表示当他们使用的是无线互联网连接，浏览Facebook时，广告会展示给他们。这点很重要，因为如果您的应用程序太大以至于不能使用蜂窝连接下载。"
 
-#: app.js:28179
+#: app.js:28071
 msgctxt "Info: Page : Mobile"
 msgid "Choose a Facebook Page so you can run ads on Facebook."
 msgstr "选择一个Facebook页面，所以你可以在Facebook上投放广告。"
@@ -5346,28 +5346,28 @@ msgstr "选择一个Facebook页面，所以你可以在Facebook上投放广告�
 msgid "Enter adset name"
 msgstr "输入Ad Set名"
 
-#: app.js:29591
+#: app.js:29563
 msgctxt "Error : Preview"
 msgid "Error occurred, when generating your Ad preview."
 msgstr "生成广告预览时发生错误。"
 
-#: app.js:17083
+#: app.js:17025
 msgctxt "Info : Ad Set : Name"
 msgid "Give your Ad Set a name that describes the audience, scheduling or Ads inside it."
 msgstr "给你的adset添加名称，描述受众，安排或包含的广告。"
 
-#: app.js:17129
+#: app.js:17071
 msgctxt "Info : App"
 msgid "If you want to optimize your Ad for mobile app installs, please choose facebook app associated with your app."
 msgstr "如果您想优化您的移动应用安装广告，请选择与应用相关联的Facebook应用程序。"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:142
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:149
 #: components/modal/modal__adsets/modal__adsets.html:210
 msgctxt "Ad Scheduling"
 msgid "Run ads all the time"
 msgstr "投放广告的所有时间"
 
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:148
+#: components/crud/crud__step/crud__step_price/crud__step_price.html:155
 #: components/modal/modal__adsets/modal__adsets.html:216
 msgctxt "Ad Scheduling"
 msgid "Run ads on a schedule"
@@ -5381,62 +5381,62 @@ msgstr "选择或搜索列表adsets"
 msgid "Select or search adsets in the list"
 msgstr "选择或搜索列表adsets"
 
-#: app.js:17068
+#: app.js:17010
 msgctxt "Info : Spend Cap"
 msgid "Set an overall spending limit for your Ad Campaign. This means your Ad sets in the Campaign will stop once you've reached your spending limit."
 msgstr "设置您的广告系列的整体消费限额。这意味着您的广告组在运动停止，一旦你已经达到你的消费限额。"
 
-#: app.js:3498
+#: app.js:3323
 msgctxt "Column : Automation"
 msgid "Entities"
 msgstr "实体"
 
-#: app.js:3471
+#: app.js:3296
 msgctxt "Column : Automation"
 msgid "Type"
 msgstr "类型"
 
-#: app.js:1436
+#: app.js:1738
 msgctxt "Modal : Automation"
 msgid "Edit an automation"
 msgstr "编辑自动化"
 
-#: app.js:3510
+#: app.js:3335
 msgctxt "Column : Automation"
 msgid "Enabled"
 msgstr "状态"
 
-#: app.js:16377
+#: app.js:16148
 msgctxt "Placeholder : Bid"
 msgid "Average"
 msgstr "平均"
 
-#: app.js:16377
+#: app.js:16148
 msgctxt "Placeholder : Bid"
 msgid "Maximum"
 msgstr "最大值"
 
-#: app.js:9348
+#: app.js:9315
 msgctxt "Automation : Analyze Window"
 msgid "This Hour"
 msgstr "这一小时"
 
-#: app.js:2227
+#: app.js:2090
 msgctxt "Pricing Table"
 msgid "Support service is only available on premium plans."
 msgstr "支持服务仅适用于保费计划提供。"
 
-#: app.js:9283
+#: app.js:9250
 msgctxt "Automation Operator"
 msgid "contains"
 msgstr "包含"
 
-#: app.js:9284
+#: app.js:9251
 msgctxt "Automation Operator"
 msgid "doesn't contain"
 msgstr "不含"
 
-#: app.js:8128
+#: app.js:8073
 msgctxt "Period : Date Preset"
 msgid "Lifetime"
 msgstr "一生"
@@ -5496,21 +5496,21 @@ msgstr "UTM的价值"
 msgid "UTM Name"
 msgstr "UTM名称"
 
-#: app.js:212
+#: app.js:214
 msgctxt "Pricing Table"
 msgid "Please update your subscription."
 msgstr "请更新您的订阅。"
 
-#: app.js:212
+#: app.js:214
 msgctxt "Pricing Table"
 msgid "Your subscription has expired."
 msgstr "您的订购已过期。"
 
-#: app.js:25772
+#: app.js:25584
 msgid "Amount required"
 msgstr "所需金额"
 
-#: app.js:25778
+#: app.js:25590
 msgid "Amount should be a number"
 msgstr "量应为数字"
 
@@ -5524,20 +5524,20 @@ msgstr "取消"
 msgid "Company website"
 msgstr "公司网站"
 
-#: app.js:25785
+#: app.js:25597
 msgid "Company website is required"
 msgstr "公司网站是必需的"
 
-#: app.js:9188
+#: app.js:8553
 msgctxt "Pricing Table"
 msgid "Custom"
 msgstr "习俗"
 
-#: app.js:25756
+#: app.js:25568
 msgid "Email is incorrect"
 msgstr "电子邮件是不正确"
 
-#: app.js:25750
+#: app.js:25562
 msgid "Email required"
 msgstr "电子邮件要求"
 
@@ -5557,7 +5557,7 @@ msgstr "进入Skype的"
 msgid "Facebook Monthly Spend"
 msgstr "Facebook的每月支出"
 
-#: app.js:25782
+#: app.js:25594
 msgid "Name is required"
 msgstr "名称是必需的"
 
@@ -5571,15 +5571,15 @@ msgstr "好"
 msgid "Phone"
 msgstr "电话"
 
-#: app.js:25764
+#: app.js:25576
 msgid "Phone is required"
 msgstr "电话是必需的"
 
-#: app.js:25738
+#: app.js:25550
 msgid "Please, enter necessary information"
 msgstr "请输入必要的信息"
 
-#: app.js:9173
+#: app.js:8538
 msgctxt "Pricing Table"
 msgid "Request a quote"
 msgstr "请求报价"
@@ -5589,7 +5589,7 @@ msgstr "请求报价"
 msgid "Skype"
 msgstr "Skype的"
 
-#: app.js:25788
+#: app.js:25600
 msgid "Skype nickname is required"
 msgstr "Skype的昵称是必需的"
 
@@ -5609,17 +5609,17 @@ msgstr "进入公司网站"
 msgid "Your name"
 msgstr "你的名字"
 
-#: app.js:9363
+#: app.js:9330
 msgctxt "Automation : Analyze Window"
 msgid "Last 3 Days"
 msgstr "最近3天"
 
-#: app.js:9366
+#: app.js:9333
 msgctxt "Automation : Analyze Window"
 msgid "Last 4 Days"
 msgstr "持续4天"
 
-#: app.js:9369
+#: app.js:9336
 msgctxt "Automation : Analyze Window"
 msgid "Last 5 Days"
 msgstr "最近5天"
@@ -5628,7 +5628,7 @@ msgstr "最近5天"
 msgid "+ Create Audience <span class=\"caret\"></span>"
 msgstr "+ 创建受众群体的<span class=“caret”></span>"
 
-#: app.js:15569
+#: app.js:15518
 msgctxt "Attribution"
 msgid "1 day"
 msgstr "1天"
@@ -5638,12 +5638,12 @@ msgctxt "Attribution"
 msgid "1 day after viewing Ad and 28 days after clicking on Ad are set if nothing is selected"
 msgstr "点击广告后，广告观看28天1天后如果没有被选中设置"
 
-#: app.js:15575
+#: app.js:15524
 msgctxt "Attribution"
 msgid "28 day"
 msgstr "28天"
 
-#: app.js:15572
+#: app.js:15521
 msgctxt "Attribution"
 msgid "7 day"
 msgstr "7天"
@@ -5657,7 +5657,7 @@ msgctxt "Ad : Validation : Automation"
 msgid "At least one task is required."
 msgstr "至少有一个任务是必需的。"
 
-#: app.js:17145
+#: app.js:17087
 msgctxt "Info : Audiences : Lookalike"
 msgid "Audience size ranges from 1% to 10% of the total population in the country you choose, with 1% being those\n"
 "                    who most closely match your source."
@@ -5702,7 +5702,7 @@ msgctxt "Validation : Automation Action Value"
 msgid "The automation action value is required."
 msgstr "自动化操作值是必需的。"
 
-#: app.js:9091
+#: app.js:8456
 msgctxt "Pricing Table"
 msgid "Unlimited number of automations"
 msgstr "自动化的无限数量"
@@ -5717,46 +5717,46 @@ msgctxt "Attribution"
 msgid "after viewing Ad"
 msgstr "观看广告后"
 
-#: app.js:9197
+#: app.js:8562
 msgctxt "Pricing Table"
 msgid "Trial period:"
 msgstr "试用期："
 
-#: app.js:9197
+#: app.js:8562
 msgctxt "Pricing Table"
 msgid "days"
 msgstr "天"
 
-#: app.js:9479
+#: app.js:9446
 msgid "Choose field"
 msgstr "选择领域"
 
-#: app.js:9119
+#: app.js:8484
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 10 000$ - &infin;"
 msgstr "Facebook上花每月:<br> 10 000$ - &infin; "
 
-#: app.js:9104
+#: app.js:8469
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 2 000$ - 4 000$"
 msgstr "Facebook上花每月:<br> 2 000$ - 4 000$ "
 
-#: app.js:9109
+#: app.js:8474
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 4 000$ - 7 000$"
 msgstr "Facebook上花每月:<br> 4 000$ - 7 000$"
 
-#: app.js:9114
+#: app.js:8479
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 7 000$ - 10 000$"
 msgstr "Facebook上花每月:<br> 7 000$ - 10 000$"
 
-#: app.js:9086
+#: app.js:8451
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> < $2 000"
 msgstr "Facebook上花每月:<br> < $2 000"
 
-#: app.js:25812
+#: app.js:25624
 msgid "Form successfully sent"
 msgstr "表格发送成功"
 
@@ -5774,7 +5774,7 @@ msgstr "创建DCO​​广告"
 msgid "DCO"
 msgstr "DCO"
 
-#: app.js:4119
+#: app.js:4234
 msgctxt "Modal : Create : Body"
 msgid "DCO Ads"
 msgstr "DCO广告"
@@ -5787,7 +5787,7 @@ msgstr "输入链接的url"
 msgid "Link Urls"
 msgstr "链接的url"
 
-#: app.js:18054
+#: app.js:18799
 msgctxt "Automation: Ads"
 msgid "Select a list of Call to Actions for your DCO campaign."
 msgstr "选择呼叫的为您的DCO活动操作的列表。"
@@ -5804,8 +5804,17 @@ msgstr "错误"
 msgid "Dynamic Creative Optimization (DCO) description."
 msgstr "动态广告素材优化（DCO）使您能够充分利用Facebook的优化 自动试验和交付广告的广告素材的不同变化。这有助于 你发现每次展示，采取广告的图片，标题最好的广告创意组合，描述，以及其他资产，然后从这些组合如何结果学习 跨观众表演。DCO会自动为您更广泛的目标受众群体中的人群构建并显示最佳广告素材。 这提高了您有效地探索众多广告素材组合和受众群体的能力。 DCO旨在提高广告投资回报率。"
 
-#: app.js:13770
+#: app.js:10834
 msgctxt "Error : Create"
 msgid "DCO is now available for Instagram placement. If you want to use DCO, remove Instagram from placement."
 msgstr "DCO现在可用于Instagram的位置。如果你想使用DCO，从布局删除的Instagram。"
+
+#: app.js:7036
+msgctxt "Error : Ad : Edit"
+msgid "Users are not allowed to operate on DCO ads."
+msgstr "动态创意优化广告组中所有广告的创建或更新操作将由系统自动完成。用户没有操作动态创意优化广告的权限。"
+
+#: components/footer/footer.html:2
+msgid "© 2012-[[currentYear]] Aitarget"
+msgstr "© 2012-[[currentYear]] Aitarget"
 
