@@ -76,7 +76,7 @@ msgstr "Включить комбинирование"
 msgid "Bid"
 msgstr "Ставка"
 
-#: components/tablecontrols/tablecontrols.html:255
+#: components/tablecontrols/tablecontrols.html:187
 msgid "Breakdown"
 msgstr "Разбиение"
 
@@ -86,10 +86,6 @@ msgstr "Разбиение"
 #: components/modal/modal__massediting/modal__massEditing.html:22
 msgid "Budget"
 msgstr "Бюджет"
-
-#: components/tablecontrols/tablecontrols.html:167
-msgid "Bulk edit"
-msgstr "Массовое редактирование"
 
 #: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:34
 msgid "By Reach"
@@ -101,7 +97,7 @@ msgstr "По охвату"
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:120
 #: components/modal/modal__adsets/modal__adsets.html:181
 #: components/modal/modal__automations/modal__automations.html:75
-#: components/modal/modal__massediting/modal__massEditing.html:131
+#: components/modal/modal__massediting/modal__massEditing.html:132
 msgctxt "Schedule"
 msgid "Calendar"
 msgstr "Период"
@@ -128,7 +124,7 @@ msgstr "Карусель"
 msgid "Choose parameter:"
 msgstr "Выберите параметр:"
 
-#: components/tablecontrols/tablecontrols.html:263
+#: components/tablecontrols/tablecontrols.html:195
 msgid "Clear all breakdowns"
 msgstr "Сбросить настройки разбиения"
 
@@ -164,7 +160,7 @@ msgstr "Сравнить с:"
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:110
 #: components/modal/modal__adsets/modal__adsets.html:171
 #: components/modal/modal__automations/modal__automations.html:68
-#: components/modal/modal__massediting/modal__massEditing.html:121
+#: components/modal/modal__massediting/modal__massEditing.html:122
 msgctxt "Schedule"
 msgid "Continuously"
 msgstr "Непрерывная кампания"
@@ -174,7 +170,7 @@ msgstr "Непрерывная кампания"
 msgid "Country"
 msgstr "Страна"
 
-#: components/tablecontrols/tablecontrols.html:46
+#: components/tablecontrols/tablecontrols.html:45
 msgid "Create Automation"
 msgstr "Создание объекта автоматизации"
 
@@ -191,13 +187,13 @@ msgstr "Индивидуализированные аудитории"
 msgid "Customer List"
 msgstr "Список клиентов"
 
-#: app.js:12779
-#: app.js:12782
-#: app.js:12861
-#: app.js:12864
-#: app.js:12992
-#: app.js:12995
-#: app.js:20674
+#: app.js:12784
+#: app.js:12787
+#: app.js:12866
+#: app.js:12869
+#: app.js:12997
+#: app.js:13000
+#: app.js:20690
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:36
 #: components/modal/modal__adsets/modal__adsets.html:96
 #: components/modal/modal__massediting/modal__massEditing.html:47
@@ -282,12 +278,12 @@ msgstr "Введите ссылку для перехода по кнопке д
 msgid "Evenly"
 msgstr "Равными частями"
 
-#: app.js:20117
+#: app.js:20133
 msgctxt "Ad Set"
 msgid "Existing"
 msgstr "Из существующего списка"
 
-#: app.js:20845
+#: app.js:20861
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:28
 msgctxt "Campaign"
 msgid "Existing"
@@ -329,13 +325,13 @@ msgstr "Включать траффик на сайт с прошлых пери
 msgid "Interests"
 msgstr "По интересам"
 
-#: app.js:12779
-#: app.js:12782
-#: app.js:12861
-#: app.js:12864
-#: app.js:12992
-#: app.js:12995
-#: app.js:20671
+#: app.js:12784
+#: app.js:12787
+#: app.js:12866
+#: app.js:12869
+#: app.js:12997
+#: app.js:13000
+#: app.js:20687
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:30
 #: components/modal/modal__adsets/modal__adsets.html:90
 #: components/modal/modal__massediting/modal__massEditing.html:40
@@ -374,7 +370,7 @@ msgstr "Список покупателей"
 msgid "Manual"
 msgstr "Вручную"
 
-#: components/control/control-bid/controlBid.html:28
+#: components/control/control-bid/controlBid.html:29
 msgctxt "Bid"
 msgid "Manual"
 msgstr "Установленная вручную"
@@ -405,13 +401,13 @@ msgstr "Мобильное приложение"
 msgid "Name"
 msgstr "Название"
 
-#: app.js:20842
+#: app.js:20858
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:22
 msgctxt "Campaign"
 msgid "New"
 msgstr "Новая"
 
-#: app.js:20114
+#: app.js:20130
 msgctxt "Ad Set"
 msgid "New"
 msgstr "Новый"
@@ -518,7 +514,7 @@ msgstr "Выберите приложение или введите ссылку
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:111
 #: components/modal/modal__adsets/modal__adsets.html:172
-#: components/modal/modal__massediting/modal__massEditing.html:122
+#: components/modal/modal__massediting/modal__massEditing.html:123
 msgid "Select daily budget if you want to use this option."
 msgstr "Необходимо выбрать дневной бюджет, если хотите воспользоваться этой функцией."
 
@@ -748,1106 +744,1106 @@ msgstr "Ширина"
 msgid "Yes"
 msgstr "Да"
 
-#: app.js:23162
-#: app.js:24093
-#: app.js:24237
-#: app.js:25055
-#: app.js:5036
+#: app.js:23178
+#: app.js:24109
+#: app.js:24253
+#: app.js:25187
+#: app.js:5055
 msgctxt "Call To Action"
 msgid "– Not Selected –"
 msgstr "- Не выбран -"
 
-#: app.js:19680
+#: app.js:19694
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend during the lifetime of your Ad Set."
 msgstr ", сумма, которую вы ввели – это максимум, который вы потратите за весь срок работы вашего адсета."
 
-#: app.js:19634
+#: app.js:19648
 msgctxt "Info : Ad Set"
 msgid ", then you have to choose existing Ad Set in the list. You have to choose Campaign to get Ad Set list."
 msgstr ", то вы должны выбрать существующий адсет в списке. Вы должны выбрать кампанию, чтобы получить список адсетов."
 
-#: app.js:19631
+#: app.js:19645
 msgctxt "Info : Campaign"
 msgid ", then you have to choose existing Campaign in the list."
 msgstr ", затем вы должны выбрать существующую кампанию в списке."
 
-#: app.js:19634
+#: app.js:19648
 msgctxt "Info : Ad Set"
 msgid ", then you have to enter new Ad Set name. One Ad Set will be created."
 msgstr ", затем вы должны ввести новое имя адсета. Один адсет будет создан."
 
-#: app.js:19631
+#: app.js:19645
 msgctxt "Info : Campaign"
 msgid ", then you have to enter new Campaign name."
 msgstr ", то вы должны ввести новое название кампании."
 
-#: app.js:19631
+#: app.js:19645
 msgctxt "Info : Campaign"
 msgid "'Existing'"
 msgstr "'Существующая'"
 
-#: app.js:19634
+#: app.js:19648
 msgctxt "Info : Ad Set"
 msgid "'Existing'"
 msgstr "'Существующий'"
 
-#: app.js:19631
+#: app.js:19645
 msgctxt "Info : Campaign"
 msgid "'New'"
 msgstr "\"Новая\""
 
-#: app.js:19634
+#: app.js:19648
 msgctxt "Info : Ad Set"
 msgid "'New'"
 msgstr "\"Новый\""
 
-#: app.js:9030
+#: app.js:9024
 msgctxt "Pricing Table"
 msgid "1 automation"
 msgstr "1 автоматизация"
 
-#: app.js:23312
-#: app.js:23855
-#: app.js:32347
-#: app.js:32363
-#: app.js:32385
-#: app.js:32388
+#: app.js:23328
+#: app.js:23871
+#: app.js:32266
+#: app.js:32282
+#: app.js:32304
+#: app.js:32307
 msgctxt "Create : Step"
 msgid "1. Main"
 msgstr "1. Основной"
 
-#: app.js:23858
+#: app.js:23874
 msgctxt "Create : Step"
 msgid "2. Budget"
 msgstr "2. Бюджет"
 
-#: app.js:23861
+#: app.js:23877
 msgctxt "Create : Step"
 msgid "3. Targeting"
 msgstr "3. Таргетинг"
 
-#: app.js:11258
-#: app.js:23864
-#: app.js:28309
-#: app.js:32112
-#: app.js:32114
-#: app.js:32355
-#: app.js:32441
-#: app.js:32446
-#: app.js:32461
-#: app.js:32466
+#: app.js:11252
+#: app.js:23880
+#: app.js:28566
+#: app.js:32031
+#: app.js:32033
+#: app.js:32274
+#: app.js:32360
+#: app.js:32365
+#: app.js:32380
+#: app.js:32385
 msgctxt "Create : Step"
 msgid "4. Creative"
 msgstr "4. Креатив"
 
-#: app.js:19652
-#: app.js:30548
+#: app.js:19666
+#: app.js:30589
 msgctxt "Info : Deep Link"
 msgid "A deep link is a URL that points to a specific place in your app, like a product page."
 msgstr "Deep Link ссылкой является URL, который указывает на определенное место в вашем приложении, как странице продукта."
 
-#: app.js:6912
+#: app.js:6964
 msgctxt "Informer"
 msgid "actions"
 msgstr "действия"
 
-#: app.js:28525
+#: app.js:25012
 msgctxt "Campaign : Status"
 msgid "Active"
 msgstr "Активная"
 
-#: app.js:12735
+#: app.js:12740
 msgctxt "Column : Status : Campaign"
 msgid "Active"
 msgstr "Активная"
 
-#: app.js:12817
+#: app.js:12822
 msgctxt "Column : Status : Ad Set"
 msgid "Active"
 msgstr "Активный"
 
-#: app.js:12927
+#: app.js:12932
 msgctxt "Column : Status : Ad"
 msgid "Ad Set is Off"
 msgstr "Адсет выключен"
 
-#: app.js:19674
+#: app.js:19688
 msgctxt "Info : Headline"
 msgid "Add a headline that grabs people's attention and tells them what your Ad is about."
 msgstr "Добавить заголовок, который захватывает внимание людей и говорит им, о чем ваше объявление."
 
-#: app.js:19636
+#: app.js:19650
 msgctxt "Info : Headline"
 msgid "Add headlines that grabs people's attention and tells them what your Ad(s) is about."
 msgstr "Добавьте заголовки, которые привлекает внимание людей и говорит им, о чем ваше(и) объявление(я)."
 
-#: app.js:9011
+#: app.js:9005
 msgctxt "Pricing Table"
 msgid "Add payment method"
 msgstr "Добавьте способ оплаты"
 
-#: app.js:29023
-#: app.js:29093
+#: app.js:29064
+#: app.js:29134
 msgctxt "Switcher"
 msgid "Ads"
 msgstr "Объявления"
 
-#: app.js:11542
+#: app.js:11536
 msgctxt "Error : Text"
 msgid "Ads message is required and cannot be empty."
 msgstr "Сообщение объявления является обязательным и не может быть пустым."
 
-#: app.js:11547
+#: app.js:11541
 msgctxt "Error : Text"
 msgid "Ads message must be more than 1 and less than 300 characters long."
 msgstr "Сообщение объявления должно быть длиной более 1 и менее 300 символов."
 
-#: app.js:19341
+#: app.js:19355
 msgctxt "URL Macros"
 msgid "Ad Set ID"
 msgstr "Адсет ID"
 
-#: app.js:20126
+#: app.js:20142
 msgctxt "Validation : Ad Set"
 msgid "Ad Set is required"
 msgstr "Необходимо выбрать адсет"
 
-#: app.js:11464
-#: app.js:11471
+#: app.js:11458
+#: app.js:11465
 msgctxt "Error : Ad Set"
 msgid "Ad Set is required if you want to use existing Ad Set."
 msgstr "Необходимо выбрать адсет, если вы хотите использовать существующий."
 
-#: app.js:19338
+#: app.js:19352
 msgctxt "URL Macros"
 msgid "Ad Set name"
 msgstr "имя адсета"
 
-#: app.js:20125
+#: app.js:20141
 msgctxt "Validation : Ad Set"
 msgid "Ad Set name is required"
 msgstr "Необходимо ввести имя адсета"
 
-#: app.js:11495
+#: app.js:11489
 msgctxt "Error : Ad Set"
 msgid "Ad Set name must be less than 100 characters long."
 msgstr "Имя адсета должно быть короче 100 символов."
 
-#: app.js:29020
-#: app.js:29090
+#: app.js:29061
+#: app.js:29131
 msgctxt "Switcher"
 msgid "Ad Sets"
 msgstr "Адсет"
 
-#: app.js:9045
+#: app.js:9039
 msgctxt "Pricing Table"
 msgid "AiTarget learning"
 msgstr "обучение AITarget"
 
-#: app.js:29687
+#: app.js:29693
 msgid "All"
 msgstr "Все"
 
-#: app.js:30136
+#: app.js:30177
 msgctxt "Platforms"
 msgid "All"
 msgstr "Все"
 
-#: app.js:30240
-#: app.js:30290
+#: app.js:30281
+#: app.js:30331
 msgctxt "Targeting OS Version"
 msgid "All"
 msgstr "Все"
 
-#: app.js:10284
-#: app.js:10307
-#: app.js:10328
-#: app.js:319
+#: app.js:10278
+#: app.js:10301
+#: app.js:10322
+#: app.js:323
 msgctxt "Breadcrumb"
 msgid "All accounts"
 msgstr "Все Аккаунты"
 
-#: app.js:30468
+#: app.js:30509
 msgid "All mobile users"
 msgstr "Все мобильные пользователи"
 
-#: app.js:30140
+#: app.js:30181
 msgctxt "Platforms"
 msgid "Android only"
 msgstr "только Android"
 
-#: app.js:29251
+#: app.js:29292
 msgctxt "Audience Opt Groups"
 msgid "App"
 msgstr "Приложение"
 
-#: app.js:29263
+#: app.js:29304
 msgctxt "Audience Opt Groups"
 msgid "App Combination"
 msgstr "Комбинация для приложения"
 
-#: app.js:29378
+#: app.js:29419
 msgctxt "Connections Opt Groups"
 msgid "Applications"
 msgstr "Приложения"
 
-#: app.js:12938
+#: app.js:12943
 msgctxt "Column : Status : Ad"
 msgid "Approved"
 msgstr "Одобрено"
 
-#: app.js:11361
+#: app.js:11355
 msgctxt "Error : Email"
 msgid "At least one email address is required."
 msgstr "Необходим по крайней мере один адрес электронной почты."
 
-#: app.js:11430
+#: app.js:11424
 msgctxt "Error : App"
 msgid "At least one facebook app is required if you want to upload people IDs."
 msgstr "Необходимо по крайней мере одно приложение, зарегистрированное в Facebook, чтобы загрузить идентификаторы людей."
 
-#: app.js:11437
+#: app.js:11431
 msgctxt "Error : Audience"
 msgid "At least one source is required."
 msgstr "Требуется по крайней мере один источник."
 
-#: app.js:23154
-#: app.js:31398
+#: app.js:23170
+#: app.js:31317
 msgctxt "Placement"
 msgid "Audience Network - Banner"
 msgstr "Сеть Аудиторий - Баннер"
 
-#: app.js:23157
-#: app.js:31401
+#: app.js:23173
+#: app.js:31320
 msgctxt "Placement"
 msgid "Audience Network - Interstitial"
 msgstr "Сеть Аудиторий - Interstitial"
 
-#: app.js:9003
+#: app.js:8997
 msgctxt "Pricing Table"
 msgid "Automatic payment failed. We will try to retry the payment."
 msgstr "Автоматический платеж не прошел. Он повторится в ближайшее время. "
 
-#: app.js:6904
+#: app.js:6956
 msgctxt "Informer"
 msgid "Avg daily spend"
 msgstr "Средний расход за день"
 
-#: app.js:19356
+#: app.js:19370
 msgctxt "URL Macros"
 msgid "Bid amount (value or AUTOBID)"
 msgstr "Сумма ставки (значение или автоматическая ставка)"
 
-#: app.js:19350
+#: app.js:19364
 msgctxt "URL Macros"
 msgid "Billing event"
 msgstr "Платежное событие"
 
-#: app.js:23177
-#: app.js:24108
-#: app.js:24243
-#: app.js:25070
-#: app.js:5045
+#: app.js:23193
+#: app.js:24124
+#: app.js:24259
+#: app.js:25202
+#: app.js:5064
 msgctxt "Call To Action"
 msgid "Book Now"
 msgstr "Забронируйте сейчас"
 
-#: app.js:11334
+#: app.js:11328
 msgctxt "Error : Budget"
 msgid "Budget value is required."
 msgstr "Необходимо указать значение бюджета."
 
-#: app.js:11343
+#: app.js:11337
 msgctxt "Error : Budget"
 msgid "Budget value should be greater or equal to 1."
 msgstr "Значение бюджета должно быть больше или равно 1."
 
-#: app.js:11345
+#: app.js:11339
 msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "Значение бюджета должна быть меньше или равно 1 000 000."
 
-#: app.js:24132
+#: app.js:24148
 msgid "Buy Now"
 msgstr "Купить сейчас"
 
-#: app.js:23201
-#: app.js:25094
-#: app.js:5075
+#: app.js:23217
+#: app.js:25226
+#: app.js:5094
 msgctxt "Call To Action"
 msgid "Buy Now"
 msgstr "Купить сейчас"
 
-#: app.js:4531
+#: app.js:4550
 msgctxt "Automation : Ad Set : Action Param"
 msgid "By Reach"
 msgstr "По охвату"
 
-#: app.js:19119
-#: app.js:19120
+#: app.js:19133
+#: app.js:19134
 msgctxt "Validation : Calendar"
 msgid "Calendar is required"
 msgstr "Требуется задать период в календаре"
 
-#: app.js:19335
+#: app.js:19349
 msgctxt "URL Macros"
 msgid "Campaign ID"
 msgstr "Идентификатор кампании"
 
-#: app.js:12822
+#: app.js:12827
 msgctxt "Column : Status : Ad Set"
 msgid "Campaign is Off"
 msgstr "Кампания выкл"
 
-#: app.js:12930
+#: app.js:12935
 msgctxt "Column : Status : Ad"
 msgid "Campaign is Off"
 msgstr "Кампания выкл"
 
-#: app.js:20854
+#: app.js:20870
 msgctxt "Validation : Campaign"
 msgid "Campaign is required"
 msgstr "Выберите кампанию"
 
-#: app.js:11423
+#: app.js:11417
 msgctxt "Error : Campaign"
 msgid "Campaign is required if you want to use existing campaign."
 msgstr "Для использования существующей кампании выберите подходящую из списка"
 
-#: app.js:19332
+#: app.js:19346
 msgctxt "URL Macros"
 msgid "Campaign name"
 msgstr "Название кампании"
 
-#: app.js:20853
-#: app.js:28518
+#: app.js:20869
+#: app.js:25005
 msgctxt "Validation : Campaign"
 msgid "Campaign name is required"
 msgstr "Требуется название кампании"
 
-#: app.js:11444
+#: app.js:11438
 msgctxt "Error : Campaign"
 msgid "Campaign name is required if new campaign is selected."
 msgstr "Для создания новой кампании введите ее имя"
 
-#: app.js:11449
+#: app.js:11443
 msgctxt "Error : Campaign"
 msgid "Campaign name must be less than 128 characters long."
 msgstr "Название кампании должно быть длиной от 1 до 128 символов."
 
-#: app.js:29087
+#: app.js:29128
 msgctxt "Switcher"
 msgid "Campaigns"
 msgstr "Список кампаний"
 
-#: app.js:28571
+#: app.js:25058
 #: components/crop/crop__modal/cropModal.html:21
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:16134
-#: app.js:18079
-#: app.js:4476
+#: app.js:16147
+#: app.js:18092
+#: app.js:4495
 msgctxt "Automation : Ad Set : Action"
 msgid "Change Bid"
 msgstr "Изменение ставок"
 
-#: app.js:16137
-#: app.js:18083
-#: app.js:4479
+#: app.js:16150
+#: app.js:18096
+#: app.js:4498
 msgctxt "Automation : Ad Set : Action"
 msgid "Change Budget"
 msgstr "Изменение бюджета"
 
-#: app.js:19662
+#: app.js:19676
 msgctxt "Info : Targeting : Gender"
 msgid "Choose \"All\" unless you only want your Ads to be shown to either men or women."
 msgstr "Выберите \"Все\", если вы хотите, чтобы ваши объявления показывались мужчинам или женщинам."
 
-#: app.js:30968
-#: app.js:31016
+#: app.js:31009
+#: app.js:31057
 msgctxt "Info: Page : Post"
 msgid "Choose a Facebook Page containing promoted post."
 msgstr "Выберите Facebook страницу, содержащую пост для обяъвления."
 
-#: app.js:31017
+#: app.js:31058
 msgctxt "Info: Page : Mobile"
 msgid "Choose a Facebook Page so you can run Ads on Facebook."
 msgstr "Выберите страницу Facebook, так что вы можете запустить рекламу на Facebook."
 
-#: app.js:30967
-#: app.js:31015
+#: app.js:31008
+#: app.js:31056
 msgctxt "Info: Page : Page"
 msgid "Choose a Facebook Page that you want to be promoted."
 msgstr "Выберите страницу Facebook, которую вы хотите продвигать."
 
-#: app.js:30966
+#: app.js:31007
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 "                                      Your ad will link to your site, but it will show as coming from your Facebook Page."
 msgstr "Выберите страницу Facebook, чтобы рассказывать о своем бизнесе в Ленте новостей.\n"
 "                                      Ваше объявление будет иметь ссылку на ваш сайт, но оно будет показано, как исходящее от страницы в Facebook."
 
-#: app.js:31014
+#: app.js:31055
 msgctxt "Info: Page : Website"
 msgid "Choose a Facebook Page to represent your business in News Feed.\n"
 "                              Your ad will link to your site, but it will show as coming from your Facebook Page."
 msgstr "Выберите страницу Facebook, чтобы рассказывать о своем бизнесе в Ленте новостей.\n"
 "                                      Ваше объявление будет иметь ссылку на ваш сайт, но оно будет показано, как исходящее от страницы в Facebook."
 
-#: app.js:19673
+#: app.js:19687
 msgctxt "Info : Ad : Name"
 msgid "Choose a name of your Ad."
 msgstr "Выберите имя вашего объявления."
 
-#: app.js:19658
+#: app.js:19672
 msgctxt "Info : URL : Link"
 msgid "Choose a particular view or app on your Page where people will land when they click on your Ad. This option only applies to desktop placements."
 msgstr "Выберите конкретный вид просмотра или приложение на странице, куда перейдут пользователи, когда они нажимут на ваше объявление. Этот параметр применяется только для десктопных размещений."
 
-#: app.js:19627
-#: app.js:21951
+#: app.js:19641
+#: app.js:21967
 msgctxt "Info : Post"
 msgid "Choose a post that you want to promote."
 msgstr "Выберите пост, который вы хотите продвигать."
 
-#: app.js:19634
+#: app.js:19648
 msgctxt "Info : Ad Set"
 msgid "Choose Ad Set"
 msgstr "Выберите адсет"
 
-#: app.js:19631
+#: app.js:19645
 msgctxt "Info : Campaign"
 msgid "Choose Campaign"
 msgstr "Выберите кампанию"
 
-#: app.js:19671
+#: app.js:19685
 msgctxt "Info : Targeting : Device"
 msgid "Choose device models you would like to target these Ads to."
 msgstr "Выберите модели устройств, чтобы учесть их в таргетинге объявлений"
 
-#: app.js:19619
+#: app.js:19633
 msgctxt "Info : Web Traffic"
 msgid "Choose how you want to add people to your audience. Include all of your website visitors, or create rules that only add people who visit specific parts of your website."
 msgstr "Создайте правило добавления людей к вашей аудитории. Подключите всех посетителей вашего сайта или тех, которые посещают определенные страницы вашего сайта."
 
-#: app.js:19670
+#: app.js:19684
 msgctxt "Info : Targeting : Min. OS"
 msgid "Choose minimum selected operating system version you want to target your Ads to."
 msgstr "Выберите минимальную выбранную версию операционной системы, на которую вы хотите настроить таргетинг объявлений."
 
-#: app.js:19654
+#: app.js:19668
 msgctxt "Info : Creating Mode"
 msgid "Choose mixing mode if you want to combine every image, headline and message altogether."
 msgstr "Выберите режим смешивания, если вы хотите создать объявления, соответсвующие каждой комбинации изображений, заголовков и сообщений."
 
-#: app.js:19657
+#: app.js:19671
 msgctxt "Info : Split Budget"
 msgid "Choose split by reach if you want to split budget according to audience reach."
 msgstr "Выберите \"Разбить по охвату\", если вы хотите разделить бюджет в соответствии с охватом аудитории."
 
-#: app.js:19656
+#: app.js:19670
 msgctxt "Info : Split By"
 msgid "Choose splitting mode if you want to automatically split targeting audience by age, gender, country or device."
 msgstr "Выберите режим разделения аудитории, если вы хотите, чтобы таргетинг аудитории был автоматически поделен по возрасту, полу, стране или устройства. Итогом будет несколько адсетов с соответствующими аудиториями."
 
-#: app.js:19653
+#: app.js:19667
 msgctxt "Info : Call To Action"
 msgid "Choose the action you want people to take when they see your Ad."
 msgstr "Выберите название кнопки к действию, которое смогут совершать пользователи, когда они увидят ваше объявление."
 
-#: app.js:19626
+#: app.js:19640
 msgctxt "Info : App"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store URL или Play URL. Вы можете рекламировать любое приложение, которое вы зарегистрировали на сайте разработчиков Facebook http://developers.facebook.com ."
 
-#: app.js:19625
+#: app.js:19639
 msgctxt "Info : URL : Mobile"
 msgid "Choose the app you want to advertise. Start typing to find the app or use its App Store or Play Store URL. You can advertise any app that you've registered on Facebook's developer site."
 msgstr "Выберите приложение, которое вы хотите рекламировать. Начните вводить, чтобы найти приложение или использовать его App Store URL или Play URL. Вы можете рекламировать любое приложение, которое вы зарегистрировали на сайте разработчиков Facebook http://developers.facebook.com ."
 
-#: app.js:19645
+#: app.js:19659
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your automation. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to use fields with a custom timeframe."
 msgstr "Выберите наиболее важное для автоматизации окно атрибуции. Окно атрибуции позволяет отслеживать действия, предпринятые в отношении вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции, используя поля с пользовательским сроком."
 
-#: app.js:19644
+#: app.js:19658
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window most important for your reporting. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "Выберите наиболее важное для вашей отчетности окно атрибуции. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашего объявления в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настроенными сроки."
 
-#: app.js:19669
-#: app.js:19676
+#: app.js:19683
+#: app.js:19690
 msgctxt "Info : Targeting : Platform"
 msgid "Choose the type of mobile device you would like to target these Ads to. You can target by mobile operating system and by device model."
 msgstr "Выберите тип мобильного устройства, которое вы хотели бы включить в таргетинг объявлений. Вы можете настроить таргетинг по мобильной операционной системе и модели устройства."
 
-#: app.js:19675
+#: app.js:19689
 msgctxt "Info : Targeting : Placements"
 msgid "Choose where you want your Ads to show on Facebook and the placements that are most important to you."
 msgstr "Выберите самые важные для вас размещения в Facebook для ваших объявлений"
 
-#: app.js:23668
+#: app.js:23684
 msgctxt "Objective"
 msgid "Clicks"
 msgstr "Клики"
 
-#: app.js:8856
+#: app.js:8850
 msgctxt "Plan : Dialog"
 msgid "Close"
 msgstr "Закрыть"
 
-#: app.js:15446
+#: app.js:15459
 msgid "Close Advanced Settings"
 msgstr "Спрятать дополнительные настройки"
 
-#: app.js:30784
+#: app.js:30825
 msgctxt "Info : Instagram Account"
 msgid "Connect your Instagram accounts in Business Manager or remove Instagram as a placement."
 msgstr "Подключите ваш Instagram-аккаунт в Бизнес-менеджере или отключите тип размещения Instagram"
 
-#: app.js:4716
+#: app.js:4735
 msgctxt "Modal : Create : Ok Button"
 msgid "Continue"
 msgstr "Далее"
 
-#: app.js:23680
+#: app.js:23696
 msgctxt "Objective"
 msgid "Conversions"
 msgstr "Конверсии"
 
-#: app.js:19622
+#: app.js:19636
 msgctxt "Info : Audiences: Copy And Paste"
 msgid "Copy and paste a list of emails, phone numbers, Facebook user IDs or mobile advertiser IDs from a spreadsheet or text file."
 msgstr "Скопируйте и вставьте список сообщений электронной почты, номеров телефонов, идентификаторы пользователей Facebook или идентификаторы мобильных рекламодателей из таблицы или текстового файла."
 
-#: app.js:6922
+#: app.js:6974
 msgctxt "Informer"
 msgid "cpc"
 msgstr "CPC"
 
-#: app.js:21646
+#: app.js:21662
 msgctxt "Validation : Page"
 msgid "create public page."
 msgstr "создайте публичную страницу"
 
-#: app.js:4717
+#: app.js:4736
 msgctxt "Modal : Create : Cancel Button"
 msgid "Create Similar Ads"
 msgstr "Создайте похожие объявления"
 
-#: app.js:12950
+#: app.js:12955
 msgctxt "Column : Status : Ad"
 msgid "Credit Card Needed"
 msgstr "Требуется кредитная карта"
 
-#: app.js:6917
+#: app.js:6969
 msgctxt "Informer"
 msgid "ctr"
 msgstr "CTR"
 
-#: app.js:29242
+#: app.js:29283
 msgctxt "Audience Opt Groups"
 msgid "Custom"
 msgstr "Пользовательская настройка"
 
-#: app.js:20683
+#: app.js:20699
 msgctxt "Validation : Budget"
 msgid "Daily budget is required"
 msgstr "Требуется указать ежедневный бюджет"
 
-#: app.js:8996
+#: app.js:8990
 msgctxt "Pricing Table"
 msgid "Days left:"
 msgstr "Осталось дней:"
 
-#: app.js:12916
+#: app.js:12921
 msgctxt "Column : Status : Ad"
 msgid "Delivering"
 msgstr "Действ."
 
-#: app.js:19651
+#: app.js:19665
 msgctxt "Info : Link Description"
 msgid "Describe why people should visit your website."
 msgstr "Опишите, почему люди должны посетить ваш сайт."
 
-#: app.js:23795
-#: app.js:23831
-#: app.js:24085
-#: app.js:24226
-#: app.js:31375
-#: app.js:32572
+#: app.js:23811
+#: app.js:23847
+#: app.js:24101
+#: app.js:24242
+#: app.js:31294
+#: app.js:32491
 msgctxt "Placement"
 msgid "Desktop Feed"
 msgstr "Десктопная лента"
 
-#: app.js:12953
+#: app.js:12958
 msgctxt "Column : Status : Ad"
 msgid "Disabled"
 msgstr "Отключено"
 
-#: app.js:13023
+#: app.js:13028
 msgctxt "Column : Status : Automation"
 msgid "Disabled"
 msgstr "Отключено"
 
-#: app.js:12942
+#: app.js:12947
 msgctxt "Column : Status : Ad"
 msgid "Disapproved"
 msgstr "Отклонено"
 
-#: app.js:29115
+#: app.js:29156
 msgctxt "Switcher"
 msgid "Display"
 msgstr "Показать"
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "Do you want to leave this page and go to dashboard?"
 msgstr "Покинуть эту страницу и перейти к созданным адсетам?"
 
-#: app.js:4544
-#: app.js:4553
+#: app.js:4563
+#: app.js:4572
 msgctxt "Automation : Ad Set : Param"
 msgid "Down"
 msgstr "Уменьшить на"
 
-#: app.js:23189
-#: app.js:24120
-#: app.js:24252
-#: app.js:25082
-#: app.js:5048
+#: app.js:23205
+#: app.js:24136
+#: app.js:24268
+#: app.js:25214
+#: app.js:5067
 msgctxt "Call To Action"
 msgid "Download"
 msgstr "Скачать"
 
-#: app.js:19647
+#: app.js:19661
 msgctxt "Info : Preset"
 msgid "Editing and creating is only available for user's presets. For shared presets you can only create a new one."
 msgstr "Создание и редактирование доступно только для предварительных настроек пользователя. Для общих предварительных настроек вы можете только создать новый."
 
-#: app.js:13028
+#: app.js:13033
 msgctxt "Column : Status : Automation"
 msgid "Enabled"
 msgstr "Включено"
 
-#: app.js:19691
+#: app.js:19705
 msgctxt "Info : Bid"
 msgid "Enabling this option will set your bid so that it's optimized to help you reach your objective."
 msgstr "Включение этой опции подразумевает установление ставки, оптимизированной для достижения вашей цели."
 
-#: app.js:19692
+#: app.js:19706
 msgctxt "Info : Sync"
 msgid "Enter how often we should update your Ads using data from provided products feed xml file. Value should be entered in minutes."
 msgstr "Введите, как часто мы должны обновлять ваши объявления, используя данные из предоставляемого  XML-файла каталога продуктов. Значение должно быть введено в течение нескольких минут."
 
-#: app.js:19660
+#: app.js:19674
 msgctxt "Info : Targeting : Exclude Locations"
 msgid "Enter locations you want to exclude."
 msgstr "Введите места, которые вы хотите исключить из таргетинга."
 
-#: app.js:19659
+#: app.js:19673
 msgctxt "Info : Targeting : Locations"
 msgid "Enter one or more countries, states, cities or ZIP codes to narrow your potential audience to the people in those locations."
 msgstr "Введите один или несколько стран, штатов, городов или почтовые индексы, чтобы сделать точнее потенциальную аудиторию в этих местах"
 
-#: app.js:8856
+#: app.js:8850
 msgctxt "Plan : Dialog"
 msgid "Error"
 msgstr "Ошибка"
 
-#: app.js:32222
+#: app.js:32141
 msgctxt "Error : Image"
 msgid "Error occurred when requesting for library images."
 msgstr "Произошла ошибка при запросе библиотеки изображений."
 
-#: app.js:32244
+#: app.js:32163
 msgctxt "Error : Video"
 msgid "Error occurred when requesting for library videos."
 msgstr "Произошла ошибка при запросе для библиотеки видео."
 
-#: app.js:21339
+#: app.js:21355
 msgctxt "Instagram Account"
 msgid "Error occurred! Couldn't create instagram account for the selected page."
 msgstr "Произошла ошибка! Не удалось выбрать указанную страницу в виде аккаунта Instagram."
 
-#: app.js:20379
-#: app.js:22315
+#: app.js:20395
+#: app.js:22331
 msgctxt "Error : App"
 msgid "Error occurred! Please, check your App URL."
 msgstr "Произошла ошибка! Пожалуйста, проверьте App URL."
 
-#: app.js:4535
+#: app.js:4554
 msgctxt "Automation : Ad Set : Param"
 msgid "Evenly"
 msgstr "Равномерно"
 
-#: app.js:19668
+#: app.js:19682
 msgctxt "Info : Targeting : Exclude Custom Audiences"
 msgid "Exclude your Ads from targeting to people from some custom audience."
 msgstr "Исключить ваши объявления от таргетирования на людей некоторой пользовательской аудитории."
 
-#: app.js:29841
+#: app.js:29882
 msgctxt "Placement"
 msgid "Facebook – Audience Network"
 msgstr "Facebook - Сеть аудиторий"
 
-#: app.js:29832
+#: app.js:29873
 msgctxt "Placement"
 msgid "Facebook – Desktop News Feed"
 msgstr "Facebook - Десктопная лента новостей"
 
-#: app.js:29838
+#: app.js:29879
 msgctxt "Placement"
 msgid "Facebook – Mobile News Feed"
 msgstr "Facebook - Мобильная лента новостей"
 
-#: app.js:29835
+#: app.js:29876
 msgctxt "Placement"
 msgid "Facebook – Right Hand Side"
 msgstr "Facebook - Правая колонка"
 
-#: app.js:9028
+#: app.js:9022
 msgctxt "Pricing Table"
 msgid "FAQ"
 msgstr "Часто задаваемые вопросы"
 
-#: app.js:19624
+#: app.js:19638
 msgctxt "Info : URL : Post"
 msgid "For example, if the URL tags are specified as key1=val1&key2=val2 and the stream story includes the URL www.example.com?key1=test, then the URL will be updated to www.example.com?key1=val1&key2=val2."
 msgstr "Например, если теги URL определяются, как key1=val1&key2=val2 и поток истории включает в себя URL: www.example.com?key1=test, то URL будет отображен, как: www.example.com?key1=val1&key2=val2."
 
-#: app.js:6935
+#: app.js:6987
 msgctxt "Informer"
 msgid "frequency"
 msgstr "Частота"
 
-#: app.js:8185
+#: app.js:8002
 msgctxt "Pacing"
 msgid "Friday"
 msgstr "Пятница"
 
-#: app.js:23633
+#: app.js:23649
 msgctxt "Objective"
 msgid "Get new installs"
 msgstr "Получить новые установки"
 
-#: app.js:23204
-#: app.js:25097
-#: app.js:5078
+#: app.js:23220
+#: app.js:25229
+#: app.js:5097
 msgctxt "Call To Action"
 msgid "Get Offer"
 msgstr "Принять предложение"
 
-#: app.js:24135
+#: app.js:24151
 msgid "Get Offer"
 msgstr "Принять предложение"
 
-#: app.js:19691
+#: app.js:19705
 msgctxt "Info : Bid"
 msgid "Get the most conversions at the best price - You'll be charged for impressions."
 msgstr "Получить наибольшее количество переходов по лучшей цене - Вы будете платить за показы."
 
-#: app.js:19632
+#: app.js:19646
 msgctxt "Info : Campaign : Name"
 msgid "Give your Campaign a name that describes the audience, scheduling or Ad Sets inside it."
 msgstr "Дайте название кампании, которая описывает аудитории, планирование или адсеты внутри него."
 
-#: app.js:21365
+#: app.js:21381
 msgctxt "Instagram Account"
 msgid "grant manage page permissions"
 msgstr "разрешить управлять страницами"
 
-#: app.js:21244
+#: app.js:21260
 msgctxt "Validation : Instagram Account"
 msgid "How to link your Instagram Account and AdAccount you can"
 msgstr "Как связать свой Инстаграм аккаунт и рекламный акканут — вы можете"
 
-#: app.js:19634
+#: app.js:19648
 msgctxt "Info : Ad Set"
 msgid "If"
 msgstr "Если"
 
-#: app.js:19631
+#: app.js:19645
 msgctxt "Info : Campaign"
 msgid "If"
 msgstr "Если"
 
-#: app.js:19680
+#: app.js:19694
 msgctxt "Info : Budget"
 msgid "If you choose a"
 msgstr "Если вы выбираете"
 
-#: app.js:6930
+#: app.js:6982
 msgctxt "Informer"
 msgid "impressions"
 msgstr "Показы"
 
-#: app.js:12933
+#: app.js:12938
 msgctxt "Column : Status : Ad"
 msgid "In Review"
 msgstr "На рассмотрении"
 
-#: app.js:12719
+#: app.js:12724
 msgctxt "Column : Status : Campaign"
 msgid "Inactive"
 msgstr "Неактивно"
 
-#: app.js:12826
+#: app.js:12831
 msgctxt "Column : Status : Ad Set"
 msgid "Inactive"
 msgstr "Неактивно"
 
-#: app.js:12921
+#: app.js:12926
 msgctxt "Column : Status : Ad"
 msgid "Inactive"
 msgstr "Неактивный"
 
-#: app.js:21240
+#: app.js:21256
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "Необходимо выбрать Instagram-аккаунт."
 
-#: app.js:23174
-#: app.js:24105
-#: app.js:25067
-#: app.js:5039
+#: app.js:23190
+#: app.js:24121
+#: app.js:25199
+#: app.js:5058
 msgctxt "Call To Action"
 msgid "Install Mobile App"
 msgstr "Установить приложение для мобильных телефонов"
 
-#: app.js:9039
+#: app.js:9033
 msgctxt "Pricing Table"
 msgid "Integration of external data"
 msgstr "Интеграция внешних данных"
 
-#: app.js:30144
+#: app.js:30185
 msgctxt "Platforms"
 msgid "iOS only"
 msgstr "только iOS"
 
-#: app.js:11339
-#: app.js:11513
-#: components/control/control-bid/controlBid.html:93
+#: app.js:11333
+#: app.js:11507
+#: components/control/control-bid/controlBid.html:94
 msgctxt "Error : Number"
 msgid "It can't have less than 1 or more than 2 decimal places."
 msgstr "В значении не может быть меньше 1 или более 2-х знаков после запятой."
 
-#: app.js:16544
+#: app.js:16557
 msgctxt "Automation : Analyze Window"
 msgid "Last 14 Days"
 msgstr "За последние 14 дней"
 
-#: app.js:16547
+#: app.js:16560
 msgctxt "Automation : Analyze Window"
 msgid "Last 28 Days"
 msgstr "За последние 28 дней"
 
-#: app.js:16565
+#: app.js:16578
 msgctxt "Automation : Analyze Window"
 msgid "Last 3 Months"
 msgstr "За последние 3 месяца"
 
-#: app.js:16550
+#: app.js:16563
 msgctxt "Automation : Analyze Window"
 msgid "Last 30 Days"
 msgstr "За последние 30 дней"
 
-#: app.js:16541
+#: app.js:16554
 msgctxt "Automation : Analyze Window"
 msgid "Last 7 Days"
 msgstr "За последние 7 дней"
 
-#: app.js:16553
+#: app.js:16566
 msgctxt "Automation : Analyze Window"
 msgid "Last 90 Days"
 msgstr "За последние 90 дней"
 
-#: app.js:16559
+#: app.js:16572
 msgctxt "Automation : Analyze Window"
 msgid "Last Month"
 msgstr "За прошлый месяц"
 
-#: app.js:16538
+#: app.js:16551
 msgctxt "Automation : Analyze Window"
 msgid "Last Week"
 msgstr "На прошлой неделе"
 
-#: app.js:23183
-#: app.js:24114
-#: app.js:24246
-#: app.js:25076
-#: app.js:5051
+#: app.js:23199
+#: app.js:24130
+#: app.js:24262
+#: app.js:25208
+#: app.js:5070
 msgctxt "Call To Action"
 msgid "Learn More"
 msgstr "Узнать больше"
 
-#: app.js:19663
+#: app.js:19677
 msgctxt "Info : Targeting : Languages"
 msgid "Leave this blank unless the audience you are targeting uses a language that is not common to the location you have chosen above."
 msgstr "Оставьте это поле пустым, если вы не ориентируетесь на пользователей, говорящих на общем языке для местоположения, выбранного выше."
 
-#: app.js:19664
+#: app.js:19678
 msgctxt "Info : Targeting : Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите сузить свою аудиторию до людей, связанных с вашей страницей, приложением или событием."
 
-#: app.js:19666
+#: app.js:19680
 msgctxt "Info : Targeting : Friends Of Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите сузить свою аудиторию до друзей тех, кто связан с вашей страницей, приложением или событием."
 
-#: app.js:19665
+#: app.js:19679
 msgctxt "Info : Targeting : Excluded Connections"
 msgid "Leave this field blank unless you want to narrow your audience down to only the people NOT connected to your Page, app or event."
 msgstr "Оставьте это поле пустым, если вы не хотите сузить свою аудиторию до людей, НЕ связанных с вашей страницей, приложением или событием."
 
-#: app.js:16568
+#: app.js:16581
 msgctxt "Automation : Analyze Window"
 msgid "Lifetime"
 msgstr "Весь период"
 
-#: app.js:19680
+#: app.js:19694
 msgctxt "Info : Budget"
 msgid "lifetime budget"
 msgstr "бюджет на весь срок действия"
 
-#: app.js:20682
+#: app.js:20698
 msgctxt "Validation : Budget"
 msgid "Lifetime budget is required"
 msgstr "Необходимо ввести бюджет за весь период"
 
-#: app.js:19684
+#: app.js:19698
 msgctxt "Info : Targeting : Audiences"
 msgid "List of targeting audiences. Separate Ad Set will be created for each audience. If existing Ad Set is selected, then only one audience will be here."
 msgstr "Список таргетированных аудиторий. Отдельный адсет будет создан для каждой аудитории. Если выбран существующий адсет, то будет создана только одна аудитория."
 
-#: app.js:29245
+#: app.js:29286
 msgctxt "Audience Opt Groups"
 msgid "Lookalike"
 msgstr "Похожая аудитория"
 
-#: app.js:29257
+#: app.js:29298
 msgctxt "Audience Opt Groups"
 msgid "Managed"
 msgstr "Управление"
 
-#: app.js:19637
+#: app.js:19651
 msgctxt "Info : Message"
 msgid "Maximum length is 300 characters. Will be automatically cut."
 msgstr "Максимальная длина составляет 300 символов. Сообщение длиннее будет автоматически обрезаться."
 
-#: app.js:19636
+#: app.js:19650
 msgctxt "Info : Headline"
 msgid "Maximum length is 40 characters. Will be automatically cut."
 msgstr "Максимальная длина составляет 300 символов. Сообщение длиннее будет автоматически обрезаться."
 
-#: app.js:19623
+#: app.js:19637
 msgctxt "Info : Audiences : In The Last"
 msgid "Maximum time: 180 days"
 msgstr "Максимальное время: 180 дней"
 
-#: app.js:29690
+#: app.js:29696
 msgid "Men"
 msgstr "Мужчины"
 
-#: app.js:23151
-#: app.js:23798
-#: app.js:23834
-#: app.js:24088
-#: app.js:24229
-#: app.js:31383
-#: app.js:31395
-#: app.js:32575
+#: app.js:23167
+#: app.js:23814
+#: app.js:23850
+#: app.js:24104
+#: app.js:24245
+#: app.js:31302
+#: app.js:31314
+#: app.js:32494
 msgctxt "Placement"
 msgid "Mobile Feed"
 msgstr "Мобильная лента новостей\n"
 ""
 
-#: app.js:8165
+#: app.js:7982
 msgctxt "Pacing"
 msgid "Monday"
 msgstr "Понедельник"
 
-#: app.js:12800
+#: app.js:12805
 msgctxt "Column : Status : Ad Set"
 msgid "Not Delivering"
 msgstr "Приостановлено"
 
-#: app.js:12899
+#: app.js:12904
 msgctxt "Column : Status : Ad"
 msgid "Not Delivering"
 msgstr "Приостановлено"
 
-#: app.js:16143
-#: app.js:18091
-#: app.js:4491
+#: app.js:16156
+#: app.js:18104
+#: app.js:4510
 msgctxt "Automation : Ad Set : Action"
 msgid "Notify By Email"
 msgstr "Уведомлять по электронной почте"
 
-#: app.js:9035
+#: app.js:9029
 msgctxt "Pricing Table"
 msgid "Online chat support"
 msgstr "Онлайн поддержка в чате"
 
-#: app.js:15440
-#: app.js:15451
+#: app.js:15453
+#: app.js:15464
 msgid "Open Advanced Settings"
 msgstr "Открыть дополнительные настройки"
 
-#: app.js:23198
-#: app.js:24129
-#: app.js:25091
-#: app.js:5072
+#: app.js:23214
+#: app.js:24145
+#: app.js:25223
+#: app.js:5091
 msgctxt "Call To Action"
 msgid "Open Link"
 msgstr "Открыть ссылку"
 
-#: app.js:19353
+#: app.js:19367
 msgctxt "URL Macros"
 msgid "Optimization goal"
 msgstr "Цель оптимизации"
 
-#: app.js:9041
+#: app.js:9035
 msgctxt "Pricing Table"
 msgid "Optimization of mobile events"
 msgstr "Оптимизация мобильных событий"
 
-#: app.js:2540
-#: app.js:4664
-#: app.js:4666
+#: app.js:2559
+#: app.js:4683
+#: app.js:4685
 msgctxt "Error : Group"
 msgid "Page"
 msgstr "Страница"
 
-#: app.js:23693
+#: app.js:23709
 msgctxt "Objective"
 msgid "Page"
 msgstr "Страница"
 
-#: app.js:11578
+#: app.js:11572
 msgctxt "Error : Page"
 msgid "Page is required."
 msgstr "Требуется страница."
 
-#: app.js:21645
+#: app.js:21661
 msgctxt "Validation : Page"
 msgid "Page is required."
 msgstr "Требуется страница."
 
-#: app.js:23703
+#: app.js:23719
 msgctxt "Objective"
 msgid "Page Likes"
 msgstr "Отметки страницы \"Нравится\""
 
-#: app.js:29375
+#: app.js:29416
 msgctxt "Connections Opt Groups"
 msgid "Pages"
 msgstr "Страницы"
 
-#: app.js:29254
+#: app.js:29295
 msgctxt "Audience Opt Groups"
 msgid "Partner"
 msgstr "Партнер"
@@ -1856,1047 +1852,1047 @@ msgstr "Партнер"
 msgid "Paste your customer list here."
 msgstr "Вставьте сюда список клиентов."
 
-#: app.js:28528
+#: app.js:25015
 msgctxt "Campaign : Status"
 msgid "Paused"
 msgstr "Приостановлена"
 
-#: app.js:12947
+#: app.js:12952
 msgctxt "Column : Status : Ad"
 msgid "Pending Billing Info"
 msgstr "В ожидании информации об оплате"
 
-#: app.js:25950
+#: app.js:26082
 msgctxt "Tooltip : Slider : Audiences"
 msgid "people"
 msgstr "людей"
 
-#: app.js:29381
+#: app.js:29422
 msgctxt "Connections Opt Groups"
 msgid "Places"
 msgstr "Места"
 
-#: app.js:23168
-#: app.js:24099
-#: app.js:25061
+#: app.js:23184
+#: app.js:24115
+#: app.js:25193
 msgctxt "Call To Action"
 msgid "Play Game"
 msgstr "Играть в игру"
 
-#: app.js:2303
+#: app.js:2322
 msgctxt "Error : Connection"
 msgid "Please, check that your computer is connected to the Internet."
 msgstr "Пожалуйста, убедитесь, что ваш компьютер подключен к Интернету."
 
-#: app.js:6202
+#: app.js:6221
 msgctxt "Error : Replace"
 msgid "Please, select application by direct link to play.google.com or itunes.apple.com if you\n"
 "               want to promote App Installs. No redirect links are supported."
 msgstr "Пожалуйста, выберите приложение по прямой ссылкой на play.google.com или itunes.apple.com если вы\n"
 "               хотят продвигать установки приложений. Переадресация на другие сайты не поддерживается."
 
-#: app.js:19642
+#: app.js:19656
 msgctxt "Info : Image : Library"
 msgid "Please, select images that you want to use in your new Ads."
 msgstr "Пожалуйста, выберите изображения, которые вы хотите использовать в новых объявлениях."
 
-#: app.js:6197
+#: app.js:6216
 msgctxt "Error : Replace"
 msgid "Please, select page or change targeting placement."
 msgstr "Пожалуйста, выберите страницу или измените место размещения."
 
-#: app.js:1133
+#: app.js:1137
 msgctxt "Error : Page"
 msgid "Please, try to"
 msgstr "Пожалуйста, попробуйте"
 
-#: app.js:23715
+#: app.js:23731
 msgctxt "Objective"
 msgid "Post Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: app.js:8789
+#: app.js:8783
 msgctxt "Plan"
 msgid "Premiun plan"
 msgstr "План Premiun"
 
-#: app.js:11457
+#: app.js:11451
 msgctxt "Error : Preset"
 msgid "Preset name is required."
 msgstr "Требуется имя пресета"
 
-#: app.js:16529
+#: app.js:16542
 msgctxt "Automation : Analyze Window"
 msgid "Previous Hour"
 msgstr "Предыдущий час"
 
-#: app.js:23645
+#: app.js:23661
 msgctxt "Objective"
 msgid "Re-engage existing users"
 msgstr "Повторное привлечение существующих пользователей"
 
-#: app.js:6940
+#: app.js:6992
 msgctxt "Informer"
 msgid "reach"
 msgstr "Охват"
 
-#: app.js:21244
+#: app.js:21260
 msgctxt "Validation : Instagram Account"
 msgid "read in our blog."
 msgstr "читайте в нашем блоге."
 
-#: app.js:1133
+#: app.js:1137
 msgctxt "Error : Page"
 msgid "reload"
 msgstr "перезагрузить"
 
-#: app.js:4482
+#: app.js:4501
 msgctxt "Automation : Ad Set : Action"
 msgid "Relocate Budget"
 msgstr "Перераспределить бюджет"
 
-#: app.js:23792
-#: app.js:23837
-#: app.js:24232
-#: app.js:25198
-#: app.js:31379
-#: app.js:31405
-#: app.js:32578
+#: app.js:23808
+#: app.js:23853
+#: app.js:24248
+#: app.js:25330
+#: app.js:31298
+#: app.js:31324
+#: app.js:32497
 msgctxt "Placement"
 msgid "Right Column"
 msgstr "Правая колонка"
 
-#: app.js:16140
-#: app.js:18087
-#: app.js:4509
+#: app.js:16153
+#: app.js:18100
+#: app.js:4528
 msgctxt "Automation : Ad : Action"
 msgid "Rotate"
 msgstr "Ротировать"
 
-#: app.js:8190
+#: app.js:8007
 msgctxt "Pacing"
 msgid "Saturday"
 msgstr "Суббота"
 
-#: app.js:28516
+#: app.js:25003
 #: components/crop/crop__modal/cropModal.html:25
 msgid "Save"
 msgstr "Сохранить"
 
-#: app.js:19630
+#: app.js:19644
 msgctxt "Info : Copy : Ads"
 msgid "Select 'No' if you want to copy Ad Set without Ads."
 msgstr "Выберите \"Нет\", если вы хотите скопировать адсет без объявлений."
 
-#: app.js:19649
+#: app.js:19663
 msgctxt "Info : Automation : Ad Set"
 msgid "Select actions that you want to apply to selected Ad Sets when all rules match."
 msgstr "Выберите действия, которые необходимо применить к выбранным адсетам, когда выполняются все условия правил."
 
-#: app.js:19648
+#: app.js:19662
 msgctxt "Info : Automation : Ad Set"
 msgid "Select Ad Sets that you want to use automation for."
 msgstr "Выберите адсеты, для которых вы хотите использовать автоматизацию."
 
-#: app.js:19681
+#: app.js:19695
 msgctxt "Info : Calendar"
 msgid "Select the advertisement period for your Ads."
 msgstr "Выберите рекламный период для ваших объявлений."
 
-#: app.js:19635
+#: app.js:19649
 msgctxt "Info : Image"
 msgid "Select the images."
 msgstr "Выберите изображения."
 
-#: app.js:19661
+#: app.js:19675
 msgctxt "Info : Targeting : Age"
 msgid "Select the minimum and maximum age of the people who will find your Ad relevant."
 msgstr "Выберите минимальный и максимальный возраст людей, для которых предназначено ваше объявление"
 
-#: app.js:19682
+#: app.js:19696
 msgctxt "Info : Automation : Calendar"
 msgid "Select the period for your automation."
 msgstr "Выберите период для вашей автоматизации."
 
-#: app.js:19629
+#: app.js:19643
 msgctxt "Info : Ad Set"
 msgid "Select to create new Ad Set or use an existing Ad Set."
 msgstr "Выберите для создания нового адсета или создавайте объявления в существующем адсете."
 
-#: app.js:19628
+#: app.js:19642
 msgctxt "Info : Campaign"
 msgid "Select to create new Campaign or use an existing Campaign."
 msgstr "Выберите для создания новой кампании или создавайте объявления в существующей кампании."
 
-#: app.js:19690
+#: app.js:19704
 msgctxt "Info : Status"
 msgid "Set activity status for your Campaign."
 msgstr "Установите статус активности вашей кампании"
 
-#: app.js:23165
-#: app.js:24096
-#: app.js:24240
-#: app.js:25058
-#: app.js:5057
+#: app.js:23181
+#: app.js:24112
+#: app.js:24256
+#: app.js:25190
+#: app.js:5076
 msgctxt "Call To Action"
 msgid "Shop Now"
 msgstr "В магазин"
 
-#: app.js:19677
+#: app.js:19691
 msgctxt "Info : Caption"
 msgid "Short caption of the url that people will reach after clicking on your Ad."
 msgstr "Короткий заголовок из URL, что люди будут достигать после нажатия на объявление."
 
-#: app.js:23186
-#: app.js:24117
-#: app.js:24249
-#: app.js:25079
-#: app.js:5060
+#: app.js:23202
+#: app.js:24133
+#: app.js:24265
+#: app.js:25211
+#: app.js:5079
 msgctxt "Call To Action"
 msgid "Sign Up"
 msgstr "Зарегистрируйтесь"
 
-#: app.js:6894
+#: app.js:6946
 msgctxt "Informer"
 msgid "spend"
 msgstr "Израсходовано"
 
-#: app.js:28521
+#: app.js:25008
 msgctxt "Validation : Campaign"
 msgid "Spend Cap is required"
 msgstr "Требуется лимит расходов"
 
-#: app.js:28520
+#: app.js:25007
 msgctxt "Validation : Campaign"
 msgid "Spend Cap must be numeric"
 msgstr "Лимит расходов должен иметь числовой формат"
 
-#: app.js:16128
-#: app.js:18071
-#: app.js:4488
+#: app.js:16141
+#: app.js:18084
+#: app.js:4507
 msgctxt "Automation : Ad Set : Action"
 msgid "Start"
 msgstr "Начало"
 
-#: app.js:4506
+#: app.js:4525
 msgctxt "Automation : Ad : Action"
 msgid "Start"
 msgstr "Начало"
 
-#: app.js:16131
-#: app.js:18075
-#: app.js:4485
+#: app.js:16144
+#: app.js:18088
+#: app.js:4504
 msgctxt "Automation : Ad Set : Action"
 msgid "Stop"
 msgstr "Стоп"
 
-#: app.js:8806
+#: app.js:8800
 msgctxt "Plan"
 msgid "Stripe Checkout closed without making a sale."
 msgstr "Оплата не была произведена"
 
-#: app.js:8976
-#: app.js:9095
+#: app.js:8970
+#: app.js:9089
 msgctxt "Pricing Table"
 msgid "Subscribe"
 msgstr "Подписывайтесь"
 
-#: app.js:8195
+#: app.js:8012
 msgctxt "Pacing"
 msgid "Sunday"
 msgstr "Воскресенье"
 
-#: app.js:11585
+#: app.js:11579
 #: components/control/control-automation-sync/controlAutomationSync.html:29
 msgctxt "Error : Sync"
 msgid "Sync period value is required."
 msgstr "Требуется значение периода синхронизации"
 
-#: app.js:11590
+#: app.js:11584
 msgctxt "Error : Sync"
 msgid "Sync period value should be greater or equal to 15 minutes."
 msgstr "Значение периода синхронизации должно быть больше или равно 15 мин."
 
-#: app.js:19667
+#: app.js:19681
 msgctxt "Info : Targeting : Custom Audiences"
 msgid "Target your Ads to people from your custom audience."
 msgstr "Таргетируйте объявления на людей из вашей пользовательской аудитории."
 
-#: app.js:19659
+#: app.js:19673
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your Ad by city isn't available in all countries."
 msgstr "Таргетинг на жителей определенного города не доступен во всех странах"
 
-#: app.js:19659
+#: app.js:19673
 msgctxt "Info : Targeting : Locations"
 msgid "Targeting your Ad by ZIP code is only available in the United States."
 msgstr "Таргетинг объявления по почтовому коду доступен только в Соединенных Штатах."
 
-#: app.js:19637
+#: app.js:19651
 msgctxt "Info : Message"
 msgid "Tell people a bit more about your Ad(s). Make sure to clearly explain what you are promoting."
 msgstr "Скажите людям немного больше о вашем объявлении. Убедитесь в том, что вы четко объясняете то, что вы рекламируете."
 
-#: app.js:19638
+#: app.js:19652
 msgctxt "Info : Text : Carousel"
 msgid "Tell people a bit more about your Ad(s). Make sure to clearly explain what you are promoting."
 msgstr "Скажите людям немного больше о вашем объявлении (ы). Убедитесь в том, чтобы четко объяснить, что вы рекламируете."
 
-#: app.js:19621
+#: app.js:19635
 msgctxt "Info : Audiences : Upload File"
 msgid "Text files (.txt and .csv) can include records on separate lines or in a list separated by commas."
 msgstr "Текстовые файлы (.txt и .csv) могут включать в себя записи в виде отдельных строк или в списке через запятую."
 
-#: app.js:11404
+#: app.js:11398
 msgctxt "Error : Link Description"
 msgid "The caption must be more than 1 and less than 60 characters long."
 msgstr "Отображаемая ссылка должна быть длиной более 1 и менее 60 символов."
 
-#: app.js:11395
+#: app.js:11389
 msgctxt "Error : Link Caption"
 msgid "The caption must be more than 1 and less than 90 characters long."
 msgstr "Отображаемая ссылка должна быть длиной более 1 и менее 90 символов."
 
-#: app.js:19650
+#: app.js:19664
 msgctxt "Info : Link Caption"
 msgid "The caption of a link in the post (appears beneath the name)."
 msgstr "Отображаемая ссылка в посте (появляется под именем)."
 
-#: app.js:11566
+#: app.js:11560
 msgctxt "Error : Headline"
 msgid "The headline is required and cannot be empty."
 msgstr "Заголовок является обязательным и не может быть пустым."
 
-#: app.js:11571
+#: app.js:11565
 msgctxt "Error : Headline"
 msgid "The headline must be more than 1 and less than 40 characters long."
 msgstr "Заголовок должен быть более 1 и менее 40 символов."
 
-#: app.js:11386
+#: app.js:11380
 msgctxt "Error : Link Name"
 msgid "The link name must be more than 1 and less than 50 characters long."
 msgstr "Имя ссылки должно быть более 1 и менее 50 символов."
 
-#: app.js:11354
+#: app.js:11348
 msgctxt "Error : Link URL"
 msgid "The Link URl is required."
 msgstr "Поле для ссылки не может быть пустым"
 
-#: app.js:19617
+#: app.js:19631
 msgctxt "Info : Frequency Cap"
 msgid "The maximum number of times you want your Ad to show to people. We suggest frequency cap 2 based on your Campaign duration and placement."
 msgstr "Среднее число показов вашего объявления одному человеку. Мы предлагаем ограничение частоты 2, основанное на продолжительности вашей кампании и ее размещения."
 
-#: app.js:11530
-#: app.js:1897
-#: app.js:26037
+#: app.js:11524
+#: app.js:1916
+#: app.js:26169
 msgctxt "Error : Name"
 msgid "The name is required and cannot be empty."
 msgstr "Имя является обязательным и не может быть пустым."
 
-#: app.js:11535
+#: app.js:11529
 msgctxt "Error : Name"
 msgid "The name must be more than 1 and less than 100 characters long."
 msgstr "Имя должно быть больше 1 и меньше, чем 100 символов."
 
-#: app.js:19643
+#: app.js:19657
 msgctxt "Info : Link Name"
 msgid "The name of the link."
 msgstr "Название ссылки."
 
-#: app.js:19623
+#: app.js:19637
 msgctxt "Info : Audiences : In The Last"
 msgid "The number of days people will remain in your audience after they visit your website. People will be removed from your audience after the set time period unless they visit your website again."
 msgstr "Число дней с момента посещения вашего сайта. Люди будут удалены из вашей аудитории по истечении установленного периода времени, если они снова не посетят ваш сайт."
 
-#: app.js:11554
+#: app.js:11548
 msgctxt "Error : Pixel"
 msgid "The pixel name is required and cannot be empty."
 msgstr "Имя пикселя является обязательным и не может быть пустым."
 
-#: app.js:11559
+#: app.js:11553
 msgctxt "Error : Pixel"
 msgid "The pixel name must be more than 1 and less than 100 characters long."
 msgstr "Имя пикселя должно быть больше 1 и меньше, чем 100 символов."
 
-#: app.js:11416
+#: app.js:11410
 msgctxt "Error : Text"
 msgid "The text message must be more than 1 and less than 300 characters long."
 msgstr "Текст сообщения должен быть более 1 и менее 300 символов."
 
-#: app.js:11517
+#: app.js:11511
 msgctxt "Error : Bid"
 msgid "The value should be greater or equal to 0.01."
 msgstr "Значение должно быть больше или равно 0,01."
 
-#: app.js:11591
+#: app.js:11585
 msgctxt "Error : Sync"
 msgid "The value should be numeric."
 msgstr "Значение должно быть числовым."
 
-#: app.js:8837
+#: app.js:8831
 msgctxt "Plan"
 msgid "There was a mistake when updating plan"
 msgstr "Возникла ошибка при обновлении плана"
 
-#: app.js:19686
+#: app.js:19700
 msgctxt "Info : Bid"
 msgid "This bid helps determine your Ad's strength in the Ad auction, and therefore its likelihood of running on the site. We'll only charge you the amount that is required for your Ad to win the auction, which may be lower than your maximum bid, so we recommend you enter your true maximum when creating your Ads."
 msgstr "Эта ставка помогает определить силу вашего объявления в аукционе объявлений и вероятности его запуска. Facebook взимает сумму, которая требуется для Вашего объявления для выигрыша аукциона, которая может быть ниже максимальной ставки, поэтому мы рекомендуем вам ввести возможный максимум при создании объявлений."
 
-#: app.js:16556
+#: app.js:16569
 msgctxt "Automation : Analyze Window"
 msgid "This Month"
 msgstr "Этот месяц"
 
-#: app.js:1133
+#: app.js:1137
 msgctxt "Error : Page"
 msgid "this page."
 msgstr "эта страница."
 
-#: app.js:11508
-#: components/control/control-bid/controlBid.html:90
+#: app.js:11502
+#: components/control/control-bid/controlBid.html:91
 msgctxt "Error : Bid"
 msgid "This value is required."
 msgstr "Требуется ввести значение."
 
-#: app.js:16535
+#: app.js:16548
 msgctxt "Automation : Analyze Window"
 msgid "This Week"
 msgstr "На этой неделе"
 
-#: app.js:8180
+#: app.js:7997
 msgctxt "Pacing"
 msgid "Thursday"
 msgstr "Четверг"
 
-#: app.js:21365
+#: app.js:21381
 msgctxt "Instagram Account"
 msgid "to 'Aitarget' application in order to create instagram account for the selected page."
 msgstr "к приложению 'Aitarget' для того, чтобы создать учетную запись Instagram для выбранной страницы."
 
-#: app.js:16520
+#: app.js:16533
 msgctxt "Automation : Analyze Window"
 msgid "Today"
 msgstr "Cегодня"
 
-#: app.js:6899
+#: app.js:6951
 msgctxt "Informer"
 msgid "total spend"
 msgstr "общие расходы"
 
-#: app.js:8986
+#: app.js:8980
 msgctxt "Pricing Table"
 msgid "Trial days left:"
 msgstr "Осталось пробных дней:"
 
-#: app.js:8170
+#: app.js:7987
 msgctxt "Pacing"
 msgid "Tuesday"
 msgstr "Вторник"
 
-#: app.js:2304
+#: app.js:2323
 msgctxt "Error : Connection"
 msgid "Unable to connect to the Internet!"
 msgstr "Невозможно подключиться к Интернету!"
 
-#: app.js:1132
+#: app.js:1136
 msgctxt "Error : Page"
 msgid "Unknown error occurred on this page."
 msgstr "Произошла неизвестная ошибка на этой странице."
 
-#: app.js:32632
-#: app.js:7780
+#: app.js:32551
+#: app.js:7795
 msgctxt "Error : Preview"
 msgid "Unknown error occurred, when requesting for Ad preview."
 msgstr "При запросе предварительного просмотра объявлений произошла неизвестная ошибка"
 
-#: app.js:4540
-#: app.js:4549
+#: app.js:4559
+#: app.js:4568
 msgctxt "Automation : Ad Set : Param"
 msgid "Up"
 msgstr "Увеличить"
 
-#: app.js:19616
+#: app.js:19630
 msgctxt "Info : URL"
 msgid "Url of a website that you want to promote."
 msgstr "Адрес веб-сайта, который вы хотите продвигать."
 
-#: app.js:19624
+#: app.js:19638
 msgctxt "Info : URL : Post"
 msgid "URL tags you specify here will be appended to or will replace existing tags in the URLs."
 msgstr "URL теги, которые вы указываете здесь, будут добавлены в ссылку или заменят существующие теги в URL."
 
-#: app.js:30597
+#: app.js:30638
 msgctxt "Info : URL"
 msgid "URL to main page or products category on the website."
 msgstr "URL главной страницы или категории на сайте."
 
-#: app.js:23171
-#: app.js:23195
-#: app.js:24102
-#: app.js:24126
-#: app.js:25064
-#: app.js:25088
-#: app.js:5042
-#: app.js:5069
+#: app.js:23187
+#: app.js:23211
+#: app.js:24118
+#: app.js:24142
+#: app.js:25196
+#: app.js:25220
+#: app.js:5061
+#: app.js:5088
 msgctxt "Call To Action"
 msgid "Use Mobile App"
 msgstr "Используйте мобильное приложение"
 
-#: app.js:19652
-#: app.js:30548
+#: app.js:19666
+#: app.js:30589
 msgctxt "Info : Deep Link"
 msgid "Using a Deep Link"
 msgstr "Использование диплинка"
 
-#: app.js:29260
+#: app.js:29301
 msgctxt "Audience Opt Groups"
 msgid "Video"
 msgstr "Видео"
 
-#: app.js:23728
+#: app.js:23744
 msgctxt "Objective"
 msgid "Video Views"
 msgstr "Просмотр видео"
 
-#: app.js:23192
-#: app.js:24123
-#: app.js:25085
-#: app.js:5066
+#: app.js:23208
+#: app.js:24139
+#: app.js:25217
+#: app.js:5085
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "См. больше"
 
-#: app.js:23180
-#: app.js:24111
-#: app.js:25073
-#: app.js:5063
+#: app.js:23196
+#: app.js:24127
+#: app.js:25205
+#: app.js:5082
 msgctxt "Call To Action"
 msgid "Watch Video"
 msgstr "Смотреть видео"
 
-#: app.js:23658
+#: app.js:23674
 msgctxt "Objective"
 msgid "Website"
 msgstr "Веб-сайт"
 
-#: app.js:29248
+#: app.js:29289
 msgctxt "Audience Opt Groups"
 msgid "Website"
 msgstr "Веб-сайт"
 
-#: app.js:8175
+#: app.js:7992
 msgctxt "Pacing"
 msgid "Wednesday"
 msgstr "Среда"
 
-#: app.js:23631
-#: app.js:23666
-#: app.js:23701
+#: app.js:23647
+#: app.js:23682
+#: app.js:23717
 msgctxt "Objective"
 msgid "What kind of actions do you want to get?"
 msgstr "Уточните цель кампании"
 
-#: app.js:19652
-#: app.js:30548
+#: app.js:19666
+#: app.js:30589
 msgctxt "Info : Deep Link"
 msgid "When launching an app with a deep link Facebook will be able to open your app in a specific state."
 msgstr "При запуске приложения с диплинком у Facebook будет возможность открыть определенное окно в приложении."
 
-#: app.js:30471
+#: app.js:30512
 msgid "Wi-Fi only"
 msgstr "Только Wi-Fi"
 
-#: app.js:29693
+#: app.js:29699
 msgid "Women"
 msgstr "Женщины"
 
-#: app.js:16532
+#: app.js:16545
 msgctxt "Automation : Analyze Window"
 msgid "Yesterday"
 msgstr "Вчера"
 
-#: app.js:20350
-#: app.js:22284
+#: app.js:20366
+#: app.js:22300
 msgctxt "Validation : App"
 msgid "You App is not registered in Facebook."
 msgstr "Ваше приложение не зарегистрировано на developers.facebook.com"
 
-#: app.js:19639
+#: app.js:19653
 msgctxt "Info : Preview"
 msgid "You can choose different Ad formats and see how your Ads looks like."
 msgstr "Вы можете выбрать разные форматы объявлений и посмотреть, как они выглядят для пользователей."
 
-#: app.js:19641
+#: app.js:19655
 msgctxt "Info : Preview"
 msgid "You can choose different Ad formats and see how your Ads will like after creation."
 msgstr "Вы можете выбрать разные форматы объявлений и посмотреть, как они выглядят для пользователей."
 
-#: app.js:19688
+#: app.js:19702
 msgctxt "Info : Pay For"
 msgid "You can choose to bid for your objective, clicks or conversions (require selected pixel) depending on a type of your Ad. Your choice determines how you pay and who your Ad is served to."
 msgstr "Вы можете предложить ставку для вашей цели, кликов или конверсий (требуют выбранного пикселя) в зависимости от типа вашего объявления. Ваш выбор определяет то, за что вы платите, и для кого ваше объявление будет показано."
 
-#: app.js:19687
+#: app.js:19701
 msgctxt "Info : Optimize For"
 msgid "You can choose what do you want to optimize for. Your choice determines how you pay and who your Ad is served to."
 msgstr "Вы можете выбрать цель оптимизации кампании. Ваш выбор определяет то, за что вы платите, и для кого ваше объявление будет показано."
 
-#: app.js:19622
+#: app.js:19636
 msgctxt "Info : Audiences : Copy And Paste"
 msgid "You can copy columns from a spreadsheet with one record per row or a list of records separated by commas"
 msgstr "Вы можете копировать столбцы из таблицы с одной записью в строке или списка записей, разделенных запятыми"
 
-#: app.js:19640
+#: app.js:19654
 msgctxt "Info : Preview"
 msgid "You can delete comments to your Ad."
 msgstr "Вы можете удалить комментарии к вашему объявлению."
 
-#: app.js:19620
+#: app.js:19634
 msgctxt "Info : Audiences : Apps For"
 msgid "You can only upload IDs for people that download or use your Facebook app."
 msgstr "Вы можете загрузить только идентификаторы для людей, которые скачали или используют ваше приложение."
 
-#: app.js:19685
+#: app.js:19699
 msgctxt "Info : Schedule"
 msgid "You can schedule your Ads for specific hours and days of the week."
 msgstr "Вы можете запланировать показ объявлений на определенные часы и дни недели."
 
-#: app.js:19621
+#: app.js:19635
 msgctxt "Info : Upload File Audiences"
 msgid "You can upload files in .csv or .txt format."
 msgstr "Вы можете загружать файлы в формате CSV или .txt формате."
 
-#: app.js:19652
-#: app.js:30548
+#: app.js:19666
+#: app.js:30589
 msgctxt "Info : Deep Link"
 msgid "You can use a deep link (ex: myapp://buynow/12345) or a URL with App Links enabled."
 msgstr "Вы можете использовать диплинк (например: MyApp://buynow/12345) или URL с доступной ссылкой на приложение"
 
-#: app.js:21646
+#: app.js:21662
 msgctxt "Validation : Page"
 msgid "You don’t have any pages. You can’t use your profile page. You should"
 msgstr "У вас нет доступа к страницам. Вы не можете использовать свою страницу профиля. Вам следует"
 
-#: app.js:14236
-#: app.js:23611
+#: app.js:14242
+#: app.js:23627
 msgctxt "Tooltip : Access"
 msgid "You have limited rights to create Ads"
 msgstr "Вы ограничены в праве создавать объявления"
 
-#: app.js:4714
+#: app.js:4733
 msgctxt "Modal : Create : Title"
 msgid "You have successfully created"
 msgstr "Вы успешно создали"
 
-#: app.js:21365
+#: app.js:21381
 msgctxt "Instagram Account"
 msgid "You should"
 msgstr "Вам следует"
 
-#: app.js:19689
+#: app.js:19703
 msgctxt "Info : Status"
 msgid "Your Ads will have status that you choose."
 msgstr "Выберите статус вашей рекламы."
 
-#: app.js:19686
+#: app.js:19700
 msgctxt "Info : Bid"
 msgid "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
 msgstr "Ваша ставка — максимальная сумма, которую вы готовы платить за клик (если ставка на основе цены за клик) или тысячу показов (если ставка на CPM основе) ваших объявлений."
 
-#: app.js:32114
+#: app.js:32033
 msgctxt "Error : Creative : Remove"
 msgid "! Message:"
 msgstr "! Сообщение:"
 
-#: app.js:13572
-#: app.js:13618
+#: app.js:13561
+#: app.js:13607
 msgctxt "Breakdown"
 msgid "2 Weeks"
 msgstr "2 недели"
 
-#: app.js:25883
+#: app.js:26015
 msgctxt "Modal : Audiences : Lookalike : Title"
 msgid "a Lookalike Audience"
 msgstr "похожая аудитория"
 
-#: app.js:23079
-#: app.js:2572
-#: app.js:4855
+#: app.js:23095
+#: app.js:2591
+#: app.js:4874
 msgctxt "Breadcrumb"
 msgid "Account"
 msgstr "Аккаунт"
 
-#: app.js:32037
-#: app.js:5159
+#: app.js:31956
+#: app.js:5178
 msgctxt "Creative"
 msgid "Ad"
 msgstr "Объявление"
 
-#: app.js:23082
-#: app.js:2578
-#: app.js:4858
+#: app.js:23098
+#: app.js:2597
+#: app.js:4877
 msgctxt "Breadcrumb"
 msgid "Ad"
 msgstr "Объявление"
 
-#: app.js:23081
-#: app.js:4857
+#: app.js:23097
+#: app.js:4876
 msgctxt "Breadcrumb"
 msgid "Ad set"
 msgstr "Адсет"
 
-#: app.js:2577
+#: app.js:2596
 msgctxt "Breadcrumb"
 msgid "Ad Set"
 msgstr "Адсет"
 
-#: app.js:26751
-#: app.js:26806
-#: app.js:26810
+#: app.js:26883
+#: app.js:26938
+#: app.js:26942
 msgctxt "Modal : Copy : Title"
 msgid "Ad Set"
 msgstr "Адсет"
 
-#: app.js:32363
-#: app.js:32388
+#: app.js:32282
+#: app.js:32307
 msgctxt "Error : Preview"
 msgid "Ad URL is missing! Can't generate Ad preview!"
 msgstr "Отсутствует ссылка на сайт! Невозможно создать предварительный просмотр объявления!"
 
-#: app.js:3878
+#: app.js:3897
 msgctxt "Audience : Rule"
 msgid "Add a value"
 msgstr "Добавьте значение"
 
-#: app.js:7601
-#: app.js:7608
+#: app.js:7616
+#: app.js:7623
 msgctxt "Error : Group"
 msgid "Ad Edit Modal"
 msgstr "Окно редактирования объявления"
 
-#: app.js:27368
+#: app.js:27521
 msgctxt "Modal : Bulk Edit"
 msgid "Ad Set"
 msgstr "Адсет"
 
-#: app.js:7559
+#: app.js:7574
 msgctxt "Error : Group"
 msgid "Ad Sets Edit Modal"
 msgstr "Окно редактирования адсетов"
 
-#: app.js:13529
+#: app.js:13518
 msgctxt "Breakdown"
 msgid "Age"
 msgstr "Возраст"
 
-#: app.js:13545
+#: app.js:13534
 msgctxt "Breakdown"
 msgid "Age and Gender"
 msgstr "Пол и возраст"
 
-#: app.js:26040
+#: app.js:26172
 msgctxt "Modal : Automation : Title"
 msgid "an automation"
 msgstr " автоматизацию"
 
-#: app.js:3878
+#: app.js:3897
 msgctxt "Audience : Rule"
 msgid "AND"
 msgstr "И"
 
-#: app.js:16434
+#: app.js:16447
 msgctxt "Automation : Condition"
 msgid "AND"
 msgstr "И"
 
-#: app.js:27479
+#: app.js:27636
 msgctxt "Modal : Preset : Ok Button"
 msgid "Apply"
 msgstr "Применить"
 
-#: app.js:27158
+#: app.js:27290
 msgctxt "Modal : Bulk Edit : Ok Button"
 msgid "Apply"
 msgstr "Применить"
 
-#: app.js:5992
+#: app.js:6011
 msgctxt "Audience : Sources : Opt Group"
 msgid "Audiences"
 msgstr "Аудитории"
 
-#: app.js:26665
+#: app.js:26797
 msgctxt "Modal : Automation : Success : Title"
 msgid "automation"
 msgstr "автоматизация"
 
-#: app.js:2574
-#: app.js:2575
+#: app.js:2593
+#: app.js:2594
 msgctxt "Breadcrumb"
 msgid "Automation"
 msgstr "Автоматизация"
 
-#: app.js:2092
-#: app.js:26255
+#: app.js:2111
+#: app.js:26387
 msgctxt "Error : Automation"
 msgid "automation."
 msgstr "автоматизации."
 
-#: app.js:28053
+#: app.js:28210
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Be careful, because deleted comments can't be restored!"
 msgstr "Будьте осторожны, так как удаленные комментарии не могут быть восстановлены!"
 
-#: app.js:32124
+#: app.js:32043
 msgctxt "Modal : Creative : Title"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "Будьте осторожны, так как удаленные элементы не могут быть восстановлены!"
 
-#: app.js:14386
+#: app.js:14392
 msgctxt "Modal : Delete : Body"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "Будьте осторожны, так как удаленные элементы не могут быть восстановлены!"
 
-#: app.js:23328
+#: app.js:23344
 msgctxt "Ad Set : Description"
 msgid "Bid for"
 msgstr "Платить за"
 
-#: app.js:27164
+#: app.js:27296
 msgctxt "Modal : Bulk Edit : Title"
 msgid "Bulk Editing"
 msgstr "Массовое редактирование"
 
-#: app.js:13531
-#: app.js:13539
-#: app.js:13547
-#: app.js:13555
-#: app.js:13563
-#: app.js:13646
-#: app.js:13766
-#: app.js:13940
+#: app.js:13520
+#: app.js:13528
+#: app.js:13536
+#: app.js:13544
+#: app.js:13552
+#: app.js:13635
+#: app.js:13755
+#: app.js:13929
 msgctxt "Breakdown"
 msgid "By Action"
 msgstr "По действиям"
 
-#: app.js:13522
-#: app.js:13642
-#: app.js:13754
-#: app.js:13937
+#: app.js:13511
+#: app.js:13631
+#: app.js:13743
+#: app.js:13926
 msgctxt "Breakdown"
 msgid "By Delivery"
 msgstr "По показам"
 
-#: app.js:13571
-#: app.js:13603
-#: app.js:13650
-#: app.js:13764
-#: app.js:13943
+#: app.js:13560
+#: app.js:13592
+#: app.js:13639
+#: app.js:13753
+#: app.js:13932
 msgctxt "Breakdown"
 msgid "By Time"
 msgstr "По времени"
 
-#: app.js:23080
-#: app.js:2576
-#: app.js:4856
+#: app.js:23096
+#: app.js:2595
+#: app.js:4875
 msgctxt "Breadcrumb"
 msgid "Campaign"
 msgstr "Кампания"
 
-#: app.js:32354
+#: app.js:32273
 msgctxt "Error : Preview"
 msgid "Can't show preview because of some error. Please modify the Ad."
 msgstr "Невозможно показать предварительный просмотр из-за ошибки. Пожалуйста, измените объявление."
 
-#: app.js:27482
+#: app.js:27639
 msgctxt "Modal : Preset : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:25881
+#: app.js:26013
 msgctxt "Modal : Ok Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:26898
+#: app.js:27030
 msgctxt "Modal : Crop : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:26749
+#: app.js:26881
 msgctxt "Modal : Copy : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:25046
-#: app.js:25319
+#: app.js:25178
+#: app.js:25451
 msgctxt "Modal : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:27161
+#: app.js:27293
 msgctxt "Modal : Bulk Edit : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:1904
-#: app.js:26043
+#: app.js:1923
+#: app.js:26175
 #: components/automations/create/automationsCreate.html:110
 #: components/automations/edit/automationsEdit.html:114
 msgctxt "Modal : Automation : Cancel Button"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: app.js:12096
+#: app.js:12101
 msgctxt "Error : Group"
 msgid "Change Status"
 msgstr "Изменить статус"
 
-#: app.js:28005
+#: app.js:28162
 msgctxt "Modal : Preview : Cancel Button"
 msgid "Close"
 msgstr "Закрыть"
 
-#: app.js:28226
+#: app.js:28483
 msgctxt "Modal : Video : Ok Button"
 msgid "Close"
 msgstr "Закрыть"
 
-#: app.js:3931
+#: app.js:3950
 msgctxt "Audience : Operator"
 msgid "Contains"
 msgstr "Содержит"
 
-#: app.js:26746
+#: app.js:26878
 msgctxt "Modal : Copy : Ok Button"
 msgid "Copy"
 msgstr "Копировать"
 
-#: app.js:26753
-#: app.js:26807
-#: app.js:26811
+#: app.js:26885
+#: app.js:26939
+#: app.js:26943
 msgctxt "Modal : Copy : Title"
 msgid "Copy"
 msgstr "Копировать"
 
-#: app.js:13553
+#: app.js:13542
 msgctxt "Breakdown"
 msgid "Country"
 msgstr "Страна"
 
-#: app.js:25878
+#: app.js:26010
 msgctxt "Modal : Ok Button"
 msgid "Create"
 msgstr "Создать"
 
-#: app.js:26042
+#: app.js:26174
 #: components/automations/create/automationsCreate.html:104
 msgctxt "Modal : Automation : Ok Button"
 msgid "Create"
 msgstr "Создать"
 
-#: app.js:1891
-#: app.js:26031
+#: app.js:1910
+#: app.js:26163
 msgctxt "Modal : Automation : Title"
 msgid "Create"
 msgstr "Создать"
 
-#: app.js:14230
+#: app.js:14236
 msgctxt "Tooltip : Access"
 msgid "Creation of Ads in this"
 msgstr "Создание объявлений здесь"
 
-#: app.js:27530
+#: app.js:27687
 msgctxt "Modal : Preset : Name"
 msgid "Custom"
 msgstr "Пользовательский"
 
-#: app.js:27485
+#: app.js:27642
 msgctxt "Modal : Preset : Title"
 msgid "Customize Columns"
 msgstr "Настроить столбцы"
 
-#: app.js:23078
-#: app.js:2571
-#: app.js:4854
+#: app.js:23094
+#: app.js:2590
+#: app.js:4873
 msgctxt "Breadcrumb"
 msgid "Dashboard"
 msgstr "Дашборд"
 
-#: app.js:13572
-#: app.js:13610
+#: app.js:13561
+#: app.js:13599
 msgctxt "Breakdown"
 msgid "Day"
 msgstr "День"
 
-#: app.js:23334
+#: app.js:23350
 msgctxt "Ad Set : Description"
 msgid "Disabled"
 msgstr "Отключено"
 
-#: app.js:28045
+#: app.js:28202
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Do you really want to delete"
 msgstr "Вы действительно хотите удалить"
 
-#: app.js:14385
+#: app.js:14391
 msgctxt "Modal : Delete : Title"
 msgid "Do you really want to delete selected rows?"
 msgstr "Вы действительно хотите удалить выбранные строки?"
 
-#: app.js:32123
+#: app.js:32042
 msgctxt "Modal : Creative : Title"
 msgid "Do you really want to delete this"
 msgstr "Вы действительно хотите удалить это"
 
-#: app.js:26666
+#: app.js:26798
 msgctxt "Modal : Automation : Success : Body"
 msgid "Do you want to leave this page and go to automations list?"
 msgstr "Вы хотите, чтобы покинуть эту страницу и перейти к списку автоматизаций?"
 
-#: app.js:3934
+#: app.js:3953
 msgctxt "Audience : Operator"
 msgid "Does not contain"
 msgstr "Не содержит"
 
-#: app.js:3921
+#: app.js:3940
 msgctxt "Audience : Source"
 msgid "Domain"
 msgstr "Домен"
 
-#: app.js:26857
+#: app.js:26989
 msgctxt "Modal : Copy : Body"
 msgid "edit"
 msgstr "редактировать"
 
-#: app.js:1890
-#: app.js:26030
+#: app.js:1909
+#: app.js:26162
 msgctxt "Modal : Automation : Title"
 msgid "Edit"
 msgstr "Редактировать"
 
-#: app.js:25323
+#: app.js:25455
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad Set:"
 msgstr "Редактировать адсет:"
 
-#: app.js:25050
+#: app.js:25182
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad:"
 msgstr "Редактировать объявления:"
 
-#: app.js:7601
+#: app.js:7616
 msgctxt "Error : Ad : Edit"
 msgid "Editing of this Ad isn't supported yet."
 msgstr "Редактирование этого объявления пока не поддерживается."
 
-#: app.js:7559
+#: app.js:7574
 msgctxt "Error : Ad Set : Edit"
 msgid "Editing of this Ad Set isn't supported yet."
 msgstr "Редактирование этого адсета пока не поддерживается."
 
-#: app.js:23332
+#: app.js:23348
 msgctxt "Ad Set : Description"
 msgid "Enabled"
 msgstr "Включено"
@@ -2946,585 +2942,585 @@ msgstr "Введите имя ссылки"
 msgid "Enter text that clearly tells people about what you are promoting"
 msgstr "Введите текст, который четко говорит людям о том, что вы рекламируете"
 
-#: app.js:3937
+#: app.js:3956
 msgctxt "Audience : Operator"
 msgid "Equal to"
 msgstr "Равно"
 
-#: app.js:32176
-#: app.js:32685
+#: app.js:32095
+#: app.js:32604
 msgctxt "Error : Upload"
 msgid "Error occured when uploading images."
 msgstr "Произошла ошибка при загрузке изображений."
 
-#: app.js:28302
+#: app.js:28559
 msgctxt "Error : Video"
 msgid "Error occured when uploading videos."
 msgstr "Произошла ошибка при загрузке видео."
 
-#: app.js:32114
+#: app.js:32033
 msgctxt "Error : Creative : Remove"
 msgid "Error occurred when removing your"
 msgstr "Произошла ошибка при удалении вашего"
 
-#: app.js:26738
+#: app.js:26870
 msgctxt "Error : Campaign"
 msgid "Error occurred when requesting existing Campaigns. Error:"
 msgstr "Произошла ошибка при запросе существующих кампаний. Ошибка:"
 
-#: app.js:26610
+#: app.js:26742
 msgctxt "Error : Automation"
 msgid "Error occurred when requesting existing rules presets. Error:"
 msgstr "Произошла ошибка при запросе существующих наборов правил. Ошибка:"
 
-#: app.js:24976
+#: app.js:25108
 msgctxt "Error : Pages"
 msgid "Error occurred when requesting Pages. Error:"
 msgstr "Произошла ошибка при запросе страницы. Ошибка:"
 
-#: app.js:3927
+#: app.js:3946
 msgctxt "Audience : Source"
 msgid "Event"
 msgstr "Мероприятие"
 
-#: app.js:14216
+#: app.js:14222
 msgctxt "Tooltip : Export Data"
 msgid "Export visible data to CSV"
 msgstr "Экспорт видимых данных в CSV"
 
-#: app.js:14217
+#: app.js:14223
 msgctxt "Tooltip : Export Data"
 msgid "Export visible data to PDF"
 msgstr "Экспорт видимых данных в формате PDF"
 
-#: app.js:32123
+#: app.js:32042
 msgctxt "Modal : Creative : Title"
 msgid "from library?"
 msgstr "из библиотеки?"
 
-#: app.js:13537
+#: app.js:13526
 msgctxt "Breakdown"
 msgid "Gender"
 msgstr "Пол"
 
-#: app.js:26857
+#: app.js:26989
 msgctxt "Modal : Copy : Body"
 msgid "go"
 msgstr "перейти"
 
-#: app.js:16424
+#: app.js:16437
 msgctxt "Automation Operator"
 msgid "greater"
 msgstr "больше"
 
-#: app.js:3949
+#: app.js:3968
 msgctxt "Audience : Operator"
 msgid "Greater than"
 msgstr "Больше чем"
 
-#: app.js:3952
+#: app.js:3971
 msgctxt "Audience : Operator"
 msgid "Greater than or equal to"
 msgstr "Больше или равно"
 
-#: app.js:16627
+#: app.js:16640
 msgctxt "Automation : Group"
 msgid "GROUP"
 msgstr "Группа"
 
-#: app.js:13589
+#: app.js:13578
 msgctxt "Breakdown"
 msgid "Hourly stats by advertiser time zone"
 msgstr "Часовая статистика по часовому поясу рекламодателя"
 
-#: app.js:13593
+#: app.js:13582
 msgctxt "Breakdown"
 msgid "Hourly stats by audience time zone"
 msgstr "Часовая статистика по часовому поясу аудитории"
 
-#: app.js:23548
-#: app.js:25710
+#: app.js:23564
+#: app.js:25842
 msgctxt "Modal : Pixel : Title"
 msgid "Install your pixel code!"
 msgstr "Установите код пикселя!"
 
-#: app.js:25261
-#: app.js:25527
+#: app.js:25393
+#: app.js:25659
 msgctxt "Modal : Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "Произошла внутренняя ошибка. Пожалуйста, расскажите об этой проблеме нашей команде поддержки."
 
-#: app.js:13821
-#: app.js:16240
-#: app.js:2214
+#: app.js:13810
+#: app.js:16253
+#: app.js:2233
 msgctxt "Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "Произошла внутренняя ошибка. Пожалуйста, расскажите об этой проблеме нашей команде поддержки."
 
-#: app.js:14230
+#: app.js:14236
 msgctxt "Tooltip : Access"
 msgid "isn't supported yet."
 msgstr "пока не поддерживается."
 
-#: app.js:16426
+#: app.js:16439
 msgctxt "Automation Operator"
 msgid "less"
 msgstr "Меньше"
 
-#: app.js:16427
+#: app.js:16440
 msgctxt "Automation Operator"
 msgid "less or equal"
 msgstr "меньше или равно"
 
-#: app.js:3943
+#: app.js:3962
 msgctxt "Audience : Operator"
 msgid "Less than"
 msgstr "Меньше, чем"
 
-#: app.js:3946
+#: app.js:3965
 msgctxt "Audience : Operator"
 msgid "Less than or equal to"
 msgstr "Меньше или равно"
 
-#: app.js:3955
+#: app.js:3974
 msgctxt "Audience : Operator"
 msgid "Matches a regular expression"
 msgstr "Соответствует регулярному выражению"
 
-#: app.js:13572
-#: app.js:13622
+#: app.js:13561
+#: app.js:13611
 msgctxt "Breakdown"
 msgid "Month"
 msgstr "Месяц"
 
-#: app.js:28216
+#: app.js:28473
 msgctxt "Modal : Video : Cancel Button"
 msgid "No"
 msgstr "Нет"
 
-#: app.js:27061
-#: app.js:28167
+#: app.js:27244
+#: app.js:28324
 msgctxt "Modal : Dialog : Cancel Button"
 msgid "No"
 msgstr "Нет"
 
-#: app.js:13525
-#: app.js:13598
-#: app.js:13606
-#: app.js:13627
-#: app.js:13697
-#: app.js:13778
-#: app.js:13975
-#: app.js:13983
+#: app.js:13514
+#: app.js:13587
+#: app.js:13595
+#: app.js:13616
+#: app.js:13686
+#: app.js:13767
+#: app.js:13964
+#: app.js:13972
 msgctxt "Breakdown"
 msgid "None"
 msgstr "Никто"
 
-#: app.js:3940
+#: app.js:3959
 msgctxt "Audience : Operator"
 msgid "Not equal to"
 msgstr "Не равно"
 
-#: app.js:3193
+#: app.js:3212
 msgctxt "Chart"
 msgid "Not Selected"
 msgstr "Не выбран"
 
-#: app.js:12635
+#: app.js:12640
 msgctxt "Empty Grid"
 msgid "Nothing to show. Please, try to create new items"
 msgstr "Не хватает данных для отображения. Пожалуйста, попытайтесь создать новые элементы"
 
-#: app.js:26857
+#: app.js:26989
 msgctxt "Modal : Copy : Body"
 msgid "Now you can"
 msgstr "Теперь вы можете"
 
-#: app.js:2310
-#: app.js:7822
+#: app.js:2329
+#: app.js:7837
 msgctxt "Modal : Error : Ok Button"
 msgid "Ok"
 msgstr "ОК"
 
-#: app.js:23552
-#: app.js:23566
-#: app.js:25714
-#: app.js:25728
+#: app.js:23568
+#: app.js:23582
+#: app.js:25846
+#: app.js:25860
 msgctxt "Modal : Pixel : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: app.js:26859
+#: app.js:26991
 msgctxt "Modal : Copy : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: app.js:7819
+#: app.js:7834
 msgctxt "Error"
 msgid "Oops, something went wrong!"
 msgstr "Упс! Что-то пошло не так! Возможно, проблема в Facebook. Обратитесь в поддержку."
 
-#: app.js:26857
+#: app.js:26989
 msgctxt "Modal : Copy : Body"
 msgid "or"
 msgstr "или"
 
-#: app.js:3878
+#: app.js:3897
 msgctxt "Audience : Rule"
 msgid "OR"
 msgstr "ИЛИ"
 
-#: app.js:16435
+#: app.js:16448
 msgctxt "Automation : Condition"
 msgid "OR"
 msgstr "ИЛИ"
 
-#: app.js:5986
+#: app.js:6005
 msgctxt "Audience : Sources : Opt Group"
 msgid "Pages"
 msgstr "Страницы"
 
-#: app.js:3924
+#: app.js:3943
 msgctxt "Audience : Source"
 msgid "Path"
 msgstr "Путь"
 
-#: app.js:5989
+#: app.js:6008
 msgctxt "Audience : Sources : Opt Group"
 msgid "Pixels"
 msgstr "Пиксели"
 
-#: app.js:13577
+#: app.js:13566
 msgctxt "Breakdown"
 msgid "Placement"
 msgstr "Размещение"
 
-#: app.js:13581
+#: app.js:13570
 msgctxt "Breakdown"
 msgid "Placement and Device"
 msgstr "Размещение и устройство"
 
-#: app.js:5054
+#: app.js:5073
 msgid "Play Game"
 msgstr "Играть"
 
-#: app.js:16609
+#: app.js:16622
 msgctxt "Validation : Rule"
 msgid "Please, check that you properly set all fields."
 msgstr "Пожалуйста, убедитесь, что вы правильно установили все поля."
 
-#: app.js:16620
+#: app.js:16633
 msgctxt "Validation : Rule"
 msgid "Please, check that your value is positive."
 msgstr "Пожалуйста, убедитесь, что значение является положительным."
 
-#: app.js:16616
+#: app.js:16629
 msgctxt "Validation : Rule"
 msgid "Please, check that your value is set and is a number."
 msgstr "Пожалуйста, убедитесь, что значение введено и является числом."
 
-#: app.js:28010
+#: app.js:28167
 msgctxt "Modal : Preview : Title"
 msgid "Preview Ad"
 msgstr "Предварительный просмотр объявления"
 
-#: app.js:28242
+#: app.js:28499
 msgctxt "Modal : Video : Title"
 msgid "Preview your video"
 msgstr "Предварительный просмотр видео"
 
-#: app.js:8648
+#: app.js:8642
 msgctxt "Period : Date Preset"
 msgid "Previous month"
 msgstr "Предыдущий месяц"
 
-#: app.js:28221
+#: app.js:28478
 msgctxt "Modal : Video : Title"
 msgid "Processing your video file"
 msgstr "Обработка видео файлов"
 
-#: app.js:13585
+#: app.js:13574
 msgctxt "Breakdown"
 msgid "Product ID"
 msgstr "Код товара"
 
-#: app.js:13561
+#: app.js:13550
 msgctxt "Breakdown"
 msgid "Region"
 msgstr "Область"
 
-#: app.js:16627
+#: app.js:16640
 msgctxt "Automation : Group"
 msgid "RULE"
 msgstr "Правило"
 
-#: app.js:25042
-#: app.js:25315
+#: app.js:25174
+#: app.js:25447
 msgctxt "Modal : Ok Button"
 msgid "Save"
 msgstr "Сохранить"
 
-#: app.js:17332
-#: app.js:3625
-#: app.js:3702
+#: app.js:17345
+#: app.js:3644
+#: app.js:3721
 msgctxt "Placeholder : Search"
 msgid "Search by name..."
 msgstr "Поиск по имени ..."
 
-#: app.js:27496
-#: app.js:27789
-#: app.js:27827
+#: app.js:27653
+#: app.js:27946
+#: app.js:27984
 msgctxt "Modal : Preset"
 msgid "Select All Columns"
 msgstr "Выбрать все столбцы"
 
-#: app.js:14215
+#: app.js:14221
 msgctxt "Tooltip : Select"
 msgid "Select at least one row from the table below"
 msgstr "Выберите хотя бы одну строку из приведенной ниже таблицы"
 
-#: app.js:3878
+#: app.js:3897
 msgctxt "Audience : Rule"
 msgid "Select operator"
 msgstr "Выбор оператора"
 
-#: app.js:3878
+#: app.js:3897
 msgctxt "Audience : Rule"
 msgid "Select source"
 msgstr "Выбор источника"
 
-#: app.js:28049
+#: app.js:28206
 msgctxt "Modal : Preview : Delete Comment"
 msgid "selected comments?"
 msgstr "выбранные комментарии?"
 
-#: app.js:28321
+#: app.js:28578
 msgctxt "Modal : Video : Body"
 msgid "Step 1 of 3"
 msgstr "Шаг 1 из 3"
 
-#: app.js:28293
+#: app.js:28550
 msgctxt "Modal : Video : Body"
 msgid "Step 2 of 3"
 msgstr "Шаг 2 из 3"
 
-#: app.js:28283
+#: app.js:28540
 msgctxt "Modal : Video : Body"
 msgid "Step 3 of 3"
 msgstr "Шаг 3 из 3"
 
-#: app.js:26856
+#: app.js:26988
 msgctxt "Modal : Copy : Title"
 msgid "Success!"
 msgstr "Успех!"
 
-#: app.js:31186
+#: app.js:32853
 msgctxt "Targeting"
 msgid "Targeting settings for"
 msgstr "Настройки таргетинга для"
 
-#: app.js:27606
+#: app.js:27763
 msgctxt "Error : Modal : Preset"
 msgid "There is already another preset with the same name."
 msgstr "Существует уже другая предустановка с тем же именем."
 
-#: app.js:28047
+#: app.js:28204
 msgctxt "Modal : Preview : Delete Comment"
 msgid "this comment?"
 msgstr "этот комментарий?"
 
-#: app.js:8651
+#: app.js:8645
 msgctxt "Period : Date Preset"
 msgid "This month"
 msgstr "Этот месяц"
 
-#: app.js:26806
+#: app.js:26938
 msgctxt "Modal : Copy : Title"
 msgid "to existing Campaign"
 msgstr "к существующей кампании"
 
-#: app.js:26810
+#: app.js:26942
 msgctxt "Modal : Copy : Title"
 msgid "to new Campaign"
 msgstr "к новой кампании"
 
-#: app.js:26857
+#: app.js:26989
 msgctxt "Modal : Copy : Body"
 msgid "to your newly created Ad Set"
 msgstr "для вновь созданного набора объявлений"
 
-#: app.js:8633
+#: app.js:8627
 msgctxt "Period : Date Preset"
 msgid "Today"
 msgstr "Cегодня"
 
-#: app.js:2092
-#: app.js:26255
+#: app.js:2111
+#: app.js:26387
 msgctxt "Error : Automation"
 msgid "Unknown error occurred when"
 msgstr "Произошла неизвестная ошибка, когда"
 
-#: app.js:12083
+#: app.js:12088
 msgctxt "Error : Status"
 msgid "Unknown error occurred when changing status"
 msgstr "Произошла неизвестная ошибка при изменении статуса"
 
-#: app.js:26880
+#: app.js:27012
 msgctxt "Error : Copy"
 msgid "Unknown error occurred when copying selected Ad Sets."
 msgstr "при копировании выбранных наборов объявлений произошла неизвестная ошибка."
 
-#: app.js:25862
+#: app.js:25994
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when creating new Custom Audience."
 msgstr "При создании нового пользовательского аудитории произошла неизвестная ошибка."
 
-#: app.js:26011
+#: app.js:26143
 msgctxt "Error : Audiences : Lookalike"
 msgid "Unknown error occurred when creating new Lookalike Audience."
 msgstr "При создании нового двойником аудитории произошла неизвестная ошибка."
 
-#: app.js:14347
+#: app.js:14353
 msgctxt "Error : Delete"
 msgid "Unknown error occurred when deleteing rows."
 msgstr "При удалении строки произошла неизвестная ошибка."
 
-#: app.js:14179
+#: app.js:14165
 msgctxt "Error"
 msgid "Unknown error occurred when getting Ads ids"
 msgstr "Произошла неизвестная ошибка при получении ID объявлений"
 
-#: app.js:14148
+#: app.js:14136
 msgctxt "Error"
 msgid "Unknown error occurred when getting Ad Set ids"
 msgstr "Произошла неизвестная ошибка при получении ID адсетов"
 
-#: app.js:23578
+#: app.js:23594
 msgctxt "Error : Pixel"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "при получении кода пикселя произошла неизвестная ошибка."
 
-#: app.js:25740
+#: app.js:25872
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "при получении кода пикселя произошла неизвестная ошибка."
 
-#: app.js:25610
+#: app.js:25742
 msgctxt "Error : Update : Ad Set"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "при обновлении выбранных наборов объявлений произошла неизвестная ошибка."
 
-#: app.js:27448
+#: app.js:27605
 msgctxt "Error : Bulk Edit"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "при обновлении выбранных наборов объявлений произошла неизвестная ошибка."
 
-#: app.js:25297
+#: app.js:25429
 msgctxt "Error : Update : Ad"
 msgid "Unknown error occurred when updating selected Ads."
 msgstr "при обновлении выбранных объявлений произошла неизвестная ошибка."
 
-#: app.js:7580
+#: app.js:7595
 msgctxt "Error : Ad Set"
 msgid "Unknown error occurred, when requesting for Ad Set."
 msgstr "Произошла неизвестная ошибка, при запросе адсета."
 
-#: app.js:7630
+#: app.js:7645
 msgctxt "Error : Ad"
 msgid "Unknown error occurred, when requesting for Ad."
 msgstr "Произошла неизвестная ошибка при запросе объявления."
 
-#: app.js:7812
+#: app.js:7827
 msgctxt "Error"
 msgid "Unknown error occurred."
 msgstr "Произошла неизвестная ошибка."
 
-#: app.js:27815
+#: app.js:27972
 msgctxt "Modal : Preset"
 msgid "Unselect All Columns"
 msgstr "Очистить все столбцы"
 
-#: app.js:1902
-#: app.js:26042
+#: app.js:1921
+#: app.js:26174
 #: components/automations/edit/automationsEdit.html:108
 msgctxt "Modal : Automation : Ok Button"
 msgid "Update"
 msgstr "Обновить"
 
-#: app.js:26895
-#: app.js:26901
+#: app.js:27027
+#: app.js:27033
 msgctxt "Modal : Crop : Ok Button"
 msgid "Upload images"
 msgstr "Загрузить изображения"
 
-#: app.js:3918
+#: app.js:3937
 msgctxt "Audience : Source"
 msgid "URL"
 msgstr "URL"
 
-#: app.js:13572
-#: app.js:13614
+#: app.js:13561
+#: app.js:13603
 msgctxt "Breakdown"
 msgid "Week"
 msgstr "Неделю"
 
-#: app.js:27058
-#: app.js:28164
+#: app.js:27241
+#: app.js:28321
 msgctxt "Modal : Dialog : Ok Button"
 msgid "Yes"
 msgstr "Да"
 
-#: app.js:28212
+#: app.js:28469
 msgctxt "Modal : Video : Ok Button"
 msgid "Yes"
 msgstr "Да"
 
-#: app.js:27612
+#: app.js:27769
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "Да"
 
-#: app.js:8636
+#: app.js:8630
 msgctxt "Period : Date Preset"
 msgid "Yesterday"
 msgstr "Вчера"
 
-#: app.js:26665
+#: app.js:26797
 msgctxt "Modal : Automation : Success : Title"
 msgid "You have successfully"
 msgstr "Вы успешно"
 
-#: app.js:26857
+#: app.js:26989
 msgctxt "Modal : Copy : Body"
 msgid "You have successfully copied"
 msgstr "Вы успешно скопировали"
 
-#: app.js:28282
+#: app.js:28539
 msgctxt "Modal : Video : Title"
 msgid "Your video is being processed by Facebook..."
 msgstr "Ваше видео обрабатывается в Facebook ..."
 
-#: app.js:28319
+#: app.js:28576
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Aitarget..."
 msgstr "Ваше видео загружается в Aitarget ..."
 
-#: app.js:28292
+#: app.js:28549
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Facebook..."
 msgstr "Ваше видео загружается на Facebook ..."
 
-#: app.js:19680
+#: app.js:19694
 msgctxt "Info : Budget"
 msgid ", the amount you enter is the maximum you'll spend each day."
 msgstr ", введенное количество – это максимум, который вы готовы потратить в день."
 
-#: app.js:19680
+#: app.js:19694
 msgctxt "Info : Budget"
 msgid "daily budget"
 msgstr "дневной бюджет"
 
-#: app.js:25652
+#: app.js:25784
 msgctxt "Audience : Custom : Example"
 msgid "– Country code + Area Code + Number\n"
 "                                       – No leading zeros from country code\n"
@@ -3539,7 +3535,7 @@ msgstr "– Код страны + код города + номер\n"
 "    16505551234\n"
 "    16505551235"
 
-#: app.js:25651
+#: app.js:25783
 msgctxt "Audience : Custom : Example"
 msgid "– Numeric characters only\n"
 "                                      Ex.\n"
@@ -3568,7 +3564,7 @@ msgctxt "Video : Drag and drop"
 msgid "Drop Files Here"
 msgstr "Перетащите сюда файлы"
 
-#: app.js:25644
+#: app.js:25776
 msgctxt "Audience : Custom"
 msgid "Emails"
 msgstr "Адреса электронной почты"
@@ -3578,12 +3574,12 @@ msgctxt "Automation"
 msgid "Enter emails to subscribe"
 msgstr "Введите электронную почту, чтобы подписаться"
 
-#: app.js:30575
+#: app.js:30616
 msgctxt "Placeholder : URL"
 msgid "Enter url to your website"
 msgstr "Введите URL на свой веб-сайт"
 
-#: app.js:25650
+#: app.js:25782
 msgctxt "Audience : Custom : Example"
 msgid "Ex.\n"
 "                                                                   name1@example.com\n"
@@ -3598,7 +3594,7 @@ msgstr "Ex.\n"
 "  name1 @ example.com, имя2 @ example.com\n"
 "  name1@example.com; name2@example.com"
 
-#: app.js:25653
+#: app.js:25785
 msgctxt "Audience : Custom : Example"
 msgid "Learn more"
 msgstr "Подробнее"
@@ -3615,25 +3611,25 @@ msgctxt "Image : Library"
 msgid "Library"
 msgstr "Библиотека"
 
-#: app.js:25952
+#: app.js:26084
 msgctxt "Audience : Lookalike"
 msgid "Lookalike"
 msgstr "Похожая"
 
-#: app.js:25647
+#: app.js:25779
 msgctxt "Audience : Custom"
 msgid "Mobile Advertiser IDs"
 msgstr "Идентификаторы мобильных рекламодателей"
 
-#: app.js:29275
-#: app.js:29367
-#: app.js:29585
-#: app.js:29767
+#: app.js:29316
+#: app.js:29408
+#: app.js:29626
+#: app.js:29808
 msgctxt "Audience : Size"
 msgid "people"
 msgstr "людей"
 
-#: app.js:25646
+#: app.js:25778
 msgctxt "Audience : Custom"
 msgid "Phone Numbers"
 msgstr "Телефонные номера"
@@ -3650,12 +3646,12 @@ msgctxt "Video : Upload"
 msgid "Upload"
 msgstr "Загрузить"
 
-#: app.js:25645
+#: app.js:25777
 msgctxt "Audience : Custom"
 msgid "User IDs"
 msgstr "Идентификаторы пользователей"
 
-#: app.js:25653
+#: app.js:25785
 msgctxt "Audience : Custom : Example"
 msgid "We support:\n"
 "                                                                – Android's advertising ID,\n"
@@ -3666,12 +3662,12 @@ msgstr "Мы поддерживаем:\n"
 "– Реклама идентификатора Apple (IDFA), и\n"
 "– идентификаторы пользователей Facebook App"
 
-#: app.js:30574
+#: app.js:30615
 msgctxt "Label : URL"
 msgid "Website Url"
 msgstr "Ссылка на сайт"
 
-#: app.js:28505
+#: app.js:24992
 msgctxt "Modal : Campaign : Title"
 msgid "Edit Campaign:"
 msgstr "Редактировать кампанию: "
@@ -3681,132 +3677,132 @@ msgstr "Редактировать кампанию: "
 msgid "Select a post in the list or enter its ID or URL"
 msgstr "Выберите пост или введите ссылку на него или его ID"
 
-#: app.js:17498
+#: app.js:17511
 msgctxt "Column : Adaccount"
 msgid "Account Status"
 msgstr "Статус аккаунта"
 
-#: app.js:6424
+#: app.js:6443
 msgctxt "Optimize for"
 msgid "App Installs"
 msgstr "Установки"
 
-#: app.js:6445
+#: app.js:6464
 msgctxt "Pay for"
 msgid "App Installs"
 msgstr "Установки"
 
-#: app.js:3649
+#: app.js:3668
 msgctxt "Column : Audience"
 msgid "Availability"
 msgstr "Доступность"
 
-#: app.js:17464
+#: app.js:17477
 msgctxt "Column : Adaccount"
 msgid "Balance"
 msgstr "Баланс"
 
-#: app.js:6425
+#: app.js:6444
 msgctxt "Optimize for"
 msgid "Brand Awarness"
 msgstr "Узнаваимость Бренда"
 
-#: app.js:17310
+#: app.js:17323
 msgctxt "Column : Adaccount"
 msgid "Business Name"
 msgstr "Наименование фирмы"
 
-#: app.js:21947
+#: app.js:21963
 msgctxt "Validation : Post"
 msgid "Couldn't find requested post. Check if you have access to this post and entered value is correct."
 msgstr "Не получилось найти пост. Проверьте введенные данные и что у вас есть доступ к этому посту."
 
-#: app.js:21948
+#: app.js:21964
 msgctxt "Validation : Post"
 msgid "Couldn't get numeric post id from your input. Try to use another value."
 msgstr "Не получилось извлечь id поста из введенных данных. Попробуйте ввести другое значение."
 
-#: app.js:3658
+#: app.js:3677
 msgctxt "Column : Audience"
 msgid "Date Created"
 msgstr "Дата создания"
 
-#: app.js:17510
+#: app.js:17523
 msgctxt "Column : Adaccount"
 msgid "Disable Reason"
 msgstr "Причина отключения"
 
-#: app.js:6426
+#: app.js:6445
 msgctxt "Optimize for"
 msgid "Engaged Users"
 msgstr "Вовлеченные пользователи"
 
-#: app.js:3772
+#: app.js:3791
 msgctxt "Column : Automation"
 msgid "Error"
 msgstr "Ошибка"
 
-#: app.js:6427
+#: app.js:6446
 msgctxt "Optimize for"
 msgid "Event Responses"
 msgstr "Реакции на события"
 
-#: app.js:21951
+#: app.js:21967
 msgctxt "Info : Post"
 msgid "Ex."
 msgstr "Пример."
 
-#: app.js:3668
+#: app.js:3687
 msgctxt "Column : Automation"
 msgid "ID"
 msgstr "ID"
 
-#: app.js:3603
+#: app.js:3622
 msgctxt "Column : Audience"
 msgid "ID"
 msgstr "ID"
 
-#: app.js:17297
+#: app.js:17310
 msgctxt "Column : Adaccount"
 msgid "ID"
 msgstr "ID"
 
-#: app.js:6428
+#: app.js:6447
 msgctxt "Optimize for"
 msgid "Impressions"
 msgstr "Показы"
 
-#: app.js:6446
+#: app.js:6465
 msgctxt "Pay for"
 msgid "Impressions"
 msgstr "Показы"
 
-#: app.js:17481
+#: app.js:17494
 msgctxt "Column : Adaccount"
 msgid "Limit"
 msgstr "Лимит"
 
-#: app.js:6447
+#: app.js:6466
 msgctxt "Pay for"
 msgid "Link Clicks"
 msgstr "Переходы"
 
-#: app.js:6429
+#: app.js:6448
 msgctxt "Optimize for"
 msgid "Link Clicks"
 msgstr "Переходы"
 
-#: app.js:3692
+#: app.js:3711
 msgctxt "Column : Automation"
 msgid "Name"
 msgstr "Название"
 
-#: app.js:17321
+#: app.js:17334
 msgctxt "Column : Adaccount"
 msgid "Name"
 msgstr "Название"
 
-#: app.js:3615
+#: app.js:3634
 msgctxt "Column : Audience"
 msgid "Name"
 msgstr "Название"
@@ -3821,127 +3817,127 @@ msgstr[1] "Создать [[$count]] новых объявления"
 msgstr[2] "Создать [[$count]] новых объявлений"
 msgstr[3] "Нет объявлений для создания"
 
-#: app.js:6448
+#: app.js:6467
 msgctxt "Pay for"
 msgid "Offer Claims"
 msgstr "Предложения/претензии"
 
-#: app.js:6430
+#: app.js:6449
 msgctxt "Optimize for"
 msgid "Offer Claims"
 msgstr "Предложения/претензии"
 
-#: app.js:6431
+#: app.js:6450
 msgctxt "Optimize for"
 msgid "Offsite Conversions"
 msgstr "Конверсия не в сети"
 
-#: app.js:6432
+#: app.js:6451
 msgctxt "Optimize for"
 msgid "Page Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: app.js:6449
+#: app.js:6468
 msgctxt "Pay for"
 msgid "Page Likes"
 msgstr "Отметки страницы \"Нравится\""
 
-#: app.js:6433
+#: app.js:6452
 msgctxt "Optimize for"
 msgid "Page Likes"
 msgstr "Отметки страницы \"Нравится\""
 
-#: app.js:6450
+#: app.js:6469
 msgctxt "Pay for"
 msgid "Post Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: app.js:6434
+#: app.js:6453
 msgctxt "Optimize for"
 msgid "Post Engagement"
 msgstr "Вовлеченность в публикацию"
 
-#: app.js:21946
+#: app.js:21962
 msgctxt "Validation : Post"
 msgid "Post is required."
 msgstr "Необходимо выбрать пост"
 
-#: app.js:6435
+#: app.js:6454
 msgctxt "Optimize for"
 msgid "Reach"
 msgstr "Охват"
 
-#: app.js:4526
+#: app.js:4545
 msgctxt "Automation : Ad : Action Param"
 msgid "Repeat off"
 msgstr "Повторять"
 
-#: app.js:4522
+#: app.js:4541
 msgctxt "Automation : Ad : Action Param"
 msgid "Repeat on"
 msgstr "Не повторять"
 
-#: app.js:3639
+#: app.js:3658
 msgctxt "Column : Audience"
 msgid "Size"
 msgstr "Размер"
 
-#: app.js:6436
+#: app.js:6455
 msgctxt "Optimize for"
 msgid "Social Impressions"
 msgstr "Показы"
 
-#: app.js:17408
+#: app.js:17421
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Month"
 msgstr "Потрачено за предыдущий месяц"
 
-#: app.js:17436
+#: app.js:17449
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Quarter"
 msgstr "Потрачено за предыдущий квартал"
 
-#: app.js:17366
+#: app.js:17379
 msgctxt "Column : Adaccount"
 msgid "Spent Previous Week"
 msgstr "Потрачено за предыдущую неделю"
 
-#: app.js:17394
+#: app.js:17407
 msgctxt "Column : Adaccount"
 msgid "Spent This Month"
 msgstr "Потрачено в этом месяце"
 
-#: app.js:17422
+#: app.js:17435
 msgctxt "Column : Adaccount"
 msgid "Spent This Quarter"
 msgstr "Потрачено в этом квартале"
 
-#: app.js:17338
+#: app.js:17351
 msgctxt "Column : Adaccount"
 msgid "Spent Today"
 msgstr "Потрачено за сегодня"
 
-#: app.js:17352
+#: app.js:17365
 msgctxt "Column : Adaccount"
 msgid "Spent Yesterday"
 msgstr "Потрачено за вчера"
 
-#: app.js:3630
+#: app.js:3649
 msgctxt "Column : Audience"
 msgid "Type"
 msgstr "Тип"
 
-#: app.js:6451
+#: app.js:6470
 msgctxt "Pay for"
 msgid "Video Views"
 msgstr "Просмотр видео"
 
-#: app.js:6437
+#: app.js:6456
 msgctxt "Optimize for"
 msgid "Video Views"
 msgstr "Просмотр видео"
 
-#: app.js:21951
+#: app.js:21967
 msgctxt "Info : Post"
 msgid "You can also enter post ID or its URL."
 msgstr "Введите id поста или ссылку на него."
@@ -3952,32 +3948,22 @@ msgctxt "Ad Scheduling"
 msgid "Accelerated delivery"
 msgstr "Ускоренная открутка"
 
-#: components/tablecontrols/tablecontrols.html:129
-msgctxt "Automation : Ads"
-msgid "Ads automation"
-msgstr "Автоматизация объявлений"
-
-#: components/tablecontrols/tablecontrols.html:121
-msgctxt "Automation : Ad Sets"
-msgid "Ad Sets automation"
-msgstr "Автоматизация адсетов"
-
-#: components/tablecontrols/tablecontrols.html:221
+#: components/tablecontrols/tablecontrols.html:153
 msgctxt "Preset"
 msgid "Customize columns"
 msgstr "Настроить столбцы"
 
-#: components/tablecontrols/tablecontrols.html:231
+#: components/tablecontrols/tablecontrols.html:163
 msgctxt "Modal : Columns"
 msgid "Customize columns"
 msgstr "Настроить столбцы"
 
-#: components/tablecontrols/tablecontrols.html:214
+#: components/tablecontrols/tablecontrols.html:146
 msgctxt "Preset"
 msgid "Set as Default"
 msgstr "Установить по умолчанию"
 
-#: app.js:8915
+#: app.js:8909
 msgctxt "Preloader"
 msgid "LOADING, PLEASE WAIT ..."
 msgstr "ИДЕТ ЗАГРУЗКА..."
@@ -3992,7 +3978,7 @@ msgctxt "Modal : Preview"
 msgid "View permalink on Instagram"
 msgstr "Посмотреть постоянную ссылку для Instagram"
 
-#: app.js:4702
+#: app.js:4721
 msgid "1 New Ad!"
 msgid_plural " New Ads!"
 msgstr[0] "[[$count]] новое объявление!"
@@ -4010,27 +3996,27 @@ msgstr "Ускоренная открутка доступна только пр
 msgid "Ad scheduling only works with lifetime budgets."
 msgstr "Ограничения по времени работают только с бюджетом на весь период."
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "Ad Sets"
 msgstr "адсетов"
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "automation."
 msgstr "."
 
-#: app.js:16425
+#: app.js:16438
 msgctxt "Automation Operator"
 msgid "greater or equal"
 msgstr "больше или равно"
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "Now you can create"
 msgstr "Теперь вы можете создать автоматизацию для"
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "or"
 msgstr " или "
@@ -4158,47 +4144,47 @@ msgctxt "Ad : Template"
 msgid "Video"
 msgstr "Видео"
 
-#: app.js:8021
+#: app.js:8504
 msgctxt "Pay Adaccount"
 msgid "adaccounts list?"
 msgstr "к списку аккаунтов?"
 
-#: app.js:7975
+#: app.js:8458
 msgctxt "Pay Adaccount"
 msgid "Comission fee is 15%"
 msgstr "Комиссия 15%"
 
-#: app.js:8025
+#: app.js:8508
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "Do you want to leave this page and go to"
 msgstr "Вы хотите покинуть данную страницу и перейти"
 
-#: app.js:8087
+#: app.js:8570
 msgctxt "Modal : Pay Adaccount : Body"
 msgid "Do you want to leave this page and go to adaccounts list?"
 msgstr "Вы хотите покинуть данную страницу и перейти к списку аккаунтов?"
 
-#: app.js:8021
+#: app.js:8504
 msgctxt "Pay Adaccount"
 msgid "login page?"
 msgstr "на страницу входа?"
 
-#: app.js:8043
+#: app.js:8526
 msgctxt "Modal : Error"
 msgid "There was a mistake when creating advert account"
 msgstr "Произошла ошибка при создании аккаунта"
 
-#: app.js:8100
+#: app.js:8583
 msgctxt "Modal : Error"
 msgid "There was a mistake when topping up advert account"
 msgstr "Произошла ошибка при пополнении аккаунта"
 
-#: app.js:8024
+#: app.js:8507
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "You have successfully created advert account"
 msgstr "Вы успешно создали аккаунт"
 
-#: app.js:8086
+#: app.js:8569
 msgctxt "Modal : Pay Adaccount : Title"
 msgid "Your payment has been processed successfully"
 msgstr "Ваш платеж прошел успешно"
@@ -4451,42 +4437,42 @@ msgctxt "Create Adaccount"
 msgid "Create adacсount"
 msgstr "Создать аккаунт"
 
-#: app.js:4159
+#: app.js:4203
 msgctxt "Create Adaccount"
 msgid "Amount required"
 msgstr "Необходимо ввести сумму"
 
-#: app.js:14578
+#: app.js:14696
 msgctxt "Topup Adaccount"
 msgid "Amount required"
 msgstr "Введите сумму"
 
-#: app.js:4165
+#: app.js:4209
 msgctxt "Create Adaccount"
 msgid "Amount should be a number"
 msgstr "Введенное значение должно быть числом"
 
-#: app.js:14584
+#: app.js:14702
 msgctxt "Topup Adaccount"
 msgid "Amount should be a number"
 msgstr "Введенное значение должно быть числом"
 
-#: app.js:4151
+#: app.js:4195
 msgctxt "Create Adaccount"
 msgid "Email required"
 msgstr "Введите адрес электронной почты"
 
-#: app.js:14569
+#: app.js:14687
 msgctxt "Topup Adaccount"
 msgid "Email required"
 msgstr "Введите адрес электронной почты"
 
-#: app.js:14594
+#: app.js:14712
 msgctxt "Topup Adaccount"
 msgid "Minimum amount is 50$"
 msgstr "Минимальная сумма 50$"
 
-#: app.js:4175
+#: app.js:4219
 msgctxt "Create Adaccount"
 msgid "Minimum amount is 50$"
 msgstr "Минимальная сумма 50$"
@@ -4495,7 +4481,7 @@ msgstr "Минимальная сумма 50$"
 msgid "Top up adaccount"
 msgstr "Пополнить аккаунт"
 
-#: components/tablecontrols/tablecontrols.html:84
+#: components/tablecontrols/tablecontrols.html:78
 msgctxt "Button : Create Adaccount : Dashboard"
 msgid "Create Prepaid Adaccount"
 msgstr "Создать предоплаченный аккаунт"
@@ -4511,12 +4497,12 @@ msgctxt "Modal : Crop"
 msgid "Done"
 msgstr "Готово"
 
-#: app.js:24918
+#: app.js:24934
 msgctxt "Library"
 msgid "Library"
 msgstr "Библиотека"
 
-#: app.js:24501
+#: app.js:24517
 msgctxt "Requirement"
 msgid "Minimum size:"
 msgstr "Минимальный размер:"
@@ -4526,13 +4512,13 @@ msgctxt "Modal : Crop"
 msgid "Original"
 msgstr "Оригинал"
 
-#: app.js:24501
-#: app.js:24507
+#: app.js:24517
+#: app.js:24523
 msgctxt "Requirement"
 msgid "pixels"
 msgstr "пикселей"
 
-#: app.js:22663
+#: app.js:22679
 msgctxt "Modal : Crop"
 msgid "Processing Image"
 msgstr "Обрабатываем изображение"
@@ -4542,7 +4528,7 @@ msgctxt "Modal : Crop"
 msgid "Ratios:"
 msgstr "Стороны:"
 
-#: app.js:24507
+#: app.js:24523
 msgctxt "Requirement"
 msgid "Recommended size:"
 msgstr "Рекомендованный размер:"
@@ -4561,22 +4547,22 @@ msgctxt "Modal : Crop"
 msgid "Select the image to edit how it is cropped."
 msgstr "Выберите изображение для изменения"
 
-#: app.js:24513
+#: app.js:24529
 msgctxt "Requirement"
 msgid "text"
 msgstr "текста"
 
-#: app.js:24921
+#: app.js:24937
 msgctxt "Library"
 msgid "Upload"
 msgstr "Загрузить"
 
-#: app.js:22528
+#: app.js:22544
 msgctxt "Modal : Crop"
 msgid "Uploading New Image"
 msgstr "Загружаем изображение"
 
-#: app.js:24513
+#: app.js:24529
 msgctxt "Requirement"
 msgid "Your image may not include more than"
 msgstr "Изображение не может собержать больше"
@@ -4618,27 +4604,27 @@ msgctxt "Modal : Validate Images"
 msgid "Upload Valid Images"
 msgstr "Загрузить правильные изображения"
 
-#: app.js:13299
+#: app.js:13304
 msgctxt "Modal : Recommendation : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: app.js:13299
+#: app.js:13304
 msgctxt "Modal : Recommendation : View Link"
 msgid "View"
 msgstr "Посмотреть"
 
-#: app.js:31779
+#: app.js:31698
 msgctxt "Creative : Pixel Events"
 msgid "Add payment info"
 msgstr "Добавление платежной информации"
 
-#: app.js:31770
+#: app.js:31689
 msgctxt "Creative : Pixel Events"
 msgid "Add to cart"
 msgstr "Добавление в корзину"
 
-#: app.js:31773
+#: app.js:31692
 msgctxt "Creative : Pixel Events"
 msgid "Add to wishlist"
 msgstr "Добавление в список пожеланий"
@@ -4655,7 +4641,7 @@ msgstr "Необходимо выбрать партнера"
 msgid "Choose the date"
 msgstr "Выберите дату"
 
-#: app.js:31788
+#: app.js:31707
 msgctxt "Creative : Pixel Events"
 msgid "Complete registration"
 msgstr "Завершение регистрации"
@@ -4684,12 +4670,12 @@ msgstr "Конечная дата не может быть раньше нача
 msgid "Enter text"
 msgstr "Введите текст"
 
-#: app.js:31776
+#: app.js:31695
 msgctxt "Creative : Pixel Events"
 msgid "Initiate checkout"
 msgstr "Оформление заказа"
 
-#: app.js:31785
+#: app.js:31704
 msgctxt "Creative : Pixel Events"
 msgid "Lead"
 msgstr "Лиды"
@@ -4707,7 +4693,7 @@ msgstr "Партнер"
 msgid "Partner you want to load statistics for"
 msgstr "Партнер, для которого вы хотите загрузить статистику"
 
-#: app.js:11372
+#: app.js:11366
 msgctxt "Error : Pixel"
 msgid "Pixel Event is required."
 msgstr "Необходимо добавить событие для пикселя"
@@ -4716,18 +4702,18 @@ msgstr "Необходимо добавить событие для пиксел
 msgid "Pixel Events"
 msgstr "События для пикселя"
 
-#: app.js:19678
+#: app.js:19692
 msgctxt "Info : Pixel"
 msgid "Pixel events are events you add to your Facebook pixel base code that allow you to better understand the audiences visiting your website and reach specific sets of your users who have visited your website as well as track and optimize for conversions."
 msgstr "События для пикселя позволяют лучше анализировать аудиторию, которая посещает ваш сайт, охватывать определенные типы пользователей, которые уже посетили ваш сайт, а также оптимизировать конверсию. "
 
-#: app.js:23562
-#: app.js:25724
+#: app.js:23578
+#: app.js:25856
 msgctxt "Modal : Pixel : Title"
 msgid "Pixel not found!"
 msgstr "Пиксель не найден!"
 
-#: app.js:31782
+#: app.js:31701
 msgctxt "Creative : Pixel Events"
 msgid "Purchase"
 msgstr "Покупка"
@@ -4736,7 +4722,7 @@ msgstr "Покупка"
 msgid "Referral"
 msgstr "Переходы"
 
-#: app.js:31767
+#: app.js:31686
 msgctxt "Creative : Pixel Events"
 msgid "Search"
 msgstr "Поиск"
@@ -4749,7 +4735,7 @@ msgstr "Выберите событие из списка"
 msgid "Select or search partner in the list"
 msgstr "Выберите или найдите партнера в списке"
 
-#: app.js:17380
+#: app.js:17393
 msgctxt "Column : Adaccount"
 msgid "Spent This Week"
 msgstr "Потрачено за эту неделю"
@@ -4766,13 +4752,13 @@ msgctxt "Creative Settings"
 msgid "View Code"
 msgstr "Посмотреть код пикселя"
 
-#: app.js:31764
+#: app.js:31683
 msgctxt "Creative : Pixel Events"
 msgid "View Content"
 msgstr "Просмотр контента"
 
-#: app.js:23563
-#: app.js:25725
+#: app.js:23579
+#: app.js:25857
 msgctxt "Modal : Pixel : Body"
 msgid "You should create facebook pixel."
 msgstr "Необходимо создать facebook пиксель"
@@ -4822,13 +4808,13 @@ msgstr "тыс. человек"
 msgid "Select File"
 msgstr "Выберите файл"
 
-#: app.js:19693
-#: app.js:25889
+#: app.js:19707
+#: app.js:26021
 msgctxt "Info : Audiences : Lookalike"
 msgid "Select an existing audience to model your lookalike audience on. This could be a customer list, Custom Audience, pixel, or people who like your page."
 msgstr "Выберите имеющуюся аудиторию, на основании которой будет создана похожая аудитория. Это может быть список клиентов, индивидуально настроенная аудитория, пиксель или люди, которым нравится ваша Страница."
 
-#: app.js:19694
+#: app.js:19708
 msgctxt "Info : Audiences : Lookalike"
 msgid "Select the country for your lookalike audience."
 msgstr "Выберите страну для таргетинга."
@@ -4871,37 +4857,37 @@ msgctxt "Audiences : Lookalike"
 msgid "Minimum Estimated Reach"
 msgstr "Примерный минимальный охват"
 
-#: app.js:25888
+#: app.js:26020
 msgctxt "Audiences : Lookalike"
 msgid "Find new people on Facebook who are similar to your most valuable audiences. Select a source and a country below, then choose an audience size."
 msgstr "Найдите новых людей на Facebook, которые похожи на самых ценных ваших клиентов. Выберите ниже источник и страну, а затем размер аудитории."
 
-#: app.js:19347
+#: app.js:19361
 msgctxt "URL Macros"
 msgid "Ad ID"
 msgstr "ID объявления"
 
-#: app.js:19344
+#: app.js:19358
 msgctxt "URL Macros"
 msgid "Ad name"
 msgstr "Название объявления"
 
-#: app.js:19359
+#: app.js:19373
 msgctxt "URL Macros"
 msgid "Device Platforms"
 msgstr "Устройства (mobile|desktop)"
 
-#: app.js:19365
+#: app.js:19379
 msgctxt "URL Macros"
 msgid "Facebook Positions"
 msgstr "Позиционирование (feed|right_hand_column)"
 
-#: app.js:19362
+#: app.js:19376
 msgctxt "URL Macros"
 msgid "Publisher Platforms"
 msgstr "Платформа (facebook|instagram|audience_network)"
 
-#: app.js:23623
+#: app.js:23639
 msgctxt "Objective"
 msgid "Mobile App"
 msgstr "Мобильное приложение"
@@ -4916,101 +4902,101 @@ msgctxt "Create Adaccount"
 msgid "You need to verify your Ads before creating Prepaid AdAccount. Please answer the quiz in our support system."
 msgstr "Вам необходимо верифицировать ваши объявления перед созданием аккаунта. Пожалуйста, ответьте на вопросы в нашей системе поддержки Intercom."
 
-#: app.js:31947
+#: app.js:31866
 msgctxt "Image : Upload : Tooltip"
 msgid "Access to library only available when using manual creating mode."
 msgstr "Доступ к библиотеке доступен только в ручном режиме создания."
 
-#: app.js:29387
+#: app.js:29428
 msgctxt "Connections Opt Groups"
 msgid "Domains"
 msgstr "Домены"
 
-#: app.js:29384
+#: app.js:29425
 msgctxt "Connections Opt Groups"
 msgid "Events"
 msgstr "События"
 
-#: app.js:24942
-#: app.js:31940
+#: app.js:25074
+#: app.js:31859
 msgctxt "Image : Upload : Tooltip"
 msgid "Upload images from your desktop."
 msgstr "Загрузка изображений."
 
-#: app.js:24945
-#: app.js:31943
+#: app.js:25077
+#: app.js:31862
 msgctxt "Image : Library : Tooltip"
 msgid "Access a library that contains all your Ad images."
 msgstr "Доступ к библиотеке, содержащей все ваши изображения."
 
-#: app.js:24944
+#: app.js:25076
 msgctxt "Video : Library : Tooltip"
 msgid "Access a library that contains all your Ad videos."
 msgstr "Доступ к библиотеке, содержащей все ваши видео."
 
-#: app.js:24943
-#: app.js:31941
+#: app.js:25075
+#: app.js:31860
 msgctxt "Video : Upload : Tooltip"
 msgid "Upload videos from your desktop."
 msgstr "Загрузка видео."
 
-#: app.js:14062
+#: app.js:14051
 msgctxt "Deletion : Modal : Preset"
 msgid "Be careful, because deleted presets can't be restored!"
 msgstr "Будьте осторожны, так как удаленные пресеты не могут быть восстановлены!"
 
-#: app.js:14066
+#: app.js:14055
 msgctxt "Deletion : Modal : Preset : Title"
 msgid "Do you really want to delete selected preset?"
 msgstr "Вы действительно хотите удалить данный пресет?"
 
-#: app.js:27600
+#: app.js:27757
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "OK"
 msgstr "ОК"
 
-#: app.js:27610
+#: app.js:27767
 msgctxt "Error : Modal : Preset : "
 msgid "Overwrite existing preset?"
 msgstr "Переписать существующий пресет?"
 
-#: app.js:27596
+#: app.js:27753
 msgctxt "Error : Modal : Preset : "
 msgid "Shared preset with the same name"
 msgstr "Стандартный пресет с таким же именем"
 
-#: app.js:14068
+#: app.js:14057
 msgctxt "Deletion : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "Да"
 
-#: app.js:27592
+#: app.js:27749
 msgctxt "Error : Modal : Preset"
 msgid "You can't overwrite shared preset. Please choose another name."
 msgstr "Вы не можете перезаписать стандартный пресет. Пожалуйста, выберете другое имя"
 
-#: app.js:9043
+#: app.js:9037
 msgctxt "Pricing Table"
 msgid "A/B tests"
 msgstr "A/B тесты"
 
-#: app.js:8990
+#: app.js:8984
 msgctxt "Pricing Table"
 msgid "Continue to use trial period"
 msgstr "Продолжить пробный период"
 
-#: app.js:8976
+#: app.js:8970
 msgctxt "Pricing Table"
 msgid "Start trial"
 msgstr "Начать пробный период"
 
-#: app.js:9013
+#: app.js:9007
 msgctxt "Pricing Table"
 msgid "Subscription period has ended. We were unable to charge money from you. Please contact support team."
 msgstr "Подписка закончилась. Нам не удалось произвести оплату. Пожалуйста, обратитесь в службу поддержки."
 
-#: app.js:217
-#: app.js:9010
+#: app.js:221
+#: app.js:9004
 msgctxt "Pricing Table"
 msgid "Trial period has ended. Please update your plan."
 msgstr "Пробный период закончился. Пожалуйста, обновите план."
@@ -5040,12 +5026,12 @@ msgctxt "Automation CPI : Validation : Automation"
 msgid "CPI value is required."
 msgstr "Введите значение CPI"
 
-#: app.js:29487
+#: app.js:29528
 msgctxt "Detailed Targeting : Info"
 msgid "Define your audience by including or excluding demographics, interests, behaviors, etc."
 msgstr "Настройте свою аудиторию, включая или исключая демографические данные, интересы и модели поведения."
 
-#: app.js:29486
+#: app.js:29527
 msgctxt "Detailed Targeting"
 msgid "Detailed Targeting"
 msgstr "Детальный таргетинг"
@@ -5070,17 +5056,17 @@ msgstr "Режим Expert"
 msgid "Select or search automation strategy in the list"
 msgstr "Выберите стратегию автоматизации"
 
-#: app.js:8642
+#: app.js:8636
 msgctxt "Period : Date Preset"
 msgid "Last 14 days"
 msgstr "Последние 14 дней"
 
-#: app.js:8639
+#: app.js:8633
 msgctxt "Period : Date Preset"
 msgid "Last 7 days"
 msgstr "Последние 7 дней"
 
-#: app.js:8645
+#: app.js:8639
 msgctxt "Period : Date Preset"
 msgid "Last 90 days"
 msgstr "За последние 90 дней"
@@ -5089,14 +5075,12 @@ msgstr "За последние 90 дней"
 msgid "Select automation strategy"
 msgstr "Выберите стратегию автоматизации"
 
-#: app.js:11926
+#: app.js:11931
 #: components/control/control_ad/controlAd.html:1
-#: components/tablecontrols/tablecontrols.html:74
 msgid "Ads"
 msgstr "Объявления"
 
-#: app.js:11924
-#: components/tablecontrols/tablecontrols.html:65
+#: app.js:11929
 msgid "Ad Sets"
 msgstr "Адсеты"
 
@@ -5108,12 +5092,12 @@ msgstr "Введите максимальный CPC"
 msgid "What is your maximum CPI you are ready to pay?"
 msgstr "Введите максимальный CPI"
 
-#: app.js:29658
+#: app.js:29763
 msgctxt "Geo Targeting : Info"
 msgid "Enter one or more countries, states/regions, cities, postal codes, addresses or Designated Market Areas ®to show or exclude your ad to people in those locations. Location targeting is not available in all countries."
 msgstr "Введите одну или несколько стран, штатов/регионов, городов, почтовых индексов, адресов или расчетных рыночных территорий (Designated Market Area ®), чтобы включить или выключить показ вашей рекламы для людей в таких местах. Геотаргетинг доступен не во всех странах."
 
-#: app.js:29657
+#: app.js:29762
 msgctxt "Geo Targeting"
 msgid "Locations"
 msgstr "Места"
@@ -5124,10 +5108,10 @@ msgctxt "Validation : Tree"
 msgid "You should choose at least one entity"
 msgstr "Необходимо выбрать хотя бы один элемент"
 
-#: app.js:16146
-#: app.js:18095
-#: app.js:4494
-#: app.js:4512
+#: app.js:16159
+#: app.js:18108
+#: app.js:4513
+#: app.js:4531
 msgctxt "Automation : Ad : Action"
 msgid "Add Adlabel"
 msgstr "Добавить метку"
@@ -5136,33 +5120,33 @@ msgstr "Добавить метку"
 msgid "Add or remove adlabels"
 msgstr "Добавьте или удалите метку"
 
-#: app.js:16149
-#: app.js:18099
-#: app.js:4497
-#: app.js:4515
+#: app.js:16162
+#: app.js:18112
+#: app.js:4516
+#: app.js:4534
 msgctxt "Automation : Ad : Action"
 msgid "Remove Adlabel"
 msgstr "Удалить метку"
 
-#: app.js:2013
-#: app.js:26152
+#: app.js:2032
+#: app.js:26284
 msgctxt "Automation"
 msgid "Choose Campaigns and Ad Sets you want to automate"
 msgstr "Выберете кампании и адсеты для автоматизации"
 
-#: app.js:2013
-#: app.js:26152
+#: app.js:2032
+#: app.js:26284
 #: components/automations/create/automationsCreate.html:29
 #: components/automations/edit/automationsEdit.html:33
 msgctxt "Automation"
 msgid "Choose Campaigns, Ad Sets, Ads you want to automate"
 msgstr "Выберете кампании, адсеты, объявления для автоматизации"
 
-#: components/control/control-bid/controlBid.html:54
+#: components/control/control-bid/controlBid.html:55
 msgid "Average"
 msgstr "Среднее"
 
-#: components/control/control-bid/controlBid.html:49
+#: components/control/control-bid/controlBid.html:50
 msgid "Max"
 msgstr "Макс"
 
@@ -5174,12 +5158,12 @@ msgstr "Адсет"
 msgid "Choose another ad type."
 msgstr "Выбрать другой тип."
 
-#: app.js:19646
+#: app.js:19660
 msgctxt "Info : Attribution"
 msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
 msgstr "Выберите окно атрибуции, что является наиболее важным для вашей отчетности. Окно атрибуции позволяет отслеживать действия, предпринятые в связи с вашей рекламы в течение определенного периода времени. Вы можете настроить окно атрибуции для создания отчета с настраиваемым сроки."
 
-#: app.js:23621
+#: app.js:23637
 msgctxt "Objective"
 msgid "Choose the type of your ads campaign:"
 msgstr "Выберите цель создаваемой кампании"
@@ -5201,12 +5185,12 @@ msgstr "Введите название кампании"
 msgid "Enter maximum amount your campaign can spend"
 msgstr "Введите максимальную сумму, которая может быть списана в результате действия вашей кампании"
 
-#: app.js:4666
+#: app.js:4685
 msgctxt "Error : Create"
 msgid "Error occurred when creating your ads! Message:"
 msgstr "Произошла ошибка при создании объявлений! Сообщение:"
 
-#: app.js:23308
+#: app.js:23324
 msgctxt "Error : Ad Set"
 msgid "Error occurred when requesting Ad Sets. Error:"
 msgstr "Произошла ошибка при запросе адсетов. Сообщение:"
@@ -5221,9 +5205,9 @@ msgctxt "Adset"
 msgid "New"
 msgstr "Новый"
 
-#: app.js:18846
-#: app.js:19862
-#: app.js:21150
+#: app.js:18913
+#: app.js:19876
+#: app.js:21166
 msgctxt "Automation: Ads"
 msgid "Please, select at least one ad to be used in automations"
 msgstr "Пожалуйста, выберите хотя бы одно объявление для использования в автоматизации"
@@ -5232,13 +5216,13 @@ msgstr "Пожалуйста, выберите хотя бы одно объяв
 msgid "Search for campaign"
 msgstr "Поиск кампании"
 
-#: app.js:11723
+#: app.js:11728
 msgctxt "Tooltip : Table"
 msgid "Select ad least 2 rows with the same status"
 msgstr "Выберите не менее 2 объявлений с тем же статусом"
 
-#: app.js:18791
-#: app.js:19801
+#: app.js:18858
+#: app.js:19815
 msgctxt "Automation: Ads"
 msgid "Select ad that you want to use automation for."
 msgstr "Выберите объявление, которое вы хотите использовать автоматизацию."
@@ -5255,22 +5239,22 @@ msgstr "Выберите или найдите кампанию из списк�
 msgid "Select or search adset in the list"
 msgstr "Выберите или выполнить поиск адсета в списке"
 
-#: app.js:4503
+#: app.js:4522
 msgctxt "Automation : Ad : Action"
 msgid "Stop"
 msgstr "Стоп"
 
-#: app.js:11411
+#: app.js:11405
 msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "Требуется текст сообщения для карусельного объявления."
 
-#: app.js:28556
+#: app.js:25043
 msgctxt "Error : Campaign : Edit"
 msgid "Unknown error occurred when updating selected Ad Campaigns."
 msgstr "при обновлении выбранных рекламных кампаний произошла неизвестная ошибка."
 
-#: app.js:25019
+#: app.js:25151
 msgctxt "Modal : Error"
 msgid "We are sorry, but editing of carousel ads isn't supported yet. Please, try to create new ad instead."
 msgstr "Извините, но редактирование объявлений карусельных пока не поддерживается. Пожалуйста, попробуйте создать новое объявление вместо."
@@ -5279,34 +5263,34 @@ msgstr "Извините, но редактирование объявлений
 msgid "You have no existing campaigns to choose with selected ad type."
 msgstr "У вас нет существующих кампаний для этого типа объявлений."
 
-#: app.js:11258
+#: app.js:11252
 msgctxt "Error : Create"
 msgid "You should have at least one ad to create."
 msgstr "Вы должны создать по крайней мере одно объявление для публикации."
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "ads"
 msgstr "объявлений"
 
-#: app.js:31942
+#: app.js:31861
 msgctxt "Video : Library : Tooltip"
 msgid "Access a library that contains all your ad videos."
 msgstr "Доступ к библиотеке, содержащей все ваши видео."
 
-#: app.js:32395
+#: app.js:32314
 msgctxt "Error : Preview"
 msgid "Ad IMAGE is missing! Can't generate Ad preview!"
 msgstr "Не хватает изображения!  Невозможно создать предварительный просмотр объявления!"
 
-#: app.js:32347
-#: app.js:32372
-#: app.js:32385
+#: app.js:32266
+#: app.js:32291
+#: app.js:32304
 msgctxt "Error : Preview"
 msgid "Ad PAGE is missing! Can't generate Ad preview!"
 msgstr "Отсутствует страница! Невозможно создать предварительный просмотр объявления!"
 
-#: app.js:11490
+#: app.js:11484
 msgctxt "Error : Ad Set"
 msgid "Ad Set name is required if new ad Set is selected."
 msgstr "Необходимо ввести имя адсета если выбран новый адсет"
@@ -5325,12 +5309,12 @@ msgctxt "Ads : Validation : Automation"
 msgid "At least one Ad is required."
 msgstr "Требуется по крайней мере одно объявление"
 
-#: app.js:19672
+#: app.js:19686
 msgctxt "Info : Targeting : Wireless Connection"
 msgid "Choose \"Wi-Fi only\" to show your Ad to people when they're using a wireless internet connection to browse Facebook. This may be important if your app is too large to download using a cellular connection."
 msgstr "Выберите \"Wi-Fi только\", чтобы показать рекламу пользователям, когда они используют беспроводное подключение к Интернету для просмотра Facebook. Это может быть важно, если ваше приложение является слишком большим, чтобы загрузить с помощью сотовой связи."
 
-#: app.js:30969
+#: app.js:31010
 msgctxt "Info: Page : Mobile"
 msgid "Choose a Facebook Page so you can run ads on Facebook."
 msgstr "Выберите страницу Facebook, так что вы можете запустить рекламу на Facebook."
@@ -5339,17 +5323,17 @@ msgstr "Выберите страницу Facebook, так что вы може�
 msgid "Enter adset name"
 msgstr "Введите название"
 
-#: app.js:32466
+#: app.js:32385
 msgctxt "Error : Preview"
 msgid "Error occurred, when generating your Ad preview."
 msgstr "Произошла ошибка при генерации вашего предварительного просмотра объявлений."
 
-#: app.js:19633
+#: app.js:19647
 msgctxt "Info : Ad Set : Name"
 msgid "Give your Ad Set a name that describes the audience, scheduling or Ads inside it."
 msgstr "Дайте адсету имя, которое описывает аудитории, планирование или объявления внутри него."
 
-#: app.js:19679
+#: app.js:19693
 msgctxt "Info : App"
 msgid "If you want to optimize your Ad for mobile app installs, please choose facebook app associated with your app."
 msgstr "Если вы хотите, чтобы оптимизировать ваше объявление для мобильного приложения, пожалуйста, выберите приложение facebook, связанный с вашим приложением."
@@ -5374,63 +5358,63 @@ msgstr "Выберите или найдите адсеты в списке"
 msgid "Select or search adsets in the list"
 msgstr "Выберите или найдите адсеты в списке"
 
-#: app.js:19618
+#: app.js:19632
 msgctxt "Info : Spend Cap"
 msgid "Set an overall spending limit for your Ad Campaign. This means your Ad sets in the Campaign will stop once you've reached your spending limit."
 msgstr "Установить общий лимит расходов для вашей рекламной кампании. Это означает, что ваши адсеты в кампании остановятся, как только вы достигнете своего предела расходов."
 
-#: app.js:3729
+#: app.js:3748
 msgctxt "Column : Automation"
 msgid "Entities"
 msgstr "Объекты"
 
-#: app.js:3680
+#: app.js:3699
 msgctxt "Column : Automation"
 msgid "Type"
 msgstr "Тип"
 
-#: app.js:1900
+#: app.js:1919
 #: components/automations/edit/automationsEdit.html:3
 msgctxt "Modal : Automation"
 msgid "Edit an automation"
 msgstr "Редактирование автоматизации"
 
-#: app.js:3753
+#: app.js:3772
 msgctxt "Column : Automation"
 msgid "Enabled"
 msgstr "Статус"
 
-#: app.js:18506
+#: app.js:18520
 msgctxt "Placeholder : Bid"
 msgid "Average"
 msgstr "Среднее значение"
 
-#: app.js:18506
+#: app.js:18520
 msgctxt "Placeholder : Bid"
 msgid "Maximum"
 msgstr "Максимальное значение"
 
-#: app.js:16523
+#: app.js:16536
 msgctxt "Automation : Analyze Window"
 msgid "This Hour"
 msgstr "Этот час"
 
-#: app.js:2336
+#: app.js:2355
 msgctxt "Pricing Table"
 msgid "Support service is only available on premium plans."
 msgstr "Сервис поддержки доступен только для премиум планов"
 
-#: app.js:16428
+#: app.js:16441
 msgctxt "Automation Operator"
 msgid "contains"
 msgstr "содержит"
 
-#: app.js:16429
+#: app.js:16442
 msgctxt "Automation Operator"
 msgid "doesn't contain"
 msgstr "не содержит"
 
-#: app.js:8654
+#: app.js:8648
 msgctxt "Period : Date Preset"
 msgid "Lifetime"
 msgstr "Весь период"
@@ -5490,21 +5474,21 @@ msgstr "Значение UTM метки"
 msgid "UTM Name"
 msgstr "Имя UTM метки"
 
-#: app.js:229
+#: app.js:233
 msgctxt "Pricing Table"
 msgid "Please update your subscription."
 msgstr "Пожалуйста, обновите вашу подписку."
 
-#: app.js:229
+#: app.js:233
 msgctxt "Pricing Table"
 msgid "Your subscription has expired."
 msgstr "Срок действия вашей подписки закончился."
 
-#: app.js:28404
+#: app.js:28405
 msgid "Amount required"
 msgstr "Необходимо ввести сумму"
 
-#: app.js:28410
+#: app.js:28411
 msgid "Amount should be a number"
 msgstr "Введенное значение должно быть числом"
 
@@ -5518,20 +5502,20 @@ msgstr "Отмена"
 msgid "Company website"
 msgstr "Сайт вашей компании"
 
-#: app.js:28417
+#: app.js:28418
 msgid "Company website is required"
 msgstr "Необходимо ввести сайт вашей компании"
 
-#: app.js:9134
+#: app.js:9128
 msgctxt "Pricing Table"
 msgid "Custom"
 msgstr "Индивидуально"
 
-#: app.js:28388
+#: app.js:28389
 msgid "Email is incorrect"
 msgstr "Адрес электронной почты некорректен"
 
-#: app.js:28382
+#: app.js:28383
 msgid "Email required"
 msgstr "Необходимо ввести адрес электронной почты"
 
@@ -5551,7 +5535,7 @@ msgstr "Введите скайп"
 msgid "Facebook Monthly Spend"
 msgstr "Ежемесячные траты"
 
-#: app.js:28414
+#: app.js:28415
 msgid "Name is required"
 msgstr "Необходимо ввести имя"
 
@@ -5565,15 +5549,15 @@ msgstr "Ок"
 msgid "Phone"
 msgstr "Телефон"
 
-#: app.js:28396
+#: app.js:28397
 msgid "Phone is required"
 msgstr "Необходимо ввести в телефон"
 
-#: app.js:28370
+#: app.js:28371
 msgid "Please, enter necessary information"
 msgstr "Пожалуйста, заполните форму"
 
-#: app.js:9119
+#: app.js:9113
 msgctxt "Pricing Table"
 msgid "Request a quote"
 msgstr "Сделать запрос"
@@ -5583,7 +5567,7 @@ msgstr "Сделать запрос"
 msgid "Skype"
 msgstr "Скайп"
 
-#: app.js:28420
+#: app.js:28421
 msgid "Skype nickname is required"
 msgstr "Необходимо ввести ваш ник в скайпе"
 
@@ -5603,7 +5587,7 @@ msgstr "Введите сайт компании"
 msgid "Your name"
 msgstr "Ваше имя"
 
-#: app.js:17866
+#: app.js:17879
 msgctxt "Attribution"
 msgid "1 day"
 msgstr "1 день"
@@ -5613,12 +5597,12 @@ msgctxt "Attribution"
 msgid "1 day after viewing Ad and 28 days after clicking on Ad are set if nothing is selected"
 msgstr "1 день после просмотра объявления и 28 дней после клика на объявления будут заданы, если ничего не выбрано"
 
-#: app.js:17872
+#: app.js:17885
 msgctxt "Attribution"
 msgid "28 day"
 msgstr "28 день"
 
-#: app.js:17869
+#: app.js:17882
 msgctxt "Attribution"
 msgid "7 day"
 msgstr "7 дней"
@@ -5628,7 +5612,7 @@ msgctxt "Attribution"
 msgid "Reset to default attribution"
 msgstr "Сбросить к дефолтной аттрибуции"
 
-#: app.js:9037
+#: app.js:9031
 msgctxt "Pricing Table"
 msgid "Unlimited number of automations"
 msgstr "Неограниченное количество автоматизаций"
@@ -5643,46 +5627,46 @@ msgctxt "Attribution"
 msgid "after viewing Ad"
 msgstr "после просмотра объявления"
 
-#: app.js:9143
+#: app.js:9137
 msgctxt "Pricing Table"
 msgid "Trial period:"
 msgstr "Пробный период:"
 
-#: app.js:9143
+#: app.js:9137
 msgctxt "Pricing Table"
 msgid "days"
 msgstr "дней"
 
-#: app.js:16633
+#: app.js:16646
 msgid "Choose field"
 msgstr "Выберете поле"
 
-#: app.js:9065
+#: app.js:9059
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 10 000$ - &infin;"
 msgstr "Ежемесячные траты:<br> 10 000$ - &infin;"
 
-#: app.js:9050
+#: app.js:9044
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 2 000$ - 4 000$"
 msgstr "Ежемесячные траты:<br> 2 000$ - 4 000$"
 
-#: app.js:9055
+#: app.js:9049
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 4 000$ - 7 000$"
 msgstr "Ежемесячные траты:<br> 4 000$ - 7 000$"
 
-#: app.js:9060
+#: app.js:9054
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> 7 000$ - 10 000$"
 msgstr "Ежемесячные траты:<br> 7 000$ - 10 000$"
 
-#: app.js:9032
+#: app.js:9026
 msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> < $2 000"
 msgstr "Ежемесячные траты:<br> < $2 000"
 
-#: app.js:28444
+#: app.js:28445
 msgid "Form successfully sent"
 msgstr "Форма успешно отправлена"
 
@@ -5700,7 +5684,7 @@ msgstr "Создать DCO объявления"
 msgid "DCO"
 msgstr "DCO (beta)"
 
-#: app.js:4706
+#: app.js:4725
 msgctxt "Modal : Create : Body"
 msgid "DCO Ads"
 msgstr "DCO объявления"
@@ -5713,7 +5697,7 @@ msgstr "Введите ссылки на сайты"
 msgid "Link Urls"
 msgstr "Ссылки на сайты"
 
-#: app.js:21097
+#: app.js:21113
 msgctxt "Automation: Ads"
 msgid "Select a list of Call to Actions for your DCO campaign."
 msgstr "Выберите список призывов к действию для вашей DCO кампании."
@@ -5730,7 +5714,7 @@ msgstr "Ошибки"
 msgid "Dynamic Creative Optimization (DCO) description."
 msgstr "Динамическая оптимизация креативов позволяет вам использовать оптимизацию фейсбука, чтобы автоматически перемешивать и показывать различные сочетания креативов. Это позволяет автоматически обучаться на результатах и найти лучшие сочетания изображения, заголовка, текста и других параметров для показа различным аудиториям. Использование DCO позволит улучшить результаты рекламных кампаний и повысить ROI."
 
-#: app.js:7608
+#: app.js:7623
 msgctxt "Error : Ad : Edit"
 msgid "Users are not allowed to operate on DCO ads."
 msgstr "Все операции по созданию и обновлению объявлений в группе объявлений DCO будут выполнены системой автоматически. Пользователям не разрешается выполнять операции с объявлениями DCO."
@@ -5792,23 +5776,23 @@ msgctxt "Tooltip : Automation Action Value"
 msgid "Change Bid is not supported when autobid is on."
 msgstr "Ручное изменение ставки не поддерживается при включенной автоматической ставке."
 
-#: app.js:239
+#: app.js:243
 msgctxt "Pricing Table"
 msgid "Please subscribe to one of the premium plans."
 msgstr "Пожалуйста, подпишитесь на один из премиум тарифов."
 
-#: app.js:248
+#: app.js:252
 msgctxt "Pricing Table"
 msgid "Please subscribe to the premium plan that meets your budget."
 msgstr "Пожалуйста, подпишитесь на один из премиум тарифов, который соответствует вашему бюджету."
 
-#: app.js:239
-#: app.js:248
+#: app.js:243
+#: app.js:252
 msgid "Your budget is"
 msgstr "Ваш бюджет"
 
-#: app.js:239
-#: app.js:248
+#: app.js:243
+#: app.js:252
 msgctxt "Pricing Table"
 msgid "which is over"
 msgstr "что больше"
@@ -5818,12 +5802,12 @@ msgctxt "Topup Adaccount"
 msgid "Top up adacсount"
 msgstr "Пополнить аккаунт"
 
-#: app.js:17450
+#: app.js:17463
 msgctxt "Column : Adaccount"
 msgid "Spent Lifetime"
 msgstr "Потрачено за все время"
 
-#: components/report/report.html:94
+#: components/report/report.html:95
 msgctxt "Modal : Report"
 msgid "Cancel"
 msgstr "Отмена"
@@ -5833,7 +5817,7 @@ msgctxt "Validation : Report"
 msgid "End date cannot be before start date"
 msgstr "Конечная дата не может быть раньше начальной даты"
 
-#: app.js:9363
+#: app.js:9215
 msgctxt "Error : Report"
 msgid "Unknown error occurred, when generating report"
 msgstr "Случилась ошибка при создании отчета"
@@ -5846,24 +5830,20 @@ msgstr "Отчет находится в процессе создания. Ва
 msgid "Select or search a field in the list"
 msgstr "Выберите или найдите поле статистики в списке"
 
-#: app.js:9326
+#: app.js:9178
 msgctxt "Report"
 msgid "Generate report"
 msgstr "Сформировать отчет"
 
-#: app.js:9326
+#: app.js:9178
 msgctxt "Report"
 msgid "Ok"
 msgstr "Ок"
 
-#: app.js:13569
+#: app.js:13558
 msgctxt "Breakdown"
 msgid "Interest"
 msgstr "Интересы"
-
-#: components/tablecontrols/tablecontrols.html:301
-msgid "Statistics with Interest breakdown can be queried for the past 7 days excluding the current day. Ads must be active in the past 7 days and the ads must use interest targeting."
-msgstr "Статистика по объявлениям с разбитием по интересам может быть запрошена за последние семь дней, не включая текущий. В эти дни объявления должны были иметь активный статус и использовать таргетинг по интересам."
 
 #: components/tablecontrols/tablecontrols.html:20
 msgid "+ Create Audience\n"
@@ -5875,17 +5855,17 @@ msgctxt "Attribution"
 msgid "1 day after viewing Ad and 28 days after clicking on Ad are set by default"
 msgstr "1 день после просмотра объявления и 28 дней после нажатия на объявление - значения по умолчанию"
 
-#: app.js:17731
+#: app.js:17744
 msgctxt "Attribution"
 msgid "1 days"
 msgstr "1 день"
 
-#: app.js:17737
+#: app.js:17750
 msgctxt "Attribution"
 msgid "28 days"
 msgstr "28 дней"
 
-#: app.js:17734
+#: app.js:17747
 msgctxt "Attribution"
 msgid "7 days"
 msgstr "7 дней"
@@ -5899,7 +5879,7 @@ msgstr "Действие"
 msgid "Actions"
 msgstr "Действия"
 
-#: app.js:16579
+#: app.js:16592
 msgid "Add a value or choose the field"
 msgstr "Введите значение или выберете поле"
 
@@ -5927,13 +5907,13 @@ msgctxt "Modal : ControlAutomationActionValue : Validation"
 msgid "At least one email is required"
 msgstr "Необходим хотя бы один email"
 
-#: app.js:19695
+#: app.js:19709
 msgctxt "Info : Audiences : Lookalike"
 msgid "Audience size ranges from 1% to 10% of the total population in the country you choose, with 1% being those\n"
 "                          who most closely match your source."
 msgstr "Размер аудитории колеблется от 1% до 10% от общей численности населения в стране, которую вы выбрали, 1% из которых наиболее близко соответствуют вашим условиям."
 
-#: app.js:2573
+#: app.js:2592
 msgctxt "Breadcrumb"
 msgid "Automations"
 msgstr "Автоматизации"
@@ -5944,30 +5924,24 @@ msgid "Be aware that % is taken from actual bid value, e.g. 10%\n"
 "                                                              increase:"
 msgstr "Процент берется от текущего значения ставки, например повышение на 10%:"
 
-#: app.js:4703
+#: app.js:4722
 msgctxt "Modal : Create : Body"
 msgid "Campaigns"
 msgstr "Кампании"
 
-#: app.js:11922
-#: components/tablecontrols/tablecontrols.html:56
+#: app.js:11927
 msgid "Campaigns"
 msgstr "Кампании"
 
-#: components/tablecontrols/tablecontrols.html:112
-msgctxt "Automation : Ad Campaigns"
-msgid "Campaigns automation"
-msgstr "Автоматизации кампаний"
-
-#: app.js:16579
+#: app.js:16592
 msgid "Choose analyze window"
 msgstr "Выберете период для анализа"
 
-#: app.js:16636
+#: app.js:16649
 msgid "Choose operator"
 msgstr "Выберете действие"
 
-#: app.js:19655
+#: app.js:19669
 msgctxt "Info : Optimize Carousel"
 msgid "Choose optimizing mode if you want automatically select and order images and links."
 msgstr "Выберите режим оптимизации, если вы хотите автоматически выбрать и заказать изображения и ссылки."
@@ -5977,26 +5951,20 @@ msgctxt "Modal : Dialog : Cancel Button"
 msgid "Close"
 msgstr "Закрыть"
 
-#: app.js:15560
+#: app.js:15573
 msgctxt "Modal : Automation"
 msgid "Create Ads automation"
 msgstr "Создать автоматизации объявлений"
 
-#: app.js:15558
+#: app.js:15571
 msgctxt "Modal : Automation"
 msgid "Create Adsets automation"
 msgstr "Создать автоматизации адсетов"
 
-#: app.js:15556
+#: app.js:15569
 msgctxt "Modal : Automation"
 msgid "Create Campaigns automation"
 msgstr "Создать автоматизации кампаний"
-
-#: components/tablecontrols/tablecontrols.html:6
-msgctxt "Button : Create : Dashboard"
-msgid "Create [[({'adcampaigns': 'Campaign', 'adsets': 'Ad\n"
-"                              Sets','adgroups':'Ads'}[$root.$state.params.listedItems])]]"
-msgstr "Создать [[({'adcampaigns': 'Кампании', 'adsets': 'Адсеты','adgroups':'Объявления'}[$root.$state.params.listedItems])]] "
 
 #: components/control/control-attribution/controlAttribution.html:8
 msgctxt "Attribution"
@@ -6024,37 +5992,37 @@ msgstr "Фильтер по рулсетам"
 msgid "Filter by status"
 msgstr "Фильтр по статусу"
 
-#: app.js:16526
+#: app.js:16539
 msgctxt "Automation : Analyze Window"
 msgid "Last 3 days"
 msgstr "За последние 3 дней"
 
-#: app.js:3707
+#: app.js:3726
 msgctxt "Column : Automation"
 msgid "Last run date"
 msgstr "Дата последнего запуска"
 
-#: app.js:3741
+#: app.js:3760
 msgctxt "Column : Automation"
 msgid "Logs"
 msgstr "Логи"
 
-#: app.js:18201
+#: app.js:18214
 msgctxt "Modal : ControlAutomationActionValue"
 msgid "Max Bid Value"
 msgstr "Максимальное значение Bid"
 
-#: app.js:18203
+#: app.js:18216
 msgctxt "Modal : ControlAutomationActionValue"
 msgid "Max Budget Value"
 msgstr "Максимальное значение Budget"
 
-#: app.js:18201
+#: app.js:18214
 msgctxt "Modal : ControlAutomationActionValue"
 msgid "Min Bid Value"
 msgstr "Минимальное значение Bid"
 
-#: app.js:18203
+#: app.js:18216
 msgctxt "Modal : ControlAutomationActionValue"
 msgid "Min Budget Value"
 msgstr "Минимальное значение  Budget"
@@ -6064,13 +6032,13 @@ msgctxt "Modal : ControlAutomationActionValue : Validation"
 msgid "Minimum sync period value is 15 minutes"
 msgstr "Минимальное значение составляет 15 минут"
 
-#: app.js:16436
+#: app.js:16449
 msgctxt "Automation : Condition"
 msgid "NOT"
 msgstr "НЕ"
 
-#: app.js:15498
-#: app.js:15604
+#: app.js:15511
+#: app.js:15617
 msgctxt "Validation : Automations Create"
 msgid "Name is required"
 msgstr "Необходимо ввести имя"
@@ -6085,7 +6053,7 @@ msgctxt "Modal : ControlAutomationActionValue : Validation"
 msgid "Repeat On"
 msgstr "Повторять"
 
-#: app.js:16596
+#: app.js:16609
 msgctxt "Validation : Rule"
 msgid "Rule value is empty."
 msgstr "Значение пусто"
@@ -6110,8 +6078,8 @@ msgctxt "Period"
 msgid "Sync"
 msgstr "Обычная"
 
-#: app.js:15483
-#: app.js:15600
+#: app.js:15496
+#: app.js:15613
 msgctxt "Automations : Sync"
 msgid "Sync period"
 msgstr "Частота проверки"
@@ -6121,13 +6089,13 @@ msgctxt "Modal : ControlAutomationActionValue : Validation"
 msgid "Sync period value should be a number"
 msgstr "Значение должно быть числом"
 
-#: app.js:15484
-#: app.js:15601
+#: app.js:15497
+#: app.js:15614
 msgctxt "Automations : Attribution"
 msgid "The attribution window"
 msgstr "Окно атрибуции"
 
-#: app.js:16562
+#: app.js:16575
 msgctxt "Automation : Analyze Window"
 msgid "This Quarter"
 msgstr "За этот квартала"
@@ -6180,38 +6148,38 @@ msgctxt "Attribution"
 msgid "[[ controlAttribution.attrObj.value ]] days"
 msgstr "[[ controlAttribution.attrObj.value ]] дней"
 
-#: app.js:16430
+#: app.js:16443
 msgctxt "Automation Operator"
 msgid "equal"
 msgstr "равно"
 
-#: app.js:16431
+#: app.js:16444
 msgctxt "Automation Operator"
 msgid "not equal"
 msgstr "не равно"
 
-#: app.js:16140
+#: app.js:16153
 msgctxt "Automation : Ad : Action"
 msgid "repeat off"
 msgstr "Не повторять"
 
-#: app.js:16140
+#: app.js:16153
 msgctxt "Automation : Ad : Action"
 msgid "repeat on"
 msgstr "Повторять"
 
-#: app.js:3718
+#: app.js:3737
 msgctxt "Column : Automation"
 msgid "Next run date"
 msgstr "Следующая дата запуска"
 
-#: app.js:10288
-#: app.js:10311
+#: app.js:10282
+#: app.js:10305
 msgctxt "Breadcrumb"
 msgid "Automations List"
 msgstr "Список автоматизаций"
 
-#: app.js:10318
+#: app.js:10312
 msgctxt "Breadcrumb"
 msgid "Create Automation"
 msgstr "Создание автоматизации"
@@ -6254,47 +6222,47 @@ msgid "Rule description\n"
 msgstr "Описание правила\n"
 "      <control__info class=\"deeplog__rule-description-hint\" data-control-info=\"[[deeplog.ruleDescriptionHint]]\" data-control-info-text=\"[[deeplog.ruleDescriptionHint]]\"></control__info>"
 
-#: app.js:16065
+#: app.js:16078
 msgid "All ad objects"
 msgstr "Все сущности"
 
-#: app.js:16004
+#: app.js:16017
 msgid "All rulesets"
 msgstr "Все рулсеты"
 
-#: app.js:15946
+#: app.js:15959
 msgid "All statuses"
 msgstr "Все статусы"
 
-#: app.js:15952
+#: app.js:15965
 msgid "Error"
 msgstr "Ошибочные"
 
-#: app.js:15958
+#: app.js:15971
 msgid "Filtered"
 msgstr "Отфильтрованные"
 
-#: app.js:11934
+#: app.js:11939
 msgid "Go to Ad Sets"
 msgstr "Перейти к адсетам"
 
-#: app.js:11936
+#: app.js:11941
 msgid "Go to Ads"
 msgstr "Перейти к объявлениям"
 
-#: app.js:11932
+#: app.js:11937
 msgid "Go to Campaigns"
 msgstr "Перейти к кампаниям"
 
-#: app.js:15955
+#: app.js:15968
 msgid "Halted"
 msgstr "Остановленные"
 
-#: app.js:15949
+#: app.js:15962
 msgid "Success"
 msgstr "Успешные"
 
-#: app.js:3742
+#: app.js:3761
 #: components/automations/edit/automationsEdit.html:7
 msgid "Go to logs"
 msgstr "Перейти к логам"
@@ -6303,21 +6271,21 @@ msgstr "Перейти к логам"
 msgid "There are no logs at this period."
 msgstr "Не найдено данных за текущий период"
 
-#: app.js:29847
-#: app.js:31391
+#: app.js:29888
+#: app.js:31310
 msgctxt "Placement"
 msgid "Instagram Stories"
 msgstr "Инстаграм истории"
 
-#: app.js:29844
-#: app.js:31387
+#: app.js:29885
+#: app.js:31306
 msgctxt "Placement"
 msgid "Instagram Stream"
 msgstr "Инстаграм лента новостей"
 
-#: app.js:16152
-#: app.js:18053
-#: app.js:18108
+#: app.js:16165
+#: app.js:18066
+#: app.js:18121
 msgctxt "Automation : Ad : Action"
 msgid "Copy Ad Set"
 msgstr "Скопировать Адсет"
@@ -6336,10 +6304,6 @@ msgstr "Удалить из автоматизации"
 msgctxt "Control Copy Adset"
 msgid "Source affected status"
 msgstr "Статус сущности источника"
-
-#: components/tablecontrols/tablecontrols.html:297
-msgid "You don't have access rights to create or update automations in this account."
-msgstr "У вас нет прав создавать или редактировать автоматизации в этом аккаунте."
 
 #: components/control/control-email-list/controlEmailList.html:16
 msgid "At least one email is required."
@@ -6367,7 +6331,7 @@ msgstr "Уровень сущностей для которых будет фо�
 msgid "Fields"
 msgstr "Поля статистики"
 
-#: components/tablecontrols/tablecontrols.html:239
+#: components/tablecontrols/tablecontrols.html:171
 msgctxt "Modal : Columns"
 msgid "Get Report"
 msgstr "Получить отчет"
@@ -6384,7 +6348,7 @@ msgstr "Уровни"
 msgid "List of adaccounts to include in report"
 msgstr "Список аккаунтов по которым будет формироваться отчет"
 
-#: app.js:19683
+#: app.js:19697
 msgctxt "Info : Automation : Notifications"
 msgid "Select emails to send notifications to"
 msgstr "Адреса электронной почты, на которые будет выслан отчет"
@@ -6401,15 +6365,51 @@ msgstr "Поля статистики, которые необходимо вк�
 msgid "Adaccounts"
 msgstr "Список аккаунтов"
 
-#: components/control/control_adaccount/control_adaccount.html:15
+#: components/control/control_adaccount/control_adaccount.html:14
 msgid "At least one adaccount is required."
 msgstr "Необходимо выбрать аккаунт"
 
-#: components/control/control_adaccount/control_adaccount.html:9
+#: components/control/control_adaccount/control_adaccount.html:8
 msgid "Select or search adaccount in the list"
 msgstr "Выберите или найдите аккаунт из списка"
 
 #: components/report/report.html:6
 msgid "Get Report"
 msgstr "Получить отчет"
+
+#: app.js:27523
+msgctxt "Modal : Bulk Edit"
+msgid "Ad"
+msgstr "Объявление"
+
+#: components/tablecontrols/tablecontrols.html:59
+msgctxt "Automation : Ad Sets"
+msgid "Ad Sets"
+msgstr "Адсеты"
+
+#: components/tablecontrols/tablecontrols.html:67
+msgctxt "Automation : Ads"
+msgid "Ads"
+msgstr "Объявления"
+
+#: components/tablecontrols/tablecontrols.html:51
+msgctxt "Automation : Ad Campaigns"
+msgid "Campaigns"
+msgstr "Кампании"
+
+#: components/tablecontrols/tablecontrols.html:6
+msgctxt "Button : Create : Dashboard"
+msgid "Create [[({'adcampaigns': 'Campaign', 'adsets': 'Ad\n"
+"                                                           Sets','adgroups':'Ads'}[$root.$state.params.listedItems])]]"
+msgstr "Создать [[({'adcampaigns': 'Кампанию', 'adsets': 'Адсеты','adgroups':'Объявления'}[$root.$state.params.listedItems])]]"
+
+#: components/tablecontrols/tablecontrols.html:234
+msgid "Statistics with Interest breakdown can be queried for the past 7 days excluding the current day. Ads must be active\n"
+"    in the past 7 days and the ads must use interest targeting."
+msgstr "Статистика по брейкдаунам по интересам может быть запрошена за последние 7 дней, не включая текущий день. Объявления должны быть активными последние 7 дней и использовать таргетинг по интересам."
+
+#: components/tablecontrols/tablecontrols.html:229
+msgid "You don't have access rights to create or update\n"
+"                                                                     automations in this account."
+msgstr "У вас нет прав для создания или обновления автоматизаций в этом аккаунте."
 
