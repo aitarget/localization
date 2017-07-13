@@ -745,9 +745,9 @@ msgid "Yes"
 msgstr "Yes"
 
 #: app.js:23187
-#: app.js:23883
+#: app.js:24118
 #: app.js:24262
-#: app.js:25196
+#: app.js:25080
 #: app.js:5056
 msgctxt "Call To Action"
 msgid "– Not Selected –"
@@ -804,35 +804,35 @@ msgid "1 automation"
 msgstr "1 automation"
 
 #: app.js:23337
-#: app.js:23983
-#: app.js:32397
-#: app.js:32413
-#: app.js:32435
-#: app.js:32438
+#: app.js:23880
+#: app.js:32275
+#: app.js:32291
+#: app.js:32313
+#: app.js:32316
 msgctxt "Create : Step"
 msgid "1. Main"
 msgstr "1. Main"
 
-#: app.js:23986
+#: app.js:23883
 msgctxt "Create : Step"
 msgid "2. Budget"
 msgstr "2. Budget"
 
-#: app.js:23989
+#: app.js:23886
 msgctxt "Create : Step"
 msgid "3. Targeting"
 msgstr "3. Targeting"
 
 #: app.js:11253
-#: app.js:23992
-#: app.js:28575
-#: app.js:32162
-#: app.js:32164
-#: app.js:32405
-#: app.js:32491
-#: app.js:32496
-#: app.js:32511
-#: app.js:32516
+#: app.js:23889
+#: app.js:28459
+#: app.js:32040
+#: app.js:32042
+#: app.js:32283
+#: app.js:32369
+#: app.js:32374
+#: app.js:32389
+#: app.js:32394
 msgctxt "Create : Step"
 msgid "4. Creative"
 msgstr "4. Creative"
@@ -848,7 +848,7 @@ msgctxt "Informer"
 msgid "actions"
 msgstr "actions"
 
-#: app.js:25021
+#: app.js:28575
 msgctxt "Campaign : Status"
 msgid "Active"
 msgstr "Active"
@@ -1009,13 +1009,13 @@ msgid "At least one source is required."
 msgstr "At least one source is required."
 
 #: app.js:23179
-#: app.js:31448
+#: app.js:31326
 msgctxt "Placement"
 msgid "Audience Network - Banner"
 msgstr "Audience Network - Banner"
 
 #: app.js:23182
-#: app.js:31451
+#: app.js:31329
 msgctxt "Placement"
 msgid "Audience Network - Interstitial"
 msgstr "Audience Network - Interstitial"
@@ -1041,9 +1041,9 @@ msgid "Billing event"
 msgstr "Billing event"
 
 #: app.js:23202
-#: app.js:23898
+#: app.js:24133
 #: app.js:24268
-#: app.js:25211
+#: app.js:25095
 #: app.js:5065
 msgctxt "Call To Action"
 msgid "Book Now"
@@ -1064,12 +1064,12 @@ msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "Budget value should be less or equal to 1 000 000."
 
-#: app.js:23922
+#: app.js:24157
 msgid "Buy Now"
 msgstr "Buy Now"
 
 #: app.js:23226
-#: app.js:25235
+#: app.js:25119
 #: app.js:5095
 msgctxt "Call To Action"
 msgid "Buy Now"
@@ -1117,7 +1117,7 @@ msgid "Campaign name"
 msgstr "Campaign name"
 
 #: app.js:20878
-#: app.js:25014
+#: app.js:28568
 msgctxt "Validation : Campaign"
 msgid "Campaign name is required"
 msgstr "Campaign name is required"
@@ -1137,19 +1137,19 @@ msgctxt "Switcher"
 msgid "Campaigns"
 msgstr "Campaigns"
 
-#: app.js:25067
+#: app.js:28621
 #: components/crop/crop__modal/cropModal.html:21
 msgid "Cancel"
 msgstr "Cancel"
 
-#: app.js:16187
+#: app.js:16156
 #: app.js:18101
 #: app.js:4496
 msgctxt "Automation : Ad Set : Action"
 msgid "Change Bid"
 msgstr "Change Bid"
 
-#: app.js:16190
+#: app.js:16159
 #: app.js:18105
 #: app.js:4499
 msgctxt "Automation : Ad Set : Action"
@@ -1370,10 +1370,10 @@ msgstr "Describe why people should visit your website."
 
 #: app.js:23820
 #: app.js:23856
-#: app.js:23875
+#: app.js:24110
 #: app.js:24251
-#: app.js:31425
-#: app.js:32622
+#: app.js:31303
+#: app.js:32500
 msgctxt "Placement"
 msgid "Desktop Feed"
 msgstr "Desktop Feed"
@@ -1410,9 +1410,9 @@ msgid "Down"
 msgstr "Down"
 
 #: app.js:23214
-#: app.js:23910
+#: app.js:24145
 #: app.js:24277
-#: app.js:25223
+#: app.js:25107
 #: app.js:5068
 msgctxt "Call To Action"
 msgid "Download"
@@ -1453,12 +1453,12 @@ msgctxt "Plan : Dialog"
 msgid "Error"
 msgstr "Error"
 
-#: app.js:32272
+#: app.js:32150
 msgctxt "Error : Image"
 msgid "Error occurred when requesting for library images."
 msgstr "Error occurred when requesting for library images."
 
-#: app.js:32294
+#: app.js:32172
 msgctxt "Error : Video"
 msgid "Error occurred when requesting for library videos."
 msgstr "Error occurred when requesting for library videos."
@@ -1530,13 +1530,13 @@ msgid "Get new installs"
 msgstr "Get new installs"
 
 #: app.js:23229
-#: app.js:25238
+#: app.js:25122
 #: app.js:5098
 msgctxt "Call To Action"
 msgid "Get Offer"
 msgstr "Get Offer"
 
-#: app.js:23925
+#: app.js:24160
 msgid "Get Offer"
 msgstr "Get Offer"
 
@@ -1606,8 +1606,8 @@ msgid "Instagram account is required."
 msgstr "Instagram account is required."
 
 #: app.js:23199
-#: app.js:23895
-#: app.js:25208
+#: app.js:24130
+#: app.js:25092
 #: app.js:5059
 msgctxt "Call To Action"
 msgid "Install Mobile App"
@@ -1671,9 +1671,9 @@ msgid "Last Week"
 msgstr "Last Week"
 
 #: app.js:23208
-#: app.js:23904
+#: app.js:24139
 #: app.js:24271
-#: app.js:25217
+#: app.js:25101
 #: app.js:5071
 msgctxt "Call To Action"
 msgid "Learn More"
@@ -1751,11 +1751,11 @@ msgstr "Men"
 #: app.js:23176
 #: app.js:23823
 #: app.js:23859
-#: app.js:23878
+#: app.js:24113
 #: app.js:24254
-#: app.js:31433
-#: app.js:31445
-#: app.js:32625
+#: app.js:31311
+#: app.js:31323
+#: app.js:32503
 msgctxt "Placement"
 msgid "Mobile Feed"
 msgstr "Mobile Feed"
@@ -1775,7 +1775,7 @@ msgctxt "Column : Status : Ad"
 msgid "Not Delivering"
 msgstr "Not Delivering"
 
-#: app.js:16196
+#: app.js:16165
 #: app.js:18113
 #: app.js:4511
 msgctxt "Automation : Ad Set : Action"
@@ -1793,8 +1793,8 @@ msgid "Open Advanced Settings"
 msgstr "Open Advanced Settings"
 
 #: app.js:23223
-#: app.js:23919
-#: app.js:25232
+#: app.js:24154
+#: app.js:25116
 #: app.js:5092
 msgctxt "Call To Action"
 msgid "Open Link"
@@ -1851,7 +1851,7 @@ msgstr "Partner"
 msgid "Paste your customer list here."
 msgstr "Paste your customer list here."
 
-#: app.js:25024
+#: app.js:28578
 msgctxt "Campaign : Status"
 msgid "Paused"
 msgstr "Paused"
@@ -1861,7 +1861,7 @@ msgctxt "Column : Status : Ad"
 msgid "Pending Billing Info"
 msgstr "Pending Billing Info"
 
-#: app.js:26091
+#: app.js:25975
 msgctxt "Tooltip : Slider : Audiences"
 msgid "people"
 msgstr "people"
@@ -1872,8 +1872,8 @@ msgid "Places"
 msgstr "Places"
 
 #: app.js:23193
-#: app.js:23889
-#: app.js:25202
+#: app.js:24124
+#: app.js:25086
 msgctxt "Call To Action"
 msgid "Play Game"
 msgstr "Play Game"
@@ -1953,15 +1953,15 @@ msgstr "Relocate Budget"
 #: app.js:23817
 #: app.js:23862
 #: app.js:24257
-#: app.js:25339
-#: app.js:31429
-#: app.js:31455
-#: app.js:32628
+#: app.js:25223
+#: app.js:31307
+#: app.js:31333
+#: app.js:32506
 msgctxt "Placement"
 msgid "Right Column"
 msgstr "Right Column"
 
-#: app.js:16193
+#: app.js:16162
 #: app.js:18109
 #: app.js:4529
 msgctxt "Automation : Ad : Action"
@@ -1973,7 +1973,7 @@ msgctxt "Pacing"
 msgid "Saturday"
 msgstr "Saturday"
 
-#: app.js:25012
+#: app.js:28566
 #: components/crop/crop__modal/cropModal.html:25
 msgid "Save"
 msgstr "Save"
@@ -2029,9 +2029,9 @@ msgid "Set activity status for your Campaign."
 msgstr "Set activity status for your Campaign."
 
 #: app.js:23190
-#: app.js:23886
+#: app.js:24121
 #: app.js:24265
-#: app.js:25199
+#: app.js:25083
 #: app.js:5077
 msgctxt "Call To Action"
 msgid "Shop Now"
@@ -2043,9 +2043,9 @@ msgid "Short caption of the url that people will reach after clicking on your Ad
 msgstr "Short caption of the url that people will reach after clicking on your Ad."
 
 #: app.js:23211
-#: app.js:23907
+#: app.js:24142
 #: app.js:24274
-#: app.js:25220
+#: app.js:25104
 #: app.js:5080
 msgctxt "Call To Action"
 msgid "Sign Up"
@@ -2056,17 +2056,17 @@ msgctxt "Informer"
 msgid "spend"
 msgstr "spend"
 
-#: app.js:25017
+#: app.js:28571
 msgctxt "Validation : Campaign"
 msgid "Spend Cap is required"
 msgstr "Spend Cap is required"
 
-#: app.js:25016
+#: app.js:28570
 msgctxt "Validation : Campaign"
 msgid "Spend Cap must be numeric"
 msgstr "Spend Cap must be numeric"
 
-#: app.js:16181
+#: app.js:16150
 #: app.js:18093
 #: app.js:4508
 msgctxt "Automation : Ad Set : Action"
@@ -2078,7 +2078,7 @@ msgctxt "Automation : Ad : Action"
 msgid "Start"
 msgstr "Start"
 
-#: app.js:16184
+#: app.js:16153
 #: app.js:18097
 #: app.js:4505
 msgctxt "Automation : Ad Set : Action"
@@ -2184,7 +2184,7 @@ msgstr "The maximum number of times you want your Ad to show to people. We sugge
 
 #: app.js:11525
 #: app.js:1917
-#: app.js:26178
+#: app.js:26062
 msgctxt "Error : Name"
 msgid "The name is required and cannot be empty."
 msgstr "The name is required and cannot be empty."
@@ -2300,8 +2300,8 @@ msgctxt "Error : Page"
 msgid "Unknown error occurred on this page."
 msgstr "Unknown error occurred on this page."
 
-#: app.js:32682
-#: app.js:7796
+#: app.js:32560
+#: app.js:7775
 msgctxt "Error : Preview"
 msgid "Unknown error occurred, when requesting for Ad preview."
 msgstr "Unknown error occurred, when requesting for Ad preview."
@@ -2329,10 +2329,10 @@ msgstr "URL to main page or products category on the website."
 
 #: app.js:23196
 #: app.js:23220
-#: app.js:23892
-#: app.js:23916
-#: app.js:25205
-#: app.js:25229
+#: app.js:24127
+#: app.js:24151
+#: app.js:25089
+#: app.js:25113
 #: app.js:5062
 #: app.js:5089
 msgctxt "Call To Action"
@@ -2356,16 +2356,16 @@ msgid "Video Views"
 msgstr "Video Views"
 
 #: app.js:23217
-#: app.js:23913
-#: app.js:25226
+#: app.js:24148
+#: app.js:25110
 #: app.js:5086
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "Watch More"
 
 #: app.js:23205
-#: app.js:23901
-#: app.js:25214
+#: app.js:24136
+#: app.js:25098
 #: app.js:5083
 msgctxt "Call To Action"
 msgid "Watch Video"
@@ -2500,7 +2500,7 @@ msgctxt "Info : Bid"
 msgid "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
 msgstr "Your bid is the maximum amount you've indicated you're willing to pay per click (if bid is on a CPC basis) or thousand impressions (if bid is on a CPM basis) on your Facebook Ads."
 
-#: app.js:32164
+#: app.js:32042
 msgctxt "Error : Creative : Remove"
 msgid "! Message:"
 msgstr "! Message:"
@@ -2511,7 +2511,7 @@ msgctxt "Breakdown"
 msgid "2 Weeks"
 msgstr "2 Weeks"
 
-#: app.js:26024
+#: app.js:25908
 msgctxt "Modal : Audiences : Lookalike : Title"
 msgid "a Lookalike Audience"
 msgstr "a Lookalike Audience"
@@ -2523,7 +2523,7 @@ msgctxt "Breadcrumb"
 msgid "Account"
 msgstr "Account"
 
-#: app.js:32087
+#: app.js:31965
 #: app.js:5179
 msgctxt "Creative"
 msgid "Ad"
@@ -2547,36 +2547,36 @@ msgctxt "Breadcrumb"
 msgid "Ad Set"
 msgstr "Ad Set"
 
-#: app.js:26892
-#: app.js:26947
-#: app.js:26951
+#: app.js:26776
+#: app.js:26831
+#: app.js:26835
 msgctxt "Modal : Copy : Title"
 msgid "Ad Set"
 msgstr "Ad Set"
 
-#: app.js:32413
-#: app.js:32438
+#: app.js:32291
+#: app.js:32316
 msgctxt "Error : Preview"
 msgid "Ad URL is missing! Can't generate Ad preview!"
 msgstr "Ad URL is missing! Can't generate ad preview!"
 
-#: app.js:3846
+#: app.js:3898
 msgctxt "Audience : Rule"
 msgid "Add a value"
 msgstr "Add a value"
 
-#: app.js:7617
-#: app.js:7624
+#: app.js:7596
+#: app.js:7603
 msgctxt "Error : Group"
 msgid "Ad Edit Modal"
 msgstr "Ad Edit Modal"
 
-#: app.js:27530
+#: app.js:27414
 msgctxt "Modal : Bulk Edit"
 msgid "Ad Set"
 msgstr "Ad Set"
 
-#: app.js:7575
+#: app.js:7554
 msgctxt "Error : Group"
 msgid "Ad Sets Edit Modal"
 msgstr "Ad Sets Edit Modal"
@@ -2591,12 +2591,12 @@ msgctxt "Breakdown"
 msgid "Age and Gender"
 msgstr "Age and Gender"
 
-#: app.js:26181
+#: app.js:26065
 msgctxt "Modal : Automation : Title"
 msgid "an automation"
 msgstr " an automation"
 
-#: app.js:3846
+#: app.js:3898
 msgctxt "Audience : Rule"
 msgid "AND"
 msgstr "AND"
@@ -2606,12 +2606,12 @@ msgctxt "Automation : Condition"
 msgid "AND"
 msgstr "AND"
 
-#: app.js:27645
+#: app.js:27529
 msgctxt "Modal : Preset : Ok Button"
 msgid "Apply"
 msgstr "Apply"
 
-#: app.js:27299
+#: app.js:27183
 msgctxt "Modal : Bulk Edit : Ok Button"
 msgid "Apply"
 msgstr "Apply"
@@ -2621,7 +2621,7 @@ msgctxt "Audience : Sources : Opt Group"
 msgid "Audiences"
 msgstr "Audiences"
 
-#: app.js:26806
+#: app.js:26690
 msgctxt "Modal : Automation : Success : Title"
 msgid "automation"
 msgstr "automation"
@@ -2633,17 +2633,17 @@ msgid "Automation"
 msgstr "Automation"
 
 #: app.js:2112
-#: app.js:26396
+#: app.js:26280
 msgctxt "Error : Automation"
 msgid "automation."
 msgstr "automation."
 
-#: app.js:28219
+#: app.js:28103
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Be careful, because deleted comments can't be restored!"
 msgstr "Be careful, because deleted comments can't be restored!"
 
-#: app.js:32174
+#: app.js:32052
 msgctxt "Modal : Creative : Title"
 msgid "Be careful, because deleted items can't be restored!"
 msgstr "Be careful, because deleted items can't be restored!"
@@ -2658,7 +2658,7 @@ msgctxt "Ad Set : Description"
 msgid "Bid for"
 msgstr "Bid for"
 
-#: app.js:27305
+#: app.js:27189
 msgctxt "Modal : Bulk Edit : Title"
 msgid "Bulk Editing"
 msgstr "Bulk Editing"
@@ -2699,44 +2699,44 @@ msgctxt "Breadcrumb"
 msgid "Campaign"
 msgstr "Campaign"
 
-#: app.js:32404
+#: app.js:32282
 msgctxt "Error : Preview"
 msgid "Can't show preview because of some error. Please modify the Ad."
 msgstr "Can't show preview because of some error. Please modify the Ad."
 
-#: app.js:27648
+#: app.js:27532
 msgctxt "Modal : Preset : Cancel Button"
 msgid "Cancel"
 msgstr "Cancel"
 
-#: app.js:26022
+#: app.js:25906
 msgctxt "Modal : Ok Button"
 msgid "Cancel"
 msgstr "Cancel"
 
-#: app.js:27039
+#: app.js:26923
 msgctxt "Modal : Crop : Cancel Button"
 msgid "Cancel"
 msgstr "Cancel"
 
-#: app.js:26890
+#: app.js:26774
 msgctxt "Modal : Copy : Cancel Button"
 msgid "Cancel"
 msgstr "Cancel"
 
-#: app.js:25187
-#: app.js:25460
+#: app.js:25071
+#: app.js:25344
 msgctxt "Modal : Cancel Button"
 msgid "Cancel"
 msgstr "Cancel"
 
-#: app.js:27302
+#: app.js:27186
 msgctxt "Modal : Bulk Edit : Cancel Button"
 msgid "Cancel"
 msgstr "Cancel"
 
 #: app.js:1924
-#: app.js:26184
+#: app.js:26068
 #: components/automations/create/automationsCreate.html:110
 #: components/automations/edit/automationsEdit.html:114
 msgctxt "Modal : Automation : Cancel Button"
@@ -2748,29 +2748,29 @@ msgctxt "Error : Group"
 msgid "Change Status"
 msgstr "Change Status"
 
-#: app.js:28171
+#: app.js:28055
 msgctxt "Modal : Preview : Cancel Button"
 msgid "Close"
 msgstr "Close"
 
-#: app.js:28492
+#: app.js:28376
 msgctxt "Modal : Video : Ok Button"
 msgid "Close"
 msgstr "Close"
 
-#: app.js:3899
+#: app.js:3951
 msgctxt "Audience : Operator"
 msgid "Contains"
 msgstr "Contains"
 
-#: app.js:26887
+#: app.js:26771
 msgctxt "Modal : Copy : Ok Button"
 msgid "Copy"
 msgstr "Copy"
 
-#: app.js:26894
-#: app.js:26948
-#: app.js:26952
+#: app.js:26778
+#: app.js:26832
+#: app.js:26836
 msgctxt "Modal : Copy : Title"
 msgid "Copy"
 msgstr "Copy"
@@ -2780,19 +2780,19 @@ msgctxt "Breakdown"
 msgid "Country"
 msgstr "Country"
 
-#: app.js:26019
+#: app.js:25903
 msgctxt "Modal : Ok Button"
 msgid "Create"
 msgstr "Create"
 
-#: app.js:26183
+#: app.js:26067
 #: components/automations/create/automationsCreate.html:104
 msgctxt "Modal : Automation : Ok Button"
 msgid "Create"
 msgstr "Create"
 
 #: app.js:1911
-#: app.js:26172
+#: app.js:26056
 msgctxt "Modal : Automation : Title"
 msgid "Create"
 msgstr "Create"
@@ -2802,12 +2802,12 @@ msgctxt "Tooltip : Access"
 msgid "Creation of Ads in this"
 msgstr "Creation of Ads in this"
 
-#: app.js:27696
+#: app.js:27580
 msgctxt "Modal : Preset : Name"
 msgid "Custom"
 msgstr "Custom"
 
-#: app.js:27651
+#: app.js:27535
 msgctxt "Modal : Preset : Title"
 msgid "Customize Columns"
 msgstr "Customize Columns"
@@ -2830,7 +2830,7 @@ msgctxt "Ad Set : Description"
 msgid "Disabled"
 msgstr "Disabled"
 
-#: app.js:28211
+#: app.js:28095
 msgctxt "Modal : Preview : Delete Comment"
 msgid "Do you really want to delete"
 msgstr "Do you really want to delete"
@@ -2840,53 +2840,53 @@ msgctxt "Modal : Delete : Title"
 msgid "Do you really want to delete selected rows?"
 msgstr "Do you really want to delete selected rows?"
 
-#: app.js:32173
+#: app.js:32051
 msgctxt "Modal : Creative : Title"
 msgid "Do you really want to delete this"
 msgstr "Do you really want to delete this"
 
-#: app.js:26807
+#: app.js:26691
 msgctxt "Modal : Automation : Success : Body"
 msgid "Do you want to leave this page and go to automations list?"
 msgstr "Do you want to leave this page and go to automations list?"
 
-#: app.js:3902
+#: app.js:3954
 msgctxt "Audience : Operator"
 msgid "Does not contain"
 msgstr "Does not contain"
 
-#: app.js:3889
+#: app.js:3941
 msgctxt "Audience : Source"
 msgid "Domain"
 msgstr "Domain"
 
-#: app.js:26998
+#: app.js:26882
 msgctxt "Modal : Copy : Body"
 msgid "edit"
 msgstr "edit"
 
 #: app.js:1910
-#: app.js:26171
+#: app.js:26055
 msgctxt "Modal : Automation : Title"
 msgid "Edit"
 msgstr "Edit"
 
-#: app.js:25464
+#: app.js:25348
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad Set:"
 msgstr "Edit Ad Set:"
 
-#: app.js:25191
+#: app.js:25075
 msgctxt "Modal : Edit : Title"
 msgid "Edit Ad:"
 msgstr "Edit Ad:"
 
-#: app.js:7617
+#: app.js:7596
 msgctxt "Error : Ad : Edit"
 msgid "Editing of this Ad isn't supported yet."
 msgstr "Editing of this Ad isn't supported yet."
 
-#: app.js:7575
+#: app.js:7554
 msgctxt "Error : Ad Set : Edit"
 msgid "Editing of this Ad Set isn't supported yet."
 msgstr "Editing of this Ad Set isn't supported yet."
@@ -2941,43 +2941,43 @@ msgstr "Enter link name"
 msgid "Enter text that clearly tells people about what you are promoting"
 msgstr "Enter text that clearly tells people about what you are promoting"
 
-#: app.js:3905
+#: app.js:3957
 msgctxt "Audience : Operator"
 msgid "Equal to"
 msgstr "Equal to"
 
-#: app.js:32226
-#: app.js:32735
+#: app.js:32104
+#: app.js:32613
 msgctxt "Error : Upload"
 msgid "Error occured when uploading images."
 msgstr "Error occured when uploading images."
 
-#: app.js:28568
+#: app.js:28452
 msgctxt "Error : Video"
 msgid "Error occured when uploading videos."
 msgstr "Error occured when uploading videos."
 
-#: app.js:32164
+#: app.js:32042
 msgctxt "Error : Creative : Remove"
 msgid "Error occurred when removing your"
 msgstr "Error occurred when removing your"
 
-#: app.js:26879
+#: app.js:26763
 msgctxt "Error : Campaign"
 msgid "Error occurred when requesting existing Campaigns. Error:"
 msgstr "Error occurred when requesting existing Campaigns. Error:"
 
-#: app.js:26751
+#: app.js:26635
 msgctxt "Error : Automation"
 msgid "Error occurred when requesting existing rules presets. Error:"
 msgstr "Error occurred when requesting existing rules presets. Error:"
 
-#: app.js:25117
+#: app.js:25001
 msgctxt "Error : Pages"
 msgid "Error occurred when requesting Pages. Error:"
 msgstr "Error occurred when requesting Pages. Error:"
 
-#: app.js:3895
+#: app.js:3947
 msgctxt "Audience : Source"
 msgid "Event"
 msgstr "Event"
@@ -2992,7 +2992,7 @@ msgctxt "Tooltip : Export Data"
 msgid "Export visible data to PDF"
 msgstr "Export visible data to PDF"
 
-#: app.js:32173
+#: app.js:32051
 msgctxt "Modal : Creative : Title"
 msgid "from library?"
 msgstr "from library?"
@@ -3002,7 +3002,7 @@ msgctxt "Breakdown"
 msgid "Gender"
 msgstr "Gender"
 
-#: app.js:26998
+#: app.js:26882
 msgctxt "Modal : Copy : Body"
 msgid "go"
 msgstr "go"
@@ -3012,12 +3012,12 @@ msgctxt "Automation Operator"
 msgid "greater"
 msgstr "greater"
 
-#: app.js:3917
+#: app.js:3969
 msgctxt "Audience : Operator"
 msgid "Greater than"
 msgstr "Greater than"
 
-#: app.js:3920
+#: app.js:3972
 msgctxt "Audience : Operator"
 msgid "Greater than or equal to"
 msgstr "Greater than or equal to"
@@ -3038,19 +3038,19 @@ msgid "Hourly stats by audience time zone"
 msgstr "Hourly stats by audience time zone"
 
 #: app.js:23573
-#: app.js:25851
+#: app.js:25735
 msgctxt "Modal : Pixel : Title"
 msgid "Install your pixel code!"
 msgstr "Install your pixel code!"
 
-#: app.js:25402
-#: app.js:25668
+#: app.js:25286
+#: app.js:25552
 msgctxt "Modal : Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 msgstr "Internal Error occurred. Please, tell about this problem to Aitarget support team."
 
 #: app.js:13811
-#: app.js:16293
+#: app.js:16262
 #: app.js:2234
 msgctxt "Error"
 msgid "Internal Error occurred. Please, tell about this problem to Aitarget support team."
@@ -3071,17 +3071,17 @@ msgctxt "Automation Operator"
 msgid "less or equal"
 msgstr "less or equal"
 
-#: app.js:3911
+#: app.js:3963
 msgctxt "Audience : Operator"
 msgid "Less than"
 msgstr "Less than"
 
-#: app.js:3914
+#: app.js:3966
 msgctxt "Audience : Operator"
 msgid "Less than or equal to"
 msgstr "Less than or equal to"
 
-#: app.js:3923
+#: app.js:3975
 msgctxt "Audience : Operator"
 msgid "Matches a regular expression"
 msgstr "Matches a regular expression"
@@ -3092,13 +3092,13 @@ msgctxt "Breakdown"
 msgid "Month"
 msgstr "Month"
 
-#: app.js:28482
+#: app.js:28366
 msgctxt "Modal : Video : Cancel Button"
 msgid "No"
 msgstr "No"
 
-#: app.js:27253
-#: app.js:28333
+#: app.js:27137
+#: app.js:28217
 msgctxt "Modal : Dialog : Cancel Button"
 msgid "No"
 msgstr "No"
@@ -3115,7 +3115,7 @@ msgctxt "Breakdown"
 msgid "None"
 msgstr "None"
 
-#: app.js:3908
+#: app.js:3960
 msgctxt "Audience : Operator"
 msgid "Not equal to"
 msgstr "Not equal to"
@@ -3130,41 +3130,41 @@ msgctxt "Empty Grid"
 msgid "Nothing to show. Please, try to create new items"
 msgstr "Nothing to show. Please, try to create new items"
 
-#: app.js:26998
+#: app.js:26882
 msgctxt "Modal : Copy : Body"
 msgid "Now you can"
 msgstr "Now you can"
 
 #: app.js:2330
-#: app.js:7838
+#: app.js:7817
 msgctxt "Modal : Error : Ok Button"
 msgid "Ok"
 msgstr "Ok"
 
 #: app.js:23577
 #: app.js:23591
-#: app.js:25855
-#: app.js:25869
+#: app.js:25739
+#: app.js:25753
 msgctxt "Modal : Pixel : Ok Button"
 msgid "OK"
 msgstr "OK"
 
-#: app.js:27000
+#: app.js:26884
 msgctxt "Modal : Copy : Ok Button"
 msgid "OK"
 msgstr "OK"
 
-#: app.js:7835
+#: app.js:7814
 msgctxt "Error"
 msgid "Oops, something went wrong!"
 msgstr "Oops, something went wrong!"
 
-#: app.js:26998
+#: app.js:26882
 msgctxt "Modal : Copy : Body"
 msgid "or"
 msgstr "or"
 
-#: app.js:3846
+#: app.js:3898
 msgctxt "Audience : Rule"
 msgid "OR"
 msgstr "OR"
@@ -3179,7 +3179,7 @@ msgctxt "Audience : Sources : Opt Group"
 msgid "Pages"
 msgstr "Pages"
 
-#: app.js:3892
+#: app.js:3944
 msgctxt "Audience : Source"
 msgid "Path"
 msgstr "Path"
@@ -3218,12 +3218,12 @@ msgctxt "Validation : Rule"
 msgid "Please, check that your value is set and is a number."
 msgstr "Please, check that your value is set and is a number."
 
-#: app.js:28176
+#: app.js:28060
 msgctxt "Modal : Preview : Title"
 msgid "Preview Ad"
 msgstr "Preview Ad"
 
-#: app.js:28508
+#: app.js:28392
 msgctxt "Modal : Video : Title"
 msgid "Preview your video"
 msgstr "Preview your video"
@@ -3233,7 +3233,7 @@ msgctxt "Period : Date Preset"
 msgid "Previous month"
 msgstr "Previous month"
 
-#: app.js:28487
+#: app.js:28371
 msgctxt "Modal : Video : Title"
 msgid "Processing your video file"
 msgstr "Processing your video file"
@@ -3253,8 +3253,8 @@ msgctxt "Automation : Group"
 msgid "RULE"
 msgstr "RULE"
 
-#: app.js:25183
-#: app.js:25456
+#: app.js:25067
+#: app.js:25340
 msgctxt "Modal : Ok Button"
 msgid "Save"
 msgstr "Save"
@@ -3266,9 +3266,9 @@ msgctxt "Placeholder : Search"
 msgid "Search by name..."
 msgstr "Search by name..."
 
-#: app.js:27662
-#: app.js:27955
-#: app.js:27993
+#: app.js:27546
+#: app.js:27839
+#: app.js:27877
 msgctxt "Modal : Preset"
 msgid "Select All Columns"
 msgstr "Select All Columns"
@@ -3278,52 +3278,52 @@ msgctxt "Tooltip : Select"
 msgid "Select at least one row from the table below"
 msgstr "Select at least one row from the table below"
 
-#: app.js:3846
+#: app.js:3898
 msgctxt "Audience : Rule"
 msgid "Select operator"
 msgstr "Select operator"
 
-#: app.js:3846
+#: app.js:3898
 msgctxt "Audience : Rule"
 msgid "Select source"
 msgstr "Select source"
 
-#: app.js:28215
+#: app.js:28099
 msgctxt "Modal : Preview : Delete Comment"
 msgid "selected comments?"
 msgstr "selected comments?"
 
-#: app.js:28587
+#: app.js:28471
 msgctxt "Modal : Video : Body"
 msgid "Step 1 of 3"
 msgstr "Step 1 of 3"
 
-#: app.js:28559
+#: app.js:28443
 msgctxt "Modal : Video : Body"
 msgid "Step 2 of 3"
 msgstr "Step 2 of 3"
 
-#: app.js:28549
+#: app.js:28433
 msgctxt "Modal : Video : Body"
 msgid "Step 3 of 3"
 msgstr "Step 3 of 3"
 
-#: app.js:26997
+#: app.js:26881
 msgctxt "Modal : Copy : Title"
 msgid "Success!"
 msgstr "Success!"
 
-#: app.js:31236
+#: app.js:32862
 msgctxt "Targeting"
 msgid "Targeting settings for"
 msgstr "Targeting settings for"
 
-#: app.js:27772
+#: app.js:27656
 msgctxt "Error : Modal : Preset"
 msgid "There is already another preset with the same name."
 msgstr "There is already another preset with the same name."
 
-#: app.js:28213
+#: app.js:28097
 msgctxt "Modal : Preview : Delete Comment"
 msgid "this comment?"
 msgstr "this comment?"
@@ -3333,17 +3333,17 @@ msgctxt "Period : Date Preset"
 msgid "This month"
 msgstr "This month"
 
-#: app.js:26947
+#: app.js:26831
 msgctxt "Modal : Copy : Title"
 msgid "to existing Campaign"
 msgstr "to existing Campaign"
 
-#: app.js:26951
+#: app.js:26835
 msgctxt "Modal : Copy : Title"
 msgid "to new Campaign"
 msgstr "to new Campaign"
 
-#: app.js:26998
+#: app.js:26882
 msgctxt "Modal : Copy : Body"
 msgid "to your newly created Ad Set"
 msgstr "to your newly created Ad Set"
@@ -3354,7 +3354,7 @@ msgid "Today"
 msgstr "Today"
 
 #: app.js:2112
-#: app.js:26396
+#: app.js:26280
 msgctxt "Error : Automation"
 msgid "Unknown error occurred when"
 msgstr "Unknown error occurred when"
@@ -3364,17 +3364,17 @@ msgctxt "Error : Status"
 msgid "Unknown error occurred when changing status"
 msgstr "Unknown error occurred when changing status"
 
-#: app.js:27021
+#: app.js:26905
 msgctxt "Error : Copy"
 msgid "Unknown error occurred when copying selected Ad Sets."
 msgstr "Unknown error occurred when copying selected Ad Sets."
 
-#: app.js:26003
+#: app.js:25887
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when creating new Custom Audience."
 msgstr "Unknown error occurred when creating new Custom Audience."
 
-#: app.js:26152
+#: app.js:26036
 msgctxt "Error : Audiences : Lookalike"
 msgid "Unknown error occurred when creating new Lookalike Audience."
 msgstr "Unknown error occurred when creating new Lookalike Audience."
@@ -3399,60 +3399,60 @@ msgctxt "Error : Pixel"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "Unknown error occurred when getting pixel code."
 
-#: app.js:25881
+#: app.js:25765
 msgctxt "Error : Audiences : Custom"
 msgid "Unknown error occurred when getting pixel code."
 msgstr "Unknown error occurred when getting pixel code."
 
-#: app.js:25751
+#: app.js:25635
 msgctxt "Error : Update : Ad Set"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "Unknown error occurred when updating selected Ad Sets."
 
-#: app.js:27614
+#: app.js:27498
 msgctxt "Error : Bulk Edit"
 msgid "Unknown error occurred when updating selected Ad Sets."
 msgstr "Unknown error occurred when updating selected Ad Sets."
 
-#: app.js:25438
+#: app.js:25322
 msgctxt "Error : Update : Ad"
 msgid "Unknown error occurred when updating selected Ads."
 msgstr "Unknown error occurred when updating selected Ads."
 
-#: app.js:7596
+#: app.js:7575
 msgctxt "Error : Ad Set"
 msgid "Unknown error occurred, when requesting for Ad Set."
 msgstr "Unknown error occurred, when requesting for Ad Set."
 
-#: app.js:7646
+#: app.js:7625
 msgctxt "Error : Ad"
 msgid "Unknown error occurred, when requesting for Ad."
 msgstr "Unknown error occurred, when requesting for Ad."
 
-#: app.js:7828
+#: app.js:7807
 msgctxt "Error"
 msgid "Unknown error occurred."
 msgstr "Unknown error occurred."
 
-#: app.js:27981
+#: app.js:27865
 msgctxt "Modal : Preset"
 msgid "Unselect All Columns"
 msgstr "Unselect All Columns"
 
 #: app.js:1922
-#: app.js:26183
+#: app.js:26067
 #: components/automations/edit/automationsEdit.html:108
 msgctxt "Modal : Automation : Ok Button"
 msgid "Update"
 msgstr "Update"
 
-#: app.js:27036
-#: app.js:27042
+#: app.js:26920
+#: app.js:26926
 msgctxt "Modal : Crop : Ok Button"
 msgid "Upload images"
 msgstr "Upload images"
 
-#: app.js:3886
+#: app.js:3938
 msgctxt "Audience : Source"
 msgid "URL"
 msgstr "URL"
@@ -3463,18 +3463,18 @@ msgctxt "Breakdown"
 msgid "Week"
 msgstr "Week"
 
-#: app.js:27250
-#: app.js:28330
+#: app.js:27134
+#: app.js:28214
 msgctxt "Modal : Dialog : Ok Button"
 msgid "Yes"
 msgstr "Yes"
 
-#: app.js:28478
+#: app.js:28362
 msgctxt "Modal : Video : Ok Button"
 msgid "Yes"
 msgstr "Yes"
 
-#: app.js:27778
+#: app.js:27662
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "Yes"
@@ -3484,27 +3484,27 @@ msgctxt "Period : Date Preset"
 msgid "Yesterday"
 msgstr "Yesterday"
 
-#: app.js:26806
+#: app.js:26690
 msgctxt "Modal : Automation : Success : Title"
 msgid "You have successfully"
 msgstr "You have successfully"
 
-#: app.js:26998
+#: app.js:26882
 msgctxt "Modal : Copy : Body"
 msgid "You have successfully copied"
 msgstr "You have successfully copied"
 
-#: app.js:28548
+#: app.js:28432
 msgctxt "Modal : Video : Title"
 msgid "Your video is being processed by Facebook..."
 msgstr "Your video is being processed by Facebook..."
 
-#: app.js:28585
+#: app.js:28469
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Aitarget..."
 msgstr "Your video is being uploaded to Aitarget..."
 
-#: app.js:28558
+#: app.js:28442
 msgctxt "Modal : Video : Title"
 msgid "Your video is being uploaded to Facebook..."
 msgstr "Your video is being uploaded to Facebook..."
@@ -3519,7 +3519,7 @@ msgctxt "Info : Budget"
 msgid "daily budget"
 msgstr "daily budget"
 
-#: app.js:25793
+#: app.js:25677
 msgctxt "Audience : Custom : Example"
 msgid "– Country code + Area Code + Number\n"
 "                                       – No leading zeros from country code\n"
@@ -3534,7 +3534,7 @@ msgstr "– Country code + Area Code + Number\n"
 "                                       16505551234\n"
 "                                       16505551235"
 
-#: app.js:25792
+#: app.js:25676
 msgctxt "Audience : Custom : Example"
 msgid "– Numeric characters only\n"
 "                                      Ex.\n"
@@ -3563,7 +3563,7 @@ msgctxt "Video : Drag and drop"
 msgid "Drop Files Here"
 msgstr "Drop Files Here"
 
-#: app.js:25785
+#: app.js:25669
 msgctxt "Audience : Custom"
 msgid "Emails"
 msgstr "Emails"
@@ -3578,7 +3578,7 @@ msgctxt "Placeholder : URL"
 msgid "Enter url to your website"
 msgstr "Enter url to your website"
 
-#: app.js:25791
+#: app.js:25675
 msgctxt "Audience : Custom : Example"
 msgid "Ex.\n"
 "                                                                   name1@example.com\n"
@@ -3593,7 +3593,7 @@ msgstr "Ex.\n"
 "                                                                   name1@example.com,name2@example.com\n"
 "                                                                   name1@example.com;name2@example.com"
 
-#: app.js:25794
+#: app.js:25678
 msgctxt "Audience : Custom : Example"
 msgid "Learn more"
 msgstr "Learn more"
@@ -3610,12 +3610,12 @@ msgctxt "Image : Library"
 msgid "Library"
 msgstr "Library"
 
-#: app.js:26093
+#: app.js:25977
 msgctxt "Audience : Lookalike"
 msgid "Lookalike"
 msgstr "Lookalike"
 
-#: app.js:25788
+#: app.js:25672
 msgctxt "Audience : Custom"
 msgid "Mobile Advertiser IDs"
 msgstr "Mobile Advertiser IDs"
@@ -3628,7 +3628,7 @@ msgctxt "Audience : Size"
 msgid "people"
 msgstr "people"
 
-#: app.js:25787
+#: app.js:25671
 msgctxt "Audience : Custom"
 msgid "Phone Numbers"
 msgstr "Phone Numbers"
@@ -3645,12 +3645,12 @@ msgctxt "Video : Upload"
 msgid "Upload"
 msgstr "Upload"
 
-#: app.js:25786
+#: app.js:25670
 msgctxt "Audience : Custom"
 msgid "User IDs"
 msgstr "User IDs"
 
-#: app.js:25794
+#: app.js:25678
 msgctxt "Audience : Custom : Example"
 msgid "We support:\n"
 "                                                                – Android's advertising ID,\n"
@@ -3666,7 +3666,7 @@ msgctxt "Label : URL"
 msgid "Website Url"
 msgstr "Website Url"
 
-#: app.js:25001
+#: app.js:28555
 msgctxt "Modal : Campaign : Title"
 msgid "Edit Campaign:"
 msgstr "Edit Campaign: "
@@ -4430,42 +4430,42 @@ msgctxt "Create Adaccount"
 msgid "Create adacсount"
 msgstr "Create adacсount"
 
-#: app.js:4216
+#: app.js:4204
 msgctxt "Create Adaccount"
 msgid "Amount required"
 msgstr "Amount required"
 
-#: app.js:14705
+#: app.js:14600
 msgctxt "Topup Adaccount"
 msgid "Amount required"
 msgstr "Amount required"
 
-#: app.js:4222
+#: app.js:4210
 msgctxt "Create Adaccount"
 msgid "Amount should be a number"
 msgstr "Amount should be a number"
 
-#: app.js:14711
+#: app.js:14606
 msgctxt "Topup Adaccount"
 msgid "Amount should be a number"
 msgstr "Amount should be a number"
 
-#: app.js:4208
+#: app.js:4196
 msgctxt "Create Adaccount"
 msgid "Email required"
 msgstr "Email required"
 
-#: app.js:14696
+#: app.js:14591
 msgctxt "Topup Adaccount"
 msgid "Email required"
 msgstr "Email required"
 
-#: app.js:14721
+#: app.js:14616
 msgctxt "Topup Adaccount"
 msgid "Minimum amount is 50$"
 msgstr "Minimum amount is 50$"
 
-#: app.js:4232
+#: app.js:4220
 msgctxt "Create Adaccount"
 msgid "Minimum amount is 50$"
 msgstr "Minimum amount is 50$"
@@ -4607,17 +4607,17 @@ msgctxt "Modal : Recommendation : View Link"
 msgid "View"
 msgstr "View"
 
-#: app.js:31829
+#: app.js:31707
 msgctxt "Creative : Pixel Events"
 msgid "Add payment info"
 msgstr "Add payment info"
 
-#: app.js:31820
+#: app.js:31698
 msgctxt "Creative : Pixel Events"
 msgid "Add to cart"
 msgstr "Add to cart"
 
-#: app.js:31823
+#: app.js:31701
 msgctxt "Creative : Pixel Events"
 msgid "Add to wishlist"
 msgstr "Add to wishlist"
@@ -4634,7 +4634,7 @@ msgstr "At least one partner is required."
 msgid "Choose the date"
 msgstr "Choose the date"
 
-#: app.js:31838
+#: app.js:31716
 msgctxt "Creative : Pixel Events"
 msgid "Complete registration"
 msgstr "Complete registration"
@@ -4663,12 +4663,12 @@ msgstr "End date cannot be before start date"
 msgid "Enter text"
 msgstr "Enter text"
 
-#: app.js:31826
+#: app.js:31704
 msgctxt "Creative : Pixel Events"
 msgid "Initiate checkout"
 msgstr "Initiate checkout"
 
-#: app.js:31835
+#: app.js:31713
 msgctxt "Creative : Pixel Events"
 msgid "Lead"
 msgstr "Lead"
@@ -4701,12 +4701,12 @@ msgid "Pixel events are events you add to your Facebook pixel base code that all
 msgstr "Pixel events are events you add to your Facebook pixel base code that allow you to better understand the audiences visiting your website and reach specific sets of your users who have visited your website as well as track and optimize for conversions."
 
 #: app.js:23587
-#: app.js:25865
+#: app.js:25749
 msgctxt "Modal : Pixel : Title"
 msgid "Pixel not found!"
 msgstr "Pixel not found!"
 
-#: app.js:31832
+#: app.js:31710
 msgctxt "Creative : Pixel Events"
 msgid "Purchase"
 msgstr "Purchase"
@@ -4715,7 +4715,7 @@ msgstr "Purchase"
 msgid "Referral"
 msgstr "Referral"
 
-#: app.js:31817
+#: app.js:31695
 msgctxt "Creative : Pixel Events"
 msgid "Search"
 msgstr "Search"
@@ -4745,13 +4745,13 @@ msgctxt "Creative Settings"
 msgid "View Code"
 msgstr "View Code"
 
-#: app.js:31814
+#: app.js:31692
 msgctxt "Creative : Pixel Events"
 msgid "View Content"
 msgstr "View Content"
 
 #: app.js:23588
-#: app.js:25866
+#: app.js:25750
 msgctxt "Modal : Pixel : Body"
 msgid "You should create facebook pixel."
 msgstr "You should create facebook pixel."
@@ -4802,7 +4802,7 @@ msgid "Select File"
 msgstr "Select File"
 
 #: app.js:19716
-#: app.js:26030
+#: app.js:25914
 msgctxt "Info : Audiences : Lookalike"
 msgid "Select an existing audience to model your lookalike audience on. This could be a customer list, Custom Audience, pixel, or people who like your page."
 msgstr "Select an existing audience to model your lookalike audience on. This could be a customer list, Custom Audience, pixel, or people who like your page."
@@ -4850,7 +4850,7 @@ msgctxt "Audiences : Lookalike"
 msgid "Minimum Estimated Reach"
 msgstr "Minimum Estimated Reach"
 
-#: app.js:26029
+#: app.js:25913
 msgctxt "Audiences : Lookalike"
 msgid "Find new people on Facebook who are similar to your most valuable audiences. Select a source and a country below, then choose an audience size."
 msgstr "Find new people on Facebook who are similar to your most valuable audiences. Select a source and a country below, then choose an audience size."
@@ -4895,7 +4895,7 @@ msgctxt "Create Adaccount"
 msgid "You need to verify your Ads before creating Prepaid AdAccount. Please answer the quiz in our support system."
 msgstr "You need to verify your Ads before creating Prepaid AdAccount. Please answer the quiz in our support system."
 
-#: app.js:31997
+#: app.js:31875
 msgctxt "Image : Upload : Tooltip"
 msgid "Access to library only available when using manual creating mode."
 msgstr "Access to library only available when using manual creating mode."
@@ -4910,25 +4910,25 @@ msgctxt "Connections Opt Groups"
 msgid "Events"
 msgstr "Events"
 
-#: app.js:25083
-#: app.js:31990
+#: app.js:24967
+#: app.js:31868
 msgctxt "Image : Upload : Tooltip"
 msgid "Upload images from your desktop."
 msgstr "Upload images from your desktop."
 
-#: app.js:25086
-#: app.js:31993
+#: app.js:24970
+#: app.js:31871
 msgctxt "Image : Library : Tooltip"
 msgid "Access a library that contains all your Ad images."
 msgstr "Access a library that contains all your Ad images."
 
-#: app.js:25085
+#: app.js:24969
 msgctxt "Video : Library : Tooltip"
 msgid "Access a library that contains all your Ad videos."
 msgstr "Access a library that contains all your Ad videos."
 
-#: app.js:25084
-#: app.js:31991
+#: app.js:24968
+#: app.js:31869
 msgctxt "Video : Upload : Tooltip"
 msgid "Upload videos from your desktop."
 msgstr "Upload videos from your desktop."
@@ -4943,17 +4943,17 @@ msgctxt "Deletion : Modal : Preset : Title"
 msgid "Do you really want to delete selected preset?"
 msgstr "Do you really want to delete selected preset?"
 
-#: app.js:27766
+#: app.js:27650
 msgctxt "Error : Modal : Preset : Ok Button"
 msgid "OK"
 msgstr "OK"
 
-#: app.js:27776
+#: app.js:27660
 msgctxt "Error : Modal : Preset : "
 msgid "Overwrite existing preset?"
 msgstr "Overwrite existing preset?"
 
-#: app.js:27762
+#: app.js:27646
 msgctxt "Error : Modal : Preset : "
 msgid "Shared preset with the same name"
 msgstr "Shared preset with the same name"
@@ -4963,7 +4963,7 @@ msgctxt "Deletion : Modal : Preset : Ok Button"
 msgid "Yes"
 msgstr "Yes"
 
-#: app.js:27758
+#: app.js:27642
 msgctxt "Error : Modal : Preset"
 msgid "You can't overwrite shared preset. Please choose another name."
 msgstr "You can't overwrite shared preset. Please choose another name."
@@ -5101,7 +5101,7 @@ msgctxt "Validation : Tree"
 msgid "You should choose at least one entity"
 msgstr "You should choose at least one entity"
 
-#: app.js:16199
+#: app.js:16168
 #: app.js:18117
 #: app.js:4514
 #: app.js:4532
@@ -5113,7 +5113,7 @@ msgstr "Add Adlabel"
 msgid "Add or remove adlabels"
 msgstr "Add or remove adlabels"
 
-#: app.js:16202
+#: app.js:16171
 #: app.js:18121
 #: app.js:4517
 #: app.js:4535
@@ -5122,13 +5122,13 @@ msgid "Remove Adlabel"
 msgstr "Remove Adlabel"
 
 #: app.js:2033
-#: app.js:26293
+#: app.js:26177
 msgctxt "Automation"
 msgid "Choose Campaigns and Ad Sets you want to automate"
 msgstr "Choose Campaigns and Ad Sets you want to automate"
 
 #: app.js:2033
-#: app.js:26293
+#: app.js:26177
 #: components/automations/create/automationsCreate.html:29
 #: components/automations/edit/automationsEdit.html:33
 msgctxt "Automation"
@@ -5242,12 +5242,12 @@ msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "The text message for carousel Ad is required."
 
-#: app.js:25052
+#: app.js:28606
 msgctxt "Error : Campaign : Edit"
 msgid "Unknown error occurred when updating selected Ad Campaigns."
 msgstr "Unknown error occurred when updating selected Campaigns."
 
-#: app.js:25160
+#: app.js:25044
 msgctxt "Modal : Error"
 msgid "We are sorry, but editing of carousel ads isn't supported yet. Please, try to create new ad instead."
 msgstr "We are sorry, but editing of carousel Ads isn't supported yet. Please, try to create new Ad instead."
@@ -5266,19 +5266,19 @@ msgctxt "Modal : Create : Body"
 msgid "ads"
 msgstr "Ads"
 
-#: app.js:31992
+#: app.js:31870
 msgctxt "Video : Library : Tooltip"
 msgid "Access a library that contains all your ad videos."
 msgstr "Access a library that contains all your Ad videos."
 
-#: app.js:32445
+#: app.js:32323
 msgctxt "Error : Preview"
 msgid "Ad IMAGE is missing! Can't generate Ad preview!"
 msgstr "Ad IMAGE is missing! Can't generate ad preview!"
 
-#: app.js:32397
-#: app.js:32422
-#: app.js:32435
+#: app.js:32275
+#: app.js:32300
+#: app.js:32313
 msgctxt "Error : Preview"
 msgid "Ad PAGE is missing! Can't generate Ad preview!"
 msgstr "Ad PAGE is missing! Can't generate ad preview!"
@@ -5316,7 +5316,7 @@ msgstr "Choose a Facebook Page so you can run Ads on Facebook."
 msgid "Enter adset name"
 msgstr "Enter Ad Set name"
 
-#: app.js:32516
+#: app.js:32394
 msgctxt "Error : Preview"
 msgid "Error occurred, when generating your Ad preview."
 msgstr "Error occurred, when generating your Ad preview."
@@ -5477,11 +5477,11 @@ msgctxt "Pricing Table"
 msgid "Your subscription has expired."
 msgstr "Your subscription has expired."
 
-#: app.js:28414
+#: app.js:28298
 msgid "Amount required"
 msgstr "Amount required"
 
-#: app.js:28420
+#: app.js:28304
 msgid "Amount should be a number"
 msgstr "Amount should be a number"
 
@@ -5495,7 +5495,7 @@ msgstr "Cancel"
 msgid "Company website"
 msgstr "Company website"
 
-#: app.js:28427
+#: app.js:28311
 msgid "Company website is required"
 msgstr "Company website is required"
 
@@ -5504,11 +5504,11 @@ msgctxt "Pricing Table"
 msgid "Custom"
 msgstr "Custom"
 
-#: app.js:28398
+#: app.js:28282
 msgid "Email is incorrect"
 msgstr "Email is incorrect"
 
-#: app.js:28392
+#: app.js:28276
 msgid "Email required"
 msgstr "Email required"
 
@@ -5528,7 +5528,7 @@ msgstr "Enter skype"
 msgid "Facebook Monthly Spend"
 msgstr "Facebook Monthly Spend"
 
-#: app.js:28424
+#: app.js:28308
 msgid "Name is required"
 msgstr "Name is required"
 
@@ -5542,11 +5542,11 @@ msgstr "Ok"
 msgid "Phone"
 msgstr "Phone"
 
-#: app.js:28406
+#: app.js:28290
 msgid "Phone is required"
 msgstr "Phone is required"
 
-#: app.js:28380
+#: app.js:28264
 msgid "Please, enter necessary information"
 msgstr "Please, enter necessary information"
 
@@ -5560,7 +5560,7 @@ msgstr "Request a quote"
 msgid "Skype"
 msgstr "Skype"
 
-#: app.js:28430
+#: app.js:28314
 msgid "Skype nickname is required"
 msgstr "Skype nickname is required"
 
@@ -5659,7 +5659,7 @@ msgctxt "Pricing Table"
 msgid "Facebook spend<br> per month:<br> < $2 000"
 msgstr "Facebook spend<br> per month:<br> < $2 000"
 
-#: app.js:28454
+#: app.js:28338
 msgid "Form successfully sent"
 msgstr "Form successfully sent"
 
@@ -5707,7 +5707,7 @@ msgstr "Errors"
 msgid "Dynamic Creative Optimization (DCO) description."
 msgstr "Dynamic Creative Optimization (DCO) enables you to leverage Facebook's optimization to automatically experiment and deliver different variations of an ad's creative. This helps you find the best ad creative combination per impression by taking your ad's images, title, descriptions, and other assets, then learning from outcomes of how these combinations perform across audiences. DCO automatically builds and displays the best creative for groups of people in your broader target audience. This improves your ability to efficiently explore numerous creative combinations and audiences. DCO aims to improve ads ROI."
 
-#: app.js:7624
+#: app.js:7603
 msgctxt "Error : Ad : Edit"
 msgid "Users are not allowed to operate on DCO ads."
 msgstr "All create or update operations on Ads in DCO Adset will be automatically done by the system. Users are not allowed to operate on DCO ads."
@@ -6154,12 +6154,12 @@ msgctxt "Automation Operator"
 msgid "not equal"
 msgstr "not equal"
 
-#: app.js:16193
+#: app.js:16162
 msgctxt "Automation : Ad : Action"
 msgid "repeat off"
 msgstr "repeat off"
 
-#: app.js:16193
+#: app.js:16162
 msgctxt "Automation : Ad : Action"
 msgid "repeat on"
 msgstr "repeat on"
@@ -6218,23 +6218,23 @@ msgid "Rule description\n"
 msgstr "Rule description\n"
 "      <control__info class=\"deeplog__rule-description-hint\" data-control-info=\"[[deeplog.ruleDescriptionHint]]\" data-control-info-text=\"[[deeplog.ruleDescriptionHint]]\"></control__info>"
 
-#: app.js:16118
+#: app.js:16087
 msgid "All ad objects"
 msgstr "All ad objects"
 
-#: app.js:16057
+#: app.js:16026
 msgid "All rulesets"
 msgstr "All rulesets"
 
-#: app.js:15999
+#: app.js:15968
 msgid "All statuses"
 msgstr "All statuses"
 
-#: app.js:16005
+#: app.js:15974
 msgid "Error"
 msgstr "Error"
 
-#: app.js:16011
+#: app.js:15980
 msgid "Filtered"
 msgstr "Filtered"
 
@@ -6250,11 +6250,11 @@ msgstr "Go to Ads"
 msgid "Go to Campaigns"
 msgstr "Go to Campaigns"
 
-#: app.js:16008
+#: app.js:15977
 msgid "Halted"
 msgstr "Halted"
 
-#: app.js:16002
+#: app.js:15971
 msgid "Success"
 msgstr "Success"
 
@@ -6268,18 +6268,18 @@ msgid "There are no logs at this period."
 msgstr "There are no logs at this period."
 
 #: app.js:29897
-#: app.js:31441
+#: app.js:31319
 msgctxt "Placement"
 msgid "Instagram Stories"
 msgstr "Instagram Stories"
 
 #: app.js:29894
-#: app.js:31437
+#: app.js:31315
 msgctxt "Placement"
 msgid "Instagram Stream"
 msgstr "Instagram Feed"
 
-#: app.js:16205
+#: app.js:16174
 #: app.js:18075
 #: app.js:18130
 msgctxt "Automation : Ad : Action"
@@ -6373,7 +6373,7 @@ msgstr "Select or search adaccount in the list"
 msgid "Get Report"
 msgstr "Get Report"
 
-#: app.js:27532
+#: app.js:27416
 msgctxt "Modal : Bulk Edit"
 msgid "Ad"
 msgstr "Ad"
@@ -6445,4 +6445,9 @@ msgstr "Page Id"
 msgctxt "Bulk Edit"
 msgid "Schedule"
 msgstr "Schedule"
+
+#: app.js:14257
+msgctxt "Button : Create : Dashboard"
+msgid "Create"
+msgstr "Create"
 
