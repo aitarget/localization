@@ -7104,7 +7104,7 @@ msgstr "Ad set"
 msgid "Ad[[$index+1]] Total number of Images(Videos):"
 msgstr "Total number of Images(Videos):"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:42
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:44
 msgid "Added to Cart But Not Purchased"
 msgstr "Added to Cart But Not Purchased"
 
@@ -7120,7 +7120,7 @@ msgstr "Catalog"
 msgid "Choose Creative"
 msgstr "Choose Creative"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:54
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:58
 msgid "Cross-Sell Products"
 msgstr "Cross-Sell Products"
 
@@ -7152,8 +7152,8 @@ msgstr "Product set"
 msgid "Select a catalog"
 msgstr "Select a catalog"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:105
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:123
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:110
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:128
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:185
 msgid "Select a product set"
 msgstr "Select a product set"
@@ -7171,7 +7171,7 @@ msgstr "Select some catalog if you want to use this option."
 msgid "This option is not supported for this Product Set."
 msgstr "This option is not supported for this Product Set."
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:48
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:51
 msgid "Upsell Products"
 msgstr "Upsell Products"
 
@@ -7179,12 +7179,12 @@ msgstr "Upsell Products"
 msgid "Use info from your pixel or app to create a retargeting audience."
 msgstr "Use info from your pixel or app to create a retargeting audience."
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:104
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:122
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:109
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:127
 msgid "Viewed Products From:"
 msgstr "Viewed Products From:"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:36
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:37
 msgid "Viewed or Added to Cart But Not Purchased"
 msgstr "Viewed or Added to Cart But Not Purchased"
 
@@ -7262,7 +7262,7 @@ msgid "Drop Files\n"
 "                            Here"
 msgstr "Drop Files Here"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:17
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:18
 msgid "The Product Set is required"
 msgstr "The Product Set is required"
 
@@ -7275,4 +7275,49 @@ msgstr ""
 msgid "[[ childAttachment.video_id ? 'Video' :\n"
 "                      'Image' ]]"
 msgstr ""
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:6
+msgctxt "Prospecting : DPA Audiences"
+msgid "Prospecting"
+msgstr "Prospecting"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:18
+msgctxt "Retargeting : DPA Audiences"
+msgid "Retargeting"
+msgstr "\n"
+" Retargeting"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:91
+msgid "&nbsp;to people who added those products to their cart in the last"
+msgstr "to people who added those products to their cart in the last\n"
+""
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:120
+msgid "&nbsp;to people who purchased from the product set below in the last"
+msgstr "to people who purchased from the product set below in the last\n"
+""
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:80
+msgid "&nbsp;to people who viewed or added those products to cart in the last"
+msgstr "to people who viewed or added those products to cart in the last"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:102
+msgid "&nbsp;to people who viewed the product set below in the last"
+msgstr "to people who viewed the product set below in the last"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:78
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:89
+msgid "Promote products from&nbsp;"
+msgstr "Promote products from"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:118
+msgid "Promote&nbsp;"
+msgstr "Promote"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:107
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:125
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:85
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:96
+msgid "days"
+msgstr "days"
 
