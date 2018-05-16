@@ -7094,9 +7094,9 @@ msgstr "Набор объявлений"
 msgid "Ad[[$index+1]] Total number of Images(Videos):"
 msgstr "Общее количество Изображений (Видео):"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:42
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:44
 msgid "Added to Cart But Not Purchased"
-msgstr "Добавили в корзину, но не совершили покупку"
+msgstr "Добавили в корзину, не совершив покупку"
 
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-catalog.html:118
 msgid "App Link Destination"
@@ -7110,7 +7110,7 @@ msgstr "Каталог"
 msgid "Choose Creative"
 msgstr "Выберите формат объявления"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:54
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:58
 msgid "Cross-Sell Products"
 msgstr "Перекрестная продажа продуктов"
 
@@ -7142,8 +7142,8 @@ msgstr "Набор продуктов"
 msgid "Select a catalog"
 msgstr "Выберите Каталог"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:105
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:123
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:110
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:128
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:185
 msgid "Select a product set"
 msgstr "Выберите набор продуктов"
@@ -7161,7 +7161,7 @@ msgstr "Выберите Каталог для использования это
 msgid "This option is not supported for this Product Set."
 msgstr "Эта опция не поддерживается для данного набора продуктов"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:48
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:51
 msgid "Upsell Products"
 msgstr "Продажа дополнительных продуктов"
 
@@ -7169,14 +7169,14 @@ msgstr "Продажа дополнительных продуктов"
 msgid "Use info from your pixel or app to create a retargeting audience."
 msgstr "Используйте информацию вашего пикселя или приложения, чтобы создать целевую аудиторию."
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:104
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:122
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:109
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:127
 msgid "Viewed Products From:"
-msgstr "Посмотренные продукты из:"
+msgstr "Просмотренные продукты из:"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:36
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:37
 msgid "Viewed or Added to Cart But Not Purchased"
-msgstr "Посмотрели или добавили в корзину, но не совершили покупку"
+msgstr "Посмотрели или добавили в корзину, не совершив покупку"
 
 #: app.js:27337
 msgid "You can add, remove oe edit existing creatives in carousel"
@@ -7249,7 +7249,7 @@ msgid "Drop Files\n"
 "                            Here"
 msgstr "Перетащите сюда файлы"
 
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:17
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:18
 msgid "The Product Set is required"
 msgstr "Набор продуктов является обязательным и не может быть пустым. \n"
 ""
@@ -7263,4 +7263,46 @@ msgstr ""
 msgid "[[ childAttachment.video_id ? 'Video' :\n"
 "                      'Image' ]]"
 msgstr ""
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:6
+msgctxt "Prospecting : DPA Audiences"
+msgid "Prospecting"
+msgstr "Потенциальная аудитория"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:18
+msgctxt "Retargeting : DPA Audiences"
+msgid "Retargeting"
+msgstr "Целевая аудитория"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:91
+msgid "&nbsp;to people who added those products to their cart in the last"
+msgstr "людям, которые добавили эти продукты в корзину за последние"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:120
+msgid "&nbsp;to people who purchased from the product set below in the last"
+msgstr "людям, которые купили что-либо из нижеуказанного набора продуктов за последние"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:80
+msgid "&nbsp;to people who viewed or added those products to cart in the last"
+msgstr "людям, которые смотрели или добавили эти продукты в корзину за последние"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:102
+msgid "&nbsp;to people who viewed the product set below in the last"
+msgstr "людям, которые смотрели нижеуказанный набор продуктов за последние"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:78
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:89
+msgid "Promote products from&nbsp;"
+msgstr "Продвигайте продукты из"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:118
+msgid "Promote&nbsp;"
+msgstr "Продвигайте"
+
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:107
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:125
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:85
+#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:96
+msgid "days"
+msgstr "дней"
 
