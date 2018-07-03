@@ -62,7 +62,7 @@ msgstr "Аудитории"
 #: components/control/control-bid/controlBid.html:13
 msgctxt "Bid"
 msgid "Auto"
-msgstr "Авто"
+msgstr "Самая низкая цена"
 
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:343
 msgid "Auto Mixing"
@@ -378,7 +378,7 @@ msgstr "Вручную"
 #: components/control/control-bid/controlBid.html:21
 msgctxt "Bid"
 msgid "Manual"
-msgstr "Установленная вручную"
+msgstr "Целевая цена"
 
 #: components/modal/modal__adgroups/modal__adgroups.html:223
 #: components/modal/modal__adgroups/modal__adgroups.html:344
@@ -1059,7 +1059,7 @@ msgstr "Средний расход за день"
 #: app.js:21878
 msgctxt "URL Macros"
 msgid "Bid amount (value or AUTOBID)"
-msgstr "Сумма ставки (значение или автоматическая ставка)"
+msgstr "Сумма ставки (значение или cамая низкая цена)"
 
 #: app.js:21872
 msgctxt "URL Macros"
@@ -3811,7 +3811,7 @@ msgstr "Посмотреть постоянную ссылку для Instagram"
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:161
 #: components/modal/modal__adsets/modal__adsets.html:230
 msgid "Accelerated delivery is only available for manual bid."
-msgstr "Ускоренная открутка доступна только при ручной ставке."
+msgstr "Ускоренная открутка доступна только при целевой цене."
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:149
 #: components/modal/modal__adsets/modal__adsets.html:218
@@ -6572,7 +6572,7 @@ msgstr "Рекомендация"
 #: components/control/control-automation-action-value/controlAutomationActionValue.html:520
 msgctxt "Tooltip : Automation Action Value"
 msgid "Change bid is not supported for absolute and percent mode if autobid is on."
-msgstr "Абсолютное и относительное изменение ставки не поддерживается, если включён режим автоматической ставки"
+msgstr "Абсолютное и относительное изменение ставки не поддерживается, если выбран тип ставки самая низкая цена."
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:284
 #: components/modal/modal__adsets/modal__adsets.html:361
