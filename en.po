@@ -7401,12 +7401,14 @@ msgstr "The Product Set is required"
 #: components/modal/modal__adgroups/modal__adgroups.html:529
 msgid "[[ MainObj.video_id ? 'Video' :\n"
 "                    'Image' ]]"
-msgstr ""
+msgstr "[[ MainObj.video_id ? 'Video' :\n"
+"                    'Image' ]]"
 
 #: components/modal/modal__adgroups/modal__adgroups.html:964
 msgid "[[ childAttachment.video_id ? 'Video' :\n"
 "                      'Image' ]]"
-msgstr ""
+msgstr "[[ childAttachment.video_id ? 'Video' :\n"
+"                      'Image' ]]"
 
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:6
 msgctxt "Prospecting : DPA Audiences"
@@ -7679,7 +7681,8 @@ msgstr "Reset to ad account attribution"
 msgctxt "Attribution"
 msgid "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
 "          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
-msgstr ""
+msgstr "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
+"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
 
 #: components/control/control-attribution-dashboard/controlAttributionDashboard.html:70
 msgctxt "Attribution"
