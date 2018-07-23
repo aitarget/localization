@@ -84,10 +84,6 @@ msgstr "Breakdown"
 msgid "Budget"
 msgstr "Budget"
 
-#: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:27
-msgid "By Reach"
-msgstr "By Reach"
-
 #: components/automations/create/automationsCreate.html:66
 #: components/automations/edit/automationsEdit.html:82
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:116
@@ -1104,11 +1100,6 @@ msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "Budget value should be less or equal to 1 000 000."
 
-#: app.js:27420
-msgctxt "Call To Action"
-msgid "Buy Now"
-msgstr "Buy Now"
-
 #: app.js:4525
 msgctxt "Automation : Ad Set : Action Param"
 msgid "By Reach"
@@ -1627,11 +1618,6 @@ msgstr "Inactive"
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "Instagram account is required."
-
-#: app.js:27396
-msgctxt "Call To Action"
-msgid "Install Mobile App"
-msgstr "Install Now"
 
 #: app.js:9834
 msgctxt "Pricing Table"
@@ -2350,11 +2336,6 @@ msgctxt "Info : URL"
 msgid "URL to main page or products category on the website."
 msgstr "URL to main page or products category on the website."
 
-#: app.js:27393
-msgctxt "Call To Action"
-msgid "Use Mobile App"
-msgstr "Use App"
-
 #: app.js:22283
 #: app.js:34485
 msgctxt "Info : Deep Link"
@@ -2382,11 +2363,6 @@ msgstr "Video Views"
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "Watch More"
-
-#: app.js:27402
-msgctxt "Call To Action"
-msgid "Watch Video"
-msgstr "Watch Video"
 
 #: app.js:26613
 msgctxt "Objective"
@@ -3946,11 +3922,6 @@ msgctxt "Ad : Template"
 msgid "Image"
 msgstr "Image"
 
-#: components/crud/crud__page/ad_page__normal.html:98
-msgctxt "Ad : Template"
-msgid "Link URL"
-msgstr "Link URL"
-
 #: components/crud/crud__mobile/ad_mobile__normal.html:78
 #: components/crud/crud__mobile/ad_mobile__video.html:82
 #: components/crud/crud__page/ad_page__normal.html:76
@@ -4308,11 +4279,6 @@ msgstr "Minimum amount is 50$"
 #: components/topup-adaccount/topupAdaccount.html:2
 msgid "Top up adaccount"
 msgstr "Top up adaccount"
-
-#: components/tablecontrols/tablecontrols.html:91
-msgctxt "Button : Create Adaccount : Dashboard"
-msgid "Create Prepaid Adaccount"
-msgstr "Create Prepaid Adaccount"
 
 #: components/crop/crop__dialog/crop__dialog.html:1
 #: components/crop/crop__dialog/crop__dialog.html:6
@@ -5402,11 +5368,6 @@ msgctxt "Attribution"
 msgid "1 day"
 msgstr "1 day"
 
-#: components/control/control-attribution-dashboard/controlAttributionDashboard.html:70
-msgctxt "Attribution"
-msgid "1 day after viewing Ad and 28 days after clicking on Ad are set if nothing is selected"
-msgstr "1 day after viewing Ad and 28 days after clicking on Ad are set if nothing is selected"
-
 #: app.js:20241
 msgctxt "Attribution"
 msgid "28 day"
@@ -5416,11 +5377,6 @@ msgstr "28 day"
 msgctxt "Attribution"
 msgid "7 day"
 msgstr "7 day"
-
-#: components/control/control-attribution-dashboard/controlAttributionDashboard.html:74
-msgctxt "Attribution"
-msgid "Reset to default attribution"
-msgstr "Reset to default attribution"
 
 #: app.js:9832
 msgctxt "Pricing Table"
@@ -5624,11 +5580,6 @@ msgid "+ Create Audience\n"
 "          <span class=\"caret\"></span>"
 msgstr "+ Create Audience\n"
 "          <span class=\"caret\"></span>"
-
-#: components/control/control-attribution/controlAttribution.html:54
-msgctxt "Attribution"
-msgid "1 day after viewing Ad and 28 days after clicking on Ad are set by default"
-msgstr "1 day after viewing Ad and 28 days after clicking on Ad are set by default"
 
 #: app.js:20099
 msgctxt "Attribution"
@@ -6053,12 +6004,6 @@ msgctxt "Placement"
 msgid "Instagram Stream"
 msgstr "Instagram Feed"
 
-#: app.js:17867
-#: app.js:20425
-msgctxt "Automation : Ad : Action"
-msgid "Copy Ad Set"
-msgstr "Copy"
-
 #: components/control/control-copy-adset/controlCopyAdset.html:33
 msgctxt "Control Copy Adset"
 msgid "Don't remove from automation"
@@ -6099,11 +6044,6 @@ msgstr "Entity level to produce report for"
 #: components/control/control-stat-fields/controlStatFields.html:1
 msgid "Fields"
 msgstr "Fields"
-
-#: components/tablecontrols/tablecontrols.html:169
-msgctxt "Modal : Columns"
-msgid "Get Report"
-msgstr "Get Report"
 
 #: components/control/control-level-list/controlLevelList.html:15
 msgid "Level is required."
@@ -6166,18 +6106,6 @@ msgctxt "Automation : Ad Campaigns"
 msgid "Campaigns"
 msgstr "Campaigns"
 
-#: components/tablecontrols/tablecontrols.html:232
-msgid "Statistics with Interest breakdown can be queried for the past 7 days excluding the current day. Ads must be active\n"
-"    in the past 7 days and the ads must use interest targeting."
-msgstr "Statistics with Interest breakdown can be queried for the past 7 days excluding the current day. Ads must be active\n"
-"    in the past 7 days and the ads must use interest targeting."
-
-#: components/tablecontrols/tablecontrols.html:227
-msgid "You don't have access rights to create or update\n"
-"                                                                     automations in this account."
-msgstr "You don't have access rights to create or update\n"
-"                                                                     automations in this account."
-
 #: app.js:15558
 msgctxt "Button : Create : Dashboard"
 msgid "Ad Sets"
@@ -6227,10 +6155,6 @@ msgstr "Create"
 #: components/tablecontrols/tablecontrols.html:127
 msgid "Columns:"
 msgstr "Columns:"
-
-#: components/tablecontrols/tablecontrols.html:238
-msgid "Your ads aren't running because you've reached the spending limit you set for your ad account. To get your ads up and running please edit your spending limit."
-msgstr "Your ads aren't running because you've reached the spending limit you set for your ad account. To get your ads up and running please edit your spending limit."
 
 #: app.js:14568
 #: app.js:14665
@@ -7108,20 +7032,6 @@ msgctxt "Error : Video"
 msgid "Error occurred when requesting for library images."
 msgstr "Error occurred when requesting for library images."
 
-#: components/modal/modal__adgroups/modal__adgroups.html:996
-msgctxt "Image : Drag and drop"
-msgid "Drop Files\n"
-"                                                                    Here"
-msgstr "Drop Files\n"
-"                                                                    Here"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:523
-msgctxt "Image : Drag and drop"
-msgid "Drop Files\n"
-"                                                                  Here"
-msgstr "Drop Files\n"
-"                                                                  Here"
-
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-catalog.html:186
 #: components/modal/modal__adgroups/modal__adgroups.html:196
 msgctxt "Info : Carousel Slideshow"
@@ -7178,11 +7088,6 @@ msgctxt "Ribbon"
 msgid "Beta"
 msgstr "Beta"
 
-#: app.js:22850
-msgctxt "Validation : Catalog"
-msgid "The Catalog doesn`t have any Pixel ID"
-msgstr "The Catalog doesn`t have any Pixel ID"
-
 #: components/control/control_catalog/controlCatalog.html:8
 msgctxt "Validation : Catalog"
 msgid "The Catalog is required"
@@ -7204,20 +7109,6 @@ msgctxt "Validation : ProductSet"
 msgid "You don`t have any Product Set"
 msgstr "You don`t have any Product Set"
 
-#: components/modal/modal__adgroups/modal__adgroups.html:1106
-msgctxt "Video : Drag and drop"
-msgid "Drop Files\n"
-"                                                                    Here"
-msgstr "Drop Files\n"
-"                                                                    Here"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:629
-msgctxt "Video : Drag and drop"
-msgid "Drop Files\n"
-"                                                                  Here"
-msgstr "Drop Files\n"
-"                                                                  Here"
-
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-catalog.html:5
 msgid "4. Creative carousel"
 msgstr "4. Creative carousel"
@@ -7225,11 +7116,6 @@ msgstr "4. Creative carousel"
 #: components/modal/modal__copy__ad/modal__copyAd.html:162
 msgid "Ad set"
 msgstr "Ad set"
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:445
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:450
-msgid "Ad[[$index+1]] Total number of Images(Videos):"
-msgstr "Total number of Images(Videos):"
 
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:43
 msgid "Added to Cart But Not Purchased"
@@ -7270,10 +7156,6 @@ msgstr "Enter a name for Ad..."
 msgid "Images/Videos"
 msgstr "Images/Videos"
 
-#: components/control/control-dpa-retargeting/controlDpaRetargeting.html:1
-msgid "Product"
-msgstr "Product"
-
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:173
 msgid "Product set"
 msgstr "Product set"
@@ -7289,11 +7171,6 @@ msgstr "Select a catalog"
 msgid "Select a product set"
 msgstr "Select a product set"
 
-#: components/control/control-dpa-combination/control-dpa-pixel-event/controlDpaPixelEvent.html:10
-#: components/control/control-dpa-retargeting/controlDpaRetargeting.html:12
-msgid "Select or search pixel event"
-msgstr "Select or search pixel event"
-
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:108
 msgid "Select some catalog if you want to use this option."
 msgstr "Select some catalog if you want to use this option."
@@ -7307,10 +7184,6 @@ msgstr "This option is not supported for this Product Set."
 msgid "Upsell Products"
 msgstr "Upsell Products"
 
-#: components/audience-form/audienceForm.html:139
-msgid "Use info from your pixel or app to create a retargeting audience."
-msgstr "Use info from your pixel or app to create a retargeting audience."
-
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:118
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:141
 msgid "Viewed Products From:"
@@ -7323,18 +7196,6 @@ msgstr "Viewed or Added to Cart But Not Purchased"
 #: app.js:28150
 msgid "You can add, remove oe edit existing creatives in carousel"
 msgstr "You can add, remove or edit existing creatives in carousel"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:432
-msgid "[[ MainObj.video_id ? 'Video' :\n"
-"                                            'Image' ]]"
-msgstr "[[ MainObj.video_id ? 'Video' :\n"
-"                                            'Image' ]]"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:895
-msgid "[[ childAttachment.video_id ? 'Video' :\n"
-"                                              'Image' ]]"
-msgstr "[[ childAttachment.video_id ? 'Video' :\n"
-"                                              'Image' ]]"
 
 #: components/modal/modal__adgroups/modal__adgroups.html:1058
 msgctxt "Image : Drag and drop"
@@ -7357,17 +7218,6 @@ msgstr "Images"
 msgctxt "Image : Videos"
 msgid "Videos"
 msgstr "Videos"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:6
-msgctxt "Prospecting"
-msgid "Prospecting"
-msgstr "Prospecting"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:17
-msgctxt "Retargeting"
-msgid "Retargeting"
-msgstr "\n"
-" Retargeting"
 
 #: components/crud/crud__step/crud__step_creative/box__images.html:148
 msgctxt "Show more : Drag and drop"
@@ -7496,16 +7346,6 @@ msgstr "Save"
 msgctxt "Call To Action"
 msgid "Subscribe"
 msgstr "Subscribe"
-
-#: app.js:5467
-msgctxt "Creative"
-msgid "Reach"
-msgstr "Reach"
-
-#: app.js:22156
-msgctxt "Info : Budget"
-msgid "Keep people from seeing your ad too often. Enter the minimum number of days that should pass before someone sees your ad again."
-msgstr "Keep people from seeing your ad too often. Enter the minimum number of days that should pass before someone sees your ad again."
 
 #: components/tablecontrols/tablecontrols.html:175
 msgctxt "Modal : Columns"
@@ -7677,13 +7517,6 @@ msgctxt "Attribution"
 msgid "Reset to ad account attribution"
 msgstr "Reset to ad account attribution"
 
-#: components/control/control-attribution/controlAttribution.html:54
-msgctxt "Attribution"
-msgid "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
-"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
-msgstr "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
-"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
-
 #: components/control/control-attribution-dashboard/controlAttributionDashboard.html:70
 msgctxt "Attribution"
 msgid "ad account attribution is set if nothing is selected"
@@ -7720,4 +7553,11 @@ msgstr "[[ attributionView ]]-day view"
 msgctxt "Attribution"
 msgid "and"
 msgstr "and"
+
+#: components/control/control-attribution/controlAttribution.html:54
+msgctxt "Attribution"
+msgid "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
+"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
+msgstr "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
+"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
 
