@@ -84,10 +84,6 @@ msgstr "明细"
 msgid "Budget"
 msgstr "预算"
 
-#: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:27
-msgid "By Reach"
-msgstr "REACH法规"
-
 #: components/automations/create/automationsCreate.html:66
 #: components/automations/edit/automationsEdit.html:82
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:116
@@ -1104,11 +1100,6 @@ msgctxt "Error : Budget"
 msgid "Budget value should be less or equal to 1 000 000."
 msgstr "预算值应小于或等于1 000 000。"
 
-#: app.js:27420
-msgctxt "Call To Action"
-msgid "Buy Now"
-msgstr "立即购买"
-
 #: app.js:4525
 msgctxt "Automation : Ad Set : Action Param"
 msgid "By Reach"
@@ -1627,11 +1618,6 @@ msgstr "待用"
 msgctxt "Validation : Instagram Account"
 msgid "Instagram account is required."
 msgstr "需要Instagram的帐户。"
-
-#: app.js:27396
-msgctxt "Call To Action"
-msgid "Install Mobile App"
-msgstr "安装移动应用"
 
 #: app.js:9834
 msgctxt "Pricing Table"
@@ -2349,11 +2335,6 @@ msgctxt "Info : URL"
 msgid "URL to main page or products category on the website."
 msgstr "跳转到到网站主页或产品类别的URL。"
 
-#: app.js:27393
-msgctxt "Call To Action"
-msgid "Use Mobile App"
-msgstr "使用移动应用"
-
 #: app.js:22283
 #: app.js:34485
 msgctxt "Info : Deep Link"
@@ -2381,11 +2362,6 @@ msgstr "视频观看次数"
 msgctxt "Call To Action"
 msgid "Watch More"
 msgstr "观看更多"
-
-#: app.js:27402
-msgctxt "Call To Action"
-msgid "Watch Video"
-msgstr "看视频"
 
 #: app.js:26613
 msgctxt "Objective"
@@ -3944,11 +3920,6 @@ msgctxt "Ad : Template"
 msgid "Image"
 msgstr "图片"
 
-#: components/crud/crud__page/ad_page__normal.html:98
-msgctxt "Ad : Template"
-msgid "Link URL"
-msgstr "链接网址"
-
 #: components/crud/crud__mobile/ad_mobile__normal.html:78
 #: components/crud/crud__mobile/ad_mobile__video.html:82
 #: components/crud/crud__page/ad_page__normal.html:76
@@ -4305,11 +4276,6 @@ msgstr "最低金额为$ 50"
 #: components/topup-adaccount/topupAdaccount.html:2
 msgid "Top up adaccount"
 msgstr "充值adaccount"
-
-#: components/tablecontrols/tablecontrols.html:91
-msgctxt "Button : Create Adaccount : Dashboard"
-msgid "Create Prepaid Adaccount"
-msgstr "创建预付Adaccount"
 
 #: components/crop/crop__dialog/crop__dialog.html:1
 #: components/crop/crop__dialog/crop__dialog.html:6
@@ -5399,11 +5365,6 @@ msgctxt "Attribution"
 msgid "1 day"
 msgstr "1天"
 
-#: components/control/control-attribution-dashboard/controlAttributionDashboard.html:70
-msgctxt "Attribution"
-msgid "1 day after viewing Ad and 28 days after clicking on Ad are set if nothing is selected"
-msgstr "点击广告后，广告观看28天1天后如果没有被选中设置"
-
 #: app.js:20241
 msgctxt "Attribution"
 msgid "28 day"
@@ -5413,11 +5374,6 @@ msgstr "28天"
 msgctxt "Attribution"
 msgid "7 day"
 msgstr "7天"
-
-#: components/control/control-attribution-dashboard/controlAttributionDashboard.html:74
-msgctxt "Attribution"
-msgid "Reset to default attribution"
-msgstr "重置为默认归属"
 
 #: app.js:9832
 msgctxt "Pricing Table"
@@ -5620,11 +5576,6 @@ msgstr "利益"
 msgid "+ Create Audience\n"
 "          <span class=\"caret\"></span>"
 msgstr "+创建观众 <span class=\"caret\"></span> "
-
-#: components/control/control-attribution/controlAttribution.html:54
-msgctxt "Attribution"
-msgid "1 day after viewing Ad and 28 days after clicking on Ad are set by default"
-msgstr "点击广告后，广告观看28天1天后将默认设置"
 
 #: app.js:20099
 msgctxt "Attribution"
@@ -6049,12 +6000,6 @@ msgctxt "Placement"
 msgid "Instagram Stream"
 msgstr "Instagram流"
 
-#: app.js:17867
-#: app.js:20425
-msgctxt "Automation : Ad : Action"
-msgid "Copy Ad Set"
-msgstr "复制"
-
 #: components/control/control-copy-adset/controlCopyAdset.html:33
 msgctxt "Control Copy Adset"
 msgid "Don't remove from automation"
@@ -6095,11 +6040,6 @@ msgstr "实体级别生成报表"
 #: components/control/control-stat-fields/controlStatFields.html:1
 msgid "Fields"
 msgstr "字段"
-
-#: components/tablecontrols/tablecontrols.html:169
-msgctxt "Modal : Columns"
-msgid "Get Report"
-msgstr "获取报告"
 
 #: components/control/control-level-list/controlLevelList.html:15
 msgid "Level is required."
@@ -6162,16 +6102,6 @@ msgctxt "Automation : Ad Campaigns"
 msgid "Campaigns"
 msgstr "广告活动"
 
-#: components/tablecontrols/tablecontrols.html:232
-msgid "Statistics with Interest breakdown can be queried for the past 7 days excluding the current day. Ads must be active\n"
-"    in the past 7 days and the ads must use interest targeting."
-msgstr "排除当前日期以来的过去7天可以查询有利息细目的统计数据. 广告在过去7天内必须处于有效状态，广告必须使用兴趣定位."
-
-#: components/tablecontrols/tablecontrols.html:227
-msgid "You don't have access rights to create or update\n"
-"                                                                     automations in this account."
-msgstr "您无权创建或更新此帐户中的自动化."
-
 #: app.js:15558
 msgctxt "Button : Create : Dashboard"
 msgid "Ad Sets"
@@ -6221,10 +6151,6 @@ msgstr "创建"
 #: components/tablecontrols/tablecontrols.html:127
 msgid "Columns:"
 msgstr "列:"
-
-#: components/tablecontrols/tablecontrols.html:238
-msgid "Your ads aren't running because you've reached the spending limit you set for your ad account. To get your ads up and running please edit your spending limit."
-msgstr "您的广告没有运行，因为您已达到为广告帐户设置的支出限额. 要让您的广告开始运行，请修改您的支出限额."
 
 #: app.js:14568
 #: app.js:14665
@@ -7102,18 +7028,6 @@ msgctxt "Error : Video"
 msgid "Error occurred when requesting for library images."
 msgstr "请求图库的图像时出现错误。"
 
-#: components/modal/modal__adgroups/modal__adgroups.html:996
-msgctxt "Image : Drag and drop"
-msgid "Drop Files\n"
-"                                                                    Here"
-msgstr "拖放文件到这里 "
-
-#: components/modal/modal__adgroups/modal__adgroups.html:523
-msgctxt "Image : Drag and drop"
-msgid "Drop Files\n"
-"                                                                  Here"
-msgstr "拖放文件到这里 "
-
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-catalog.html:186
 #: components/modal/modal__adgroups/modal__adgroups.html:196
 msgctxt "Info : Carousel Slideshow"
@@ -7170,11 +7084,6 @@ msgctxt "Ribbon"
 msgid "Beta"
 msgstr "Beta"
 
-#: app.js:22850
-msgctxt "Validation : Catalog"
-msgid "The Catalog doesn`t have any Pixel ID"
-msgstr "商品目录"
-
 #: components/control/control_catalog/controlCatalog.html:8
 msgctxt "Validation : Catalog"
 msgid "The Catalog is required"
@@ -7196,18 +7105,6 @@ msgctxt "Validation : ProductSet"
 msgid "You don`t have any Product Set"
 msgstr "您没有任何产品组合"
 
-#: components/modal/modal__adgroups/modal__adgroups.html:1106
-msgctxt "Video : Drag and drop"
-msgid "Drop Files\n"
-"                                                                    Here"
-msgstr "拖放文件到这里 "
-
-#: components/modal/modal__adgroups/modal__adgroups.html:629
-msgctxt "Video : Drag and drop"
-msgid "Drop Files\n"
-"                                                                  Here"
-msgstr "拖放文件到这里 "
-
 #: components/crud/crud__step/crud__step_creative/crud__step_creative-catalog.html:5
 msgid "4. Creative carousel"
 msgstr "4.创意轮播"
@@ -7215,11 +7112,6 @@ msgstr "4.创意轮播"
 #: components/modal/modal__copy__ad/modal__copyAd.html:162
 msgid "Ad set"
 msgstr "广告设置"
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:445
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:450
-msgid "Ad[[$index+1]] Total number of Images(Videos):"
-msgstr "广告[[$index+1]]  图像总数（视频）："
 
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:43
 msgid "Added to Cart But Not Purchased"
@@ -7260,10 +7152,6 @@ msgstr "输入广告的名称..."
 msgid "Images/Videos"
 msgstr "图像/视频"
 
-#: components/control/control-dpa-retargeting/controlDpaRetargeting.html:1
-msgid "Product"
-msgstr "产品"
-
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:173
 msgid "Product set"
 msgstr "产品集"
@@ -7279,11 +7167,6 @@ msgstr "选择一个目录"
 msgid "Select a product set"
 msgstr "选择一个产品组"
 
-#: components/control/control-dpa-combination/control-dpa-pixel-event/controlDpaPixelEvent.html:10
-#: components/control/control-dpa-retargeting/controlDpaRetargeting.html:12
-msgid "Select or search pixel event"
-msgstr "选择或搜索像素事件"
-
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:108
 msgid "Select some catalog if you want to use this option."
 msgstr "如果您想使用此选项，请选择一些目录。"
@@ -7297,10 +7180,6 @@ msgstr "此产品组不支持此选项。"
 msgid "Upsell Products"
 msgstr "促销产品"
 
-#: components/audience-form/audienceForm.html:139
-msgid "Use info from your pixel or app to create a retargeting audience."
-msgstr "使用来自您的像素或应用的信息来创建重定向的受众群体。"
-
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:118
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:141
 msgid "Viewed Products From:"
@@ -7313,18 +7192,6 @@ msgstr "已观看或已添加到购物车但未购买"
 #: app.js:28150
 msgid "You can add, remove oe edit existing creatives in carousel"
 msgstr "您可以在轮播中添加，移除或修改现有的广告素材"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:432
-msgid "[[ MainObj.video_id ? 'Video' :\n"
-"                                            'Image' ]]"
-msgstr "[[ MainObj.video_id  ? '视频' :\n"
-"                      '图片' ]]"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:895
-msgid "[[ childAttachment.video_id ? 'Video' :\n"
-"                                              'Image' ]]"
-msgstr "[[ childAttachment.video_id ? '视频' :\n"
-"                      '图片' ]]"
 
 #: components/modal/modal__adgroups/modal__adgroups.html:1058
 msgctxt "Image : Drag and drop"
@@ -7347,16 +7214,6 @@ msgstr "图片"
 msgctxt "Image : Videos"
 msgid "Videos"
 msgstr "影片"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:6
-msgctxt "Prospecting"
-msgid "Prospecting"
-msgstr "勘探"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:17
-msgctxt "Retargeting"
-msgid "Retargeting"
-msgstr "重新定向"
 
 #: components/crud/crud__step/crud__step_creative/box__images.html:148
 msgctxt "Show more : Drag and drop"
@@ -7482,16 +7339,6 @@ msgstr "保存"
 msgctxt "Call To Action"
 msgid "Subscribe"
 msgstr "订阅"
-
-#: app.js:5467
-msgctxt "Creative"
-msgid "Reach"
-msgstr "覆盖"
-
-#: app.js:22156
-msgctxt "Info : Budget"
-msgid "Keep people from seeing your ad too often. Enter the minimum number of days that should pass before someone sees your ad again."
-msgstr "让人们不要经常看到你的广告。 输入在有人再次看到您的广告之前应通过的最短天数。"
 
 #: components/tablecontrols/tablecontrols.html:175
 msgctxt "Modal : Columns"
@@ -7663,13 +7510,6 @@ msgctxt "Attribution"
 msgid "Reset to ad account attribution"
 msgstr "重置为广告帐户归因"
 
-#: components/control/control-attribution/controlAttribution.html:54
-msgctxt "Attribution"
-msgid "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
-"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
-msgstr "[[ controlAttribution.defaultAttributionViews ]] 观看广告和广告后的一天\n"
-"[[ controlAttribution.defaultAttributionClicks ]] 默认情况下设置点击广告后的日期.  默认归因在广告帐户设置中设置"
-
 #: components/control/control-attribution-dashboard/controlAttributionDashboard.html:70
 msgctxt "Attribution"
 msgid "ad account attribution is set if nothing is selected"
@@ -7706,4 +7546,11 @@ msgstr "[[ attributionView ]]-日视图"
 msgctxt "Attribution"
 msgid "and"
 msgstr "和"
+
+#: components/control/control-attribution/controlAttribution.html:54
+msgctxt "Attribution"
+msgid "[[ controlAttribution.defaultAttributionViews ]] day(s) after viewing Ad and\n"
+"          [[ controlAttribution.defaultAttributionClicks ]] day(s) after clicking on Ad are set by default. The default attribution is set in ad account settings"
+msgstr "[[ controlAttribution.defaultAttributionViews ]] 观看广告和广告后的一天\n"
+"[[ controlAttribution.defaultAttributionClicks ]] 默认情况下设置点击广告后的日期.  默认归因在广告帐户设置中设置"
 
