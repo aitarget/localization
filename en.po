@@ -59,11 +59,6 @@ msgstr "Audience Name"
 msgid "Audiences"
 msgstr "Audiences"
 
-#: components/control/control-bid/controlBid.html:13
-msgctxt "Bid"
-msgid "Auto"
-msgstr "Lowest cost"
-
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:343
 msgid "Auto Mixing"
 msgstr "Auto Mixing"
@@ -375,25 +370,10 @@ msgstr "List of customers"
 msgid "Manual"
 msgstr "Manual"
 
-#: components/control/control-bid/controlBid.html:21
-msgctxt "Bid"
-msgid "Manual"
-msgstr "Target cost"
-
 #: components/modal/modal__adgroups/modal__adgroups.html:383
 #: components/modal/modal__adgroups/modal__adgroups.html:505
 msgid "Message"
 msgstr "Message"
-
-#: components/crud/crud__step/crud__step_creative/box__videos.html:190
-msgid "Messages"
-msgstr "Text"
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative-catalog.html:99
-#: components/crud/crud__step/crud__step_main/crud__step_main.html:187
-#: components/modal/modal__adgroups/modal__adgroups.html:367
-msgid "Mobile App"
-msgstr "Mobile App Installs"
 
 #: components/automations/create/automationsCreate.html:12
 #: components/automations/edit/automationsEdit.html:27
@@ -606,11 +586,6 @@ msgstr "Sync Period (minutes)"
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:513
 #: components/modal/modal__adgroups/modal__adgroups.html:299
 msgid "Text"
-msgstr "Text"
-
-#: components/crud/crud__step/crud__step_creative/box__dco.html:172
-#: components/crud/crud__step/crud__step_creative/box__images.html:228
-msgid "Texts"
 msgstr "Text"
 
 #: components/modal/modal__audience/modal__audienceCustom.html:202
@@ -1064,11 +1039,6 @@ msgstr "Automatic payment failed. We will try to retry the payment."
 msgctxt "Informer"
 msgid "Avg daily spend"
 msgstr "Avg daily spend"
-
-#: app.js:22142
-msgctxt "URL Macros"
-msgid "Bid amount (value or AUTOBID)"
-msgstr "Bid amount (value or Lowest cost)"
 
 #: components/control/control-url/controlUrl.js:149
 msgctxt "URL Macros"
@@ -1706,11 +1676,6 @@ msgstr "Leave this blank unless the audience you are targeting uses a language t
 msgctxt "Info : Targeting : Connections"
 msgid "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
 msgstr "Leave this field blank unless you want to narrow down your audience to only the people connected to your Page, app or event."
-
-#: app.js:22609
-msgctxt "Info : Targeting : Friends Of Connections"
-msgid "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your Page, app or event."
-msgstr "Leave this field blank unless you want to narrow down your audience to only the people whose friends are connected to your page or app."
 
 #: components/control/control__info/controlInfo.js:71
 msgctxt "Info : Targeting : Excluded Connections"
@@ -3673,14 +3638,6 @@ msgctxt "Column : Audience"
 msgid "Name"
 msgstr "Name"
 
-#: components/crud/crud__step/crud__step_action/crud__step_action.html:55
-#: components/header/header_crud/headerCrud.html:29
-msgctxt "Button : Create : Crud"
-msgid "No Ad To Create"
-msgid_plural "Create [[$count]] New Ads"
-msgstr[0] "Create [[$count]] New Ad"
-msgstr[1] "Create [[$count]] New Ads"
-
 #: components/filter/filters.js:211
 msgctxt "Pay for"
 msgid "Offer Claims"
@@ -3801,11 +3758,6 @@ msgstr "View permalink on Facebook"
 msgctxt "Modal : Preview"
 msgid "View permalink on Instagram"
 msgstr "View permalink on Instagram"
-
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:161
-#: components/modal/modal__adsets/modal__adsets.html:232
-msgid "Accelerated delivery is only available for manual bid."
-msgstr "Accelerated delivery is only available for target cost."
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:149
 #: components/modal/modal__adsets/modal__adsets.html:220
@@ -4025,13 +3977,6 @@ msgstr "Campaign Spending Limit"
 msgctxt "Modal : Columns"
 msgid "Cancel"
 msgstr "Cancel"
-
-#: components/columns/columns__selected/columns__selected.html:6
-msgctxt "Modal : Columns"
-msgid "columns selected"
-msgid_plural "columns selected"
-msgstr[0] "column selected"
-msgstr[1] "columns selected"
 
 #: components/create-adaccount/createAdaccount.html:2
 msgid "Create adaccount"
@@ -4686,26 +4631,6 @@ msgctxt "URL Macros"
 msgid "Ad name"
 msgstr "Ad Name"
 
-#: app.js:22145
-msgctxt "URL Macros"
-msgid "Device Platforms"
-msgstr "Device Platforms (mobile|desktop)"
-
-#: app.js:22151
-msgctxt "URL Macros"
-msgid "Facebook Positions"
-msgstr "Facebook Positions (feed|right_hand_column)"
-
-#: app.js:22148
-msgctxt "URL Macros"
-msgid "Publisher Platforms"
-msgstr "Publisher Platforms (facebook|instagram|audience_network)"
-
-#: app.js:25784
-msgctxt "Objective"
-msgid "Mobile App"
-msgstr "Mobile App Installs"
-
 #: components/create-adaccount/createAdaccount.html:4
 msgctxt "Create Adaccount"
 msgid "Comission fee for creating adaccount is 15%."
@@ -4943,23 +4868,9 @@ msgstr "Average"
 msgid "Max"
 msgstr "Max"
 
-#: components/crud/crud__step/crud__step_main/crud__step_main.html:84
-msgid "Adset"
-msgstr "Ad Set"
-
 #: components/crud/crud__create/crud__create.html:26
 msgid "Choose another ad type."
 msgstr "Choose another Ad type."
-
-#: app.js:22589
-msgctxt "Info : Attribution"
-msgid "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your advert during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
-msgstr "Choose the attribution window that is most important for your reporting. The attribution window allows you to track the actions taken due to your Ad during a particular time period. You can adjust the attribution window to create a report with a custom timeframe."
-
-#: app.js:25782
-msgctxt "Objective"
-msgid "Choose the type of your ads campaign:"
-msgstr "Choose the type of your Campaign"
 
 #: components/modal-campaigns/modal__adcampaigns/modal__adcampaigns.html:16
 msgid "Enter Ad Campaign Name"
@@ -5010,20 +4921,11 @@ msgstr "Please, select at least one Ad to be used in automations"
 msgid "Search for campaign"
 msgstr "Search for Campaign"
 
-#: app.js:12650
-msgctxt "Tooltip : Table"
-msgid "Select ad least 2 rows with the same status"
-msgstr "Select at least 2 rows with the same status"
-
 #: components/control/control-link-urls/controlLinkUrls.js:49
 #: components/control/control_ad/controlAd.js:49
 msgctxt "Automation: Ads"
 msgid "Select ad that you want to use automation for."
 msgstr "Select ad that you want to use automation for."
-
-#: components/control/control_adset/controlAdset.html:17
-msgid "Select manual targeting mode if you want to use existing adset."
-msgstr "Select manual targeting mode if you want to use existing Ad Set."
 
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:51
 msgid "Select or search a campaign in the list"
@@ -5042,11 +4944,6 @@ msgstr "Stop"
 msgctxt "Error : Text"
 msgid "The text message for carousel ad is required."
 msgstr "The text message for carousel Ad is required."
-
-#: app.js:32220
-msgctxt "Error : Campaign : Edit"
-msgid "Unknown error occurred when updating selected Ad Campaigns."
-msgstr "Unknown error occurred when updating selected Campaigns."
 
 #: components/crud/crud__step/crud__step_main/crud__step_main.html:22
 msgid "You have no existing campaigns to choose with selected ad type."
@@ -5084,10 +4981,6 @@ msgctxt "Error : Ad Set"
 msgid "Ad Set name is required if new ad Set is selected."
 msgstr "Ad Set name is required if new Ad Set is selected."
 
-#: components/control/control_adset/control_adset_automation/controlAdsetAutomation.html:1
-msgid "AdSets"
-msgstr "Ad Sets"
-
 #: components/control/control_adset/control_adset_automation/controlAdsetAutomation.html:12
 msgctxt "Adsets : Validation : Automation"
 msgid "At least one Ad Set is required."
@@ -5107,10 +5000,6 @@ msgstr "Choose \"Wi-Fi only\" to show your ad to people when they're using a wir
 msgctxt "Info: Page : Mobile"
 msgid "Choose a Facebook Page so you can run ads on Facebook."
 msgstr "Choose a Facebook Page so you can run Ads on Facebook."
-
-#: components/control/control_adset/controlAdset.html:26
-msgid "Enter adset name"
-msgstr "Enter Ad Set name"
 
 #: components/crud/crud__step/crud__step_creative/PreviewDirective.js:238
 msgctxt "Error : Preview"
@@ -5138,19 +5027,6 @@ msgstr "Run Ads all the time"
 msgctxt "Ad Scheduling"
 msgid "Run ads on a schedule"
 msgstr "Run Ads on a schedule"
-
-#: components/control/control_adset/control_adset_automation/controlAdsetAutomation.html:6
-msgid "Select or search AdSets in the list"
-msgstr "Select or search Ad Sets in the list"
-
-#: components/control/control_ad/controlAd.html:7
-msgid "Select or search adsets in the list"
-msgstr "Select or search Ad Sets in the list"
-
-#: app.js:22560
-msgctxt "Info : Spend Cap"
-msgid "Set an overall spending limit for your Ad Campaign. This means your Ad sets in the Campaign will stop once you've reached your spending limit."
-msgstr "Set an overall spending limit for your Campaign. This means your Ad Sets in the Campaign will stop once you've reached your spending limit."
 
 #: components/columns/columns.js:187
 msgctxt "Column : Automation"
@@ -5443,10 +5319,6 @@ msgstr "Form successfully sent"
 msgid "Call to Actions"
 msgstr "Call to Actions"
 
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:1398
-msgid "DCO"
-msgstr "Dynamic Creative"
-
 #: components/crud/PostAdsService.js:457
 msgctxt "Modal : Create : Body"
 msgid "DCO Ads"
@@ -5472,10 +5344,6 @@ msgstr "Select or search call to actions in the list"
 #: components/header/header_crud/headerCrud.html:51
 msgid "Errors"
 msgstr "Errors"
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:1408
-msgid "Dynamic Creative Optimization (DCO) description."
-msgstr "Dynamic Creative enables you to leverage Facebook's optimization to automatically experiment and deliver different variations of an ad's creative. This helps you find the best ad creative combination per impression by taking your ad's images, title, descriptions, and other assets, then learning from outcomes of how these combinations perform across audiences. Dynamic Creative automatically builds and displays the best creative for groups of people in your broader target audience. This improves your ability to efficiently explore numerous creative combinations and audiences. Dynamic Creative aims to improve ads ROI."
 
 #: components/footer/footer.html:2
 msgid "© 2012-[[currentYear]] Aitarget"
@@ -5521,10 +5389,6 @@ msgstr "Add Page Profile"
 msgctxt "Info : Optimize Carousel"
 msgid "Optimize"
 msgstr "Optimize"
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:1412
-msgid "Dynamic Creative Optimization (DCO) doesn't support any macros."
-msgstr "Dynamic Creative doesn't support the use of macros (eg. {{CAMPAIGN_NAME}}) at the moment. You can still use them inside website urls or UTM Parameters, but they will not be converted to values."
 
 #: components/app/app.js:370
 msgctxt "Pricing Table"
@@ -6010,13 +5874,6 @@ msgctxt "Placement"
 msgid "Instagram Stories"
 msgstr "Instagram Stories"
 
-#: app.js:33523
-#: app.js:35102
-#: app.js:36500
-msgctxt "Placement"
-msgid "Instagram Stream"
-msgstr "Instagram Feed"
-
 #: components/control/control-copy-adset/controlCopyAdset.html:33
 msgctxt "Control Copy Adset"
 msgid "Don't remove from automation"
@@ -6429,11 +6286,6 @@ msgctxt "Breakdown"
 msgid "Video asset"
 msgstr "Video asset"
 
-#: components/crud/crud__step/crud__step_targeting/crud__step_targeting.html:116
-msgctxt "Targeting"
-msgid "Platforms"
-msgstr "Platform"
-
 #: components/modal/modal__copy__campaign/modal__copyCampaign.html:32
 msgid "Enter a name for campaign..."
 msgstr "Enter a name for campaign..."
@@ -6452,11 +6304,6 @@ msgstr "Unknown error occurred when copying selected campaign."
 msgctxt "Modal : Copy : Body"
 msgid "You have successfully copied campaign [[original_name]] into [[new_name]]."
 msgstr "You have successfully copied campaign [[original_name]] into [[new_name]]."
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:428
-msgctxt "Creative : Carousel"
-msgid "Carousel Asset Feed"
-msgstr "You should use at least 3 Images/Videos for optimal performance"
 
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:1468
 msgctxt "Creative : DCO"
@@ -6520,21 +6367,6 @@ msgstr "Min"
 msgctxt "Modal : ControlAutomationActionValue"
 msgid "Percent"
 msgstr "Percent"
-
-#: app.js:20475
-msgctxt "Modal : ControlAutomationActionValue"
-msgid "Recommendation"
-msgstr "Recommended"
-
-#: components/control/control-automation-action-value/controlAutomationActionValue.html:520
-msgctxt "Tooltip : Automation Action Value"
-msgid "Change bid is not supported for absolute and percent mode if autobid is on."
-msgstr "Change bid is not supported for absolute and percent mode if Lowest cost is on."
-
-#: components/crud/crud__step/crud__step_price/crud__step_price.html:284
-#: components/modal/modal__adsets/modal__adsets.html:364
-msgid "Advertisable App Events"
-msgstr "App Events"
 
 #: components/crud/crud__step/crud__step_price/PriceController.js:12
 #: components/crud/crud__step/crud__step_price/PriceController.js:15
@@ -6762,16 +6594,6 @@ msgctxt "Column : Adaccount"
 msgid "Currency"
 msgstr "Currency"
 
-#: app.js:20477
-msgctxt "Modal : ControlAutomationActionValue"
-msgid "Set autobid"
-msgstr "Set Lowest cost"
-
-#: app.js:22154
-msgctxt "URL Macros"
-msgid "Placement"
-msgstr "Placement (Facebook_Desktop_Feed, Facebook_Mobile_Feed, Facebook_Right_Column, Instagram_Feed, Instagram_Stories)"
-
 #: components/crud/crud__step/crud__step_creative/crud__step_creative.html:775
 msgid "Enter a website URL"
 msgstr "Enter a website URL"
@@ -6969,11 +6791,6 @@ msgstr "Open deep link in a mobile web browser"
 msgctxt "Catalog : App Link"
 msgid "Open deep link in mobile app, fallback to web URL"
 msgstr "Open deep link in mobile app, fallback to web URL"
-
-#: components/crud/crud__step/crud__step_creative/crud__step_creative.html:432
-msgctxt "Creative : Carousel"
-msgid "&nbsp;Instagram Story"
-msgstr "Instagram Story"
 
 #: components/control/control-dpa-text/controlDpaText.js:67
 msgctxt "DPA Macros"
@@ -7206,22 +7023,6 @@ msgstr "Viewed Products From:"
 msgid "Viewed or Added to Cart But Not Purchased"
 msgstr "Viewed or Added to Cart But Not Purchased"
 
-#: app.js:29469
-msgid "You can add, remove oe edit existing creatives in carousel"
-msgstr "You can add, remove or edit existing creatives in carousel"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:1058
-msgctxt "Image : Drag and drop"
-msgid "Drop Files\n"
-"                              Here"
-msgstr "Drop Files Here"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:613
-msgctxt "Image : Drag and drop"
-msgid "Drop Files\n"
-"                            Here"
-msgstr "Drop Files Here"
-
 #: components/crud/crud__step/crud__step_creative/box__images.html:64
 msgctxt "Image : Images"
 msgid "Images"
@@ -7232,12 +7033,6 @@ msgctxt "Image : Videos"
 msgid "Videos"
 msgstr "Videos"
 
-#: components/crud/crud__step/crud__step_creative/box__images.html:148
-msgctxt "Show more : Drag and drop"
-msgid "Show\n"
-"            more"
-msgstr "Show more"
-
 #: components/crud/crud__step/crud__step_creative/box__images.html:149
 #: components/crud/crud__step/crud__step_creative/box__videos.html:111
 #: components/modal/modal__adgroups/modal__adgroups.html:1083
@@ -7245,18 +7040,6 @@ msgstr "Show more"
 msgctxt "Show more : Drag and drop"
 msgid "Show more"
 msgstr "Show more"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:1177
-msgctxt "Video : Drag and drop"
-msgid "Drop Files\n"
-"                              Here"
-msgstr "Drop Files Here"
-
-#: components/modal/modal__adgroups/modal__adgroups.html:721
-msgctxt "Video : Drag and drop"
-msgid "Drop Files\n"
-"                            Here"
-msgstr "Drop Files Here"
 
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:18
 msgid "The Product Set is required"
@@ -7284,34 +7067,6 @@ msgctxt "Retargeting : DPA Audiences"
 msgid "Retargeting"
 msgstr "\n"
 " Retargeting"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:93
-msgid "&nbsp;to people who added those products to their cart in the last"
-msgstr " to people who added those products to their cart in the last\n"
-""
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:131
-msgid "&nbsp;to people who purchased from the product set below in the last"
-msgstr " to people who purchased from the product set below in the last\n"
-""
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:81
-msgid "&nbsp;to people who viewed or added those products to cart in the last"
-msgstr " to people who viewed or added those products to cart in the last"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:108
-msgid "&nbsp;to people who viewed the product set below in the last"
-msgstr " to people who viewed the product set below in the last"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:90
-msgid "Promote products from&nbsp;"
-msgstr "Promote products from"
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:105
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:128
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:151
-msgid "Promote&nbsp;"
-msgstr "Promote"
 
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:105
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:122
@@ -7361,12 +7116,6 @@ msgctxt "Call To Action"
 msgid "Subscribe"
 msgstr "Subscribe"
 
-#: components/tablecontrols/tablecontrols.html:175
-msgctxt "Modal : Columns"
-msgid "Get\n"
-"                                                                     Report"
-msgstr "Get Report"
-
 #: components/crud/crud__objective/ObjectiveService.js:120
 msgctxt "Objective"
 msgid "Reach"
@@ -7381,29 +7130,6 @@ msgstr "The Catalog doesn`t have any Pixel ID or not enough permissions for usin
 #: components/modal/modal__adsets/modal__adsets.html:319
 msgid "Frequency Cap"
 msgstr "Frequency Cap"
-
-#: components/tablecontrols/tablecontrols.html:244
-msgid "Statistics with Interest breakdown can be queried for the past 7 days\n"
-"    excluding the current day. Ads must be active in the past 7 days and the ads\n"
-"    must use interest targeting."
-msgstr "Statistics with Interest breakdown can be queried for the past 7 days excluding the current day. Ads must be active in the past 7 days and the ads must use interest targeting."
-
-#: components/tablecontrols/tablecontrols.html:233
-msgid "You don't\n"
-"                                                                     have access\n"
-"                                                                     rights to\n"
-"                                                                     create or\n"
-"                                                                     update\n"
-"                                                                     automations\n"
-"                                                                     in this\n"
-"                                                                     account."
-msgstr "You don't have access rights to create or update automations in this account."
-
-#: components/tablecontrols/tablecontrols.html:251
-msgid "Your ads aren't running because you've reached the spending limit you set\n"
-"    for your ad account. To get your ads up and running please edit your\n"
-"    spending limit."
-msgstr "Your ads aren't running because you've reached the spending limit you set for your ad account. To get your ads up and running please edit your spending limit."
 
 #: components/crud/crud__step/crud__step_price/crud__step_price.html:254
 #: components/modal/modal__adsets/modal__adsets.html:331
@@ -7455,19 +7181,10 @@ msgctxt "Info : Main : Product"
 msgid "Choose the Product Set to show in your ads."
 msgstr "Choose the Product Set to show in your ads."
 
-#: app.js:22642
-msgctxt "Info : Main : Product"
-msgid "Products with images sized less than 600 x 600 pixels wont be used for Instagram ads."
-msgstr "Products with images less than 600 x 600 pixels size won't be used for Instagram ads."
-
 #: components/control/control__info/controlInfo.js:34
 msgctxt "Info : Video"
 msgid "Select the videos."
 msgstr "Select the videos."
-
-#: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:154
-msgid "&nbsp;to a custom audience based on how people interact with products"
-msgstr " to a custom audience based on how people interact with products"
 
 #: components/audience-form/audience-form__control/audience-form__control-dpa_retargeting/audienceFormControlDpaRetargeting.html:64
 msgid "Custom Combination"
